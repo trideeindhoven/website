@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CloudAware</title>
+    <link>https://trideeindhoven.github.io/website/posts/</link>
+    <description>Recent content in Posts on CloudAware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Dec 2023 21:39:36 +0100</lastBuildDate>
+    <atom:link href="https://trideeindhoven.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yealink</title>
+      <link>https://trideeindhoven.github.io/website/posts/yealink/</link>
+      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
+      <guid>https://trideeindhoven.github.io/website/posts/yealink/</guid>
+      <description>This website describes how i got involved in researching the security of products of the Chinese telecommunication manufacturer Yealink. This research led to many interesting events and it was eventually published in the a number of international media, such as:&#xA;Follow The Money (NL{:target=&amp;quot;_blank&amp;quot;}/EN{target=&amp;quot;_blank&amp;quot;}) L&amp;rsquo;echo (FR) De Tijd (BE) During the research conducted by myself and journalists Siem Eikelenboom and Sebastiaan Brommersma numerous technical security issues were uncovered. But it also led to the discovery of an economic crime by one of the largest European publically traded corporations.</description>
+    </item>
+  </channel>
+</rss>
