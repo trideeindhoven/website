@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://trideeindhoven.github.io/website/</loc>
+    <loc>/yealink/aesecb/</loc>
     <lastmod>2023-12-17T21:39:36+01:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/posts/</loc>
+    <loc>/yealink/akd/</loc>
     <lastmod>2023-12-17T21:39:36+01:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/posts/yealink/</loc>
+    <loc>/</loc>
     <lastmod>2023-12-17T21:39:36+01:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/categories/</loc>
+    <loc>/yealink/why/</loc>
+    <lastmod>2023-12-17T21:39:36+01:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/tags/</loc>
+    <loc>/yealink/</loc>
+    <lastmod>2023-12-17T21:39:36+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

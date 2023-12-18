@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yealink on CloudAware</title>
+    <link>https://trideeindhoven.github.io/website/yealink.bak/</link>
+    <description>Recent content in Yealink on CloudAware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Dec 2023 21:39:36 +0100</lastBuildDate>
+    <atom:link href="https://trideeindhoven.github.io/website/yealink.bak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AES ECB encryption</title>
+      <link>https://trideeindhoven.github.io/website/yealink.bak/aesecb/</link>
+      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink.bak/aesecb/</guid>
+      <description>AES-ECB encryption Yealink has decided to use AES-ECB encryption.</description>
+    </item>
+  </channel>
+</rss>
