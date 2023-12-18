@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CloudAware</title>
-    <link>/</link>
+    <link>https://trideeindhoven.github.io/website/</link>
     <description>Recent content on CloudAware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Dec 2023 21:39:36 +0100</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trideeindhoven.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AES ECB encryption</title>
-      <link>/yealink/aesecb/</link>
+      <link>https://trideeindhoven.github.io/website/yealink/aesecb/</link>
       <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>/yealink/aesecb/</guid>
+      <guid>https://trideeindhoven.github.io/website/yealink/aesecb/</guid>
       <description>Yealink has decided to use Advanced Encryption Standard Electronic codebook (AES-ECB) encryption.&#xA;While AES encryption is considered to be same, the mode chosen by Yealink can be categorised as&amp;hellip;sub par. ECB mode encryption is considered to be a flawed type of encryption because of the &amp;ldquo;ECB penguin&amp;rdquo; attack. I will explain this in a visual example:&#xA;First of all: &amp;ldquo;Tux&amp;rdquo; is the mascotte of the operating system Linux. It is a drawing of a penguin: When performing AES-ECB encryption on the above image, it is easy to see the ECB mode is a highly suboptimal encryption method: Now, for text it may still not be possible to recover the original text (yet), but why choose an encryption mode that is known to be flawed for almost two decades.</description>
     </item>
     <item>
       <title>AKD</title>
-      <link>/yealink/akd/</link>
+      <link>https://trideeindhoven.github.io/website/yealink/akd/</link>
       <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>/yealink/akd/</guid>
+      <guid>https://trideeindhoven.github.io/website/yealink/akd/</guid>
       <description>In the fall of 2023 i was summoned by Dutch lawyer firm AKD. The name of this legal firm is relevant because this is not a small legal firm. AKD has build itself quiet a reputation. In 2022 research by Follow The Money showed that AKD did not distance itself from the Kremlin. I was highly surprised i received a summon from a lawfirm that, until recently, was working for Russian state-owned companies that were involved in the nuclear industry.</description>
     </item>
     <item>
       <title>Why</title>
-      <link>/yealink/why/</link>
+      <link>https://trideeindhoven.github.io/website/yealink/why/</link>
       <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>/yealink/why/</guid>
+      <guid>https://trideeindhoven.github.io/website/yealink/why/</guid>
       <description>The question that i get the most is why i do this research. In the fall of 2023 i was summoned by Dutch lawyer firm AKD. Now there is a whole section in this research about AKD where you can read about this firm and why it is controversial. But this page is about why i am doing this research and in the summon sent to me is the following quote:</description>
     </item>
   </channel>
