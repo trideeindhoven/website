@@ -1,40 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CloudAware</title>
+    <title>Tella</title>
     <link>https://trideeindhoven.github.io/website/</link>
-    <description>Recent content on CloudAware</description>
+    <description>Recent content on Tella</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2023 21:39:36 +0100</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2023 12:33:45 +1000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AES ECB encryption</title>
-      <link>https://trideeindhoven.github.io/website/yealink/aesecb/</link>
-      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>https://trideeindhoven.github.io/website/yealink/aesecb/</guid>
-      <description>Yealink has decided to use Advanced Encryption Standard Electronic codebook (AES-ECB) encryption.&#xA;While AES encryption is considered to be same, the mode chosen by Yealink can be categorised as&amp;hellip;sub par. ECB mode encryption is considered to be a flawed type of encryption because of the &amp;ldquo;ECB penguin&amp;rdquo; attack. I will explain this in a visual example:&#xA;First of all: &amp;ldquo;Tux&amp;rdquo; is the mascotte of the operating system Linux. It is a drawing of a penguin: When performing AES-ECB encryption on the above image, it is easy to see the ECB mode is a highly suboptimal encryption method: Now, for text it may still not be possible to recover the original text (yet), but why choose an encryption mode that is known to be flawed for almost two decades.</description>
+      <title>Remote Support</title>
+      <link>https://trideeindhoven.github.io/website/support/remotesupport/</link>
+      <pubDate>Sun, 01 Jan 2023 12:33:45 +1000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/support/remotesupport/</guid>
+      <description>CloudAware uses Anydesk for remote support. Please click on the link below for the correct version:&#xA;Windows&#xA;Apple&#xA;Android</description>
     </item>
     <item>
-      <title>AKD</title>
-      <link>https://trideeindhoven.github.io/website/yealink/akd/</link>
-      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>https://trideeindhoven.github.io/website/yealink/akd/</guid>
-      <description>In the fall of 2023 i was summoned by Dutch lawyer firm AKD. The name of this legal firm is relevant because this is not a small legal firm. AKD has build itself quiet a reputation. In 2022 research by Follow The Money showed that AKD did not distance itself from the Kremlin. I was highly surprised i received a summon from a lawfirm that, until recently, was working for Russian state-owned companies that were involved in the nuclear industry.</description>
+      <title>Example Project</title>
+      <link>https://trideeindhoven.github.io/website/products/example-copy/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/products/example-copy/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
     </item>
     <item>
-      <title>Lydis</title>
-      <link>https://trideeindhoven.github.io/website/yealink/lydis/</link>
-      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>https://trideeindhoven.github.io/website/yealink/lydis/</guid>
-      <description>Lydis is/was the monopolistic distributor of the brand Yealink in the BeNeLux.</description>
+      <title>Example Project</title>
+      <link>https://trideeindhoven.github.io/website/products/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/products/example/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
     </item>
     <item>
-      <title>Why</title>
-      <link>https://trideeindhoven.github.io/website/yealink/why/</link>
-      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>https://trideeindhoven.github.io/website/yealink/why/</guid>
-      <description>The question that i get the most is why i do this research. In the fall of 2023 i was summoned by Dutch lawyer firm AKD. Now there is a whole section in this research about AKD where you can read about this firm and why it is controversial. But this page is about why i am doing this research and in the summon sent to me is the following quote:</description>
+      <title>About</title>
+      <link>https://trideeindhoven.github.io/website/about/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/about/</guid>
+      <description>CloudAware regularly publishes open source software on GitHub. Please feel free to look around.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://trideeindhoven.github.io/website/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>https://trideeindhoven.github.io/website/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://trideeindhoven.github.io/website/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://trideeindhoven.github.io/website/blog/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://trideeindhoven.github.io/website/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://trideeindhoven.github.io/website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/contact/</guid>
+      <description>To contact us, please fill out the form below.</description>
     </item>
   </channel>
 </rss>
