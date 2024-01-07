@@ -40,8 +40,9 @@ jobs:
       - name: Deploy
         if: github.ref == 'refs/heads/master'
         run: |
-          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
-          cd ${GITHUB_WORKSPACE}/built-site
+          ls -la
+          cp -R public/* ${GITHUB_WORKSPACE}/../built-site/
+          cd ${GITHUB_WORKSPACE}/../built-site
           ls -la
           git add .
           git config user.name 'Jeroen'
