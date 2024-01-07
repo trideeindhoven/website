@@ -25,7 +25,7 @@ jobs:
 
       - name: Checkout destination
         uses: actions/checkout@v3
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/master'
         with:
           ref: public
           path: built-site
@@ -41,8 +41,10 @@ jobs:
         if: github.ref == 'refs/heads/master'
         run: |
           ls -la
-          cp -R public/* ${GITHUB_WORKSPACE}/../built-site/
-          cd ${GITHUB_WORKSPACE}/../built-site
+          echo "---------------"
+          ls -la ${GITHUB_WORKSPACE}
+          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
+          cd ${GITHUB_WORKSPACE}/built-site
           ls -la
           git add .
           git config user.name 'Jeroen'
