@@ -38,7 +38,7 @@ jobs:
         run: ${RUNNER_TEMP}/hugo
 
       - name: Deploy
-        if: github.ref == 'refs/heads/maaster'
+        if: github.ref == 'refs/heads/master'
         run: |
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
