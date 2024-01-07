@@ -16,6 +16,7 @@ jobs:
 
       - name: Git submodule theme
         run: |
+          git config advice.addIgnoredFile false
           git submodule add https://github.com/opera7133/tella.git themes/tella
 
       - name: Install NPM modules
