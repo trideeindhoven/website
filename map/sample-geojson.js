@@ -1014,9 +1014,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3443593,
+          4.3393794,
           [
-            51.9334295
+            51.9327139
           ]
         ]
       },
@@ -1654,9 +1654,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4745149,
+          4.4745368,
           [
-            51.861106
+            51.8610014
           ]
         ]
       },
@@ -1896,7 +1896,7 @@ var bicycleRental =
         "coordinates": [
           4.3946252,
           [
-            51.9178947
+            51.9178945
           ]
         ]
       },
@@ -1912,7 +1912,7 @@ var bicycleRental =
         "coordinates": [
           4.3946252,
           [
-            51.9178947
+            51.9178945
           ]
         ]
       },
@@ -1974,9 +1974,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3991355,
+          4.3991358,
           [
-            51.900087
+            51.9000717
           ]
         ]
       },
@@ -1990,9 +1990,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3991355,
+          4.3991358,
           [
-            51.900087
+            51.9000717
           ]
         ]
       },
@@ -2006,9 +2006,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3991355,
+          4.3991358,
           [
-            51.900087
+            51.9000717
           ]
         ]
       },
@@ -2550,9 +2550,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4398973,
+          4.4594913,
           [
-            51.8981793
+            51.8951965
           ]
         ]
       },
@@ -2918,9 +2918,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.53541036796637,
+          4.5352118,
           [
-            51.87943115
+            51.8806372
           ]
         ]
       },
@@ -2950,9 +2950,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5377071,
+          4.5375858,
           [
-            51.8745127
+            51.8744744
           ]
         ]
       },
@@ -3126,9 +3126,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5299434,
+          4.52997,
           [
-            51.8953576
+            51.895356
           ]
         ]
       },
@@ -3142,9 +3142,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5191828,
+          4.5194599,
           [
-            51.8961462
+            51.8963636
           ]
         ]
       },
@@ -3542,9 +3542,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.488194,
+          4.4882161,
           [
-            51.9065132
+            51.9064957
           ]
         ]
       },
@@ -3718,9 +3718,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.9070736,
+          4.9070645,
           [
-            52.3759889
+            52.3759782
           ]
         ]
       },
@@ -3782,9 +3782,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.975224,
+          5.9757075,
           [
-            50.8892161
+            50.8889461
           ]
         ]
       },
@@ -3846,9 +3846,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7004103,
+          5.7000147,
           [
-            50.8571084
+            50.8570741
           ]
         ]
       },
@@ -3894,9 +3894,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7514753,
+          4.7505721,
           [
-            52.6340342
+            52.63405
           ]
         ]
       },
@@ -3926,9 +3926,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1076347,
+          6.1670377,
           [
-            51.3122656
+            51.3702369
           ]
         ]
       },
@@ -4134,9 +4134,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5114647,
+          4.5114643,
           [
-            51.9085844
+            51.9085845
           ]
         ]
       },
@@ -4470,9 +4470,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5571578,
+          4.5571728,
           [
-            51.9501617
+            51.9501624
           ]
         ]
       },
@@ -4582,9 +4582,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5512534,
+          4.5518375,
           [
-            51.9366088
+            51.9366048
           ]
         ]
       },
@@ -6086,9 +6086,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4234804,
+          4.4231625,
           [
-            51.925562
+            51.9254343
           ]
         ]
       },
@@ -6886,9 +6886,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4451562,
+          4.4451564,
           [
-            51.9117127
+            51.911713
           ]
         ]
       },
@@ -6902,9 +6902,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4384392,
+          4.4384395,
           [
-            51.9145509
+            51.9145507
           ]
         ]
       },
@@ -8518,9 +8518,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4815291,
+          4.4815293,
           [
-            51.9165172
+            51.9165173
           ]
         ]
       },
@@ -12486,9 +12486,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.9985276,
+          3.9984683928806266,
           [
-            51.942694
+            51.942701099999994
           ]
         ]
       },
@@ -12518,9 +12518,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2888519,
+          4.2898928,
           [
-            51.8535517
+            51.8539787
           ]
         ]
       },
@@ -12838,9 +12838,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3007775,
+          4.3007657,
           [
-            51.8529997
+            51.8530464
           ]
         ]
       },
@@ -14310,9 +14310,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4199122,
+          4.4206407,
           [
-            51.8226617
+            51.8224732
           ]
         ]
       },
@@ -14390,9 +14390,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4379113,
+          4.4365674,
           [
-            51.828787
+            51.8318197
           ]
         ]
       },
@@ -15318,9 +15318,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5633546,
+          4.5629687,
           [
-            51.9101553
+            51.9103185
           ]
         ]
       },
@@ -15398,9 +15398,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5870956,
+          4.5870051,
           [
-            51.9240217
+            51.9241666
           ]
         ]
       },
@@ -15414,9 +15414,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5633112,
+          4.5609631,
           [
-            51.9104584
+            51.910416
           ]
         ]
       },
@@ -15462,9 +15462,9 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5655477,
+          4.565376643673479,
           [
-            51.9522398
+            51.95221635
           ]
         ]
       },
@@ -16358,22 +16358,6 @@ var bicycleRental =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1308234,
-          [
-            51.4125359
-          ]
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "<p>Hagens Verpakkingen B.V. Venlo<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
-      },
-      "id": 1023
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           null,
           [
             null
@@ -16384,7 +16368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>G.H. Prins en Zonen B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1024
+      "id": 1023
     },
     {
       "geometry": {
@@ -16400,7 +16384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BK Roermond B.V. Roermond<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1025
+      "id": 1024
     },
     {
       "geometry": {
@@ -16416,7 +16400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HT Infra Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1026
+      "id": 1025
     },
     {
       "geometry": {
@@ -16432,7 +16416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Parento Thuiszorg Capelle en Zuidplas B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1027
+      "id": 1026
     },
     {
       "geometry": {
@@ -16448,7 +16432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wensveen Supermarkt B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1028
+      "id": 1027
     },
     {
       "geometry": {
@@ -16464,7 +16448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Jong Installatiebedrijf B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1029
+      "id": 1028
     },
     {
       "geometry": {
@@ -16480,7 +16464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kwekerij Reijm Nieuwerkerk B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1030
+      "id": 1029
     },
     {
       "geometry": {
@@ -16496,7 +16480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>EMBA Specials B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1031
+      "id": 1030
     },
     {
       "geometry": {
@@ -16512,7 +16496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Comith Motors B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1032
+      "id": 1031
     },
     {
       "geometry": {
@@ -16528,7 +16512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mondzorg Nieuwerkerk B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1033
+      "id": 1032
     },
     {
       "geometry": {
@@ -16544,7 +16528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Holcim Nederland B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1034
+      "id": 1033
     },
     {
       "geometry": {
@@ -16560,7 +16544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Holcim Bouw & Infra B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1035
+      "id": 1034
     },
     {
       "geometry": {
@@ -16576,7 +16560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H. van Wijnen B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1036
+      "id": 1035
     },
     {
       "geometry": {
@@ -16592,7 +16576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TK Home Solutions B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1037
+      "id": 1036
     },
     {
       "geometry": {
@@ -16608,7 +16592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Boom Bouw B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1038
+      "id": 1037
     },
     {
       "geometry": {
@@ -16624,7 +16608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>C.H.M. Heuvelman Handels- en Transportbedrijf B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1039
+      "id": 1038
     },
     {
       "geometry": {
@@ -16640,7 +16624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Immolab B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1040
+      "id": 1039
     },
     {
       "geometry": {
@@ -16656,7 +16640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hollandia Infra B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1041
+      "id": 1040
     },
     {
       "geometry": {
@@ -16672,7 +16656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Koco/K.S.M. Holland Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1042
+      "id": 1041
     },
     {
       "geometry": {
@@ -16688,7 +16672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Allpro Service B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1043
+      "id": 1042
     },
     {
       "geometry": {
@@ -16704,7 +16688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W. Roodenburg Service Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1044
+      "id": 1043
     },
     {
       "geometry": {
@@ -16720,7 +16704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Spek Accountants en Belastingadviseurs B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1045
+      "id": 1044
     },
     {
       "geometry": {
@@ -16736,7 +16720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Spek Management B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1046
+      "id": 1045
     },
     {
       "geometry": {
@@ -16752,7 +16736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>D. Volwerk Cleaning Service B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1047
+      "id": 1046
     },
     {
       "geometry": {
@@ -16768,7 +16752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZF Marine Krimpen B.V. Krimpen aan de Lek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1048
+      "id": 1047
     },
     {
       "geometry": {
@@ -16784,7 +16768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hewitex Nederland B.V. Krimpen aan de Lek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1049
+      "id": 1048
     },
     {
       "geometry": {
@@ -16800,7 +16784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mudde Bouw- en Aannemingsbedrijf B.V. Krimpen aan de Lek<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1050
+      "id": 1049
     },
     {
       "geometry": {
@@ -16816,7 +16800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>JDU INSTALLATIEBEDRIJF B.V. Krimpen aan de Lek<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1051
+      "id": 1050
     },
     {
       "geometry": {
@@ -16832,7 +16816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Roteck B.V. Krimpen aan de Lek<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1052
+      "id": 1051
     },
     {
       "geometry": {
@@ -16848,7 +16832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gebr. Vis Staalbouw B.V. Ouderkerk aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1053
+      "id": 1052
     },
     {
       "geometry": {
@@ -16864,7 +16848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Banketgroep B.V. Ouderkerk aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1054
+      "id": 1053
     },
     {
       "geometry": {
@@ -16880,7 +16864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W. Visser Holding B.V. Ouderkerk aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1055
+      "id": 1054
     },
     {
       "geometry": {
@@ -16896,7 +16880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W. Verweij Holding Ouderkerk B.V. Ouderkerk aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1056
+      "id": 1055
     },
     {
       "geometry": {
@@ -16912,7 +16896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Variant Loodsenbouw Verhuur Ouderkerk aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1057
+      "id": 1056
     },
     {
       "geometry": {
@@ -16928,7 +16912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Assurantiekantoor Van der Velden B.V. Ouderkerk aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1058
+      "id": 1057
     },
     {
       "geometry": {
@@ -16944,7 +16928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Prins Transport B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1059
+      "id": 1058
     },
     {
       "geometry": {
@@ -16960,7 +16944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Prins Op- en Overslag B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1060
+      "id": 1059
     },
     {
       "geometry": {
@@ -16976,7 +16960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Klip B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1061
+      "id": 1060
     },
     {
       "geometry": {
@@ -16992,7 +16976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>GEODIS RT Netherlands B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1062
+      "id": 1061
     },
     {
       "geometry": {
@@ -17008,7 +16992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Martens Aannemingsbedrijf B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1063
+      "id": 1062
     },
     {
       "geometry": {
@@ -17024,7 +17008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Grand Caf\u00e9 Siep B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1064
+      "id": 1063
     },
     {
       "geometry": {
@@ -17040,7 +17024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bak Lekkerkerk B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1065
+      "id": 1064
     },
     {
       "geometry": {
@@ -17056,7 +17040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Teak Selection B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1066
+      "id": 1065
     },
     {
       "geometry": {
@@ -17072,7 +17056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apotheek Lekkerkerk B.V. Lekkerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1067
+      "id": 1066
     },
     {
       "geometry": {
@@ -17088,7 +17072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DGA Juristen B.V. Alblasserdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1068
+      "id": 1067
     },
     {
       "geometry": {
@@ -17104,7 +17088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>C.P.S. Schilderwerken B.V. Alblasserdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1069
+      "id": 1068
     },
     {
       "geometry": {
@@ -17120,7 +17104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mister Call Center B.V. Alblasserdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1070
+      "id": 1069
     },
     {
       "geometry": {
@@ -17136,7 +17120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Jan Kees Boer Transport B.V. Nieuw-Lekkerland<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1071
+      "id": 1070
     },
     {
       "geometry": {
@@ -17152,7 +17136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vossloh Cogifer Kloos B.V. Nieuw-Lekkerland<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1072
+      "id": 1071
     },
     {
       "geometry": {
@@ -17168,7 +17152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hol Installatietechniek Nieuw-Lekkerland<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1073
+      "id": 1072
     },
     {
       "geometry": {
@@ -17184,7 +17168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aldi-Markt Nieuw-Lekkerland<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1074
+      "id": 1073
     },
     {
       "geometry": {
@@ -17200,7 +17184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Dijk Beton Hardinxveld B.V. Groot-Ammers<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1075
+      "id": 1074
     },
     {
       "geometry": {
@@ -17216,7 +17200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Internationaal Transportbedrijf Jan Eskes B.V. Streefkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1076
+      "id": 1075
     },
     {
       "geometry": {
@@ -17232,7 +17216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Paradigm Technology Services B.V. Groot-Ammers<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1077
+      "id": 1076
     },
     {
       "geometry": {
@@ -17248,7 +17232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Zeeuw Straal-, Spuit- en Schildersbedrijf B.V. Groot-Ammers<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1078
+      "id": 1077
     },
     {
       "geometry": {
@@ -17264,7 +17248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Paradigm Group B.V. Groot-Ammers<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1079
+      "id": 1078
     },
     {
       "geometry": {
@@ -17280,7 +17264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Vries Welding B.V. Groot-Ammers<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1080
+      "id": 1079
     },
     {
       "geometry": {
@@ -17296,7 +17280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Promo Systems B.V. Langerak<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1081
+      "id": 1080
     },
     {
       "geometry": {
@@ -17312,7 +17296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hartog Transport Langerak<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1082
+      "id": 1081
     },
     {
       "geometry": {
@@ -17328,7 +17312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>G.M. Damsteegt B.V. Oud-Alblas<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1083
+      "id": 1082
     },
     {
       "geometry": {
@@ -17344,7 +17328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ATG Auto Transport B.V. Langerak<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1084
+      "id": 1083
     },
     {
       "geometry": {
@@ -17360,7 +17344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>G.M. Damsteegt Bodemsanering B.V. Oud-Alblas<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1085
+      "id": 1084
     },
     {
       "geometry": {
@@ -17376,7 +17360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wemmers Tanktransport B.V. Bleskensgraaf ca<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1086
+      "id": 1085
     },
     {
       "geometry": {
@@ -17392,7 +17376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wemmers Group B.V. Bleskensgraaf ca<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1087
+      "id": 1086
     },
     {
       "geometry": {
@@ -17408,7 +17392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Esveco Specialties Molenaarsgraaf<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1088
+      "id": 1087
     },
     {
       "geometry": {
@@ -17424,7 +17408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Notarispraktijk mr. J.A.N. Goes B.V. Molenaarsgraaf<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1089
+      "id": 1088
     },
     {
       "geometry": {
@@ -17440,7 +17424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Elektrotechnisch Bedrijf J. van Houwelingen B.V. Molenaarsgraaf<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1090
+      "id": 1089
     },
     {
       "geometry": {
@@ -17456,7 +17440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kees den Bok B.V. Molenaarsgraaf<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1091
+      "id": 1090
     },
     {
       "geometry": {
@@ -17472,7 +17456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ridderkerks Kraanwagenbedrijf B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1092
+      "id": 1091
     },
     {
       "geometry": {
@@ -17488,7 +17472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sonneveld Grafimedia B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1093
+      "id": 1092
     },
     {
       "geometry": {
@@ -17504,7 +17488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Excent Tandtechniek Ridderkerk B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1094
+      "id": 1093
     },
     {
       "geometry": {
@@ -17520,7 +17504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>InterDam Special Projects B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1095
+      "id": 1094
     },
     {
       "geometry": {
@@ -17536,7 +17520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>InterDam Projects B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1096
+      "id": 1095
     },
     {
       "geometry": {
@@ -17552,7 +17536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Machine Support Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1097
+      "id": 1096
     },
     {
       "geometry": {
@@ -17568,7 +17552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pakor B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1098
+      "id": 1097
     },
     {
       "geometry": {
@@ -17584,7 +17568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PB Infra B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1099
+      "id": 1098
     },
     {
       "geometry": {
@@ -17600,7 +17584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>L. Kasius Sieraden B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1100
+      "id": 1099
     },
     {
       "geometry": {
@@ -17616,7 +17600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Administratiekantoor en Belastingadviesbureau Van der Bijl B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1101
+      "id": 1100
     },
     {
       "geometry": {
@@ -17632,7 +17616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Materiaal Metingen Europe B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1102
+      "id": 1101
     },
     {
       "geometry": {
@@ -17648,7 +17632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hoover CS (HOOVER Circular Solutions) B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1103
+      "id": 1102
     },
     {
       "geometry": {
@@ -17664,7 +17648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Super Hoogeind B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1104
+      "id": 1103
     },
     {
       "geometry": {
@@ -17680,7 +17664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Living-IT B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1105
+      "id": 1104
     },
     {
       "geometry": {
@@ -17696,7 +17680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Netflex B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1106
+      "id": 1105
     },
     {
       "geometry": {
@@ -17712,7 +17696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sport Service Ridderkerk B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1107
+      "id": 1106
     },
     {
       "geometry": {
@@ -17728,7 +17712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dental Clinics Ridderkerk B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1108
+      "id": 1107
     },
     {
       "geometry": {
@@ -17744,7 +17728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W.N. de Jong & Zn. Straatmakersbedrijf B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1109
+      "id": 1108
     },
     {
       "geometry": {
@@ -17760,7 +17744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W.N. de Jong Pensioen B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1110
+      "id": 1109
     },
     {
       "geometry": {
@@ -17776,7 +17760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fort Vale B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1111
+      "id": 1110
     },
     {
       "geometry": {
@@ -17792,7 +17776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Quooker International B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1112
+      "id": 1111
     },
     {
       "geometry": {
@@ -17808,7 +17792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Frenoflex B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1113
+      "id": 1112
     },
     {
       "geometry": {
@@ -17824,7 +17808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hard(t)@Work B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1114
+      "id": 1113
     },
     {
       "geometry": {
@@ -17840,7 +17824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hard(t)@Work Logistics B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1115
+      "id": 1114
     },
     {
       "geometry": {
@@ -17856,7 +17840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Veilige Zorg Ondersteuning Nederland B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1116
+      "id": 1115
     },
     {
       "geometry": {
@@ -17872,7 +17856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Transport en Opslagbedrijf Van Domburg B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1117
+      "id": 1116
     },
     {
       "geometry": {
@@ -17888,7 +17872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Elmarc B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1118
+      "id": 1117
     },
     {
       "geometry": {
@@ -17904,7 +17888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Domburg Partners B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1119
+      "id": 1118
     },
     {
       "geometry": {
@@ -17920,7 +17904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Domburg Services B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1120
+      "id": 1119
     },
     {
       "geometry": {
@@ -17936,7 +17920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CSB Energy Technology (EMEA) B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1121
+      "id": 1120
     },
     {
       "geometry": {
@@ -17952,7 +17936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nemo Trading B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1122
+      "id": 1121
     },
     {
       "geometry": {
@@ -17968,7 +17952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Erdotex B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1123
+      "id": 1122
     },
     {
       "geometry": {
@@ -17984,7 +17968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Qbex Logistics B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1124
+      "id": 1123
     },
     {
       "geometry": {
@@ -18000,7 +17984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MAAQ building identity Ridderkerk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1125
+      "id": 1124
     },
     {
       "geometry": {
@@ -18016,7 +18000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hankyu Hanshin Express (Netherlands) B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1126
+      "id": 1125
     },
     {
       "geometry": {
@@ -18032,7 +18016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>C\u00e9r\u00e9lia Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1127
+      "id": 1126
     },
     {
       "geometry": {
@@ -18048,7 +18032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bakker-Bouter Fysiotherapie B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1128
+      "id": 1127
     },
     {
       "geometry": {
@@ -18064,7 +18048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hana Works B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1129
+      "id": 1128
     },
     {
       "geometry": {
@@ -18080,7 +18064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dico-Typen B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1130
+      "id": 1129
     },
     {
       "geometry": {
@@ -18096,7 +18080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Automobielbedrijf Van Kwawegen B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1131
+      "id": 1130
     },
     {
       "geometry": {
@@ -18112,7 +18096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schoonmaakbedrijf Spiegelberg B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1132
+      "id": 1131
     },
     {
       "geometry": {
@@ -18128,7 +18112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Malos B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1133
+      "id": 1132
     },
     {
       "geometry": {
@@ -18144,7 +18128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Drew Marine Intermediate II B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1134
+      "id": 1133
     },
     {
       "geometry": {
@@ -18160,7 +18144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bang&Clean Benelux B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1135
+      "id": 1134
     },
     {
       "geometry": {
@@ -18176,7 +18160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>JBP Import en Export B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1136
+      "id": 1135
     },
     {
       "geometry": {
@@ -18192,7 +18176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Jupiter Group Europe B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1137
+      "id": 1136
     },
     {
       "geometry": {
@@ -18208,7 +18192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zoutewelle Import B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1138
+      "id": 1137
     },
     {
       "geometry": {
@@ -18224,7 +18208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Broom Frio Ridderkerk B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1139
+      "id": 1138
     },
     {
       "geometry": {
@@ -18240,7 +18224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vorimex B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1140
+      "id": 1139
     },
     {
       "geometry": {
@@ -18256,7 +18240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>O-D-S Transport B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1141
+      "id": 1140
     },
     {
       "geometry": {
@@ -18272,7 +18256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vermaat Advocaten B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1142
+      "id": 1141
     },
     {
       "geometry": {
@@ -18288,7 +18272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Berkman Forwarding B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1143
+      "id": 1142
     },
     {
       "geometry": {
@@ -18304,7 +18288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Compacon B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1144
+      "id": 1143
     },
     {
       "geometry": {
@@ -18320,7 +18304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Waterland Kit-afdichtingen B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1145
+      "id": 1144
     },
     {
       "geometry": {
@@ -18336,7 +18320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Regenboog Apotheek Bereidingen Bavel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1146
+      "id": 1145
     },
     {
       "geometry": {
@@ -18352,7 +18336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Coolmark B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1147
+      "id": 1146
     },
     {
       "geometry": {
@@ -18368,7 +18352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>GS-Hydro Benelux B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1148
+      "id": 1147
     },
     {
       "geometry": {
@@ -18384,7 +18368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Stuurman Logistics B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1149
+      "id": 1148
     },
     {
       "geometry": {
@@ -18400,7 +18384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ikea Barendrecht Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1150
+      "id": 1149
     },
     {
       "geometry": {
@@ -18416,7 +18400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tinke Assuranti\u00ebn B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1151
+      "id": 1150
     },
     {
       "geometry": {
@@ -18432,7 +18416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Bondt Grafimedia Communicatie B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1152
+      "id": 1151
     },
     {
       "geometry": {
@@ -18448,7 +18432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.A. Meeder B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1153
+      "id": 1152
     },
     {
       "geometry": {
@@ -18464,7 +18448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Meeder Management B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1154
+      "id": 1153
     },
     {
       "geometry": {
@@ -18480,7 +18464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ASD Infra B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1155
+      "id": 1154
     },
     {
       "geometry": {
@@ -18496,7 +18480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ABC-Kwakernaat B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1156
+      "id": 1155
     },
     {
       "geometry": {
@@ -18512,7 +18496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kobus Personeel & Organisatie B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1157
+      "id": 1156
     },
     {
       "geometry": {
@@ -18528,7 +18512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kobus Opleidingen B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1158
+      "id": 1157
     },
     {
       "geometry": {
@@ -18544,7 +18528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Warenhuis Wesdijk & Zonen B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1159
+      "id": 1158
     },
     {
       "geometry": {
@@ -18560,7 +18544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RHO DELTA ADVANCED CONSUMER PRODUCTS B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1160
+      "id": 1159
     },
     {
       "geometry": {
@@ -18576,7 +18560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Blue Water Shipping B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1161
+      "id": 1160
     },
     {
       "geometry": {
@@ -18592,7 +18576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ron Hoppema Montage B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1162
+      "id": 1161
     },
     {
       "geometry": {
@@ -18608,7 +18592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DJI Europe B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1163
+      "id": 1162
     },
     {
       "geometry": {
@@ -18624,7 +18608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Life Fitness (Atlantic) B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1164
+      "id": 1163
     },
     {
       "geometry": {
@@ -18640,7 +18624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wellnesselande Barendrecht B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1165
+      "id": 1164
     },
     {
       "geometry": {
@@ -18656,7 +18640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>C & C Cable & Communication B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1166
+      "id": 1165
     },
     {
       "geometry": {
@@ -18672,7 +18656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Carnisse Mondzorg B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1167
+      "id": 1166
     },
     {
       "geometry": {
@@ -18688,7 +18672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>KGH Customs Services B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1168
+      "id": 1167
     },
     {
       "geometry": {
@@ -18704,7 +18688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Barendrechtse Exploitatie Beheer en Onderhoud Maatschappij B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1169
+      "id": 1168
     },
     {
       "geometry": {
@@ -18720,7 +18704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Handstede Schoonmaak en Diensten B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1170
+      "id": 1169
     },
     {
       "geometry": {
@@ -18736,7 +18720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Unica Access & Security B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1171
+      "id": 1170
     },
     {
       "geometry": {
@@ -18752,7 +18736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Conduct Technical Solutions B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1172
+      "id": 1171
     },
     {
       "geometry": {
@@ -18768,7 +18752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Global Newspace B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1173
+      "id": 1172
     },
     {
       "geometry": {
@@ -18784,7 +18768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>IP Campus Barendrecht Barendrecht<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1174
+      "id": 1173
     },
     {
       "geometry": {
@@ -18800,7 +18784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Babypark Barendrecht Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1175
+      "id": 1174
     },
     {
       "geometry": {
@@ -18816,7 +18800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nedelko Group B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1176
+      "id": 1175
     },
     {
       "geometry": {
@@ -18832,7 +18816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nedelko B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1177
+      "id": 1176
     },
     {
       "geometry": {
@@ -18848,7 +18832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CTS Netherlands B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1178
+      "id": 1177
     },
     {
       "geometry": {
@@ -18864,7 +18848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Loodgieters- en Installatiebedrijf D. v.d. Laan B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1179
+      "id": 1178
     },
     {
       "geometry": {
@@ -18880,7 +18864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Top Nederland Security B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1180
+      "id": 1179
     },
     {
       "geometry": {
@@ -18896,7 +18880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fysiek Zorg Begeleiding Nederland Barendrecht<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1181
+      "id": 1180
     },
     {
       "geometry": {
@@ -18912,7 +18896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rubber Design B.V. Heerjansdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1182
+      "id": 1181
     },
     {
       "geometry": {
@@ -18928,7 +18912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Biezepol Metaalbewerking Heerjansdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1183
+      "id": 1182
     },
     {
       "geometry": {
@@ -18944,7 +18928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Biezepol Metaalbewerking B.V. Heerjansdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1184
+      "id": 1183
     },
     {
       "geometry": {
@@ -18960,7 +18944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Restaria Liedorp B.V. Heerjansdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1185
+      "id": 1184
     },
     {
       "geometry": {
@@ -18976,7 +18960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tjaden B.V. Heerjansdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1186
+      "id": 1185
     },
     {
       "geometry": {
@@ -18992,7 +18976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Croda Nederland B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1187
+      "id": 1186
     },
     {
       "geometry": {
@@ -19008,7 +18992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Honeywell Thermal Solutions Netherlands B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1188
+      "id": 1187
     },
     {
       "geometry": {
@@ -19024,7 +19008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Nieuwpoort Prefab Groep B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1189
+      "id": 1188
     },
     {
       "geometry": {
@@ -19040,7 +19024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VV Demolition B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1190
+      "id": 1189
     },
     {
       "geometry": {
@@ -19056,7 +19040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kalkhoven B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1191
+      "id": 1190
     },
     {
       "geometry": {
@@ -19072,7 +19056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WIS Services B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1192
+      "id": 1191
     },
     {
       "geometry": {
@@ -19088,7 +19072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>STL Werk B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1193
+      "id": 1192
     },
     {
       "geometry": {
@@ -19104,7 +19088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Excent Tandtechniek B.V. Reeuwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1194
+      "id": 1193
     },
     {
       "geometry": {
@@ -19120,7 +19104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sectorinstituut Transport en Logistiek B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1195
+      "id": 1194
     },
     {
       "geometry": {
@@ -19136,7 +19120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WIS Software B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1196
+      "id": 1195
     },
     {
       "geometry": {
@@ -19152,7 +19136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZorgBrug B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1197
+      "id": 1196
     },
     {
       "geometry": {
@@ -19168,7 +19152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TotalKlima B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1198
+      "id": 1197
     },
     {
       "geometry": {
@@ -19184,7 +19168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Steenland Chocolate B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1199
+      "id": 1198
     },
     {
       "geometry": {
@@ -19200,7 +19184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fundis Services B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1200
+      "id": 1199
     },
     {
       "geometry": {
@@ -19216,7 +19200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bouwmaterialenhandel De Schelde B.V. Roosendaal<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1201
+      "id": 1200
     },
     {
       "geometry": {
@@ -19232,7 +19216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Goudenhart B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1202
+      "id": 1201
     },
     {
       "geometry": {
@@ -19248,7 +19232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Iscar Nederland B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1203
+      "id": 1202
     },
     {
       "geometry": {
@@ -19264,7 +19248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fundis Holding B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1204
+      "id": 1203
     },
     {
       "geometry": {
@@ -19280,7 +19264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PELECON structural engineers Gouda B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1205
+      "id": 1204
     },
     {
       "geometry": {
@@ -19296,7 +19280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WVS Onderwijs B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1206
+      "id": 1205
     },
     {
       "geometry": {
@@ -19312,7 +19296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VN Prefab Groep B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1207
+      "id": 1206
     },
     {
       "geometry": {
@@ -19328,7 +19312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Handhaving Support B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1208
+      "id": 1207
     },
     {
       "geometry": {
@@ -19344,7 +19328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Zalm Personeelsdiensten B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1209
+      "id": 1208
     },
     {
       "geometry": {
@@ -19360,7 +19344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>American Shack Restaurant B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1210
+      "id": 1209
     },
     {
       "geometry": {
@@ -19376,7 +19360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Natuurwinkel Gouda B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1211
+      "id": 1210
     },
     {
       "geometry": {
@@ -19392,7 +19376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Consilium B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1212
+      "id": 1211
     },
     {
       "geometry": {
@@ -19408,7 +19392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kerridge Commercial Systems (KNR) Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1213
+      "id": 1212
     },
     {
       "geometry": {
@@ -19424,7 +19408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Boekbinderij Hoogendijk B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1214
+      "id": 1213
     },
     {
       "geometry": {
@@ -19440,7 +19424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Coen Hagedoorn Gouda Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1215
+      "id": 1214
     },
     {
       "geometry": {
@@ -19456,7 +19440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Slangen Staal B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1216
+      "id": 1215
     },
     {
       "geometry": {
@@ -19472,7 +19456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SPIE Infratechniek B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1217
+      "id": 1216
     },
     {
       "geometry": {
@@ -19488,7 +19472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Top Ortho Gouda B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1218
+      "id": 1217
     },
     {
       "geometry": {
@@ -19504,7 +19488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schieland-Broere Electrotechniek B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1219
+      "id": 1218
     },
     {
       "geometry": {
@@ -19520,7 +19504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nour Security B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1220
+      "id": 1219
     },
     {
       "geometry": {
@@ -19536,7 +19520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WeConnect Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1221
+      "id": 1220
     },
     {
       "geometry": {
@@ -19552,7 +19536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Paraplu Vastgoed B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1222
+      "id": 1221
     },
     {
       "geometry": {
@@ -19568,7 +19552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nederhoff Interholding B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1223
+      "id": 1222
     },
     {
       "geometry": {
@@ -19584,7 +19568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kraanbedrijf Nederhoff B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1224
+      "id": 1223
     },
     {
       "geometry": {
@@ -19600,7 +19584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Severs Breeman Gouda B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1225
+      "id": 1224
     },
     {
       "geometry": {
@@ -19616,7 +19600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>In Beweging B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1226
+      "id": 1225
     },
     {
       "geometry": {
@@ -19632,7 +19616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vierstroom Verpleeg Thuis B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1227
+      "id": 1226
     },
     {
       "geometry": {
@@ -19648,7 +19632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ettu Configuration B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1228
+      "id": 1227
     },
     {
       "geometry": {
@@ -19664,7 +19648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MSC.Software Benelux B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1229
+      "id": 1228
     },
     {
       "geometry": {
@@ -19680,7 +19664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Day Traders B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1230
+      "id": 1229
     },
     {
       "geometry": {
@@ -19696,7 +19680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Vries Konstruktieburo B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1231
+      "id": 1230
     },
     {
       "geometry": {
@@ -19712,7 +19696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Garage Kempenaar Gouda B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1232
+      "id": 1231
     },
     {
       "geometry": {
@@ -19728,15 +19712,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Munster en Zonen B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1233
+      "id": 1232
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7076385,
+          4.7081575,
           [
-            52.019695
+            52.0197171
           ]
         ]
       },
@@ -19744,7 +19728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rayer Healthcare Gouda B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1234
+      "id": 1233
     },
     {
       "geometry": {
@@ -19760,7 +19744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dental Clinics Gouda Greenline B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1235
+      "id": 1234
     },
     {
       "geometry": {
@@ -19776,7 +19760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Metropolis Beheer B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1236
+      "id": 1235
     },
     {
       "geometry": {
@@ -19792,7 +19776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Heemskerk Beheer Gouda-Noord B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1237
+      "id": 1236
     },
     {
       "geometry": {
@@ -19808,7 +19792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Starware B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1238
+      "id": 1237
     },
     {
       "geometry": {
@@ -19824,7 +19808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>GijSo B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1239
+      "id": 1238
     },
     {
       "geometry": {
@@ -19840,7 +19824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Data Count B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1240
+      "id": 1239
     },
     {
       "geometry": {
@@ -19856,7 +19840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.G. Potharst Beheer B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1241
+      "id": 1240
     },
     {
       "geometry": {
@@ -19872,7 +19856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Paviljoen Rederij de Vrijheid B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1242
+      "id": 1241
     },
     {
       "geometry": {
@@ -19888,15 +19872,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Boer Maatwerk in keukens B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1243
+      "id": 1242
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7109346,
+          4.7110392,
           [
-            52.0038112
+            52.0037641
           ]
         ]
       },
@@ -19904,7 +19888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Roos Carpaccio B.V. Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1244
+      "id": 1243
     },
     {
       "geometry": {
@@ -19920,7 +19904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kempe B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1245
+      "id": 1244
     },
     {
       "geometry": {
@@ -19936,7 +19920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bryan Garnier Capital Holding B.V. Reeuwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1246
+      "id": 1245
     },
     {
       "geometry": {
@@ -19952,7 +19936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Phielix Accountants B.V. Reeuwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1247
+      "id": 1246
     },
     {
       "geometry": {
@@ -19968,15 +19952,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Thissen 4Dental Reeuwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1248
+      "id": 1247
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7412686,
+          4.7402689,
           [
-            52.0330052
+            52.0331541
           ]
         ]
       },
@@ -19984,7 +19968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Luiten OG B.V. Reeuwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1249
+      "id": 1248
     },
     {
       "geometry": {
@@ -20000,7 +19984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Bas Transport B.V. Reeuwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1250
+      "id": 1249
     },
     {
       "geometry": {
@@ -20016,7 +20000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Geelhoed Engineering B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1251
+      "id": 1250
     },
     {
       "geometry": {
@@ -20032,7 +20016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>FVH Facility B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1252
+      "id": 1251
     },
     {
       "geometry": {
@@ -20048,7 +20032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>O.K. Service Koeriersdienst B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1253
+      "id": 1252
     },
     {
       "geometry": {
@@ -20064,7 +20048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Technisch Handelsbureau Rensa B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1254
+      "id": 1253
     },
     {
       "geometry": {
@@ -20080,7 +20064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gafco Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1255
+      "id": 1254
     },
     {
       "geometry": {
@@ -20096,7 +20080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZetaDisplay Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1256
+      "id": 1255
     },
     {
       "geometry": {
@@ -20112,7 +20096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>FRUIT OP JE WERK Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1257
+      "id": 1256
     },
     {
       "geometry": {
@@ -20128,7 +20112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CP Phenolics B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1258
+      "id": 1257
     },
     {
       "geometry": {
@@ -20144,7 +20128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Carrecon Poedercoatings B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1259
+      "id": 1258
     },
     {
       "geometry": {
@@ -20160,7 +20144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PrintAbout.com B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1260
+      "id": 1259
     },
     {
       "geometry": {
@@ -20176,7 +20160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>12GO Biking Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1261
+      "id": 1260
     },
     {
       "geometry": {
@@ -20192,7 +20176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vanderhoeven Int. B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1262
+      "id": 1261
     },
     {
       "geometry": {
@@ -20208,7 +20192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dynniq Energy B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1263
+      "id": 1262
     },
     {
       "geometry": {
@@ -20224,7 +20208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Abemec Oudewater Haastrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1264
+      "id": 1263
     },
     {
       "geometry": {
@@ -20240,7 +20224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VDI Haastrecht B.V. Haastrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1265
+      "id": 1264
     },
     {
       "geometry": {
@@ -20256,7 +20240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sophisticated Horeca B.V. Hoofddorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1266
+      "id": 1265
     },
     {
       "geometry": {
@@ -20272,7 +20256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Administratiekantoor Van der Voet B.V. Haastrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1267
+      "id": 1266
     },
     {
       "geometry": {
@@ -20288,7 +20272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Jong's Timmerfabriek Bergambacht B.V. Bergambacht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1268
+      "id": 1267
     },
     {
       "geometry": {
@@ -20304,7 +20288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rehorst Bouw B.V. Bergambacht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1269
+      "id": 1268
     },
     {
       "geometry": {
@@ -20320,7 +20304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Euroblok B.V. Bergambacht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1270
+      "id": 1269
     },
     {
       "geometry": {
@@ -20336,7 +20320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HoffmanDME Techniek B.V. Bergambacht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1271
+      "id": 1270
     },
     {
       "geometry": {
@@ -20352,7 +20336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bezemer Bouw B.V. Bergambacht<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1272
+      "id": 1271
     },
     {
       "geometry": {
@@ -20368,7 +20352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gastreatment Services B.V. Bergambacht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1273
+      "id": 1272
     },
     {
       "geometry": {
@@ -20384,7 +20368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zalencentrum de Waard Bergambacht<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1274
+      "id": 1273
     },
     {
       "geometry": {
@@ -20400,7 +20384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>R&D-Vox B.V. Schoonhoven<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1275
+      "id": 1274
     },
     {
       "geometry": {
@@ -20416,7 +20400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rivero Schoonhoven B.V. Schoonhoven<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1276
+      "id": 1275
     },
     {
       "geometry": {
@@ -20432,7 +20416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dental Clinics Schoonhoven B.V. Schoonhoven<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1277
+      "id": 1276
     },
     {
       "geometry": {
@@ -20448,7 +20432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gerco Brandpreventie B.V. Schoonhoven<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1278
+      "id": 1277
     },
     {
       "geometry": {
@@ -20464,7 +20448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hieselaar Nederland B.V. Schoonhoven<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1279
+      "id": 1278
     },
     {
       "geometry": {
@@ -20480,7 +20464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PolyValent Payroll B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1280
+      "id": 1279
     },
     {
       "geometry": {
@@ -20496,7 +20480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WorldStartupFactory B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1281
+      "id": 1280
     },
     {
       "geometry": {
@@ -20512,7 +20496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CompaNanny Prinsenhof B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1282
+      "id": 1281
     },
     {
       "geometry": {
@@ -20528,7 +20512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Patisserie Jarreau B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1283
+      "id": 1282
     },
     {
       "geometry": {
@@ -20544,7 +20528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Adecs Airinfra B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1284
+      "id": 1283
     },
     {
       "geometry": {
@@ -20560,7 +20544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Haagsch Octrooi Bureau B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1285
+      "id": 1284
     },
     {
       "geometry": {
@@ -20576,7 +20560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Frites Atelier Den Haag 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1286
+      "id": 1285
     },
     {
       "geometry": {
@@ -20592,7 +20576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Architektenkombinatie Bos Hofman B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1287
+      "id": 1286
     },
     {
       "geometry": {
@@ -20608,7 +20592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Full Moon Express 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1288
+      "id": 1287
     },
     {
       "geometry": {
@@ -20624,7 +20608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Little V Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1289
+      "id": 1288
     },
     {
       "geometry": {
@@ -20640,7 +20624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Red Tickets 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1290
+      "id": 1289
     },
     {
       "geometry": {
@@ -20656,7 +20640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Oker B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1291
+      "id": 1290
     },
     {
       "geometry": {
@@ -20672,7 +20656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vorm Vijf Ontwerpteam B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1292
+      "id": 1291
     },
     {
       "geometry": {
@@ -20688,7 +20672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lemons B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1293
+      "id": 1292
     },
     {
       "geometry": {
@@ -20704,7 +20688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Master Cleaners Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1294
+      "id": 1293
     },
     {
       "geometry": {
@@ -20720,7 +20704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fresh Bridge B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1295
+      "id": 1294
     },
     {
       "geometry": {
@@ -20736,7 +20720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>3D Capacity B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1296
+      "id": 1295
     },
     {
       "geometry": {
@@ -20752,7 +20736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Hoeven Milieu Service B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1297
+      "id": 1296
     },
     {
       "geometry": {
@@ -20768,7 +20752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Capriole Coffee Caf\u00e9 B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1298
+      "id": 1297
     },
     {
       "geometry": {
@@ -20784,7 +20768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Whale Cloud Technology Netherlands B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1299
+      "id": 1298
     },
     {
       "geometry": {
@@ -20800,7 +20784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hadoks Holding B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1300
+      "id": 1299
     },
     {
       "geometry": {
@@ -20816,7 +20800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wicked Wines II 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1301
+      "id": 1300
     },
     {
       "geometry": {
@@ -20832,7 +20816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Heering Office 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1302
+      "id": 1301
     },
     {
       "geometry": {
@@ -20848,7 +20832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ad Astra Haaglanden B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1303
+      "id": 1302
     },
     {
       "geometry": {
@@ -20864,7 +20848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Metacom B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1304
+      "id": 1303
     },
     {
       "geometry": {
@@ -20880,7 +20864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Stucadoorsbedrijf Ed Swiebel B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1305
+      "id": 1304
     },
     {
       "geometry": {
@@ -20896,7 +20880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Little Things B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1306
+      "id": 1305
     },
     {
       "geometry": {
@@ -20912,7 +20896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Copiatek Scan & Computer Solution B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1307
+      "id": 1306
     },
     {
       "geometry": {
@@ -20928,7 +20912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Euro Maas Uitzendbureau B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1308
+      "id": 1307
     },
     {
       "geometry": {
@@ -20944,7 +20928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aktief Team B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1309
+      "id": 1308
     },
     {
       "geometry": {
@@ -20960,7 +20944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J&R Facility B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1310
+      "id": 1309
     },
     {
       "geometry": {
@@ -20976,7 +20960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mowaghar B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1311
+      "id": 1310
     },
     {
       "geometry": {
@@ -20992,7 +20976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Haagstad Multi Service B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1312
+      "id": 1311
     },
     {
       "geometry": {
@@ -21008,7 +20992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Peter Jonker B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1313
+      "id": 1312
     },
     {
       "geometry": {
@@ -21024,7 +21008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Macro Techniek B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1314
+      "id": 1313
     },
     {
       "geometry": {
@@ -21040,7 +21024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Anne&Max Den Haag Kerkplein B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1315
+      "id": 1314
     },
     {
       "geometry": {
@@ -21056,7 +21040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Just B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1316
+      "id": 1315
     },
     {
       "geometry": {
@@ -21072,7 +21056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kinderopvang Lokomotief Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1317
+      "id": 1316
     },
     {
       "geometry": {
@@ -21088,7 +21072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TOPdesk Nederland B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1318
+      "id": 1317
     },
     {
       "geometry": {
@@ -21104,7 +21088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mentink Procesmanagement B.V. Delft<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1319
+      "id": 1318
     },
     {
       "geometry": {
@@ -21120,7 +21104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sportfondsen Delft-Kerkpolder B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1320
+      "id": 1319
     },
     {
       "geometry": {
@@ -21136,7 +21120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Joulz Infradiensten B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1321
+      "id": 1320
     },
     {
       "geometry": {
@@ -21152,7 +21136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Drogisterij J. & P. de Bruin B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1322
+      "id": 1321
     },
     {
       "geometry": {
@@ -21168,7 +21152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Leap B.V. Delft<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1323
+      "id": 1322
     },
     {
       "geometry": {
@@ -21184,7 +21168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Jumba B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1324
+      "id": 1323
     },
     {
       "geometry": {
@@ -21200,7 +21184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Domino's Pizza Nootdorp B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1325
+      "id": 1324
     },
     {
       "geometry": {
@@ -21216,7 +21200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Meersma Holding B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1326
+      "id": 1325
     },
     {
       "geometry": {
@@ -21232,7 +21216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rip Bromini B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1327
+      "id": 1326
     },
     {
       "geometry": {
@@ -21248,7 +21232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Burg Carrosserie Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1328
+      "id": 1327
     },
     {
       "geometry": {
@@ -21264,7 +21248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Arthur Bonnewits Beheer B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1329
+      "id": 1328
     },
     {
       "geometry": {
@@ -21280,7 +21264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Stuur Chauffeurs B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1330
+      "id": 1329
     },
     {
       "geometry": {
@@ -21296,7 +21280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Stadi Installatietechniek B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1331
+      "id": 1330
     },
     {
       "geometry": {
@@ -21312,7 +21296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>AVRA B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1332
+      "id": 1331
     },
     {
       "geometry": {
@@ -21328,7 +21312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Memo Europe B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1333
+      "id": 1332
     },
     {
       "geometry": {
@@ -21344,7 +21328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>D&F Industrial Solutions B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1334
+      "id": 1333
     },
     {
       "geometry": {
@@ -21360,7 +21344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>LIMFLOR B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1335
+      "id": 1334
     },
     {
       "geometry": {
@@ -21376,7 +21360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flowerportal B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1336
+      "id": 1335
     },
     {
       "geometry": {
@@ -21392,7 +21376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J. Voskamp Holding B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1337
+      "id": 1336
     },
     {
       "geometry": {
@@ -21408,7 +21392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Intafresh B.V. POELDIJK<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1338
+      "id": 1337
     },
     {
       "geometry": {
@@ -21424,7 +21408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Aakster B.V. 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1339
+      "id": 1338
     },
     {
       "geometry": {
@@ -21440,7 +21424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>M. van Adrichem Holding B.V. Poeldijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1340
+      "id": 1339
     },
     {
       "geometry": {
@@ -21456,7 +21440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P. van der Haak Handelskwekerij B.V. 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1341
+      "id": 1340
     },
     {
       "geometry": {
@@ -21472,7 +21456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Notra B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1342
+      "id": 1341
     },
     {
       "geometry": {
@@ -21488,7 +21472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Landgoed & Golfbaan Tespelduyn B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1343
+      "id": 1342
     },
     {
       "geometry": {
@@ -21504,7 +21488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Induct B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1344
+      "id": 1343
     },
     {
       "geometry": {
@@ -21520,7 +21504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zondag-Solar B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1345
+      "id": 1344
     },
     {
       "geometry": {
@@ -21536,7 +21520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Caf\u00e9 Lindeboom B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1346
+      "id": 1345
     },
     {
       "geometry": {
@@ -21552,7 +21536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Caf\u00e9 Stairs B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1347
+      "id": 1346
     },
     {
       "geometry": {
@@ -21568,7 +21552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Intertoys Oudshoorn Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1348
+      "id": 1347
     },
     {
       "geometry": {
@@ -21584,7 +21568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flower Handling Company B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1349
+      "id": 1348
     },
     {
       "geometry": {
@@ -21600,7 +21584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Het Wapen van Voorschoten Voorschoten<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1350
+      "id": 1349
     },
     {
       "geometry": {
@@ -21616,7 +21600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Faas Psychologie B.V. Voorschoten<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1351
+      "id": 1350
     },
     {
       "geometry": {
@@ -21632,7 +21616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dolce Leiden B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1352
+      "id": 1351
     },
     {
       "geometry": {
@@ -21648,7 +21632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pavarotti Leiden B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1353
+      "id": 1352
     },
     {
       "geometry": {
@@ -21664,7 +21648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kab West accountants en belastingadviseurs Voorburg<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1354
+      "id": 1353
     },
     {
       "geometry": {
@@ -21680,7 +21664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dental Clinics Rijswijk B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1355
+      "id": 1354
     },
     {
       "geometry": {
@@ -21696,7 +21680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nimbus Bouwschoonmaak Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1356
+      "id": 1355
     },
     {
       "geometry": {
@@ -21712,7 +21696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HGC Rijswijk B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1357
+      "id": 1356
     },
     {
       "geometry": {
@@ -21728,7 +21712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WordHouse B.V. Amsterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1358
+      "id": 1357
     },
     {
       "geometry": {
@@ -21744,7 +21728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hotel Restaurant Nieuw Minerva B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1359
+      "id": 1358
     },
     {
       "geometry": {
@@ -21760,7 +21744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dimensional Insight Netherlands Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1360
+      "id": 1359
     },
     {
       "geometry": {
@@ -21776,15 +21760,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HOOY B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1361
+      "id": 1360
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4915092,
+          4.4915631,
           [
-            52.1590284
+            52.1590356
           ]
         ]
       },
@@ -21792,7 +21776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dende B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1362
+      "id": 1361
     },
     {
       "geometry": {
@@ -21808,7 +21792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Excent Tandtechniek Leiden B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1363
+      "id": 1362
     },
     {
       "geometry": {
@@ -21824,15 +21808,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>InnoGenerics B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1364
+      "id": 1363
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4664027,
+          4.4671639,
           [
-            52.1845196
+            52.1843105
           ]
         ]
       },
@@ -21840,7 +21824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H&L Efficiency B.V. Oegstgeest<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1365
+      "id": 1364
     },
     {
       "geometry": {
@@ -21856,7 +21840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Macland B.V. Uden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1366
+      "id": 1365
     },
     {
       "geometry": {
@@ -21872,7 +21856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Holland Holding B.V. Hazerswoude-Rijndijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1367
+      "id": 1366
     },
     {
       "geometry": {
@@ -21888,7 +21872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cappa Accountants en Adviseurs B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1368
+      "id": 1367
     },
     {
       "geometry": {
@@ -21904,7 +21888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>McPromenade B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1369
+      "id": 1368
     },
     {
       "geometry": {
@@ -21920,7 +21904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Verdonck, Klooster & Associates B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1370
+      "id": 1369
     },
     {
       "geometry": {
@@ -21936,7 +21920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Serflex Techniek B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1371
+      "id": 1370
     },
     {
       "geometry": {
@@ -21952,7 +21936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apparatenbouw Hogedruksmering J. van der       Gaag B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1372
+      "id": 1371
     },
     {
       "geometry": {
@@ -21968,7 +21952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bowling- en Partycentrum Westerpark B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1373
+      "id": 1372
     },
     {
       "geometry": {
@@ -21984,7 +21968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pinkerton Holding Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1374
+      "id": 1373
     },
     {
       "geometry": {
@@ -22000,7 +21984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Beurtvaartadres douane B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1375
+      "id": 1374
     },
     {
       "geometry": {
@@ -22016,7 +22000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Werkbedrijf de Binnenbaan B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1376
+      "id": 1375
     },
     {
       "geometry": {
@@ -22032,7 +22016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Double Caring B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1377
+      "id": 1376
     },
     {
       "geometry": {
@@ -22048,7 +22032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Haghefilm Digitaal B.V. Waddinxveen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1378
+      "id": 1377
     },
     {
       "geometry": {
@@ -22064,7 +22048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cresco B.V. De Kwakel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1379
+      "id": 1378
     },
     {
       "geometry": {
@@ -22080,7 +22064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lam Hotel Management B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1380
+      "id": 1379
     },
     {
       "geometry": {
@@ -22096,7 +22080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NTT Netherlands Holdings B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1381
+      "id": 1380
     },
     {
       "geometry": {
@@ -22112,7 +22096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ChemPoint.com EMEA B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1382
+      "id": 1381
     },
     {
       "geometry": {
@@ -22128,7 +22112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SFI Rotterdam B.V. Schiedam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1383
+      "id": 1382
     },
     {
       "geometry": {
@@ -22144,7 +22128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gusto Rotterdam B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1384
+      "id": 1383
     },
     {
       "geometry": {
@@ -22160,7 +22144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Caf\u00e9 van Zanten B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1385
+      "id": 1384
     },
     {
       "geometry": {
@@ -22176,7 +22160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>M & H Exploitatie B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1386
+      "id": 1385
     },
     {
       "geometry": {
@@ -22192,7 +22176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Direct Pay Credit Management Services B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1387
+      "id": 1386
     },
     {
       "geometry": {
@@ -22208,7 +22192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RINA Netherlands B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1388
+      "id": 1387
     },
     {
       "geometry": {
@@ -22224,7 +22208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Diabeter Nederland B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1389
+      "id": 1388
     },
     {
       "geometry": {
@@ -22240,7 +22224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BARCODE Architects B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1390
+      "id": 1389
     },
     {
       "geometry": {
@@ -22256,7 +22240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H2otel B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1391
+      "id": 1390
     },
     {
       "geometry": {
@@ -22272,7 +22256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>C\u00e9sant Wijnhaven Catering B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1392
+      "id": 1391
     },
     {
       "geometry": {
@@ -22288,7 +22272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Soju Bar B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1393
+      "id": 1392
     },
     {
       "geometry": {
@@ -22304,7 +22288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WawBurger lijnbaan Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1394
+      "id": 1393
     },
     {
       "geometry": {
@@ -22320,7 +22304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Happy Asian Food B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1395
+      "id": 1394
     },
     {
       "geometry": {
@@ -22336,7 +22320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Steak & Bier B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1396
+      "id": 1395
     },
     {
       "geometry": {
@@ -22352,7 +22336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sugo 004 Eindhoven B.V. Eindhoven<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1397
+      "id": 1396
     },
     {
       "geometry": {
@@ -22368,7 +22352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SLA Rotterdam B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1398
+      "id": 1397
     },
     {
       "geometry": {
@@ -22384,7 +22368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>EdCast Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1399
+      "id": 1398
     },
     {
       "geometry": {
@@ -22400,7 +22384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dept Holding B.V. Amsterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1400
+      "id": 1399
     },
     {
       "geometry": {
@@ -22416,7 +22400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ilya Restaurant B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1401
+      "id": 1400
     },
     {
       "geometry": {
@@ -22432,7 +22416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Molam Oilfield Supply B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1402
+      "id": 1401
     },
     {
       "geometry": {
@@ -22448,7 +22432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Brouwer Advocaten B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1403
+      "id": 1402
     },
     {
       "geometry": {
@@ -22464,7 +22448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Axiflex B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1404
+      "id": 1403
     },
     {
       "geometry": {
@@ -22480,7 +22464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Coolveste B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1405
+      "id": 1404
     },
     {
       "geometry": {
@@ -22496,7 +22480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Janssen Air & Ocean B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1406
+      "id": 1405
     },
     {
       "geometry": {
@@ -22512,7 +22496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Drive Consulting B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1407
+      "id": 1406
     },
     {
       "geometry": {
@@ -22528,7 +22512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Brood en Banket Middelland B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1408
+      "id": 1407
     },
     {
       "geometry": {
@@ -22544,7 +22528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Adviesbureau Atim B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1409
+      "id": 1408
     },
     {
       "geometry": {
@@ -22560,7 +22544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sahan Supermarkt Willem Buytewechstraat B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1410
+      "id": 1409
     },
     {
       "geometry": {
@@ -22576,7 +22560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Seva Kinderopvang Rotterdam B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1411
+      "id": 1410
     },
     {
       "geometry": {
@@ -22592,7 +22576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Red Box Marine Services B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1412
+      "id": 1411
     },
     {
       "geometry": {
@@ -22608,7 +22592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bird Jazz Podium/Horeca B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1413
+      "id": 1412
     },
     {
       "geometry": {
@@ -22624,7 +22608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Indiana Finance B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1414
+      "id": 1413
     },
     {
       "geometry": {
@@ -22640,7 +22624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Het Randstadje Noord B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1415
+      "id": 1414
     },
     {
       "geometry": {
@@ -22656,7 +22640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tortuga Industries B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1416
+      "id": 1415
     },
     {
       "geometry": {
@@ -22672,7 +22656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nidegro International Trading Company (Holland) B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1417
+      "id": 1416
     },
     {
       "geometry": {
@@ -22688,7 +22672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Nieuwe Drukkers B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1418
+      "id": 1417
     },
     {
       "geometry": {
@@ -22704,7 +22688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Morgenspraak ICT B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1419
+      "id": 1418
     },
     {
       "geometry": {
@@ -22720,7 +22704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TALE Nederland B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1420
+      "id": 1419
     },
     {
       "geometry": {
@@ -22736,7 +22720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sapenta B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1421
+      "id": 1420
     },
     {
       "geometry": {
@@ -22752,7 +22736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sun & Beauty store B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1422
+      "id": 1421
     },
     {
       "geometry": {
@@ -22768,7 +22752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>L'Italiano Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1423
+      "id": 1422
     },
     {
       "geometry": {
@@ -22784,7 +22768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>YUAR Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1424
+      "id": 1423
     },
     {
       "geometry": {
@@ -22800,7 +22784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Staffyou Freelance Platform Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1425
+      "id": 1424
     },
     {
       "geometry": {
@@ -22816,7 +22800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>OnderwijsPost Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1426
+      "id": 1425
     },
     {
       "geometry": {
@@ -22832,7 +22816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cue Action Drachten B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1427
+      "id": 1426
     },
     {
       "geometry": {
@@ -22848,7 +22832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Staffyou Service & Software B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1428
+      "id": 1427
     },
     {
       "geometry": {
@@ -22864,15 +22848,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Levinas Apotheek B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1429
+      "id": 1428
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4978602,
+          4.4978669,
           [
-            51.9228454
+            51.9228462
           ]
         ]
       },
@@ -22880,7 +22864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Organiq B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1430
+      "id": 1429
     },
     {
       "geometry": {
@@ -22896,7 +22880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PBKP Holding B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1431
+      "id": 1430
     },
     {
       "geometry": {
@@ -22912,7 +22896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>InPublic B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1432
+      "id": 1431
     },
     {
       "geometry": {
@@ -22928,7 +22912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hireserve B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1433
+      "id": 1432
     },
     {
       "geometry": {
@@ -22944,7 +22928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Impower B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1434
+      "id": 1433
     },
     {
       "geometry": {
@@ -22960,7 +22944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Binkies Food & Drinks B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1435
+      "id": 1434
     },
     {
       "geometry": {
@@ -22976,7 +22960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Yaarwerk B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1436
+      "id": 1435
     },
     {
       "geometry": {
@@ -22992,7 +22976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tandartspraktijk Chung B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1437
+      "id": 1436
     },
     {
       "geometry": {
@@ -23008,7 +22992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Eltech Multiservices B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1438
+      "id": 1437
     },
     {
       "geometry": {
@@ -23024,7 +23008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tanger Markt Lombardijen B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1439
+      "id": 1438
     },
     {
       "geometry": {
@@ -23040,7 +23024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schildersbedrijf Niels van der Ham B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1440
+      "id": 1439
     },
     {
       "geometry": {
@@ -23056,7 +23040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Max Property Group B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1441
+      "id": 1440
     },
     {
       "geometry": {
@@ -23072,7 +23056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Geordick Shipstores B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1442
+      "id": 1441
     },
     {
       "geometry": {
@@ -23088,7 +23072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hofland-Electronica B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1443
+      "id": 1442
     },
     {
       "geometry": {
@@ -23104,7 +23088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kinderspeelparadijs De Ballebak Rotterdam-Zuid B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1444
+      "id": 1443
     },
     {
       "geometry": {
@@ -23120,7 +23104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Verwater SJR Group B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1445
+      "id": 1444
     },
     {
       "geometry": {
@@ -23136,7 +23120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zadkine Media Schiedam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1446
+      "id": 1445
     },
     {
       "geometry": {
@@ -23152,7 +23136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Formica B.V. Schiedam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1447
+      "id": 1446
     },
     {
       "geometry": {
@@ -23168,7 +23152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DWG Process & Safety B.V. Schiedam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1448
+      "id": 1447
     },
     {
       "geometry": {
@@ -23184,7 +23168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Prins Supply B.V. Schiedam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1449
+      "id": 1448
     },
     {
       "geometry": {
@@ -23200,7 +23184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cimcool Europe B.V. Vlaardingen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1450
+      "id": 1449
     },
     {
       "geometry": {
@@ -23216,7 +23200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Almere Roses B.V. Maasland<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1451
+      "id": 1450
     },
     {
       "geometry": {
@@ -23232,7 +23216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Onego Holding B.V. Rhoon<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1452
+      "id": 1451
     },
     {
       "geometry": {
@@ -23248,7 +23232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vertom Agencies B.V. Rhoon<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1453
+      "id": 1452
     },
     {
       "geometry": {
@@ -23264,7 +23248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Greenz Rotterdam B.V. Rotterdam-Albrandswaard<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1454
+      "id": 1453
     },
     {
       "geometry": {
@@ -23280,7 +23264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Puerto Beheer & Management B.V. Poortugaal<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1455
+      "id": 1454
     },
     {
       "geometry": {
@@ -23296,7 +23280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>AmSpec B.V. Rozenburg<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1456
+      "id": 1455
     },
     {
       "geometry": {
@@ -23312,7 +23296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sense of China B.V. Hoogvliet Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1457
+      "id": 1456
     },
     {
       "geometry": {
@@ -23328,7 +23312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aas Logistics B.V. Europoort Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1458
+      "id": 1457
     },
     {
       "geometry": {
@@ -23344,7 +23328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ROYAL, Feest- en Partycentrum Spijkenisse<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1459
+      "id": 1458
     },
     {
       "geometry": {
@@ -23360,7 +23344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gimico B.V. Spijkenisse<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1460
+      "id": 1459
     },
     {
       "geometry": {
@@ -23376,7 +23360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B&S GTC Customs B.V. Spijkenisse<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1461
+      "id": 1460
     },
     {
       "geometry": {
@@ -23392,7 +23376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.G. van Oudenaarden Pensioen B.V. Oostvoorne<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1462
+      "id": 1461
     },
     {
       "geometry": {
@@ -23408,7 +23392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Verolme Transport Nieuwe Tonge B.V. Middelharnis<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1463
+      "id": 1462
     },
     {
       "geometry": {
@@ -23424,7 +23408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Supermarkt Sperling B.V. Ouddorp<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1464
+      "id": 1463
     },
     {
       "geometry": {
@@ -23440,7 +23424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Arsis B.V. Westmaas<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1465
+      "id": 1464
     },
     {
       "geometry": {
@@ -23456,7 +23440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pok\u00e9 & Zo Oud-Beijerland B.V. Oud-Beijerland<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1466
+      "id": 1465
     },
     {
       "geometry": {
@@ -23472,7 +23456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MOL Maritime (Europe) B.V. Oud-Beijerland<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1467
+      "id": 1466
     },
     {
       "geometry": {
@@ -23488,7 +23472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Deniri Properties B.V. Oud-Beijerland<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1468
+      "id": 1467
     },
     {
       "geometry": {
@@ -23504,7 +23488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dierencrematorium Het Hoeksche Hof Numansdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1469
+      "id": 1468
     },
     {
       "geometry": {
@@ -23520,7 +23504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>A.K. van Kuijk B.V. Zuid-Beijerland<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1470
+      "id": 1469
     },
     {
       "geometry": {
@@ -23536,7 +23520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VipaHelda B.V. Capelle aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1471
+      "id": 1470
     },
     {
       "geometry": {
@@ -23552,7 +23536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MOHR Installatietechniek B.V. Capelle aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1472
+      "id": 1471
     },
     {
       "geometry": {
@@ -23568,7 +23552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zoutsteen B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1473
+      "id": 1472
     },
     {
       "geometry": {
@@ -23584,7 +23568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>S & Z Office Services B.V. Nieuwerkerk ad IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1474
+      "id": 1473
     },
     {
       "geometry": {
@@ -23600,7 +23584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tandartspraktijk Theunisz B.V. Alblasserdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1475
+      "id": 1474
     },
     {
       "geometry": {
@@ -23616,7 +23600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fidinda CBM B.V. Nieuw-Lekkerland<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1476
+      "id": 1475
     },
     {
       "geometry": {
@@ -23632,7 +23616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aannemersbedrijf De Zeeuw B.V. Groot-Ammers<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1477
+      "id": 1476
     },
     {
       "geometry": {
@@ -23648,7 +23632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Volvo Construction Equipment B.V. Groot-Ammers<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1478
+      "id": 1477
     },
     {
       "geometry": {
@@ -23664,7 +23648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MME Rope Access B.V. Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1479
+      "id": 1478
     },
     {
       "geometry": {
@@ -23680,7 +23664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>'t Klaverblad Beheer B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1480
+      "id": 1479
     },
     {
       "geometry": {
@@ -23696,7 +23680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ropana B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1481
+      "id": 1480
     },
     {
       "geometry": {
@@ -23712,7 +23696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Excent Tandtechniek Oudewater Oudewater<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1482
+      "id": 1481
     },
     {
       "geometry": {
@@ -23728,7 +23712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Horeca Exploitatie Maatschappij 't Vaantje Restaurant / BAR Gouda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1483
+      "id": 1482
     },
     {
       "geometry": {
@@ -23744,7 +23728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Zorgstede B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1484
+      "id": 1483
     },
     {
       "geometry": {
@@ -23760,7 +23744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fit & Fun Sports B.V. Moordrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1485
+      "id": 1484
     },
     {
       "geometry": {
@@ -23776,7 +23760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Bruijn's Automobielbedrijf B.V. Schoonhoven<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1486
+      "id": 1485
     },
     {
       "geometry": {
@@ -23792,7 +23776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SalonCosmetics B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1487
+      "id": 1486
     },
     {
       "geometry": {
@@ -23808,7 +23792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Coney Assurance B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1488
+      "id": 1487
     },
     {
       "geometry": {
@@ -23824,7 +23808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>KOOT Sociaal B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1489
+      "id": 1488
     },
     {
       "geometry": {
@@ -23840,7 +23824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bouldermuur Amsterdam B.V. Amsterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1490
+      "id": 1489
     },
     {
       "geometry": {
@@ -23856,7 +23840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fagron B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1491
+      "id": 1490
     },
     {
       "geometry": {
@@ -23872,7 +23856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Page Interim B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1492
+      "id": 1491
     },
     {
       "geometry": {
@@ -23888,7 +23872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Centrient Holding B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1493
+      "id": 1492
     },
     {
       "geometry": {
@@ -23904,7 +23888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Arriva Personenvervoer Nederland B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1494
+      "id": 1493
     },
     {
       "geometry": {
@@ -23920,15 +23904,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Horeca Exploitatie Maatschappij Annie's B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1495
+      "id": 1494
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.475752,
+          4.4764281,
           [
-            52.1631027
+            52.1631478
           ]
         ]
       },
@@ -23936,7 +23920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Heerema Fleet Personnel B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1496
+      "id": 1495
     },
     {
       "geometry": {
@@ -23952,7 +23936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ResultsinHealth B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1497
+      "id": 1496
     },
     {
       "geometry": {
@@ -23968,7 +23952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Charles River Nederland B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1498
+      "id": 1497
     },
     {
       "geometry": {
@@ -23984,7 +23968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>FAAC Automatische Deuren B.V. Zevenhuizen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1499
+      "id": 1498
     },
     {
       "geometry": {
@@ -24000,7 +23984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SpaOnline B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1500
+      "id": 1499
     },
     {
       "geometry": {
@@ -24016,7 +24000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hornbach Bouwmarkt en Tuincentrum Wateringen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1501
+      "id": 1500
     },
     {
       "geometry": {
@@ -24032,7 +24016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fideco HKTDC Europe Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1502
+      "id": 1501
     },
     {
       "geometry": {
@@ -24048,7 +24032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Regt Staalproducten B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1503
+      "id": 1502
     },
     {
       "geometry": {
@@ -24064,7 +24048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Emsere B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1504
+      "id": 1503
     },
     {
       "geometry": {
@@ -24080,7 +24064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Loo Yachtinteriors B.V. Waddinxveen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1505
+      "id": 1504
     },
     {
       "geometry": {
@@ -24096,7 +24080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Boonstoppel Brandstof B.V. Waddinxveen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1506
+      "id": 1505
     },
     {
       "geometry": {
@@ -24112,7 +24096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vivisol Nederland B.V. Waddinxveen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1507
+      "id": 1506
     },
     {
       "geometry": {
@@ -24128,7 +24112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>InfinITy IT B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1508
+      "id": 1507
     },
     {
       "geometry": {
@@ -24144,7 +24128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Odysseus Palace B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1509
+      "id": 1508
     },
     {
       "geometry": {
@@ -24160,7 +24144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gebroeders Smits Beheer B.V. Strijen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1510
+      "id": 1509
     },
     {
       "geometry": {
@@ -24176,7 +24160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Majestic Safety Products & Services Spijkenisse<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1511
+      "id": 1510
     },
     {
       "geometry": {
@@ -24192,7 +24176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Conscia Nederland B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1512
+      "id": 1511
     },
     {
       "geometry": {
@@ -24208,7 +24192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fagron Nederland B.V. Capelle aan den IJssel<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1513
+      "id": 1512
     },
     {
       "geometry": {
@@ -24224,7 +24208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Elis Nederland B.V. Schiedam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1514
+      "id": 1513
     },
     {
       "geometry": {
@@ -24240,15 +24224,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Parfums Christian Dior B.V. Capelle aan den IJssel<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1515
+      "id": 1514
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5081103,
+          4.5081101,
           [
-            51.8910938
+            51.8910939
           ]
         ]
       },
@@ -24256,7 +24240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flex Interim Diensten B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1516
+      "id": 1515
     },
     {
       "geometry": {
@@ -24272,7 +24256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kalmar Netherlands B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1517
+      "id": 1516
     },
     {
       "geometry": {
@@ -24288,7 +24272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fiber Infra B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1518
+      "id": 1517
     },
     {
       "geometry": {
@@ -24304,7 +24288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Matrans Rotterdam Terminal B.V. Pernis Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1519
+      "id": 1518
     },
     {
       "geometry": {
@@ -24320,7 +24304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>L & M Software, LearnLinq Maassluis<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1520
+      "id": 1519
     },
     {
       "geometry": {
@@ -24336,7 +24320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rotork B.V. Hoogvliet Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1521
+      "id": 1520
     },
     {
       "geometry": {
@@ -24352,7 +24336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zuid-West Infra B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1522
+      "id": 1521
     },
     {
       "geometry": {
@@ -24368,7 +24352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Herola International B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1523
+      "id": 1522
     },
     {
       "geometry": {
@@ -24384,7 +24368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aannemingsbedrijf Arga Groen B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1524
+      "id": 1523
     },
     {
       "geometry": {
@@ -24400,7 +24384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Grander Infra B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1525
+      "id": 1524
     },
     {
       "geometry": {
@@ -24416,7 +24400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fresch Real Estate B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1526
+      "id": 1525
     },
     {
       "geometry": {
@@ -24432,7 +24416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zara 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1527
+      "id": 1526
     },
     {
       "geometry": {
@@ -24448,7 +24432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>E.R. Bouwman Holding B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1528
+      "id": 1527
     },
     {
       "geometry": {
@@ -24464,7 +24448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bristol 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1529
+      "id": 1528
     },
     {
       "geometry": {
@@ -24480,7 +24464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schildersbedrijf A. Dijkshoorn Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1530
+      "id": 1529
     },
     {
       "geometry": {
@@ -24496,7 +24480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Penning Freesia B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1531
+      "id": 1530
     },
     {
       "geometry": {
@@ -24512,7 +24496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gildepoelier Leon van den Berg B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1532
+      "id": 1531
     },
     {
       "geometry": {
@@ -24528,7 +24512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Autobedrijf Pluym B.V. Delfgauw<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1533
+      "id": 1532
     },
     {
       "geometry": {
@@ -24544,7 +24528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Frans Mets Beheer B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1534
+      "id": 1533
     },
     {
       "geometry": {
@@ -24560,7 +24544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kwekerij Batist B.V. 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1535
+      "id": 1534
     },
     {
       "geometry": {
@@ -24576,15 +24560,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Karwei Noordwijkerhout Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1536
+      "id": 1535
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3857443,
+          4.3856215,
           [
-            51.9977515
+            51.9979334
           ]
         ]
       },
@@ -24592,7 +24576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Enraf B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1537
+      "id": 1536
     },
     {
       "geometry": {
@@ -24608,7 +24592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Anne&Max Den Haag Hoytema B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1538
+      "id": 1537
     },
     {
       "geometry": {
@@ -24624,7 +24608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Centrient Pharmaceuticals Netherlands B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1539
+      "id": 1538
     },
     {
       "geometry": {
@@ -24640,7 +24624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>YOEP Midden Holland B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1540
+      "id": 1539
     },
     {
       "geometry": {
@@ -24656,7 +24640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Witte Raaf Arbodienst B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1541
+      "id": 1540
     },
     {
       "geometry": {
@@ -24672,7 +24656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Beurtvaartadres document B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1542
+      "id": 1541
     },
     {
       "geometry": {
@@ -24688,7 +24672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tradinco Instruments Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1543
+      "id": 1542
     },
     {
       "geometry": {
@@ -24704,7 +24688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BBD Mobiele Surveillance B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1544
+      "id": 1543
     },
     {
       "geometry": {
@@ -24720,7 +24704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BBD Security & Facility B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1545
+      "id": 1544
     },
     {
       "geometry": {
@@ -24736,7 +24720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TARQ Projects & Consultancy Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1546
+      "id": 1545
     },
     {
       "geometry": {
@@ -24752,7 +24736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hexta ZOETERMEER<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1547
+      "id": 1546
     },
     {
       "geometry": {
@@ -24768,7 +24752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Palmax Benelux B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1548
+      "id": 1547
     },
     {
       "geometry": {
@@ -24784,7 +24768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Palmax Infratechniek B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1549
+      "id": 1548
     },
     {
       "geometry": {
@@ -24800,7 +24784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CCG Resourcing B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1550
+      "id": 1549
     },
     {
       "geometry": {
@@ -24816,7 +24800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Astrium Accountants B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1551
+      "id": 1550
     },
     {
       "geometry": {
@@ -24832,7 +24816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cognyte Netherlands B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1552
+      "id": 1551
     },
     {
       "geometry": {
@@ -24848,7 +24832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ambulancezorg Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1553
+      "id": 1552
     },
     {
       "geometry": {
@@ -24864,7 +24848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Netwave Systems B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1554
+      "id": 1553
     },
     {
       "geometry": {
@@ -24880,7 +24864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ScreenCheck International B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1555
+      "id": 1554
     },
     {
       "geometry": {
@@ -24896,7 +24880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Teds Food Factory B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1556
+      "id": 1555
     },
     {
       "geometry": {
@@ -24912,7 +24896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vandervelde Protection B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1557
+      "id": 1556
     },
     {
       "geometry": {
@@ -24928,7 +24912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WBLO B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1558
+      "id": 1557
     },
     {
       "geometry": {
@@ -24944,7 +24928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kader- en Ondernemersopleiding Bouwbedrijf B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1559
+      "id": 1558
     },
     {
       "geometry": {
@@ -24960,7 +24944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>McKelvin B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1560
+      "id": 1559
     },
     {
       "geometry": {
@@ -24976,7 +24960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Het Timmerteam B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1561
+      "id": 1560
     },
     {
       "geometry": {
@@ -24992,7 +24976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Arya Personeel B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1562
+      "id": 1561
     },
     {
       "geometry": {
@@ -25008,7 +24992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Euronet Infra Techniek B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1563
+      "id": 1562
     },
     {
       "geometry": {
@@ -25024,7 +25008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Nederlandse Neonfabriek Nenefa Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1564
+      "id": 1563
     },
     {
       "geometry": {
@@ -25040,15 +25024,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Eurexco Zoetermeer<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1565
+      "id": 1564
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.488859077117929,
+          4.4883924,
           [
-            52.034731699999995
+            52.0351729
           ]
         ]
       },
@@ -25056,7 +25040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dekker Zoetermeer Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1566
+      "id": 1565
     },
     {
       "geometry": {
@@ -25072,7 +25056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dentalmind Tandtechniek B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1567
+      "id": 1566
     },
     {
       "geometry": {
@@ -25088,7 +25072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>METT Zorg & Advies B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1568
+      "id": 1567
     },
     {
       "geometry": {
@@ -25104,7 +25088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Intratuin Rhoon B.V. Rhoon<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1569
+      "id": 1568
     },
     {
       "geometry": {
@@ -25120,7 +25104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Adventure Valley Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1570
+      "id": 1569
     },
     {
       "geometry": {
@@ -25136,7 +25120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Royal Taxi Service Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1571
+      "id": 1570
     },
     {
       "geometry": {
@@ -25152,7 +25136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>EWD215 B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1572
+      "id": 1571
     },
     {
       "geometry": {
@@ -25168,7 +25152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zoetermeer Taxi B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1573
+      "id": 1572
     },
     {
       "geometry": {
@@ -25184,7 +25168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Studywatchers Nederland B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1574
+      "id": 1573
     },
     {
       "geometry": {
@@ -25200,7 +25184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ad ASTRA B.V. Gouda<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1575
+      "id": 1574
     },
     {
       "geometry": {
@@ -25216,7 +25200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dynamiet Nederland B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1576
+      "id": 1575
     },
     {
       "geometry": {
@@ -25232,7 +25216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>EMIS B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1577
+      "id": 1576
     },
     {
       "geometry": {
@@ -25248,7 +25232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Graham Packaging Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1578
+      "id": 1577
     },
     {
       "geometry": {
@@ -25264,7 +25248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Creative Colors Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1579
+      "id": 1578
     },
     {
       "geometry": {
@@ -25280,7 +25264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MDJ Events B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1580
+      "id": 1579
     },
     {
       "geometry": {
@@ -25296,7 +25280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hartman Service Center B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1581
+      "id": 1580
     },
     {
       "geometry": {
@@ -25312,7 +25296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ideal Concept Nederland B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1582
+      "id": 1581
     },
     {
       "geometry": {
@@ -25328,7 +25312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>AUS SERVICES B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1583
+      "id": 1582
     },
     {
       "geometry": {
@@ -25344,7 +25328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Shelter Organics Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1584
+      "id": 1583
     },
     {
       "geometry": {
@@ -25360,7 +25344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Centrum Apotheek Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1585
+      "id": 1584
     },
     {
       "geometry": {
@@ -25376,7 +25360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Media Markt Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1586
+      "id": 1585
     },
     {
       "geometry": {
@@ -25392,7 +25376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bij Daan Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1587
+      "id": 1586
     },
     {
       "geometry": {
@@ -25408,7 +25392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>The Old Pal B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1588
+      "id": 1587
     },
     {
       "geometry": {
@@ -25424,7 +25408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Caf\u00e9 Spetters Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1589
+      "id": 1588
     },
     {
       "geometry": {
@@ -25440,7 +25424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Doedijns Group International B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1590
+      "id": 1589
     },
     {
       "geometry": {
@@ -25456,7 +25440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vierstroom Hulp Thuis B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1591
+      "id": 1590
     },
     {
       "geometry": {
@@ -25472,7 +25456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ruys Handelsvereniging B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1592
+      "id": 1591
     },
     {
       "geometry": {
@@ -25488,7 +25472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wed. G. Oud Pzn. & Co Zoetermeer<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1593
+      "id": 1592
     },
     {
       "geometry": {
@@ -25504,7 +25488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Facility Support Uitzend Bureau B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1594
+      "id": 1593
     },
     {
       "geometry": {
@@ -25520,7 +25504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Trainmore Amsterdam Oost Amsterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1595
+      "id": 1594
     },
     {
       "geometry": {
@@ -25536,7 +25520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Club Sportive Mahler Zuidas B.V. Amsterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1596
+      "id": 1595
     },
     {
       "geometry": {
@@ -25552,7 +25536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Trainmore Zaandam B.V. Zaandam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1597
+      "id": 1596
     },
     {
       "geometry": {
@@ -25568,7 +25552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Trainmore Utrecht B.V. Utrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1598
+      "id": 1597
     },
     {
       "geometry": {
@@ -25584,7 +25568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Trainmore Eindhoven B.V. Eindhoven<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1599
+      "id": 1598
     },
     {
       "geometry": {
@@ -25600,7 +25584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Behartiging Opleidingen Bouwnijverheid B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1600
+      "id": 1599
     },
     {
       "geometry": {
@@ -25616,7 +25600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gordijnenatelier De Nijvere Bij B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1601
+      "id": 1600
     },
     {
       "geometry": {
@@ -25632,7 +25616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VDS Auto Direct B.V. Benthuizen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1602
+      "id": 1601
     },
     {
       "geometry": {
@@ -25648,7 +25632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sports Unlimited Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1603
+      "id": 1602
     },
     {
       "geometry": {
@@ -25664,7 +25648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Redson Regio Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1604
+      "id": 1603
     },
     {
       "geometry": {
@@ -25680,7 +25664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ORTEC B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1605
+      "id": 1604
     },
     {
       "geometry": {
@@ -25696,7 +25680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Keurmerkinstituut B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1606
+      "id": 1605
     },
     {
       "geometry": {
@@ -25712,7 +25696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Spanbeton B.V. Koudekerk aan den Rijn<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1607
+      "id": 1606
     },
     {
       "geometry": {
@@ -25728,7 +25712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Medifort Healthcare Capelle aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1608
+      "id": 1607
     },
     {
       "geometry": {
@@ -25744,7 +25728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Medo Clean B.V. Koudekerk aan den Rijn<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1609
+      "id": 1608
     },
     {
       "geometry": {
@@ -25760,7 +25744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schouten Onroerend Goed B.V. Hazerswoude-Rijndijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1610
+      "id": 1609
     },
     {
       "geometry": {
@@ -25776,7 +25760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schouten Potgrond B.V. Hazerswoude-Rijndijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1611
+      "id": 1610
     },
     {
       "geometry": {
@@ -25792,7 +25776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Poeliersbedrijf Gebroeders L.A.- en M.A. van der Meer B.V. Hazerswoude-Rijndijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1612
+      "id": 1611
     },
     {
       "geometry": {
@@ -25808,7 +25792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>AR Benelux Hazerswoude-Dorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1613
+      "id": 1612
     },
     {
       "geometry": {
@@ -25824,7 +25808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.C. Rijnbeek Boomkwekerijen B.V. Hazerswoude-Dorp<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1614
+      "id": 1613
     },
     {
       "geometry": {
@@ -25840,7 +25824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vorm & Letters B.V. Hazerswoude-Dorp<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1615
+      "id": 1614
     },
     {
       "geometry": {
@@ -25856,7 +25840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aannemingsbedrijf Vermeulen Benthuizen B.V. Hazerswoude-Dorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1616
+      "id": 1615
     },
     {
       "geometry": {
@@ -25872,7 +25856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Werf Schilders B.V. Hazerswoude-Dorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1617
+      "id": 1616
     },
     {
       "geometry": {
@@ -25888,7 +25872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Marwijk Kraanverhuur B.V. Zoeterwoude<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1618
+      "id": 1617
     },
     {
       "geometry": {
@@ -25904,7 +25888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H & B Logistics B.V. Zoeterwoude<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1619
+      "id": 1618
     },
     {
       "geometry": {
@@ -25920,7 +25904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Circuit Sneltransport B.V. Zoeterwoude<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1620
+      "id": 1619
     },
     {
       "geometry": {
@@ -25936,7 +25920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Duivenvoorde Transport Zoeterwoude<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1621
+      "id": 1620
     },
     {
       "geometry": {
@@ -25952,7 +25936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>AKB Longs B.V. Zoeterwoude<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1622
+      "id": 1621
     },
     {
       "geometry": {
@@ -25968,7 +25952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Aannemersbedrijf C.J. de Boer Zoeterwoude<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1623
+      "id": 1622
     },
     {
       "geometry": {
@@ -25984,7 +25968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mepaco B.V. Zoeterwoude<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1624
+      "id": 1623
     },
     {
       "geometry": {
@@ -26000,7 +25984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Toychamp Zoeterwoude Zoeterwoude<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1625
+      "id": 1624
     },
     {
       "geometry": {
@@ -26016,7 +26000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>van Bemmelen Outdoor Zoeterwoude<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1626
+      "id": 1625
     },
     {
       "geometry": {
@@ -26032,7 +26016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P-Line Netherlands B.V. Zoeterwoude<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1627
+      "id": 1626
     },
     {
       "geometry": {
@@ -26048,7 +26032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>4Value B.V. Zoeterwoude<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1628
+      "id": 1627
     },
     {
       "geometry": {
@@ -26064,7 +26048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Beelen Nederland B.V. Nieuwe Wetering<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1629
+      "id": 1628
     },
     {
       "geometry": {
@@ -26080,7 +26064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RF Pack B.V. Nieuwe Wetering<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1630
+      "id": 1629
     },
     {
       "geometry": {
@@ -26096,7 +26080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pannenkoekenboerderij De Hooiberg Leiderdorp   B.V. Oud Ade<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1631
+      "id": 1630
     },
     {
       "geometry": {
@@ -26112,7 +26096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Residence Wijnimport B.V. Roelofarendsveen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1632
+      "id": 1631
     },
     {
       "geometry": {
@@ -26128,7 +26112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Taxibedrijf Hogenboom B.V. Roelofarendsveen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1633
+      "id": 1632
     },
     {
       "geometry": {
@@ -26144,7 +26128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Castelijn Meubelindustrie B.V. Roelofarendsveen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1634
+      "id": 1633
     },
     {
       "geometry": {
@@ -26160,7 +26144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Unisol Paneel B.V. Roelofarendsveen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1635
+      "id": 1634
     },
     {
       "geometry": {
@@ -26176,7 +26160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Yongo Europe B.V. Roelofarendsveen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1636
+      "id": 1635
     },
     {
       "geometry": {
@@ -26192,7 +26176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Klink Stoomketelverhuur B.V. Roelofarendsveen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1637
+      "id": 1636
     },
     {
       "geometry": {
@@ -26208,7 +26192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ten Services B.V. Warmond<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1638
+      "id": 1637
     },
     {
       "geometry": {
@@ -26224,7 +26208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dekker Warmond Warmond<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1639
+      "id": 1638
     },
     {
       "geometry": {
@@ -26240,7 +26224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hotel De Foreesten Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1640
+      "id": 1639
     },
     {
       "geometry": {
@@ -26256,7 +26240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Medisch Centrum Kinderwens Leiderdorp B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1641
+      "id": 1640
     },
     {
       "geometry": {
@@ -26272,7 +26256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rijnland Medisch Centrum B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1642
+      "id": 1641
     },
     {
       "geometry": {
@@ -26288,7 +26272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>frankys Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1643
+      "id": 1642
     },
     {
       "geometry": {
@@ -26304,7 +26288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pro-Cura B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1644
+      "id": 1643
     },
     {
       "geometry": {
@@ -26320,7 +26304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Thauris B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1645
+      "id": 1644
     },
     {
       "geometry": {
@@ -26336,7 +26320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MuniSense B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1646
+      "id": 1645
     },
     {
       "geometry": {
@@ -26352,7 +26336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>GKL Ventilatie Techniek B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1647
+      "id": 1646
     },
     {
       "geometry": {
@@ -26368,7 +26352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MoveNext - duurzaam advies Leiderdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1648
+      "id": 1647
     },
     {
       "geometry": {
@@ -26384,15 +26368,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sportfondsen Leiderdorp B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1649
+      "id": 1648
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.516751,
+          4.5166863,
           [
-            52.1674914
+            52.1677974
           ]
         ]
       },
@@ -26400,7 +26384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Praxis Automation Technology B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1650
+      "id": 1649
     },
     {
       "geometry": {
@@ -26416,7 +26400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Four IT B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1651
+      "id": 1650
     },
     {
       "geometry": {
@@ -26432,7 +26416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Horesca Horecavo Leiderdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1652
+      "id": 1651
     },
     {
       "geometry": {
@@ -26448,7 +26432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Leidse Onderwijsinstellingen B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1653
+      "id": 1652
     },
     {
       "geometry": {
@@ -26464,7 +26448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Actief Plus B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1654
+      "id": 1653
     },
     {
       "geometry": {
@@ -26480,7 +26464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Drukkerij voorheen Rutgers Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1655
+      "id": 1654
     },
     {
       "geometry": {
@@ -26496,7 +26480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Olympus Nederland B.V. Leiderdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1656
+      "id": 1655
     },
     {
       "geometry": {
@@ -26512,7 +26496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tacx International B.V. Oegstgeest<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1657
+      "id": 1656
     },
     {
       "geometry": {
@@ -26528,7 +26512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zwembad Poelmeer Oegstgeest<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1658
+      "id": 1657
     },
     {
       "geometry": {
@@ -26544,15 +26528,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZF-screens B.V. Oegstgeest<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1659
+      "id": 1658
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4671639,
+          4.4664027,
           [
-            52.1843105
+            52.1845196
           ]
         ]
       },
@@ -26560,7 +26544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CompaNanny Oegstgeest B.V. Oegstgeest<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1660
+      "id": 1659
     },
     {
       "geometry": {
@@ -26576,7 +26560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Villa Beukenhof B.V. Oegstgeest<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1661
+      "id": 1660
     },
     {
       "geometry": {
@@ -26592,7 +26576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Leidse Hout B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1662
+      "id": 1661
     },
     {
       "geometry": {
@@ -26608,7 +26592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Olsa B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1663
+      "id": 1662
     },
     {
       "geometry": {
@@ -26624,7 +26608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dentolive B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1664
+      "id": 1663
     },
     {
       "geometry": {
@@ -26640,7 +26624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cellmark Netherlands B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1665
+      "id": 1664
     },
     {
       "geometry": {
@@ -26656,7 +26640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pharming B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1666
+      "id": 1665
     },
     {
       "geometry": {
@@ -26672,7 +26656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mentor Medical Systems B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1667
+      "id": 1666
     },
     {
       "geometry": {
@@ -26688,15 +26672,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ncardia B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1668
+      "id": 1667
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4778396,
+          4.4777823,
           [
-            52.1644832
+            52.1644723
           ]
         ]
       },
@@ -26704,7 +26688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Genomic Investments B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1669
+      "id": 1668
     },
     {
       "geometry": {
@@ -26720,7 +26704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Medilingua Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1670
+      "id": 1669
     },
     {
       "geometry": {
@@ -26736,7 +26720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Proact Netherlands Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1671
+      "id": 1670
     },
     {
       "geometry": {
@@ -26752,7 +26736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BRL Leiden B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1672
+      "id": 1671
     },
     {
       "geometry": {
@@ -26768,7 +26752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pharming Technologies B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1673
+      "id": 1672
     },
     {
       "geometry": {
@@ -26784,7 +26768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>IT-Ernity Internet Services B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1674
+      "id": 1673
     },
     {
       "geometry": {
@@ -26800,7 +26784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SIR Holding B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1675
+      "id": 1674
     },
     {
       "geometry": {
@@ -26816,7 +26800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Voordouw Vlees en Vleeswaren B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1676
+      "id": 1675
     },
     {
       "geometry": {
@@ -26832,7 +26816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Plus Lammenschans B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1677
+      "id": 1676
     },
     {
       "geometry": {
@@ -26848,7 +26832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sauna Thermen 5 mei Holding B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1678
+      "id": 1677
     },
     {
       "geometry": {
@@ -26864,7 +26848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Inco Industrial Components 's-Gravenhage B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1679
+      "id": 1678
     },
     {
       "geometry": {
@@ -26880,7 +26864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sensor Nederland B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1680
+      "id": 1679
     },
     {
       "geometry": {
@@ -26896,7 +26880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mproof Nederland Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1681
+      "id": 1680
     },
     {
       "geometry": {
@@ -26912,7 +26896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Events Travel B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1682
+      "id": 1681
     },
     {
       "geometry": {
@@ -26928,7 +26912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>\u00d6z & Er Food B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1683
+      "id": 1682
     },
     {
       "geometry": {
@@ -26944,7 +26928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Deurenspecialist B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1684
+      "id": 1683
     },
     {
       "geometry": {
@@ -26960,7 +26944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schilderwerken-van Muiden Leiden B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1685
+      "id": 1684
     },
     {
       "geometry": {
@@ -26976,7 +26960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>America Digitaal Druk B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1686
+      "id": 1685
     },
     {
       "geometry": {
@@ -26992,7 +26976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Waste Vision Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1687
+      "id": 1686
     },
     {
       "geometry": {
@@ -27008,7 +26992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>OpRecht Leiden B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1688
+      "id": 1687
     },
     {
       "geometry": {
@@ -27024,7 +27008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bredero Shaw International B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1689
+      "id": 1688
     },
     {
       "geometry": {
@@ -27040,7 +27024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CS Verkeersregelaars en Beveiligingsdiensten B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1690
+      "id": 1689
     },
     {
       "geometry": {
@@ -27056,7 +27040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Personeel Onderhoud Reiniging Verhuur Ondersteuning Service B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1691
+      "id": 1690
     },
     {
       "geometry": {
@@ -27072,7 +27056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Inzowijs B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1692
+      "id": 1691
     },
     {
       "geometry": {
@@ -27088,7 +27072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Meester Techniek B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1693
+      "id": 1692
     },
     {
       "geometry": {
@@ -27104,7 +27088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aannemersbedrijf van Grond- en Straatwerken Sloos en Zoon B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1694
+      "id": 1693
     },
     {
       "geometry": {
@@ -27120,7 +27104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Oerle Schoonmaakwerken B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1695
+      "id": 1694
     },
     {
       "geometry": {
@@ -27136,7 +27120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>M.I.G. Leiden Werk B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1696
+      "id": 1695
     },
     {
       "geometry": {
@@ -27152,7 +27136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>UL TS B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1697
+      "id": 1696
     },
     {
       "geometry": {
@@ -27168,7 +27152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schoonmaakbedrijf Zuid-West B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1698
+      "id": 1697
     },
     {
       "geometry": {
@@ -27184,7 +27168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flex IT Rent B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1699
+      "id": 1698
     },
     {
       "geometry": {
@@ -27200,7 +27184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bas Neon Lichtreclame B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1700
+      "id": 1699
     },
     {
       "geometry": {
@@ -27216,7 +27200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Weber Klimaattechniek Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1701
+      "id": 1700
     },
     {
       "geometry": {
@@ -27232,7 +27216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Annemieke Vink B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1702
+      "id": 1701
     },
     {
       "geometry": {
@@ -27248,7 +27232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Verhagen Leiden B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1703
+      "id": 1702
     },
     {
       "geometry": {
@@ -27264,7 +27248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Calculus Software B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1704
+      "id": 1703
     },
     {
       "geometry": {
@@ -27280,7 +27264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DTA Systems B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1705
+      "id": 1704
     },
     {
       "geometry": {
@@ -27296,7 +27280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Northpool B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1706
+      "id": 1705
     },
     {
       "geometry": {
@@ -27312,7 +27296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NPK Design B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1707
+      "id": 1706
     },
     {
       "geometry": {
@@ -27328,7 +27312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ViNU Consult B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1708
+      "id": 1707
     },
     {
       "geometry": {
@@ -27344,7 +27328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Koetshuis en Grand Caf\u00e9 de Burcht B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1709
+      "id": 1708
     },
     {
       "geometry": {
@@ -27360,7 +27344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Babassu Leiden en Amsterdam B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1710
+      "id": 1709
     },
     {
       "geometry": {
@@ -27376,7 +27360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aemosa B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1711
+      "id": 1710
     },
     {
       "geometry": {
@@ -27392,7 +27376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Scheltema Leiden, theatercaf\u00e9 en theaterrestaurant B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1712
+      "id": 1711
     },
     {
       "geometry": {
@@ -27408,7 +27392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hudson Leiden B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1713
+      "id": 1712
     },
     {
       "geometry": {
@@ -27424,7 +27408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Swapfiets Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1714
+      "id": 1713
     },
     {
       "geometry": {
@@ -27440,7 +27424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pokay Leiden B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1715
+      "id": 1714
     },
     {
       "geometry": {
@@ -27456,7 +27440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kleine Planeet B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1716
+      "id": 1715
     },
     {
       "geometry": {
@@ -27472,7 +27456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hotel Nieuw Minerva Holding B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1717
+      "id": 1716
     },
     {
       "geometry": {
@@ -27488,7 +27472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Djoser B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1718
+      "id": 1717
     },
     {
       "geometry": {
@@ -27504,7 +27488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Degreed B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1719
+      "id": 1718
     },
     {
       "geometry": {
@@ -27520,7 +27504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Boer Surakarta B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1720
+      "id": 1719
     },
     {
       "geometry": {
@@ -27536,7 +27520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>JBM Koeriers B.V. Zoeterwoude<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1721
+      "id": 1720
     },
     {
       "geometry": {
@@ -27552,7 +27536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Qompas B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1722
+      "id": 1721
     },
     {
       "geometry": {
@@ -27568,7 +27552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Warmtetechnisch Bureau Joop Buiteman B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1723
+      "id": 1722
     },
     {
       "geometry": {
@@ -27584,7 +27568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lyceo B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1724
+      "id": 1723
     },
     {
       "geometry": {
@@ -27600,7 +27584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Leids Congres Bureau Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1725
+      "id": 1724
     },
     {
       "geometry": {
@@ -27616,7 +27600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Eurofins Salux B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1726
+      "id": 1725
     },
     {
       "geometry": {
@@ -27632,7 +27616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Palace Detachering 01 B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1727
+      "id": 1726
     },
     {
       "geometry": {
@@ -27648,7 +27632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Janssen Vaccines & Prevention B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1728
+      "id": 1727
     },
     {
       "geometry": {
@@ -27664,7 +27648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nijssen B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1729
+      "id": 1728
     },
     {
       "geometry": {
@@ -27680,7 +27664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Alpha distribution B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1730
+      "id": 1729
     },
     {
       "geometry": {
@@ -27696,7 +27680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vertaalbureau L&L Utrecht<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1731
+      "id": 1730
     },
     {
       "geometry": {
@@ -27712,7 +27696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WCS Group B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1732
+      "id": 1731
     },
     {
       "geometry": {
@@ -27728,7 +27712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Horeca Exploitatie Maatschappij City Hall B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1733
+      "id": 1732
     },
     {
       "geometry": {
@@ -27744,7 +27728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Stadscaf\u00e9 Van der Werff Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1734
+      "id": 1733
     },
     {
       "geometry": {
@@ -27760,7 +27744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Millford Brand ID B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1735
+      "id": 1734
     },
     {
       "geometry": {
@@ -27776,7 +27760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TeekensKarstens Notarissen B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1736
+      "id": 1735
     },
     {
       "geometry": {
@@ -27792,7 +27776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ProPharma Group Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1737
+      "id": 1736
     },
     {
       "geometry": {
@@ -27808,7 +27792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DPS Engineering (Netherlands) B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1738
+      "id": 1737
     },
     {
       "geometry": {
@@ -27824,7 +27808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ingka Services B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1739
+      "id": 1738
     },
     {
       "geometry": {
@@ -27840,7 +27824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ingka Centres Holding B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1740
+      "id": 1739
     },
     {
       "geometry": {
@@ -27856,7 +27840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lion Beddenshop Wateringen B.V. Kwintsheul<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1741
+      "id": 1740
     },
     {
       "geometry": {
@@ -27872,7 +27856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Loodgietersbedrijf Ben Overgaag B.V. Kwintsheul<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1742
+      "id": 1741
     },
     {
       "geometry": {
@@ -27888,7 +27872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Schoonmaakbedrijf en Glazenwasserij S.W. Kwintsheul<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1743
+      "id": 1742
     },
     {
       "geometry": {
@@ -27904,7 +27888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sky Orchids B.V. Kwintsheul<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1744
+      "id": 1743
     },
     {
       "geometry": {
@@ -27920,7 +27904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hoenderparklaan 131 Exploitatie B.V. Kwintsheul<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1745
+      "id": 1744
     },
     {
       "geometry": {
@@ -27936,7 +27920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kaltenbach Tools B.V. Kwintsheul<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1746
+      "id": 1745
     },
     {
       "geometry": {
@@ -27952,7 +27936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WestFlex Services B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1747
+      "id": 1746
     },
     {
       "geometry": {
@@ -27968,7 +27952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Robers Vastgoedonderhoud B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1748
+      "id": 1747
     },
     {
       "geometry": {
@@ -27984,7 +27968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>The Cookware Company B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1749
+      "id": 1748
     },
     {
       "geometry": {
@@ -28000,7 +27984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gebr. Vis Participatie B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1750
+      "id": 1749
     },
     {
       "geometry": {
@@ -28016,7 +28000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Koninklijke Van Kempen & Begeer Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1751
+      "id": 1750
     },
     {
       "geometry": {
@@ -28032,7 +28016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fr\u00f6ling's Totaalonderhoud Wateringen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1752
+      "id": 1751
     },
     {
       "geometry": {
@@ -28048,7 +28032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Leica Geosystems B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1753
+      "id": 1752
     },
     {
       "geometry": {
@@ -28064,7 +28048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Xodus Group B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1754
+      "id": 1753
     },
     {
       "geometry": {
@@ -28080,7 +28064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Elektrotechnisch Advies- en Installatiebureau Meurs B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1755
+      "id": 1754
     },
     {
       "geometry": {
@@ -28096,7 +28080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BP Management B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1756
+      "id": 1755
     },
     {
       "geometry": {
@@ -28112,7 +28096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BP Management Materieel B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1757
+      "id": 1756
     },
     {
       "geometry": {
@@ -28128,7 +28112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Efficient Employment Service B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1758
+      "id": 1757
     },
     {
       "geometry": {
@@ -28144,7 +28128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Meer Geveltechniek B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1759
+      "id": 1758
     },
     {
       "geometry": {
@@ -28160,7 +28144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Administratie & Advies Westland B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1760
+      "id": 1759
     },
     {
       "geometry": {
@@ -28176,7 +28160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Meer B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1761
+      "id": 1760
     },
     {
       "geometry": {
@@ -28192,7 +28176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Maeslandsluys B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1762
+      "id": 1761
     },
     {
       "geometry": {
@@ -28208,7 +28192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kesselaar Milieu Techniek B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1763
+      "id": 1762
     },
     {
       "geometry": {
@@ -28224,7 +28208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Silicon Refractory Anchoring Systems B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1764
+      "id": 1763
     },
     {
       "geometry": {
@@ -28240,7 +28224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>AVZ Administraties Beheer Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1765
+      "id": 1764
     },
     {
       "geometry": {
@@ -28256,7 +28240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ven\u00e9co Automatisering, Telecommunicatie & Beveiliging B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1766
+      "id": 1765
     },
     {
       "geometry": {
@@ -28272,7 +28256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Electrotechnisch Installatiebureau Vennik B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1767
+      "id": 1766
     },
     {
       "geometry": {
@@ -28288,7 +28272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ven\u00e9co Human Capital B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1768
+      "id": 1767
     },
     {
       "geometry": {
@@ -28304,7 +28288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Anco Orchidee B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1769
+      "id": 1768
     },
     {
       "geometry": {
@@ -28320,7 +28304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Linneweever Optiek B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1770
+      "id": 1769
     },
     {
       "geometry": {
@@ -28336,7 +28320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>A.J.D. Roodenrijs De Bakker B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1771
+      "id": 1770
     },
     {
       "geometry": {
@@ -28352,7 +28336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>A.H. Vrij Groen, Grond en Infra B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1772
+      "id": 1771
     },
     {
       "geometry": {
@@ -28368,7 +28352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Hoeven Plastics B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1773
+      "id": 1772
     },
     {
       "geometry": {
@@ -28384,7 +28368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Internationaal Transport J.P. Vis & Zn. B.V. Kwintsheul<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1774
+      "id": 1773
     },
     {
       "geometry": {
@@ -28400,7 +28384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kassen-Verwarmingsindustrie Gakon B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1775
+      "id": 1774
     },
     {
       "geometry": {
@@ -28416,7 +28400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Revi Groente- en Fruittransport Kwintsheul<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1776
+      "id": 1775
     },
     {
       "geometry": {
@@ -28432,7 +28416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Raambekleding Nederland B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1777
+      "id": 1776
     },
     {
       "geometry": {
@@ -28448,7 +28432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DXC Technology Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1778
+      "id": 1777
     },
     {
       "geometry": {
@@ -28464,7 +28448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Telexis B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1779
+      "id": 1778
     },
     {
       "geometry": {
@@ -28480,7 +28464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ES Field Delivery Nederland B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1780
+      "id": 1779
     },
     {
       "geometry": {
@@ -28496,7 +28480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Burdock Project Consultants Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1781
+      "id": 1780
     },
     {
       "geometry": {
@@ -28512,7 +28496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ItaQ Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1782
+      "id": 1781
     },
     {
       "geometry": {
@@ -28528,7 +28512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MainPlus Schadeherstel B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1783
+      "id": 1782
     },
     {
       "geometry": {
@@ -28544,7 +28528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Xantara-it B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1784
+      "id": 1783
     },
     {
       "geometry": {
@@ -28560,7 +28544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dynaflow Research Group B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1785
+      "id": 1784
     },
     {
       "geometry": {
@@ -28576,7 +28560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Innospense B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1786
+      "id": 1785
     },
     {
       "geometry": {
@@ -28592,7 +28576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Logisnext Netherlands B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1787
+      "id": 1786
     },
     {
       "geometry": {
@@ -28608,7 +28592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Samen Overheid B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1788
+      "id": 1787
     },
     {
       "geometry": {
@@ -28624,7 +28608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>GMP+ International B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1789
+      "id": 1788
     },
     {
       "geometry": {
@@ -28640,7 +28624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>OIS Systems Development Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1790
+      "id": 1789
     },
     {
       "geometry": {
@@ -28656,7 +28640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>iSOFT Nederland B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1791
+      "id": 1790
     },
     {
       "geometry": {
@@ -28672,7 +28656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Olveco Informatica Services B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1792
+      "id": 1791
     },
     {
       "geometry": {
@@ -28688,7 +28672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vonk Global B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1793
+      "id": 1792
     },
     {
       "geometry": {
@@ -28704,7 +28688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J. van Toorenburg B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1794
+      "id": 1793
     },
     {
       "geometry": {
@@ -28720,7 +28704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Twister B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1795
+      "id": 1794
     },
     {
       "geometry": {
@@ -28736,15 +28720,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vien Infra B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1796
+      "id": 1795
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3341551,
+          4.3350199,
           [
-            52.0187403
+            52.0185423
           ]
         ]
       },
@@ -28752,7 +28736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tuincentrum Haantje B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1797
+      "id": 1796
     },
     {
       "geometry": {
@@ -28768,7 +28752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Peak IT B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1798
+      "id": 1797
     },
     {
       "geometry": {
@@ -28784,15 +28768,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Need Staffing Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1799
+      "id": 1798
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3364297,
+          4.3365491,
           [
-            52.0406359
+            52.0407145
           ]
         ]
       },
@@ -28800,15 +28784,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kino B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1800
+      "id": 1799
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3364297,
+          4.3365491,
           [
-            52.0406359
+            52.0407145
           ]
         ]
       },
@@ -28816,15 +28800,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Redco Build&Trade B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1801
+      "id": 1800
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3272108,
+          4.3272322,
           [
-            52.0352048
+            52.0352207
           ]
         ]
       },
@@ -28832,7 +28816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Meditel Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1802
+      "id": 1801
     },
     {
       "geometry": {
@@ -28848,7 +28832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Reisbureau en Touringcarbedrijf Pasteur B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1803
+      "id": 1802
     },
     {
       "geometry": {
@@ -28864,7 +28848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Petrotechnical Data Systems B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1804
+      "id": 1803
     },
     {
       "geometry": {
@@ -28880,15 +28864,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>annatommie - centra voor beweging - Regio Den Haag Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1805
+      "id": 1804
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.330042,
+          4.3316058,
           [
-            52.0370246
+            52.0360633
           ]
         ]
       },
@@ -28896,7 +28880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nadeem Cleaning Service B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1806
+      "id": 1805
     },
     {
       "geometry": {
@@ -28912,7 +28896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ambius B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1807
+      "id": 1806
     },
     {
       "geometry": {
@@ -28928,7 +28912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dutch Driver Solutions B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1808
+      "id": 1807
     },
     {
       "geometry": {
@@ -28944,7 +28928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>E-Drivers Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1809
+      "id": 1808
     },
     {
       "geometry": {
@@ -28960,7 +28944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Algemene Rijopleidingen Haaglanden (ARHL) Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1810
+      "id": 1809
     },
     {
       "geometry": {
@@ -28976,7 +28960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Randridge Recruitment B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1811
+      "id": 1810
     },
     {
       "geometry": {
@@ -28992,7 +28976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>2 Repair-IT B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1812
+      "id": 1811
     },
     {
       "geometry": {
@@ -29008,7 +28992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ideal Projects B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1813
+      "id": 1812
     },
     {
       "geometry": {
@@ -29024,7 +29008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rhein Invest B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1814
+      "id": 1813
     },
     {
       "geometry": {
@@ -29040,7 +29024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Qualogy Consultancy B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1815
+      "id": 1814
     },
     {
       "geometry": {
@@ -29056,7 +29040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Qualogy Applications B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1816
+      "id": 1815
     },
     {
       "geometry": {
@@ -29072,7 +29056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Securitas Nederland Regio 's-Gravenhage Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1817
+      "id": 1816
     },
     {
       "geometry": {
@@ -29088,7 +29072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Qualogy Solutions B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1818
+      "id": 1817
     },
     {
       "geometry": {
@@ -29104,7 +29088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Accent Receptie Services B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1819
+      "id": 1818
     },
     {
       "geometry": {
@@ -29120,7 +29104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wings & Flats Rotterdam B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1820
+      "id": 1819
     },
     {
       "geometry": {
@@ -29136,15 +29120,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HMC Bouw B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1821
+      "id": 1820
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3399477,
+          4.3400783,
           [
-            52.0431898
+            52.0429589
           ]
         ]
       },
@@ -29152,7 +29136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Karisma B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1822
+      "id": 1821
     },
     {
       "geometry": {
@@ -29168,15 +29152,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Excent Tandtechniek Rijswijk B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1823
+      "id": 1822
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2990562,
+          4.299174,
           [
-            52.0385169
+            52.0384844
           ]
         ]
       },
@@ -29184,7 +29168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Optisport Rijswijk B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1824
+      "id": 1823
     },
     {
       "geometry": {
@@ -29200,7 +29184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Plus Jongenotter B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1825
+      "id": 1824
     },
     {
       "geometry": {
@@ -29216,7 +29200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Media Markt Rijswijk B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1826
+      "id": 1825
     },
     {
       "geometry": {
@@ -29232,7 +29216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Te Werve B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1827
+      "id": 1826
     },
     {
       "geometry": {
@@ -29248,7 +29232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Oosterom & Verhagen Makelaars-Taxateurs (o.g.) B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1828
+      "id": 1827
     },
     {
       "geometry": {
@@ -29264,7 +29248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Smit & Honig ICT B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1829
+      "id": 1828
     },
     {
       "geometry": {
@@ -29280,7 +29264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Particibaan B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1830
+      "id": 1829
     },
     {
       "geometry": {
@@ -29296,7 +29280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gilson International B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1831
+      "id": 1830
     },
     {
       "geometry": {
@@ -29312,7 +29296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gilson Services Europe B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1832
+      "id": 1831
     },
     {
       "geometry": {
@@ -29328,15 +29312,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Ameyde Rijswijk Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1833
+      "id": 1832
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.338035,
+          4.3380348,
           [
-            52.042641
+            52.042642
           ]
         ]
       },
@@ -29344,7 +29328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Xindao B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1834
+      "id": 1833
     },
     {
       "geometry": {
@@ -29360,7 +29344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ANY-G B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1835
+      "id": 1834
     },
     {
       "geometry": {
@@ -29376,7 +29360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Thekobur B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1836
+      "id": 1835
     },
     {
       "geometry": {
@@ -29392,7 +29376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Logisnext Netherlands Service B.V. Rijswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1837
+      "id": 1836
     },
     {
       "geometry": {
@@ -29408,7 +29392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>People Services B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1838
+      "id": 1837
     },
     {
       "geometry": {
@@ -29424,7 +29408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sport2000 Voorburg B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1839
+      "id": 1838
     },
     {
       "geometry": {
@@ -29440,7 +29424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Excent Tandtechniek Haaglanden Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1840
+      "id": 1839
     },
     {
       "geometry": {
@@ -29456,7 +29440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Onderhoud Service Dienstverlening (O.S.D.) B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1841
+      "id": 1840
     },
     {
       "geometry": {
@@ -29472,7 +29456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gelecon B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1842
+      "id": 1841
     },
     {
       "geometry": {
@@ -29488,7 +29472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pavarotti Zoetermeer B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1843
+      "id": 1842
     },
     {
       "geometry": {
@@ -29504,7 +29488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>JR Horeca Company B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1844
+      "id": 1843
     },
     {
       "geometry": {
@@ -29520,7 +29504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Volle Maan B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1845
+      "id": 1844
     },
     {
       "geometry": {
@@ -29536,7 +29520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Litacs B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1846
+      "id": 1845
     },
     {
       "geometry": {
@@ -29552,7 +29536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P. Camphuisen Beheer B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1847
+      "id": 1846
     },
     {
       "geometry": {
@@ -29568,7 +29552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Toko Eddo B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1848
+      "id": 1847
     },
     {
       "geometry": {
@@ -29584,7 +29568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Inkoop ID B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1849
+      "id": 1848
     },
     {
       "geometry": {
@@ -29600,7 +29584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Serviceheroes B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1850
+      "id": 1849
     },
     {
       "geometry": {
@@ -29616,7 +29600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Japans Restaurant Natsumi Fusion B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1851
+      "id": 1850
     },
     {
       "geometry": {
@@ -29632,7 +29616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>KBenP Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1852
+      "id": 1851
     },
     {
       "geometry": {
@@ -29648,7 +29632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>O&T Kindercentra B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1853
+      "id": 1852
     },
     {
       "geometry": {
@@ -29664,7 +29648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Eteck Energie Techniek B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1854
+      "id": 1853
     },
     {
       "geometry": {
@@ -29680,7 +29664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.M.T. Koeriers B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1855
+      "id": 1854
     },
     {
       "geometry": {
@@ -29696,7 +29680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Transportbedrijf J.L. van Rijn & Zn B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1856
+      "id": 1855
     },
     {
       "geometry": {
@@ -29712,7 +29696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>New York Pizza Voorburg B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1857
+      "id": 1856
     },
     {
       "geometry": {
@@ -29728,7 +29712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Capri Solutions B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1858
+      "id": 1857
     },
     {
       "geometry": {
@@ -29744,7 +29728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flexxer B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1859
+      "id": 1858
     },
     {
       "geometry": {
@@ -29760,7 +29744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wesseling Banket B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1860
+      "id": 1859
     },
     {
       "geometry": {
@@ -29776,7 +29760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sporthallen De Bocht/De Tas Leidschendam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1861
+      "id": 1860
     },
     {
       "geometry": {
@@ -29792,7 +29776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Danice MoN B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1862
+      "id": 1861
     },
     {
       "geometry": {
@@ -29808,7 +29792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pavarotti Leidschendam Leidschendam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1863
+      "id": 1862
     },
     {
       "geometry": {
@@ -29824,7 +29808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bali Eethuis B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1864
+      "id": 1863
     },
     {
       "geometry": {
@@ -29840,7 +29824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DSS Management B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1865
+      "id": 1864
     },
     {
       "geometry": {
@@ -29856,7 +29840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DSS-de Swart Services B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1866
+      "id": 1865
     },
     {
       "geometry": {
@@ -29872,7 +29856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Brookx Company B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1867
+      "id": 1866
     },
     {
       "geometry": {
@@ -29888,7 +29872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>van der Graaf Transport B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1868
+      "id": 1867
     },
     {
       "geometry": {
@@ -29904,7 +29888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>UTS International (Europe) B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1869
+      "id": 1868
     },
     {
       "geometry": {
@@ -29920,7 +29904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Luchttechnisch Revisie-Bureau van Elewout B.V. Voorschoten<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1870
+      "id": 1869
     },
     {
       "geometry": {
@@ -29936,7 +29920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DD&A B.V. Voorschoten<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1871
+      "id": 1870
     },
     {
       "geometry": {
@@ -29952,7 +29936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Servicebedrijf Bella B.V. Voorschoten<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1872
+      "id": 1871
     },
     {
       "geometry": {
@@ -29968,7 +29952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vastgoedzorg Van der Weide B.V. Voorschoten<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1873
+      "id": 1872
     },
     {
       "geometry": {
@@ -29984,7 +29968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Paviljoen Vlietland B.V. Leidschendam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1874
+      "id": 1873
     },
     {
       "geometry": {
@@ -30000,7 +29984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Intratuin Voorschoten B.V. Voorschoten<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1875
+      "id": 1874
     },
     {
       "geometry": {
@@ -30016,7 +30000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>citizenM Amsterdam-Zuid Operations B.V. Amsterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1876
+      "id": 1875
     },
     {
       "geometry": {
@@ -30032,7 +30016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sonnegaerde B.V. Voorschoten<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1877
+      "id": 1876
     },
     {
       "geometry": {
@@ -30048,7 +30032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>citizenM Schiphol Operations B.V. Schiphol<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1878
+      "id": 1877
     },
     {
       "geometry": {
@@ -30064,7 +30048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Autoschadebedrijf Hamers B.V. Voorschoten<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1879
+      "id": 1878
     },
     {
       "geometry": {
@@ -30080,7 +30064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dungelmann Turfmarkt B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1880
+      "id": 1879
     },
     {
       "geometry": {
@@ -30096,7 +30080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>van der Valk Hotel Bijhorst Wassenaar<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1881
+      "id": 1880
     },
     {
       "geometry": {
@@ -30112,15 +30096,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>The Rat Pack B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1882
+      "id": 1881
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.410301173388768,
+          4.4100697,
           [
-            52.1392395
+            52.139191
           ]
         ]
       },
@@ -30128,7 +30112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Swart & Strous Car Services Wassenaar<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1883
+      "id": 1882
     },
     {
       "geometry": {
@@ -30144,7 +30128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Breitner B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1884
+      "id": 1883
     },
     {
       "geometry": {
@@ -30160,7 +30144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MaxxWater Investment Management B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1885
+      "id": 1884
     },
     {
       "geometry": {
@@ -30176,7 +30160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sportfondsen Wassenaar B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1886
+      "id": 1885
     },
     {
       "geometry": {
@@ -30192,7 +30176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Ede International Moving B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1887
+      "id": 1886
     },
     {
       "geometry": {
@@ -30208,7 +30192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Luciano Wassenaar B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1888
+      "id": 1887
     },
     {
       "geometry": {
@@ -30224,7 +30208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bouwbedrijf de Wit Wassenaar<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1889
+      "id": 1888
     },
     {
       "geometry": {
@@ -30240,7 +30224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Armand Beheer B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1890
+      "id": 1889
     },
     {
       "geometry": {
@@ -30256,7 +30240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W. Hofman Schoonmaakbedrijf B.V. Wassenaar<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1891
+      "id": 1890
     },
     {
       "geometry": {
@@ -30272,7 +30256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>G. van der Holst & Zn. Wassenaar<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1892
+      "id": 1891
     },
     {
       "geometry": {
@@ -30288,7 +30272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Beheermaatschappij GE B.V. Valkenburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1893
+      "id": 1892
     },
     {
       "geometry": {
@@ -30304,7 +30288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dutch Flatfish B.V. Urk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1894
+      "id": 1893
     },
     {
       "geometry": {
@@ -30320,7 +30304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Interfield International B.V. Valkenburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1895
+      "id": 1894
     },
     {
       "geometry": {
@@ -30336,7 +30320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Automobielbedrijf J. Noort en Zoon B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1896
+      "id": 1895
     },
     {
       "geometry": {
@@ -30352,7 +30336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>In Control Logistics B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1897
+      "id": 1896
     },
     {
       "geometry": {
@@ -30368,7 +30352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>GRF Netherlands B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1898
+      "id": 1897
     },
     {
       "geometry": {
@@ -30384,15 +30368,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.P. Hogewoning Bloemengroothandel B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1899
+      "id": 1898
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4431265,
+          4.4429864,
           [
-            52.1920645
+            52.1918732
           ]
         ]
       },
@@ -30400,7 +30384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Caelum Supermarkt Rijnsburg B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1900
+      "id": 1899
     },
     {
       "geometry": {
@@ -30416,7 +30400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apotheek Rijnsburg Beheer Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1901
+      "id": 1900
     },
     {
       "geometry": {
@@ -30432,7 +30416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MART KRALT BOEKETTEN B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1902
+      "id": 1901
     },
     {
       "geometry": {
@@ -30448,7 +30432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sparkles Schoonmaakbedrijf B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1903
+      "id": 1902
     },
     {
       "geometry": {
@@ -30464,7 +30448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>R.V.E. Plantenhandel B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1904
+      "id": 1903
     },
     {
       "geometry": {
@@ -30480,7 +30464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kneppers Cultuurmaatschappij B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1905
+      "id": 1904
     },
     {
       "geometry": {
@@ -30496,7 +30480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Alfa Automatisering B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1906
+      "id": 1905
     },
     {
       "geometry": {
@@ -30512,7 +30496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Florisoft B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1907
+      "id": 1906
     },
     {
       "geometry": {
@@ -30528,7 +30512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gebr. Vletter & Den Haan B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1908
+      "id": 1907
     },
     {
       "geometry": {
@@ -30544,7 +30528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P. van Egmond en Zn. Beheer B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1909
+      "id": 1908
     },
     {
       "geometry": {
@@ -30560,7 +30544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lugdunum Hotel B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1910
+      "id": 1909
     },
     {
       "geometry": {
@@ -30576,7 +30560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apparthotel Zoetermeer B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1911
+      "id": 1910
     },
     {
       "geometry": {
@@ -30592,7 +30576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H.A.I. Import-Export B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1912
+      "id": 1911
     },
     {
       "geometry": {
@@ -30608,7 +30592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>C. Heemskerk Management B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1913
+      "id": 1912
     },
     {
       "geometry": {
@@ -30624,7 +30608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hotel Zoetermeer t.h.o.d.n. Golden Tulip en Tulip Inn Zoetermeer Centre Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1914
+      "id": 1913
     },
     {
       "geometry": {
@@ -30640,7 +30624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hollandse Auto Importmaatschappij H.A.I. B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1915
+      "id": 1914
     },
     {
       "geometry": {
@@ -30656,7 +30640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VE Bloemengroothandel B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1916
+      "id": 1915
     },
     {
       "geometry": {
@@ -30672,7 +30656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>L & M Rijnsburg Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1917
+      "id": 1916
     },
     {
       "geometry": {
@@ -30688,7 +30672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flowerfactory B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1918
+      "id": 1917
     },
     {
       "geometry": {
@@ -30704,7 +30688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Peursum, Audio-, Video- en Wasapparaten B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1919
+      "id": 1918
     },
     {
       "geometry": {
@@ -30720,7 +30704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>C. van der Plas Beheer B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1920
+      "id": 1919
     },
     {
       "geometry": {
@@ -30736,7 +30720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Rhijn Bouw Renovatie & Onderhoud B.V. Nieuw-Vennep<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1921
+      "id": 1920
     },
     {
       "geometry": {
@@ -30752,7 +30736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Rhijn Bouw B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1922
+      "id": 1921
     },
     {
       "geometry": {
@@ -30768,7 +30752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RhenD Groep B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1923
+      "id": 1922
     },
     {
       "geometry": {
@@ -30784,7 +30768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tuincentrum de uiver Katwijk B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1924
+      "id": 1923
     },
     {
       "geometry": {
@@ -30800,7 +30784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Karel Oto jr. B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1925
+      "id": 1924
     },
     {
       "geometry": {
@@ -30816,7 +30800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TEMS B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1926
+      "id": 1925
     },
     {
       "geometry": {
@@ -30832,7 +30816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>North Actionsports Katwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1927
+      "id": 1926
     },
     {
       "geometry": {
@@ -30848,15 +30832,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Oostingh Staalbouw B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1928
+      "id": 1927
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4368668,
+          4.4367712,
           [
-            52.2018507
+            52.2017762
           ]
         ]
       },
@@ -30864,7 +30848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Soprowa Elsaker B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1929
+      "id": 1928
     },
     {
       "geometry": {
@@ -30880,7 +30864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Practicomfort Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1930
+      "id": 1929
     },
     {
       "geometry": {
@@ -30896,7 +30880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schildersbedrijf J. de Best en Zoon B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1931
+      "id": 1930
     },
     {
       "geometry": {
@@ -30912,7 +30896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apotheek Rijnsoever B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1932
+      "id": 1931
     },
     {
       "geometry": {
@@ -30928,7 +30912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Remmelzwaal-van der Plas B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1933
+      "id": 1932
     },
     {
       "geometry": {
@@ -30944,7 +30928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vink Products B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1934
+      "id": 1933
     },
     {
       "geometry": {
@@ -30960,7 +30944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vink Systemen B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1935
+      "id": 1934
     },
     {
       "geometry": {
@@ -30976,7 +30960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Raad Bouw B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1936
+      "id": 1935
     },
     {
       "geometry": {
@@ -30992,7 +30976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Raabel B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1937
+      "id": 1936
     },
     {
       "geometry": {
@@ -31008,7 +30992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Raad Vastgoed B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1938
+      "id": 1937
     },
     {
       "geometry": {
@@ -31024,7 +31008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ouwehand Visverwerking B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1939
+      "id": 1938
     },
     {
       "geometry": {
@@ -31040,7 +31024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Korthofah Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1940
+      "id": 1939
     },
     {
       "geometry": {
@@ -31056,7 +31040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Confianza Accountants Katwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1941
+      "id": 1940
     },
     {
       "geometry": {
@@ -31072,7 +31056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BDS Schilders B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1942
+      "id": 1941
     },
     {
       "geometry": {
@@ -31088,7 +31072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Haringhandel A. Hoek B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1943
+      "id": 1942
     },
     {
       "geometry": {
@@ -31104,7 +31088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Maessen Tentsupply B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1944
+      "id": 1943
     },
     {
       "geometry": {
@@ -31120,7 +31104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zuidhoek B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1945
+      "id": 1944
     },
     {
       "geometry": {
@@ -31136,7 +31120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Electro Stokvis B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1946
+      "id": 1945
     },
     {
       "geometry": {
@@ -31152,7 +31136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P. van Reisen & Zn. Export B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1947
+      "id": 1946
     },
     {
       "geometry": {
@@ -31168,7 +31152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Topa Thermal B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1948
+      "id": 1947
     },
     {
       "geometry": {
@@ -31184,7 +31168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W.P.C. Prins B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1949
+      "id": 1948
     },
     {
       "geometry": {
@@ -31200,7 +31184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P.C.M. Duivenvoorden B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1950
+      "id": 1949
     },
     {
       "geometry": {
@@ -31216,7 +31200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bernard Schulte B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1951
+      "id": 1950
     },
     {
       "geometry": {
@@ -31232,7 +31216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Liever Brood B.V. Voorhout<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1952
+      "id": 1951
     },
     {
       "geometry": {
@@ -31248,7 +31232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Loonbedrijf Johan Bakker B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1953
+      "id": 1952
     },
     {
       "geometry": {
@@ -31264,7 +31248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kaptein Orthopedie B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1954
+      "id": 1953
     },
     {
       "geometry": {
@@ -31280,7 +31264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Aannemingsbedrijf Sporto Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1955
+      "id": 1954
     },
     {
       "geometry": {
@@ -31296,7 +31280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Coverplan Totaal Onderhoud B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1956
+      "id": 1955
     },
     {
       "geometry": {
@@ -31312,7 +31296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Remainder Books B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1957
+      "id": 1956
     },
     {
       "geometry": {
@@ -31328,7 +31312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Remainder B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1958
+      "id": 1957
     },
     {
       "geometry": {
@@ -31344,7 +31328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>G. Geerlings & Zonen B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1959
+      "id": 1958
     },
     {
       "geometry": {
@@ -31360,7 +31344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Eichholtz\u00ae Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1960
+      "id": 1959
     },
     {
       "geometry": {
@@ -31376,7 +31360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Jac. Uittenbogaard Beheer B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1961
+      "id": 1960
     },
     {
       "geometry": {
@@ -31392,7 +31376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Jac. Uittenbogaard & Zonen B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1962
+      "id": 1961
     },
     {
       "geometry": {
@@ -31408,7 +31392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PWA B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1963
+      "id": 1962
     },
     {
       "geometry": {
@@ -31424,7 +31408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Janssen Elektrotechniek & Beveiliging B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1964
+      "id": 1963
     },
     {
       "geometry": {
@@ -31440,7 +31424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CP Partner B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1965
+      "id": 1964
     },
     {
       "geometry": {
@@ -31456,7 +31440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H.P. van Nieuwkerk Export B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1966
+      "id": 1965
     },
     {
       "geometry": {
@@ -31472,7 +31456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Glas Groenvoorzieningen B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1967
+      "id": 1966
     },
     {
       "geometry": {
@@ -31488,7 +31472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>A. Frijlink & Zonen (Export) B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1968
+      "id": 1967
     },
     {
       "geometry": {
@@ -31504,7 +31488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flex Franchise 1 B.V. Noordwijkerhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1969
+      "id": 1968
     },
     {
       "geometry": {
@@ -31520,7 +31504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W.J. Heemskerk en Zn. B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1970
+      "id": 1969
     },
     {
       "geometry": {
@@ -31536,7 +31520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Beuk Touringcars Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1971
+      "id": 1970
     },
     {
       "geometry": {
@@ -31552,7 +31536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Delta schoonmaak B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1972
+      "id": 1971
     },
     {
       "geometry": {
@@ -31568,7 +31552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Liesting Beheer B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1973
+      "id": 1972
     },
     {
       "geometry": {
@@ -31584,7 +31568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P. Krul Beheer B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1974
+      "id": 1973
     },
     {
       "geometry": {
@@ -31600,7 +31584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Restaurant-Caf\u00e9 Open Doors B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1975
+      "id": 1974
     },
     {
       "geometry": {
@@ -31616,7 +31600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.G. de Witt & Co. B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1976
+      "id": 1975
     },
     {
       "geometry": {
@@ -31632,7 +31616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hotel Mercure Noordwijk Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1977
+      "id": 1976
     },
     {
       "geometry": {
@@ -31648,7 +31632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>'t Zeepaardje B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1978
+      "id": 1977
     },
     {
       "geometry": {
@@ -31664,7 +31648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>The Champ Noordwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1979
+      "id": 1978
     },
     {
       "geometry": {
@@ -31680,7 +31664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W.B.R. Holding B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1980
+      "id": 1979
     },
     {
       "geometry": {
@@ -31696,7 +31680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Kim B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1981
+      "id": 1980
     },
     {
       "geometry": {
@@ -31712,7 +31696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>KimCare B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1982
+      "id": 1981
     },
     {
       "geometry": {
@@ -31728,7 +31712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Duivenvoorden Electrotechnisch Aannemer B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1983
+      "id": 1982
     },
     {
       "geometry": {
@@ -31744,7 +31728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Factor52 B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1984
+      "id": 1983
     },
     {
       "geometry": {
@@ -31760,7 +31744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HWS Verhuur B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1985
+      "id": 1984
     },
     {
       "geometry": {
@@ -31776,7 +31760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Johnny's Burger Noordwijk B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1986
+      "id": 1985
     },
     {
       "geometry": {
@@ -31792,7 +31776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Decos Software Engineering B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1987
+      "id": 1986
     },
     {
       "geometry": {
@@ -31808,7 +31792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ATG Europe Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1988
+      "id": 1987
     },
     {
       "geometry": {
@@ -31824,7 +31808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Arbo Concern B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1989
+      "id": 1988
     },
     {
       "geometry": {
@@ -31840,7 +31824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Jong's Taxicentrale B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1990
+      "id": 1989
     },
     {
       "geometry": {
@@ -31856,7 +31840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lencon Projects B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1991
+      "id": 1990
     },
     {
       "geometry": {
@@ -31872,7 +31856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BG Light B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1992
+      "id": 1991
     },
     {
       "geometry": {
@@ -31888,7 +31872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dajemi B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1993
+      "id": 1992
     },
     {
       "geometry": {
@@ -31904,7 +31888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aannemersbedrijf N. van Duin & Zn. B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1994
+      "id": 1993
     },
     {
       "geometry": {
@@ -31920,7 +31904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Het Oude Kistje B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 1995
+      "id": 1994
     },
     {
       "geometry": {
@@ -31936,7 +31920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>van Egmond, architecten Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1996
+      "id": 1995
     },
     {
       "geometry": {
@@ -31952,7 +31936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Serco Nederland B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 1997
+      "id": 1996
     },
     {
       "geometry": {
@@ -31968,7 +31952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cleyburch Tandartsen B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1998
+      "id": 1997
     },
     {
       "geometry": {
@@ -31984,7 +31968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gebr. Van der Putten B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 1999
+      "id": 1998
     },
     {
       "geometry": {
@@ -32000,7 +31984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Golfcentrum Noordwijk B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2000
+      "id": 1999
     },
     {
       "geometry": {
@@ -32016,7 +32000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Manen Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2001
+      "id": 2000
     },
     {
       "geometry": {
@@ -32032,7 +32016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Baak B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2002
+      "id": 2001
     },
     {
       "geometry": {
@@ -32048,7 +32032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Taxi Brouwer B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2003
+      "id": 2002
     },
     {
       "geometry": {
@@ -32064,7 +32048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Accountantskantoor Van den Berghe & Verdegaal  B.V. Noordwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2004
+      "id": 2003
     },
     {
       "geometry": {
@@ -32080,7 +32064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MR Cleaning B.V. 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2005
+      "id": 2004
     },
     {
       "geometry": {
@@ -32096,7 +32080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Toussaint Partyservice 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2006
+      "id": 2005
     },
     {
       "geometry": {
@@ -32112,7 +32096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Geest Potplanten 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2007
+      "id": 2006
     },
     {
       "geometry": {
@@ -32128,7 +32112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Intratuin 's-Gravenzande Holding B.V. 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2008
+      "id": 2007
     },
     {
       "geometry": {
@@ -32144,7 +32128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Deventer B.V. 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2009
+      "id": 2008
     },
     {
       "geometry": {
@@ -32160,7 +32144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kassenbouw- en Beglazingsbedrijf H. van der Lans B.V. Poeldijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2010
+      "id": 2009
     },
     {
       "geometry": {
@@ -32176,7 +32160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SolarNRG Trading B.V. Poeldijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2011
+      "id": 2010
     },
     {
       "geometry": {
@@ -32192,7 +32176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Unicum Elzenhagen B.V. Poeldijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2012
+      "id": 2011
     },
     {
       "geometry": {
@@ -32208,7 +32192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Daallin Westland B.V. Poeldijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2013
+      "id": 2012
     },
     {
       "geometry": {
@@ -32224,7 +32208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>G. van der Linden Poeldijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2014
+      "id": 2013
     },
     {
       "geometry": {
@@ -32240,7 +32224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Jobcenter Haaglanden B.V. Poeldijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2015
+      "id": 2014
     },
     {
       "geometry": {
@@ -32256,7 +32240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Adesson Uitzendbureau en Payrolling B.V. Poeldijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2016
+      "id": 2015
     },
     {
       "geometry": {
@@ -32272,7 +32256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Evanthia Monster<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2017
+      "id": 2016
     },
     {
       "geometry": {
@@ -32288,7 +32272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>V&R Groep B.V. Monster<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2018
+      "id": 2017
     },
     {
       "geometry": {
@@ -32304,7 +32288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>KM Consultancy B.V. Monster<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2019
+      "id": 2018
     },
     {
       "geometry": {
@@ -32320,7 +32304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apotheek Monster Monster<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2020
+      "id": 2019
     },
     {
       "geometry": {
@@ -32336,7 +32320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kwekerij De Kaaijman Oostvoorne<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2021
+      "id": 2020
     },
     {
       "geometry": {
@@ -32352,7 +32336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.A.M. Groenewegen B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2022
+      "id": 2021
     },
     {
       "geometry": {
@@ -32368,7 +32352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VG Orchids B.V. De Lier<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2023
+      "id": 2022
     },
     {
       "geometry": {
@@ -32384,7 +32368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vreugdenhil Bedrijfsmiddelen B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2024
+      "id": 2023
     },
     {
       "geometry": {
@@ -32400,7 +32384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Plantenkwekerij Vreugdenhil B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2025
+      "id": 2024
     },
     {
       "geometry": {
@@ -32416,7 +32400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Omega Solutions B.V. De Lier<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2026
+      "id": 2025
     },
     {
       "geometry": {
@@ -32432,7 +32416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Bommel Holding B.V. De Lier<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2027
+      "id": 2026
     },
     {
       "geometry": {
@@ -32448,7 +32432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HT Greenhouses De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2028
+      "id": 2027
     },
     {
       "geometry": {
@@ -32464,7 +32448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Berg Product B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2029
+      "id": 2028
     },
     {
       "geometry": {
@@ -32480,7 +32464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H.Z. Logistics B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2030
+      "id": 2029
     },
     {
       "geometry": {
@@ -32496,7 +32480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Agricultural Projects Holland B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2031
+      "id": 2030
     },
     {
       "geometry": {
@@ -32512,7 +32496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Essen Auto's Holding B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2032
+      "id": 2031
     },
     {
       "geometry": {
@@ -32528,7 +32512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Dijk & Korteland Klimaatinstallaties B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2033
+      "id": 2032
     },
     {
       "geometry": {
@@ -32544,7 +32528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Veldwerk Koerier B.V. De Lier<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2034
+      "id": 2033
     },
     {
       "geometry": {
@@ -32560,7 +32544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WPS HORTI SYSTEMS B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2035
+      "id": 2034
     },
     {
       "geometry": {
@@ -32576,7 +32560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.J. Boekestijn Electrotechniek B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2036
+      "id": 2035
     },
     {
       "geometry": {
@@ -32592,7 +32576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PB-Water Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2037
+      "id": 2036
     },
     {
       "geometry": {
@@ -32608,7 +32592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Agro Care WP17 Exploitatie B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2038
+      "id": 2037
     },
     {
       "geometry": {
@@ -32624,7 +32608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Agro Care WP 11 Exploitatie Middenmeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2039
+      "id": 2038
     },
     {
       "geometry": {
@@ -32640,7 +32624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Looije Packing Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2040
+      "id": 2039
     },
     {
       "geometry": {
@@ -32656,7 +32640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P. Looije VP B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2041
+      "id": 2040
     },
     {
       "geometry": {
@@ -32672,7 +32656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P. Looije Verpakkingen B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2042
+      "id": 2041
     },
     {
       "geometry": {
@@ -32688,7 +32672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Scania Nederland B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2043
+      "id": 2042
     },
     {
       "geometry": {
@@ -32704,7 +32688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van den Broek Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2044
+      "id": 2043
     },
     {
       "geometry": {
@@ -32720,7 +32704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Trefzeker Partyverzorging & Verhuurservice B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2045
+      "id": 2044
     },
     {
       "geometry": {
@@ -32736,7 +32720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DLG Equipment B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2046
+      "id": 2045
     },
     {
       "geometry": {
@@ -32752,7 +32736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Transtolk Logistics B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2047
+      "id": 2046
     },
     {
       "geometry": {
@@ -32768,7 +32752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>T. Stolze Installatietechniek B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2048
+      "id": 2047
     },
     {
       "geometry": {
@@ -32784,7 +32768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Innovex Fitness Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2049
+      "id": 2048
     },
     {
       "geometry": {
@@ -32800,7 +32784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dael B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2050
+      "id": 2049
     },
     {
       "geometry": {
@@ -32816,7 +32800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Adamas B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2051
+      "id": 2050
     },
     {
       "geometry": {
@@ -32832,7 +32816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Healthclub Fit Line Leidschendam B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2052
+      "id": 2051
     },
     {
       "geometry": {
@@ -32848,7 +32832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sjaak van Schie B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2053
+      "id": 2052
     },
     {
       "geometry": {
@@ -32864,7 +32848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>T.C. van den Dool B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2054
+      "id": 2053
     },
     {
       "geometry": {
@@ -32880,7 +32864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kasco Bouwers B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2055
+      "id": 2054
     },
     {
       "geometry": {
@@ -32896,7 +32880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VHC Holding B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2056
+      "id": 2055
     },
     {
       "geometry": {
@@ -32912,7 +32896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Maarel Orchidee\u00ebn Maasdijk B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2057
+      "id": 2056
     },
     {
       "geometry": {
@@ -32928,7 +32912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hofland Freesia B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2058
+      "id": 2057
     },
     {
       "geometry": {
@@ -32944,7 +32928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>E. Hofland Holding B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2059
+      "id": 2058
     },
     {
       "geometry": {
@@ -32960,7 +32944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Prins Mechanisatie B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2060
+      "id": 2059
     },
     {
       "geometry": {
@@ -32976,7 +32960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NL Jobs UZB B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2061
+      "id": 2060
     },
     {
       "geometry": {
@@ -32992,7 +32976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NL Services Nederland B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2062
+      "id": 2061
     },
     {
       "geometry": {
@@ -33008,7 +32992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NL-Jobs Holland B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2063
+      "id": 2062
     },
     {
       "geometry": {
@@ -33024,7 +33008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Oranjevliet Nederland B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2064
+      "id": 2063
     },
     {
       "geometry": {
@@ -33040,7 +33024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Automobielbedrijf Huisman B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2065
+      "id": 2064
     },
     {
       "geometry": {
@@ -33056,7 +33040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Brood- en Banketbakkerij Vreugdenhil B.V. Maasdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2066
+      "id": 2065
     },
     {
       "geometry": {
@@ -33072,7 +33056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Floris Holland B.V. Aalsmeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2067
+      "id": 2066
     },
     {
       "geometry": {
@@ -33088,7 +33072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Verdel Bloemenexport B.V. Aalsmeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2068
+      "id": 2067
     },
     {
       "geometry": {
@@ -33104,7 +33088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sjaak van der Vijver B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2069
+      "id": 2068
     },
     {
       "geometry": {
@@ -33120,7 +33104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>M&M Flor B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2070
+      "id": 2069
     },
     {
       "geometry": {
@@ -33136,7 +33120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lievaart Planten Export B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2071
+      "id": 2070
     },
     {
       "geometry": {
@@ -33152,7 +33136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Geest Potplanten Kaap B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2072
+      "id": 2071
     },
     {
       "geometry": {
@@ -33168,7 +33152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>123planten B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2073
+      "id": 2072
     },
     {
       "geometry": {
@@ -33184,7 +33168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Johan van Dijk B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2074
+      "id": 2073
     },
     {
       "geometry": {
@@ -33200,7 +33184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H. Star Bloemengroothandel B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2075
+      "id": 2074
     },
     {
       "geometry": {
@@ -33216,7 +33200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Javiflor B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2076
+      "id": 2075
     },
     {
       "geometry": {
@@ -33232,7 +33216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Floragold B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2077
+      "id": 2076
     },
     {
       "geometry": {
@@ -33248,7 +33232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Duin Export Fleurs et Plantes B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2078
+      "id": 2077
     },
     {
       "geometry": {
@@ -33264,7 +33248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Enigma Flowers Trading B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2079
+      "id": 2078
     },
     {
       "geometry": {
@@ -33280,7 +33264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bloemen-Export en Groothandel Stokman B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2080
+      "id": 2079
     },
     {
       "geometry": {
@@ -33296,7 +33280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vliem Beheer B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2081
+      "id": 2080
     },
     {
       "geometry": {
@@ -33312,7 +33296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zyon Group B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2082
+      "id": 2081
     },
     {
       "geometry": {
@@ -33328,7 +33312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>G.J. van Zuijlen Bloemenexport B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2083
+      "id": 2082
     },
     {
       "geometry": {
@@ -33344,7 +33328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van den Bos Freesia B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2084
+      "id": 2083
     },
     {
       "geometry": {
@@ -33360,7 +33344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Levoplant O.G. B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2085
+      "id": 2084
     },
     {
       "geometry": {
@@ -33376,7 +33360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Metaalhandel Wim de Voeght B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2086
+      "id": 2085
     },
     {
       "geometry": {
@@ -33392,7 +33376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Helion B.V. Honselersdijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2087
+      "id": 2086
     },
     {
       "geometry": {
@@ -33408,7 +33392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>The Fitness Experience Naaldwijk B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2088
+      "id": 2087
     },
     {
       "geometry": {
@@ -33424,7 +33408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MC Facilities B.V. Hilversum<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2089
+      "id": 2088
     },
     {
       "geometry": {
@@ -33440,7 +33424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Media Choice Holding B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2090
+      "id": 2089
     },
     {
       "geometry": {
@@ -33456,7 +33440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Westlandse Taxicentrale Naaldwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2091
+      "id": 2090
     },
     {
       "geometry": {
@@ -33472,7 +33456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dr. Green B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2092
+      "id": 2091
     },
     {
       "geometry": {
@@ -33488,7 +33472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ren\u00e9 van Dijk Freesia B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2093
+      "id": 2092
     },
     {
       "geometry": {
@@ -33504,7 +33488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>OK Plant Beheer B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2094
+      "id": 2093
     },
     {
       "geometry": {
@@ -33520,7 +33504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>W.A.M. van den Berg Beheer B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2095
+      "id": 2094
     },
     {
       "geometry": {
@@ -33536,7 +33520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ortho Westland B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2096
+      "id": 2095
     },
     {
       "geometry": {
@@ -33552,7 +33536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Grand Caf\u00e9 - Restaurant Bij 5 Naaldwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2097
+      "id": 2096
     },
     {
       "geometry": {
@@ -33568,7 +33552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>C'est bon chez L\u00e9on B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2098
+      "id": 2097
     },
     {
       "geometry": {
@@ -33584,7 +33568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ruimtescheppen Naaldwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2099
+      "id": 2098
     },
     {
       "geometry": {
@@ -33600,7 +33584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bouwbedrijf Zwarts Naaldwijk B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2100
+      "id": 2099
     },
     {
       "geometry": {
@@ -33616,7 +33600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gasrent Westland Beheer B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2101
+      "id": 2100
     },
     {
       "geometry": {
@@ -33632,7 +33616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Raaskal Foodcreators B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2102
+      "id": 2101
     },
     {
       "geometry": {
@@ -33648,7 +33632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Roo Autoverhuur en Lease B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2103
+      "id": 2102
     },
     {
       "geometry": {
@@ -33664,7 +33648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ADNU Accountants & Adviseurs B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2104
+      "id": 2103
     },
     {
       "geometry": {
@@ -33680,15 +33664,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NIFE Energie-advies B.V. 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2105
+      "id": 2104
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2203322,
+          4.221024,
           [
-            51.990403
+            51.991448
           ]
         ]
       },
@@ -33696,7 +33680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flynth adviseurs en accountants B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2106
+      "id": 2105
     },
     {
       "geometry": {
@@ -33712,7 +33696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Americold Westland Warehousing B.V. 's-Gravenzande<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2107
+      "id": 2106
     },
     {
       "geometry": {
@@ -33728,7 +33712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CEVA Sant\u00e9 Animale B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2108
+      "id": 2107
     },
     {
       "geometry": {
@@ -33744,7 +33728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lensli Cuijk B.V. Katwijk NB<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2109
+      "id": 2108
     },
     {
       "geometry": {
@@ -33760,7 +33744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hofa B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2110
+      "id": 2109
     },
     {
       "geometry": {
@@ -33776,7 +33760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Efectis Nederland B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2111
+      "id": 2110
     },
     {
       "geometry": {
@@ -33792,7 +33776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>McJade B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2112
+      "id": 2111
     },
     {
       "geometry": {
@@ -33808,7 +33792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cemex Trescon B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2113
+      "id": 2112
     },
     {
       "geometry": {
@@ -33824,7 +33808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Premium Storage B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2114
+      "id": 2113
     },
     {
       "geometry": {
@@ -33840,7 +33824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bunnik Plants Beheer B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2115
+      "id": 2114
     },
     {
       "geometry": {
@@ -33856,7 +33840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tomatenkwekerij Paul van Paassen B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2116
+      "id": 2115
     },
     {
       "geometry": {
@@ -33872,7 +33856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Agro Fresh Connection Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2117
+      "id": 2116
     },
     {
       "geometry": {
@@ -33888,7 +33872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WAI Europe B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2118
+      "id": 2117
     },
     {
       "geometry": {
@@ -33904,7 +33888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>F & R Beheer B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2119
+      "id": 2118
     },
     {
       "geometry": {
@@ -33920,7 +33904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>F en R Transport B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2120
+      "id": 2119
     },
     {
       "geometry": {
@@ -33936,7 +33920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NHK Beheer B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2121
+      "id": 2120
     },
     {
       "geometry": {
@@ -33952,7 +33936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BWH Beheer B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2122
+      "id": 2121
     },
     {
       "geometry": {
@@ -33968,7 +33952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Brandwacht Huren B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2123
+      "id": 2122
     },
     {
       "geometry": {
@@ -33984,7 +33968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flex_Worx! Uitzendbureau B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2124
+      "id": 2123
     },
     {
       "geometry": {
@@ -34000,15 +33984,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Trionymus Personeelsdiensten Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2125
+      "id": 2124
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5375749,
+          4.5376474,
           [
-            52.0254429
+            52.0257138
           ]
         ]
       },
@@ -34016,7 +34000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Yperen & Partners B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2126
+      "id": 2125
     },
     {
       "geometry": {
@@ -34032,15 +34016,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rovasta-Roestvrijstaal Bleiswijk B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2127
+      "id": 2126
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.5041833,
+          4.5105,
           [
-            52.0066087
+            52.0054743
           ]
         ]
       },
@@ -34048,7 +34032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Klugt Bleiswijk Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2128
+      "id": 2127
     },
     {
       "geometry": {
@@ -34064,7 +34048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wooning Orchideeen B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2129
+      "id": 2128
     },
     {
       "geometry": {
@@ -34080,7 +34064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Muller Beursplein B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2130
+      "id": 2129
     },
     {
       "geometry": {
@@ -34096,7 +34080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Klugt De Lier De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2131
+      "id": 2130
     },
     {
       "geometry": {
@@ -34112,7 +34096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>24 Play Bleiswijk B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2132
+      "id": 2131
     },
     {
       "geometry": {
@@ -34128,7 +34112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Paul Moerman Beheer Bleiswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2133
+      "id": 2132
     },
     {
       "geometry": {
@@ -34144,7 +34128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Voorwinden Kassenbouwprojecten B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2134
+      "id": 2133
     },
     {
       "geometry": {
@@ -34160,7 +34144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bijou Moderne B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2135
+      "id": 2134
     },
     {
       "geometry": {
@@ -34176,7 +34160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Krala Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2136
+      "id": 2135
     },
     {
       "geometry": {
@@ -34192,7 +34176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rotterdam Aelbrechtskade Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2137
+      "id": 2136
     },
     {
       "geometry": {
@@ -34208,7 +34192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rotterdam Vuurplaat Bleiswijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2138
+      "id": 2137
     },
     {
       "geometry": {
@@ -34224,7 +34208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Post Transport Holding B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2139
+      "id": 2138
     },
     {
       "geometry": {
@@ -34240,7 +34224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>H.Th. de With B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2140
+      "id": 2139
     },
     {
       "geometry": {
@@ -34256,7 +34240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bureau Brug Bergschenhoek<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2141
+      "id": 2140
     },
     {
       "geometry": {
@@ -34272,7 +34256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tinex B.V. Tinte<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2142
+      "id": 2141
     },
     {
       "geometry": {
@@ -34288,7 +34272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apartt Rotterdam Horeca B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2143
+      "id": 2142
     },
     {
       "geometry": {
@@ -34304,7 +34288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tom en Aad Vastgoed B.V. Bleiswijk<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2144
+      "id": 2143
     },
     {
       "geometry": {
@@ -34320,7 +34304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aannemings- en Verhuurbedrijf Ripping B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2145
+      "id": 2144
     },
     {
       "geometry": {
@@ -34336,7 +34320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Serious Game Media Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2146
+      "id": 2145
     },
     {
       "geometry": {
@@ -34352,7 +34336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Outdoor Valley Wintersport Bergschenhoek<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2147
+      "id": 2146
     },
     {
       "geometry": {
@@ -34368,7 +34352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pieralisi Northern Europe B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2148
+      "id": 2147
     },
     {
       "geometry": {
@@ -34384,7 +34368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hollandplant B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2149
+      "id": 2148
     },
     {
       "geometry": {
@@ -34400,7 +34384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Watertuin Schiedam B.V. Schiedam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2150
+      "id": 2149
     },
     {
       "geometry": {
@@ -34416,7 +34400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Watertuin Bergen op Zoom B.V. Bergen op Zoom<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2151
+      "id": 2150
     },
     {
       "geometry": {
@@ -34432,7 +34416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Watertuin Rijswijk B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2152
+      "id": 2151
     },
     {
       "geometry": {
@@ -34448,7 +34432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Watertuin Hendrik-Ido-Ambacht B.V. Hendrik-Ido-Ambacht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2153
+      "id": 2152
     },
     {
       "geometry": {
@@ -34464,7 +34448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Japanse Watertuin B.V. Naaldwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2154
+      "id": 2153
     },
     {
       "geometry": {
@@ -34480,7 +34464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Martin Veltkamp Tuinen B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2155
+      "id": 2154
     },
     {
       "geometry": {
@@ -34496,7 +34480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Martin van den Bogerd Logistiek B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2156
+      "id": 2155
     },
     {
       "geometry": {
@@ -34512,7 +34496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Het Posthuys B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2157
+      "id": 2156
     },
     {
       "geometry": {
@@ -34528,7 +34512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TrackJack Europe Bergschenhoek<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2158
+      "id": 2157
     },
     {
       "geometry": {
@@ -34544,7 +34528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Heron Groep Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2159
+      "id": 2158
     },
     {
       "geometry": {
@@ -34560,7 +34544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RLPF Holding B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2160
+      "id": 2159
     },
     {
       "geometry": {
@@ -34576,7 +34560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RLI Projecten B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2161
+      "id": 2160
     },
     {
       "geometry": {
@@ -34592,7 +34576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dovianus B.V. Bergschenhoek<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2162
+      "id": 2161
     },
     {
       "geometry": {
@@ -34608,7 +34592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Breman Woningbeheer Zuid-West B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2163
+      "id": 2162
     },
     {
       "geometry": {
@@ -34624,7 +34608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NoRisk Keymanagement B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2164
+      "id": 2163
     },
     {
       "geometry": {
@@ -34640,7 +34624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NVD Beveiligingen Techniek Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2165
+      "id": 2164
     },
     {
       "geometry": {
@@ -34656,7 +34640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Emdamed B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2166
+      "id": 2165
     },
     {
       "geometry": {
@@ -34672,7 +34656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Picnic Fulfilment B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2167
+      "id": 2166
     },
     {
       "geometry": {
@@ -34688,7 +34672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Roessen & Roessen Bedrijfsdiensten B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2168
+      "id": 2167
     },
     {
       "geometry": {
@@ -34704,7 +34688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Roessen & Roessen Schoonmaakdiensten B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2169
+      "id": 2168
     },
     {
       "geometry": {
@@ -34720,7 +34704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Steady Rocks Maintenance B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2170
+      "id": 2169
     },
     {
       "geometry": {
@@ -34736,7 +34720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aannemingsbedrijf P. Hoogerbrugge B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2171
+      "id": 2170
     },
     {
       "geometry": {
@@ -34752,7 +34736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Eetcaf\u00e9 Tios y Tias B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2172
+      "id": 2171
     },
     {
       "geometry": {
@@ -34768,7 +34752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hacousto Holland B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2173
+      "id": 2172
     },
     {
       "geometry": {
@@ -34784,7 +34768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Leon Bonnewits Beheer B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2174
+      "id": 2173
     },
     {
       "geometry": {
@@ -34800,7 +34784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Zee Kozijntechniek & Gevelelementen Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2175
+      "id": 2174
     },
     {
       "geometry": {
@@ -34816,7 +34800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zowel! BuurtZorg B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2176
+      "id": 2175
     },
     {
       "geometry": {
@@ -34832,7 +34816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aspectra B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2177
+      "id": 2176
     },
     {
       "geometry": {
@@ -34848,7 +34832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DLR Adviesgroep B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2178
+      "id": 2177
     },
     {
       "geometry": {
@@ -34864,7 +34848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Koppert Beheer B.V. Berkel en Rodenrijs<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2179
+      "id": 2178
     },
     {
       "geometry": {
@@ -34880,7 +34864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CWS Workwear Delfgauw<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2180
+      "id": 2179
     },
     {
       "geometry": {
@@ -34896,7 +34880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vacu Vin B.V. Delfgauw<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2181
+      "id": 2180
     },
     {
       "geometry": {
@@ -34912,7 +34896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Delft Research Group B.V. Delfgauw<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2182
+      "id": 2181
     },
     {
       "geometry": {
@@ -34928,7 +34912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van den Berg RoseS Nederland B.V. Delfgauw<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2183
+      "id": 2182
     },
     {
       "geometry": {
@@ -34944,7 +34928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dental Clinics Pijnacker B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2184
+      "id": 2183
     },
     {
       "geometry": {
@@ -34960,7 +34944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Buuren Tandheelkunde B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2185
+      "id": 2184
     },
     {
       "geometry": {
@@ -34976,7 +34960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pannenkoekenhuis de Soete Suikerbol Vlaardingen B.V. Vlaardingen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2186
+      "id": 2185
     },
     {
       "geometry": {
@@ -34992,7 +34976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sportfondsen Pijnacker-Nootdorp B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2187
+      "id": 2186
     },
     {
       "geometry": {
@@ -35008,7 +34992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VAN DUIJN INVEST B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2188
+      "id": 2187
     },
     {
       "geometry": {
@@ -35024,7 +35008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Beheermaatschappij Burg B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2189
+      "id": 2188
     },
     {
       "geometry": {
@@ -35040,7 +35024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Burg Trailer Service B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2190
+      "id": 2189
     },
     {
       "geometry": {
@@ -35056,7 +35040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Intratuin Pijnacker Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2191
+      "id": 2190
     },
     {
       "geometry": {
@@ -35072,7 +35056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De NatuurApotheek B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2192
+      "id": 2191
     },
     {
       "geometry": {
@@ -35088,7 +35072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schieoevers Facility B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2193
+      "id": 2192
     },
     {
       "geometry": {
@@ -35104,7 +35088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>International Mobility Group B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2194
+      "id": 2193
     },
     {
       "geometry": {
@@ -35120,7 +35104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Direct Healthcare Group B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2195
+      "id": 2194
     },
     {
       "geometry": {
@@ -35136,7 +35120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Slagerij Opstal B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2196
+      "id": 2195
     },
     {
       "geometry": {
@@ -35152,7 +35136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Telstar Uitgeverij B.V. Pijnacker<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2197
+      "id": 2196
     },
     {
       "geometry": {
@@ -35168,7 +35152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>KAN Jongeren Communicatie B.V. Schipluiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2198
+      "id": 2197
     },
     {
       "geometry": {
@@ -35184,7 +35168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Balmain Hair Group Schipluiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2199
+      "id": 2198
     },
     {
       "geometry": {
@@ -35200,7 +35184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Speedy Koeriers B.V. Den Hoorn<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2200
+      "id": 2199
     },
     {
       "geometry": {
@@ -35216,7 +35200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>John Kleijweg B.V. Den Hoorn<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2201
+      "id": 2200
     },
     {
       "geometry": {
@@ -35232,7 +35216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dalsem Tuinbouwprojecten B.V. Den Hoorn<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2202
+      "id": 2201
     },
     {
       "geometry": {
@@ -35248,7 +35232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Hoeven Installations B.V. Den Hoorn<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2203
+      "id": 2202
     },
     {
       "geometry": {
@@ -35264,7 +35248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Groot Grootverbruik B.V. Den Hoorn<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2204
+      "id": 2203
     },
     {
       "geometry": {
@@ -35280,7 +35264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Paardekooper B.V. Den Hoorn<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2205
+      "id": 2204
     },
     {
       "geometry": {
@@ -35296,7 +35280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Comatters Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2206
+      "id": 2205
     },
     {
       "geometry": {
@@ -35312,7 +35296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tasseron Controls B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2207
+      "id": 2206
     },
     {
       "geometry": {
@@ -35328,7 +35312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>apetito Service Center Nootdorp Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2208
+      "id": 2207
     },
     {
       "geometry": {
@@ -35344,7 +35328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tasseron Sensors B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2209
+      "id": 2208
     },
     {
       "geometry": {
@@ -35360,7 +35344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tasseron Electronics Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2210
+      "id": 2209
     },
     {
       "geometry": {
@@ -35376,7 +35360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Partycentrum Het Witte Paard B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2211
+      "id": 2210
     },
     {
       "geometry": {
@@ -35392,7 +35376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>G.I. Dynamics B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2212
+      "id": 2211
     },
     {
       "geometry": {
@@ -35408,7 +35392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mobiwerk Vervoer B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2213
+      "id": 2212
     },
     {
       "geometry": {
@@ -35424,7 +35408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tenbos B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2214
+      "id": 2213
     },
     {
       "geometry": {
@@ -35440,7 +35424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Romynox B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2215
+      "id": 2214
     },
     {
       "geometry": {
@@ -35456,7 +35440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bouwbedrijf E.S. van Venrooij B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2216
+      "id": 2215
     },
     {
       "geometry": {
@@ -35472,7 +35456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dental Clinics Nootdorp B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2217
+      "id": 2216
     },
     {
       "geometry": {
@@ -35488,7 +35472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schoonmaakbedrijf C.J. van Rijn B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2218
+      "id": 2217
     },
     {
       "geometry": {
@@ -35504,7 +35488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Venum B.V. Arnhem<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2219
+      "id": 2218
     },
     {
       "geometry": {
@@ -35520,7 +35504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mooijman Accountants en Belastingadviseurs B.V. Nootdorp<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2220
+      "id": 2219
     },
     {
       "geometry": {
@@ -35536,7 +35520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Applikon Biotechnology B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2221
+      "id": 2220
     },
     {
       "geometry": {
@@ -35552,7 +35536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>M.P.M. International Oil Company B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2222
+      "id": 2221
     },
     {
       "geometry": {
@@ -35568,7 +35552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kringloopbedrijf Delft B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2223
+      "id": 2222
     },
     {
       "geometry": {
@@ -35584,7 +35568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Betonfabriek Vrijenban Zuidbroek Zuidbroek<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2224
+      "id": 2223
     },
     {
       "geometry": {
@@ -35600,7 +35584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>GnTel B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2225
+      "id": 2224
     },
     {
       "geometry": {
@@ -35616,7 +35600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Trimension B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2226
+      "id": 2225
     },
     {
       "geometry": {
@@ -35632,7 +35616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Abseilen.nl B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2227
+      "id": 2226
     },
     {
       "geometry": {
@@ -35648,7 +35632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Height B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2228
+      "id": 2227
     },
     {
       "geometry": {
@@ -35664,7 +35648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Coop Wippolder Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2229
+      "id": 2228
     },
     {
       "geometry": {
@@ -35680,7 +35664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DELMIC B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2230
+      "id": 2229
     },
     {
       "geometry": {
@@ -35696,7 +35680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bouwmaterialenhandel Koolschijn B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2231
+      "id": 2230
     },
     {
       "geometry": {
@@ -35712,7 +35696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Duijndam Delft caravans & campers B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2232
+      "id": 2231
     },
     {
       "geometry": {
@@ -35728,7 +35712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Leerdam Crystal Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2233
+      "id": 2232
     },
     {
       "geometry": {
@@ -35744,7 +35728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DAP Advies B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2234
+      "id": 2233
     },
     {
       "geometry": {
@@ -35760,7 +35744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tak Architektenbureau Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2235
+      "id": 2234
     },
     {
       "geometry": {
@@ -35776,7 +35760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Advanced Lightweight Engineering B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2236
+      "id": 2235
     },
     {
       "geometry": {
@@ -35792,7 +35776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Metaalbewerkingsbedrijf Van Der Velde Delft B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2237
+      "id": 2236
     },
     {
       "geometry": {
@@ -35808,7 +35792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zandvliet Vleeswaren II B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2238
+      "id": 2237
     },
     {
       "geometry": {
@@ -35824,7 +35808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VCD Business Solutions B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2239
+      "id": 2238
     },
     {
       "geometry": {
@@ -35840,7 +35824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rotterdam Trading Office B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2240
+      "id": 2239
     },
     {
       "geometry": {
@@ -35856,7 +35840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>IJzerhandel Zwaard Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2241
+      "id": 2240
     },
     {
       "geometry": {
@@ -35872,7 +35856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flier Luchtkanalenmontage Delft B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2242
+      "id": 2241
     },
     {
       "geometry": {
@@ -35888,7 +35872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Supermarkt J. & P. de Bruin B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2243
+      "id": 2242
     },
     {
       "geometry": {
@@ -35904,7 +35888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Luciano Delft Vrijheidslaan B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2244
+      "id": 2243
     },
     {
       "geometry": {
@@ -35920,7 +35904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>IN-TRIM B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2245
+      "id": 2244
     },
     {
       "geometry": {
@@ -35936,7 +35920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Happy KidsCare B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2246
+      "id": 2245
     },
     {
       "geometry": {
@@ -35952,7 +35936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MandoTech Installatie- en Montagetechniek B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2247
+      "id": 2246
     },
     {
       "geometry": {
@@ -35968,7 +35952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BP voorhofdreef Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2248
+      "id": 2247
     },
     {
       "geometry": {
@@ -35984,7 +35968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schoonmaakbedrijf Boonman B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2249
+      "id": 2248
     },
     {
       "geometry": {
@@ -36000,7 +35984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>E-Semble Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2250
+      "id": 2249
     },
     {
       "geometry": {
@@ -36016,7 +36000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Elektrotechnisch Servicebureau C.L. Groenewegen B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2251
+      "id": 2250
     },
     {
       "geometry": {
@@ -36032,7 +36016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Stone groep personeel B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2252
+      "id": 2251
     },
     {
       "geometry": {
@@ -36048,7 +36032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Shanghai Garden Restaurant B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2253
+      "id": 2252
     },
     {
       "geometry": {
@@ -36064,7 +36048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Samsung Bioepis NL B.V. Delft<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2254
+      "id": 2253
     },
     {
       "geometry": {
@@ -36080,7 +36064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>REKI Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2255
+      "id": 2254
     },
     {
       "geometry": {
@@ -36096,7 +36080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Alphakids Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2256
+      "id": 2255
     },
     {
       "geometry": {
@@ -36112,7 +36096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zwem- en Squashcentrum Delft Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2257
+      "id": 2256
     },
     {
       "geometry": {
@@ -36128,7 +36112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VCD Infra Solutions B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2258
+      "id": 2257
     },
     {
       "geometry": {
@@ -36144,7 +36128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Brightsight B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2259
+      "id": 2258
     },
     {
       "geometry": {
@@ -36160,7 +36144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Umai Delft B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2260
+      "id": 2259
     },
     {
       "geometry": {
@@ -36176,7 +36160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tandzorg Delft Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2261
+      "id": 2260
     },
     {
       "geometry": {
@@ -36192,7 +36176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Triumph Studios B.V. Delft<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2262
+      "id": 2261
     },
     {
       "geometry": {
@@ -36208,7 +36192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Boeddha B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2263
+      "id": 2262
     },
     {
       "geometry": {
@@ -36224,7 +36208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bruna Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2264
+      "id": 2263
     },
     {
       "geometry": {
@@ -36240,7 +36224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ABF Research B.V. Delft<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2265
+      "id": 2264
     },
     {
       "geometry": {
@@ -36256,7 +36240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Prodeba B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2266
+      "id": 2265
     },
     {
       "geometry": {
@@ -36272,7 +36256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>The Real Greek B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2267
+      "id": 2266
     },
     {
       "geometry": {
@@ -36288,7 +36272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>E&S winkels B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2268
+      "id": 2267
     },
     {
       "geometry": {
@@ -36304,7 +36288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fratelli Leidschendam B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2269
+      "id": 2268
     },
     {
       "geometry": {
@@ -36320,7 +36304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RVDL Optiek B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2270
+      "id": 2269
     },
     {
       "geometry": {
@@ -36336,7 +36320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>OAPD B.V. Delft<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2271
+      "id": 2270
     },
     {
       "geometry": {
@@ -36352,7 +36336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>E-conomy B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2272
+      "id": 2271
     },
     {
       "geometry": {
@@ -36368,7 +36352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ferro Horeca B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2273
+      "id": 2272
     },
     {
       "geometry": {
@@ -36384,7 +36368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>i.p.v. Delft, ingenieursbureau voor productvormgeving B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2274
+      "id": 2273
     },
     {
       "geometry": {
@@ -36400,7 +36384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Delft Museum Hotel B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2275
+      "id": 2274
     },
     {
       "geometry": {
@@ -36416,7 +36400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aanmelder.nl B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2276
+      "id": 2275
     },
     {
       "geometry": {
@@ -36432,7 +36416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Het Gymnasium Facilitair Bedrijf B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2277
+      "id": 2276
     },
     {
       "geometry": {
@@ -36448,7 +36432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Operator Groep Delft B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2278
+      "id": 2277
     },
     {
       "geometry": {
@@ -36464,7 +36448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RPS B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2279
+      "id": 2278
     },
     {
       "geometry": {
@@ -36480,7 +36464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mapper Lithography B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2280
+      "id": 2279
     },
     {
       "geometry": {
@@ -36496,7 +36480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Univ\u00e9 Het Groene Hart Bemiddeling B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2281
+      "id": 2280
     },
     {
       "geometry": {
@@ -36512,7 +36496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pro Management Onderwijs Support B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2282
+      "id": 2281
     },
     {
       "geometry": {
@@ -36528,7 +36512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Fox-IT Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2283
+      "id": 2282
     },
     {
       "geometry": {
@@ -36544,7 +36528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZF Services Nederland B.V. Delfgauw<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2284
+      "id": 2283
     },
     {
       "geometry": {
@@ -36560,7 +36544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NMi Certin B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2285
+      "id": 2284
     },
     {
       "geometry": {
@@ -36576,7 +36560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mastermate DC Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2286
+      "id": 2285
     },
     {
       "geometry": {
@@ -36592,7 +36576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Holland Proton Therapy Centre Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2287
+      "id": 2286
     },
     {
       "geometry": {
@@ -36608,7 +36592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>KPS Delft B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2288
+      "id": 2287
     },
     {
       "geometry": {
@@ -36624,7 +36608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Royal Delft Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2289
+      "id": 2288
     },
     {
       "geometry": {
@@ -36640,15 +36624,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rojo Beheer B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2290
+      "id": 2289
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.933356,
+          5.9333485,
           [
-            51.9873445
+            51.9873846
           ]
         ]
       },
@@ -36656,7 +36640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Worley Projects & Engineering B.V. Arnhem<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2291
+      "id": 2290
     },
     {
       "geometry": {
@@ -36672,7 +36656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>JDJ Management B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2292
+      "id": 2291
     },
     {
       "geometry": {
@@ -36688,7 +36672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Oasis Data & Document Management Netherlands Haarlem<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2293
+      "id": 2292
     },
     {
       "geometry": {
@@ -36704,7 +36688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Berg Wegenwerk B.V. Oosterhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2294
+      "id": 2293
     },
     {
       "geometry": {
@@ -36720,7 +36704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mapper Lithography Holding B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2295
+      "id": 2294
     },
     {
       "geometry": {
@@ -36736,7 +36720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Peukie Beheer B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2296
+      "id": 2295
     },
     {
       "geometry": {
@@ -36752,7 +36736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Uni Fortis Nederland B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2297
+      "id": 2296
     },
     {
       "geometry": {
@@ -36768,7 +36752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Smarlet RPM B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2298
+      "id": 2297
     },
     {
       "geometry": {
@@ -36784,7 +36768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kashani Holding B.V. Voorburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2299
+      "id": 2298
     },
     {
       "geometry": {
@@ -36800,7 +36784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Y4 Infra B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2300
+      "id": 2299
     },
     {
       "geometry": {
@@ -36816,7 +36800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Oakwood Beheer B.V. Zeist<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2301
+      "id": 2300
     },
     {
       "geometry": {
@@ -36832,7 +36816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Picnic Hubs B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2302
+      "id": 2301
     },
     {
       "geometry": {
@@ -36848,7 +36832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>House of Lords B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2303
+      "id": 2302
     },
     {
       "geometry": {
@@ -36864,7 +36848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bouwbedrijf Gouden Tang B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2304
+      "id": 2303
     },
     {
       "geometry": {
@@ -36880,7 +36864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>JMF Transport B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2305
+      "id": 2304
     },
     {
       "geometry": {
@@ -36896,7 +36880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Young Flexteam IJzervlecht B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2306
+      "id": 2305
     },
     {
       "geometry": {
@@ -36912,7 +36896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>L. van Schaik Uitbeenbedrijf B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2307
+      "id": 2306
     },
     {
       "geometry": {
@@ -36928,7 +36912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Austria Deuren B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2308
+      "id": 2307
     },
     {
       "geometry": {
@@ -36944,7 +36928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TES PERSONEEL GROEP B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2309
+      "id": 2308
     },
     {
       "geometry": {
@@ -36960,7 +36944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>A+K INVESTMENT B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2310
+      "id": 2309
     },
     {
       "geometry": {
@@ -36976,7 +36960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dream Home Interiors B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2311
+      "id": 2310
     },
     {
       "geometry": {
@@ -36992,7 +36976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Rizing B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2312
+      "id": 2311
     },
     {
       "geometry": {
@@ -37008,7 +36992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SkillTech B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2313
+      "id": 2312
     },
     {
       "geometry": {
@@ -37024,7 +37008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Top Provider Construct Netherlands B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2314
+      "id": 2313
     },
     {
       "geometry": {
@@ -37040,7 +37024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Unknown Innovation B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2315
+      "id": 2314
     },
     {
       "geometry": {
@@ -37056,7 +37040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DMFCO Asset Management 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2316
+      "id": 2315
     },
     {
       "geometry": {
@@ -37072,7 +37056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Yes B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2317
+      "id": 2316
     },
     {
       "geometry": {
@@ -37088,7 +37072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ideaal Avondwinkel B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2318
+      "id": 2317
     },
     {
       "geometry": {
@@ -37104,7 +37088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Supermarkt ABC B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2319
+      "id": 2318
     },
     {
       "geometry": {
@@ -37120,7 +37104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PekFlex B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2320
+      "id": 2319
     },
     {
       "geometry": {
@@ -37136,7 +37120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>The Key of Performance Personeelsdiensten/TH-P B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2321
+      "id": 2320
     },
     {
       "geometry": {
@@ -37152,7 +37136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ap's Services B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2322
+      "id": 2321
     },
     {
       "geometry": {
@@ -37168,7 +37152,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Konsar B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2323
+      "id": 2322
     },
     {
       "geometry": {
@@ -37184,7 +37168,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Basis-E-Markt Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2324
+      "id": 2323
     },
     {
       "geometry": {
@@ -37200,7 +37184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>NedBouw B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2325
+      "id": 2324
     },
     {
       "geometry": {
@@ -37216,7 +37200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vlasbouw Dienstverlening B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2326
+      "id": 2325
     },
     {
       "geometry": {
@@ -37232,7 +37216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zorg@Home B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2327
+      "id": 2326
     },
     {
       "geometry": {
@@ -37248,7 +37232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zo Unltd B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2328
+      "id": 2327
     },
     {
       "geometry": {
@@ -37264,7 +37248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Jutters 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2329
+      "id": 2328
     },
     {
       "geometry": {
@@ -37280,7 +37264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kalisvaart Etos 1 B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2330
+      "id": 2329
     },
     {
       "geometry": {
@@ -37296,7 +37280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>International Health Spa B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2331
+      "id": 2330
     },
     {
       "geometry": {
@@ -37312,7 +37296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Huize Henri\u00eblla B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2332
+      "id": 2331
     },
     {
       "geometry": {
@@ -37328,15 +37312,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Officesoft B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2333
+      "id": 2332
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2685288,
+          4.2694009,
           [
-            52.0678405
+            52.0676314
           ]
         ]
       },
@@ -37344,7 +37328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Yarden Uitvaartzorg Haaglanden 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2334
+      "id": 2333
     },
     {
       "geometry": {
@@ -37360,7 +37344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Gran Mercado B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2335
+      "id": 2334
     },
     {
       "geometry": {
@@ -37376,7 +37360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Henri\u00eblla Thuiszorg B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2336
+      "id": 2335
     },
     {
       "geometry": {
@@ -37392,7 +37376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bofi Personeelsdiensten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2337
+      "id": 2336
     },
     {
       "geometry": {
@@ -37408,7 +37392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>E.V. Mantingh Holding B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2338
+      "id": 2337
     },
     {
       "geometry": {
@@ -37424,7 +37408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>L.W.G. van der Velde Beheer B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2339
+      "id": 2338
     },
     {
       "geometry": {
@@ -37440,7 +37424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bohemenwijk Apotheek B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2340
+      "id": 2339
     },
     {
       "geometry": {
@@ -37456,7 +37440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cuvo Uitvaartverzorging 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2341
+      "id": 2340
     },
     {
       "geometry": {
@@ -37472,7 +37456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Jan Knijnenburg B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2342
+      "id": 2341
     },
     {
       "geometry": {
@@ -37488,7 +37472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>L. van der Wiel, technischinstallatie- en onderhoudsbedrijf B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2343
+      "id": 2342
     },
     {
       "geometry": {
@@ -37504,7 +37488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sam Flex B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2344
+      "id": 2343
     },
     {
       "geometry": {
@@ -37520,7 +37504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>REK Technisch Management B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2345
+      "id": 2344
     },
     {
       "geometry": {
@@ -37536,15 +37520,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dental Clinics Den Haag Wateringse Veld B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2346
+      "id": 2345
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2762151,
+          4.2762584,
           [
-            52.0515209
+            52.0515604
           ]
         ]
       },
@@ -37552,7 +37536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mama I Dziecko 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2347
+      "id": 2346
     },
     {
       "geometry": {
@@ -37568,7 +37552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Onze Wereld B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2348
+      "id": 2347
     },
     {
       "geometry": {
@@ -37584,15 +37568,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BFG Leyweg B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2349
+      "id": 2348
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2780166,
+          4.2780421,
           [
-            52.0467356
+            52.0466805
           ]
         ]
       },
@@ -37600,7 +37584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Xenos B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2350
+      "id": 2349
     },
     {
       "geometry": {
@@ -37616,7 +37600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apotheek Brusse B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2351
+      "id": 2350
     },
     {
       "geometry": {
@@ -37632,7 +37616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Demir Dienstverlening B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2352
+      "id": 2351
     },
     {
       "geometry": {
@@ -37648,7 +37632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kwis Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2353
+      "id": 2352
     },
     {
       "geometry": {
@@ -37664,7 +37648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hudson Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2354
+      "id": 2353
     },
     {
       "geometry": {
@@ -37680,7 +37664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Apotheek Bouwlust B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2355
+      "id": 2354
     },
     {
       "geometry": {
@@ -37696,7 +37680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>AVEQ show, theatre & congress facilities B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2356
+      "id": 2355
     },
     {
       "geometry": {
@@ -37712,7 +37696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Autoschade Herstel Wibu 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2357
+      "id": 2356
     },
     {
       "geometry": {
@@ -37728,7 +37712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DZM Data Solution B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2358
+      "id": 2357
     },
     {
       "geometry": {
@@ -37744,7 +37728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Plieger B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2359
+      "id": 2358
     },
     {
       "geometry": {
@@ -37760,7 +37744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Veolia Papier Recycling Nederland B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2360
+      "id": 2359
     },
     {
       "geometry": {
@@ -37776,7 +37760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>McDonald's restaurant Den Haag Escamplaan 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2361
+      "id": 2360
     },
     {
       "geometry": {
@@ -37792,7 +37776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>LCM Personeelsdiensten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2362
+      "id": 2361
     },
     {
       "geometry": {
@@ -37808,7 +37792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Huijkman & Duyvestein Orthopedische Schoentechniek B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2363
+      "id": 2362
     },
     {
       "geometry": {
@@ -37824,7 +37808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MSG Infra B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2364
+      "id": 2363
     },
     {
       "geometry": {
@@ -37840,7 +37824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van Eembergen Koffie - Espressomachines &      Horeca Apparatuur B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2365
+      "id": 2364
     },
     {
       "geometry": {
@@ -37856,7 +37840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Glashandel Blom B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2366
+      "id": 2365
     },
     {
       "geometry": {
@@ -37872,7 +37856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bouw- en Aannemingsbedrijf L. Dijkxhoorn B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2367
+      "id": 2366
     },
     {
       "geometry": {
@@ -37888,7 +37872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Electrotechnisch-Installatiebureau van Ginderen B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2368
+      "id": 2367
     },
     {
       "geometry": {
@@ -37904,7 +37888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kaya Personeelsdiensten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2369
+      "id": 2368
     },
     {
       "geometry": {
@@ -37920,7 +37904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>FSS Dienstverlening B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2370
+      "id": 2369
     },
     {
       "geometry": {
@@ -37936,7 +37920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cleaning Service 2001 B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2371
+      "id": 2370
     },
     {
       "geometry": {
@@ -37952,7 +37936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mallory Schoonmaakdiensten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2372
+      "id": 2371
     },
     {
       "geometry": {
@@ -37968,7 +37952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mama's Kindje B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2373
+      "id": 2372
     },
     {
       "geometry": {
@@ -37984,7 +37968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Graniet- en Mozaiekwerken F. Cristofoli B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2374
+      "id": 2373
     },
     {
       "geometry": {
@@ -38000,7 +37984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>E&E Cleaning Services B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2375
+      "id": 2374
     },
     {
       "geometry": {
@@ -38016,7 +38000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Wurk@u B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2376
+      "id": 2375
     },
     {
       "geometry": {
@@ -38032,7 +38016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Heijdra Exploitatie B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2377
+      "id": 2376
     },
     {
       "geometry": {
@@ -38048,7 +38032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Heijdra Aannemingsbedrijven B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2378
+      "id": 2377
     },
     {
       "geometry": {
@@ -38064,7 +38048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Arbo Flex Dienstverlening B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2379
+      "id": 2378
     },
     {
       "geometry": {
@@ -38080,7 +38064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HES Betonstaal B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2380
+      "id": 2379
     },
     {
       "geometry": {
@@ -38096,7 +38080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HFC Hobbemaplein Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2381
+      "id": 2380
     },
     {
       "geometry": {
@@ -38112,7 +38096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Oranje Wolf B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2382
+      "id": 2381
     },
     {
       "geometry": {
@@ -38128,7 +38112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Unit Staal B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2383
+      "id": 2382
     },
     {
       "geometry": {
@@ -38144,7 +38128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Yokko B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2384
+      "id": 2383
     },
     {
       "geometry": {
@@ -38160,7 +38144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tanger Supermarkten Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2385
+      "id": 2384
     },
     {
       "geometry": {
@@ -38176,7 +38160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vixan B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2386
+      "id": 2385
     },
     {
       "geometry": {
@@ -38192,7 +38176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Agrarisch Loonbedrijf Dede B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2387
+      "id": 2386
     },
     {
       "geometry": {
@@ -38208,7 +38192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Raisro B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2388
+      "id": 2387
     },
     {
       "geometry": {
@@ -38224,7 +38208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kontinu Consultancy B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2389
+      "id": 2388
     },
     {
       "geometry": {
@@ -38240,7 +38224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B.V. Handels- en Ingenieursbureau W.B. van den Berg 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2390
+      "id": 2389
     },
     {
       "geometry": {
@@ -38256,7 +38240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Royaal Thuis 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2391
+      "id": 2390
     },
     {
       "geometry": {
@@ -38272,7 +38256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Talenty B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2392
+      "id": 2391
     },
     {
       "geometry": {
@@ -38288,7 +38272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kurt B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2393
+      "id": 2392
     },
     {
       "geometry": {
@@ -38304,7 +38288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Unica Personeelsdiensten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2394
+      "id": 2393
     },
     {
       "geometry": {
@@ -38320,7 +38304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>K. Quality Uitzendbureau B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2395
+      "id": 2394
     },
     {
       "geometry": {
@@ -38336,7 +38320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Halal Voeding en Voedsel Keuringsdienst (Halal Feed and Food Inspection Authority) B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2396
+      "id": 2395
     },
     {
       "geometry": {
@@ -38352,7 +38336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HVR PA/PR 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2397
+      "id": 2396
     },
     {
       "geometry": {
@@ -38368,7 +38352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ampyx Power B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2398
+      "id": 2397
     },
     {
       "geometry": {
@@ -38384,7 +38368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Amusementscenter Sir Winston B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2399
+      "id": 2398
     },
     {
       "geometry": {
@@ -38400,7 +38384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Upstairs, Downstairs B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2400
+      "id": 2399
     },
     {
       "geometry": {
@@ -38416,7 +38400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Westbroekpark Rosarium B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2401
+      "id": 2400
     },
     {
       "geometry": {
@@ -38432,7 +38416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Qmulus B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2402
+      "id": 2401
     },
     {
       "geometry": {
@@ -38448,7 +38432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VZGG1 B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2403
+      "id": 2402
     },
     {
       "geometry": {
@@ -38464,7 +38448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Aquarius Hotel-Restaurant B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2404
+      "id": 2403
     },
     {
       "geometry": {
@@ -38480,7 +38464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ibis Den Haag Scheveningen 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2405
+      "id": 2404
     },
     {
       "geometry": {
@@ -38496,7 +38480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Boonoonoonoos B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2406
+      "id": 2405
     },
     {
       "geometry": {
@@ -38512,7 +38496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WF dienstverlening in vastgoed B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2407
+      "id": 2406
     },
     {
       "geometry": {
@@ -38528,7 +38512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Atelier Pro Architekten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2408
+      "id": 2407
     },
     {
       "geometry": {
@@ -38544,7 +38528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Orthodontistenpraktijk Zoetermeer 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2409
+      "id": 2408
     },
     {
       "geometry": {
@@ -38560,7 +38544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Micreos Human Health B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2410
+      "id": 2409
     },
     {
       "geometry": {
@@ -38576,7 +38560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BSI-Business Security International B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2411
+      "id": 2410
     },
     {
       "geometry": {
@@ -38592,7 +38576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mare Gastouderbureau B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2412
+      "id": 2411
     },
     {
       "geometry": {
@@ -38608,7 +38592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Workrate Security B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2413
+      "id": 2412
     },
     {
       "geometry": {
@@ -38624,7 +38608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Den Heijhof B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2414
+      "id": 2413
     },
     {
       "geometry": {
@@ -38640,7 +38624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Adficom Vastgoeddiensten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2415
+      "id": 2414
     },
     {
       "geometry": {
@@ -38656,7 +38640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nacra Sailing B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2416
+      "id": 2415
     },
     {
       "geometry": {
@@ -38672,7 +38656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Jaczon Zeevarend Personeel B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2417
+      "id": 2416
     },
     {
       "geometry": {
@@ -38688,7 +38672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Reefer Stevedoring IJmuiden B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2418
+      "id": 2417
     },
     {
       "geometry": {
@@ -38704,7 +38688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Het Brouwcaf\u00e9 Scheveningen-Haven 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2419
+      "id": 2418
     },
     {
       "geometry": {
@@ -38720,7 +38704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Trip Scheepvaart B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2420
+      "id": 2419
     },
     {
       "geometry": {
@@ -38736,7 +38720,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Back 2 the Beach B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2421
+      "id": 2420
     },
     {
       "geometry": {
@@ -38752,7 +38736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>New York Pizza Fred B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2422
+      "id": 2421
     },
     {
       "geometry": {
@@ -38768,7 +38752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Huisman Haartotaal 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2423
+      "id": 2422
     },
     {
       "geometry": {
@@ -38784,7 +38768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zorganimaties B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2424
+      "id": 2423
     },
     {
       "geometry": {
@@ -38800,7 +38784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kinderopvang Engeltjes Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2425
+      "id": 2424
     },
     {
       "geometry": {
@@ -38816,7 +38800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Timing Uitzendteam B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2426
+      "id": 2425
     },
     {
       "geometry": {
@@ -38832,7 +38816,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cenosco B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2427
+      "id": 2426
     },
     {
       "geometry": {
@@ -38848,7 +38832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Coffeeshop Dizzy Duck B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2428
+      "id": 2427
     },
     {
       "geometry": {
@@ -38864,7 +38848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Impressive GreenApple B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2429
+      "id": 2428
     },
     {
       "geometry": {
@@ -38880,7 +38864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ergra Low-Vision B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2430
+      "id": 2429
     },
     {
       "geometry": {
@@ -38896,7 +38880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schuttelaar & Partners, Adviesbureau voor Maatschappelijke Communicatie B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2431
+      "id": 2430
     },
     {
       "geometry": {
@@ -38912,7 +38896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Legian Consultancy B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2432
+      "id": 2431
     },
     {
       "geometry": {
@@ -38928,7 +38912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Legian Professionals B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2433
+      "id": 2432
     },
     {
       "geometry": {
@@ -38944,7 +38928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Legian Projekten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2434
+      "id": 2433
     },
     {
       "geometry": {
@@ -38960,7 +38944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hadoks Acute zorg B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2435
+      "id": 2434
     },
     {
       "geometry": {
@@ -38976,7 +38960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PDVSA Services B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2436
+      "id": 2435
     },
     {
       "geometry": {
@@ -38992,7 +38976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Duijvestein Wintersport 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2437
+      "id": 2436
     },
     {
       "geometry": {
@@ -39008,7 +38992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hotel Petit B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2438
+      "id": 2437
     },
     {
       "geometry": {
@@ -39024,15 +39008,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Bureau Broersma B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2439
+      "id": 2438
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2882525,
+          4.288265,
           [
-            52.0817961
+            52.0818036
           ]
         ]
       },
@@ -39040,7 +39024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SushiPoint Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2440
+      "id": 2439
     },
     {
       "geometry": {
@@ -39056,7 +39040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Balanzs Utrecht<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2441
+      "id": 2440
     },
     {
       "geometry": {
@@ -39072,7 +39056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Balanzs Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2442
+      "id": 2441
     },
     {
       "geometry": {
@@ -39088,7 +39072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZTE Netherlands B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2443
+      "id": 2442
     },
     {
       "geometry": {
@@ -39104,7 +39088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Haagse Taxi Mobilofoon Centrale B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2444
+      "id": 2443
     },
     {
       "geometry": {
@@ -39120,7 +39104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CompaNanny Voorburg B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2445
+      "id": 2444
     },
     {
       "geometry": {
@@ -39136,7 +39120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ENKA Bouwmaterialen B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2446
+      "id": 2445
     },
     {
       "geometry": {
@@ -39152,7 +39136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>B. Kerkhof & Zn. B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2447
+      "id": 2446
     },
     {
       "geometry": {
@@ -39168,15 +39152,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dana Petroleum Netherlands B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2448
+      "id": 2447
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3332564,
+          4.336450809223692,
           [
-            52.0735573
+            52.073928249999994
           ]
         ]
       },
@@ -39184,15 +39168,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Camptoo NL B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2449
+      "id": 2448
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3332564,
+          4.336450809223692,
           [
-            52.0735573
+            52.073928249999994
           ]
         ]
       },
@@ -39200,7 +39184,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Deelit Ventures B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2450
+      "id": 2449
     },
     {
       "geometry": {
@@ -39216,7 +39200,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ASN Autoschade Service van Vreden-Binckhorst 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2451
+      "id": 2450
     },
     {
       "geometry": {
@@ -39232,7 +39216,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zirwe B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2452
+      "id": 2451
     },
     {
       "geometry": {
@@ -39248,7 +39232,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Loodgietersbedrijf J.C.A. van der Gaag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2453
+      "id": 2452
     },
     {
       "geometry": {
@@ -39264,7 +39248,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Repro-van de Kamp B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2454
+      "id": 2453
     },
     {
       "geometry": {
@@ -39280,7 +39264,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Binck Groep B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2455
+      "id": 2454
     },
     {
       "geometry": {
@@ -39296,7 +39280,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Portiva B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2456
+      "id": 2455
     },
     {
       "geometry": {
@@ -39312,7 +39296,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>HAAGSE ASFALTCENTRALE (HAC) B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2457
+      "id": 2456
     },
     {
       "geometry": {
@@ -39328,7 +39312,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZooStation B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2458
+      "id": 2457
     },
     {
       "geometry": {
@@ -39344,7 +39328,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Xuntos B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2459
+      "id": 2458
     },
     {
       "geometry": {
@@ -39360,7 +39344,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Clingendael Media Groep B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2460
+      "id": 2459
     },
     {
       "geometry": {
@@ -39376,7 +39360,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Atrium Vastgoedmanagement B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2461
+      "id": 2460
     },
     {
       "geometry": {
@@ -39392,7 +39376,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Maas Accountants B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2462
+      "id": 2461
     },
     {
       "geometry": {
@@ -39408,7 +39392,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>OCRE Uitzendorganisatie B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2463
+      "id": 2462
     },
     {
       "geometry": {
@@ -39424,7 +39408,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Edelweiss Textielverzorging B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2464
+      "id": 2463
     },
     {
       "geometry": {
@@ -39440,7 +39424,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Modeluxe Linnen Services B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2465
+      "id": 2464
     },
     {
       "geometry": {
@@ -39456,7 +39440,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Club Vers B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2466
+      "id": 2465
     },
     {
       "geometry": {
@@ -39472,7 +39456,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Youb Zorg B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2467
+      "id": 2466
     },
     {
       "geometry": {
@@ -39488,7 +39472,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pixel Pool 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2468
+      "id": 2467
     },
     {
       "geometry": {
@@ -39504,7 +39488,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ARS Traffic & Transport Technology B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2469
+      "id": 2468
     },
     {
       "geometry": {
@@ -39520,7 +39504,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>VNG International B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2470
+      "id": 2469
     },
     {
       "geometry": {
@@ -39536,7 +39520,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Nostimos B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2471
+      "id": 2470
     },
     {
       "geometry": {
@@ -39552,7 +39536,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>KNMP Holding B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2472
+      "id": 2471
     },
     {
       "geometry": {
@@ -39568,7 +39552,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cr\u00e8che Hermelijntje IX B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2473
+      "id": 2472
     },
     {
       "geometry": {
@@ -39584,7 +39568,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cash Software B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2474
+      "id": 2473
     },
     {
       "geometry": {
@@ -39600,7 +39584,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ellens & Lentze Notariaat en Mediation B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2475
+      "id": 2474
     },
     {
       "geometry": {
@@ -39616,7 +39600,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hotel Park Handelskade B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2476
+      "id": 2475
     },
     {
       "geometry": {
@@ -39632,7 +39616,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>WissemaGroup Corporate 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2477
+      "id": 2476
     },
     {
       "geometry": {
@@ -39648,7 +39632,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Siebel Juweliers Den Haag 176 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2478
+      "id": 2477
     },
     {
       "geometry": {
@@ -39664,7 +39648,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hobeon Management Consult B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2479
+      "id": 2478
     },
     {
       "geometry": {
@@ -39680,7 +39664,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hofima B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2480
+      "id": 2479
     },
     {
       "geometry": {
@@ -39696,7 +39680,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>MDM accountants B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2481
+      "id": 2480
     },
     {
       "geometry": {
@@ -39712,7 +39696,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>CERRIX B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2482
+      "id": 2481
     },
     {
       "geometry": {
@@ -39728,7 +39712,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Octrooibureau Vriesendorp & Gaade B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2483
+      "id": 2482
     },
     {
       "geometry": {
@@ -39744,7 +39728,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>BNG Gebiedsontwikkeling B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2484
+      "id": 2483
     },
     {
       "geometry": {
@@ -39760,7 +39744,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Valsplat Den Haag 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2485
+      "id": 2484
     },
     {
       "geometry": {
@@ -39776,7 +39760,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Daan 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2486
+      "id": 2485
     },
     {
       "geometry": {
@@ -39792,7 +39776,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J. Hoogeveen en Co. B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2487
+      "id": 2486
     },
     {
       "geometry": {
@@ -39808,7 +39792,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hanting Cuisine B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2488
+      "id": 2487
     },
     {
       "geometry": {
@@ -39824,7 +39808,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>R en R Multizorg B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2489
+      "id": 2488
     },
     {
       "geometry": {
@@ -39840,7 +39824,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Borgdorff Taxaties B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2490
+      "id": 2489
     },
     {
       "geometry": {
@@ -39856,7 +39840,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>FSS MAC Den Haag 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2491
+      "id": 2490
     },
     {
       "geometry": {
@@ -39872,7 +39856,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>EEN! B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2492
+      "id": 2491
     },
     {
       "geometry": {
@@ -39888,7 +39872,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hotel/Restaurant Corona 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2493
+      "id": 2492
     },
     {
       "geometry": {
@@ -39904,7 +39888,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>eVision Industry Software B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2494
+      "id": 2493
     },
     {
       "geometry": {
@@ -39920,7 +39904,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Arslan Inpak B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2495
+      "id": 2494
     },
     {
       "geometry": {
@@ -39936,7 +39920,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Queeste architecten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2496
+      "id": 2495
     },
     {
       "geometry": {
@@ -39952,7 +39936,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>DENTAL Universe B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2497
+      "id": 2496
     },
     {
       "geometry": {
@@ -39968,7 +39952,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZAB Zorg Boekhorststraat B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2498
+      "id": 2497
     },
     {
       "geometry": {
@@ -39984,7 +39968,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>ZAB Zorg DH B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2499
+      "id": 2498
     },
     {
       "geometry": {
@@ -40000,7 +39984,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ming Kee Fastfood B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2500
+      "id": 2499
     },
     {
       "geometry": {
@@ -40016,7 +40000,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Warung Mini XL Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2501
+      "id": 2500
     },
     {
       "geometry": {
@@ -40032,7 +40016,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>RID 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2502
+      "id": 2501
     },
     {
       "geometry": {
@@ -40048,7 +40032,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cloose 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2503
+      "id": 2502
     },
     {
       "geometry": {
@@ -40064,7 +40048,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Millers 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2504
+      "id": 2503
     },
     {
       "geometry": {
@@ -40080,7 +40064,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Plein 9 Den Haag Horeca B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2505
+      "id": 2504
     },
     {
       "geometry": {
@@ -40096,7 +40080,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ciao! Ciao! B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2506
+      "id": 2505
     },
     {
       "geometry": {
@@ -40112,7 +40096,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>St. Annastraat 10 B.V. Breda<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2507
+      "id": 2506
     },
     {
       "geometry": {
@@ -40128,7 +40112,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Caf\u00e9-Restaurant Leopold 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2508
+      "id": 2507
     },
     {
       "geometry": {
@@ -40144,7 +40128,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cafe/Restaurant Schlemmer 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2509
+      "id": 2508
     },
     {
       "geometry": {
@@ -40160,7 +40144,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cafe/Restaurant Plein Negentien 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2510
+      "id": 2509
     },
     {
       "geometry": {
@@ -40176,7 +40160,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cafe/Restaurant De Haagsche Kluis 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2511
+      "id": 2510
     },
     {
       "geometry": {
@@ -40192,7 +40176,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Restaurant Luden Den Haag Kiosk 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2512
+      "id": 2511
     },
     {
       "geometry": {
@@ -40208,7 +40192,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Virginia B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2513
+      "id": 2512
     },
     {
       "geometry": {
@@ -40224,7 +40208,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>The American Book Center 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2514
+      "id": 2513
     },
     {
       "geometry": {
@@ -40240,7 +40224,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>SALSA SHOP Lange Poten B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2515
+      "id": 2514
     },
     {
       "geometry": {
@@ -40256,7 +40240,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Ming Tin B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2516
+      "id": 2515
     },
     {
       "geometry": {
@@ -40272,7 +40256,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Urban Caf\u00e9 Spui 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2517
+      "id": 2516
     },
     {
       "geometry": {
@@ -40288,7 +40272,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Primark 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2518
+      "id": 2517
     },
     {
       "geometry": {
@@ -40304,7 +40288,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Snipes 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2519
+      "id": 2518
     },
     {
       "geometry": {
@@ -40320,7 +40304,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Cordaid Investment Management B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2520
+      "id": 2519
     },
     {
       "geometry": {
@@ -40336,7 +40320,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Media Markt Den Haag B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2521
+      "id": 2520
     },
     {
       "geometry": {
@@ -40352,7 +40336,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flexco Transport B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2522
+      "id": 2521
     },
     {
       "geometry": {
@@ -40368,7 +40352,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lush Den Haag 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2523
+      "id": 2522
     },
     {
       "geometry": {
@@ -40384,7 +40368,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tapisco Kneuterdijk 11 B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2524
+      "id": 2523
     },
     {
       "geometry": {
@@ -40400,7 +40384,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>PricewaterhouseCoopers Central Asia and Caucasus B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2525
+      "id": 2524
     },
     {
       "geometry": {
@@ -40416,7 +40400,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Pereira B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2526
+      "id": 2525
     },
     {
       "geometry": {
@@ -40432,7 +40416,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>De Tops Groep B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2527
+      "id": 2526
     },
     {
       "geometry": {
@@ -40448,7 +40432,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Tych\u00e8 Groep Financi\u00eble Dienstverlening B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2528
+      "id": 2527
     },
     {
       "geometry": {
@@ -40464,7 +40448,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Itera Professionals B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2529
+      "id": 2528
     },
     {
       "geometry": {
@@ -40480,7 +40464,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Q-Park Operations Netherlands V 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2530
+      "id": 2529
     },
     {
       "geometry": {
@@ -40496,7 +40480,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>P1 Off Street Management B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2531
+      "id": 2530
     },
     {
       "geometry": {
@@ -40512,7 +40496,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Q-Park Operations Netherlands VI B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2532
+      "id": 2531
     },
     {
       "geometry": {
@@ -40528,7 +40512,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Itera B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2533
+      "id": 2532
     },
     {
       "geometry": {
@@ -40544,7 +40528,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Flexned B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2534
+      "id": 2533
     },
     {
       "geometry": {
@@ -40560,7 +40544,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Creditsafe Nederland B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2535
+      "id": 2534
     },
     {
       "geometry": {
@@ -40576,7 +40560,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>TKD B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2536
+      "id": 2535
     },
     {
       "geometry": {
@@ -40592,7 +40576,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Sixt B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2537
+      "id": 2536
     },
     {
       "geometry": {
@@ -40608,7 +40592,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Direct Focus Online B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2538
+      "id": 2537
     },
     {
       "geometry": {
@@ -40624,7 +40608,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Siemens Healthineers Nederland B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2539
+      "id": 2538
     },
     {
       "geometry": {
@@ -40640,7 +40624,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Siemens Healthineers Holding III B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2540
+      "id": 2539
     },
     {
       "geometry": {
@@ -40656,7 +40640,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Olindata Holding B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2541
+      "id": 2540
     },
     {
       "geometry": {
@@ -40672,7 +40656,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Xiaomi Technology Netherlands B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2542
+      "id": 2541
     },
     {
       "geometry": {
@@ -40688,7 +40672,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Octagon Professionals International B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2543
+      "id": 2542
     },
     {
       "geometry": {
@@ -40704,7 +40688,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Lummus Technology Heat Transfer B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2544
+      "id": 2543
     },
     {
       "geometry": {
@@ -40720,7 +40704,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Grand Central Food Market B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2545
+      "id": 2544
     },
     {
       "geometry": {
@@ -40736,15 +40720,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Activum employability 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2546
+      "id": 2545
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3384219,
+          4.3379807,
           [
-            52.0846485
+            52.0846166
           ]
         ]
       },
@@ -40752,7 +40736,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Numa Digital Consulting B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2547
+      "id": 2546
     },
     {
       "geometry": {
@@ -40768,7 +40752,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schouten Holding B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2548
+      "id": 2547
     },
     {
       "geometry": {
@@ -40784,7 +40768,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Autopoetsbedrijf Waddinxveen B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2549
+      "id": 2548
     },
     {
       "geometry": {
@@ -40800,7 +40784,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Zuiderhage B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2550
+      "id": 2549
     },
     {
       "geometry": {
@@ -40816,7 +40800,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Holland Facility Solutions (HFS) B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2551
+      "id": 2550
     },
     {
       "geometry": {
@@ -40832,15 +40816,15 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Thuiszorgbedrijf B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2552
+      "id": 2551
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3296787,
+          4.3333831,
           [
-            52.0849509
+            52.0873057
           ]
         ]
       },
@@ -40848,7 +40832,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Brixs Groep B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2553
+      "id": 2552
     },
     {
       "geometry": {
@@ -40864,7 +40848,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Dong Dao Europe B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2554
+      "id": 2553
     },
     {
       "geometry": {
@@ -40880,7 +40864,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Schoonmaakbedrijf Vidia B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2555
+      "id": 2554
     },
     {
       "geometry": {
@@ -40896,7 +40880,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Indoor Speelparadijs Zuiderpark B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2556
+      "id": 2555
     },
     {
       "geometry": {
@@ -40912,7 +40896,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Brandpreventie Groep B.V. Zaandam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2557
+      "id": 2556
     },
     {
       "geometry": {
@@ -40928,7 +40912,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Kwekerij Opdreef B.V. De Lier<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2558
+      "id": 2557
     },
     {
       "geometry": {
@@ -40944,7 +40928,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Staalbouw Van Rijn Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2559
+      "id": 2558
     },
     {
       "geometry": {
@@ -40960,7 +40944,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Mobility4All B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2560
+      "id": 2559
     },
     {
       "geometry": {
@@ -40976,7 +40960,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>J.J.M. Juffermans Holding B.V. Leiden<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2561
+      "id": 2560
     },
     {
       "geometry": {
@@ -40992,7 +40976,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>EFM Import/Export B.V. Roelofarendsveen<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2562
+      "id": 2561
     },
     {
       "geometry": {
@@ -41008,7 +40992,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Energie Techniek B.V. Hazerswoude-Rijndijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2563
+      "id": 2562
     },
     {
       "geometry": {
@@ -41024,7 +41008,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Narsing Zoetermeer B.V. Zoetermeer<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
       },
-      "id": 2564
+      "id": 2563
     },
     {
       "geometry": {
@@ -41040,7 +41024,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Odfjell Terminals B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2565
+      "id": 2564
     },
     {
       "geometry": {
@@ -41056,7 +41040,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>InterBurgo Europe B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2566
+      "id": 2565
     },
     {
       "geometry": {
@@ -41072,7 +41056,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Most Beheer III B.V. ROTTERDAM<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2567
+      "id": 2566
     },
     {
       "geometry": {
@@ -41088,7 +41072,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Van der Slot Holding Spijkenisse<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2568
+      "id": 2567
     },
     {
       "geometry": {
@@ -41104,7 +41088,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Blauw Flex B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
-      "id": 2569
+      "id": 2568
     },
     {
       "geometry": {
@@ -41120,7 +41104,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Vriesekoop Rosmalen Rosmalen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2570
+      "id": 2569
     },
     {
       "geometry": {
@@ -41136,7 +41120,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Restaurant Expo B.V. Hoek van Holland<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2571
+      "id": 2570
     },
     {
       "geometry": {
@@ -41152,7 +41136,7 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>Hoek Commissie B.V. Katwijk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
       },
-      "id": 2572
+      "id": 2571
     },
     {
       "geometry": {
@@ -41168,7 +41152,407 @@ var bicycleRental =
       "properties": {
         "popupContent": "<p>A. Monnier Beheer B.V. Delft<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
       },
+      "id": 2572
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4968811,
+          [
+            51.941482
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>C.D.R. Beveiligingen B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
       "id": 2573
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5329615,
+          [
+            51.9226536
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Fagron Brazil Holding B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
+      },
+      "id": 2574
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4726999,
+          [
+            51.9166216
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Hands-on B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
+      },
+      "id": 2575
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4818911,
+          [
+            51.9100828
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>A.L.T. Trading B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2576
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47312,
+          [
+            51.906831
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>H Kiki B.V. Rotterdam<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
+      },
+      "id": 2577
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.984118,
+          [
+            51.6375853
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>De Zorgheimer Ouwerkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
+      },
+      "id": 2578
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4927005,
+          [
+            52.154605
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>A.J. Verberg Beheer B.V. Leiden<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
+      },
+      "id": 2579
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4837206,
+          [
+            52.1450426
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Party Support Leyde B.V. Leiden<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
+      },
+      "id": 2580
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5819769,
+          [
+            52.0402947
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>P. van Ommeren Holding B.V. Moerkapelle<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2581
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5764588,
+          [
+            51.9574668
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>B.V. Ecuri Cosmetics Capelle aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2582
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5520089,
+          [
+            51.8639334
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Fluxo B.V. Barendrecht<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2583
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6971936,
+          [
+            52.0209858
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Orthdam B.V. Gouda<p><br/>Jaarstukken:<ul><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
+      },
+      "id": 2584
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5918637,
+          [
+            51.8518521
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Idavi Ridderkerk<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2585
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5943599,
+          [
+            51.9152837
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Efficienta Offsetdrukkerij B.V. Krimpen aan den IJssel<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2586
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8426764,
+          [
+            51.934724
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>K&A Montage B.V. Groot-Ammers<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2587
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5349799,
+          [
+            51.8711578
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Papieranha Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2588
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3152606,
+          [
+            51.8751545
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Hoyer Tank Leasing B.V Botlek Rotterdam<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2589
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.333704,
+          [
+            52.0638486
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>G\u00fclcenbay Cleaning B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
+      },
+      "id": 2590
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3388581,
+          [
+            52.0670099
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Giga Autopoetsbedrijf B.V. 's-Gravenhage<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
+      },
+      "id": 2591
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4894458,
+          [
+            52.2269388
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>B.V. arca beats Voorhout<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
+      },
+      "id": 2592
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2721594,
+          [
+            52.0273226
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Duijndam Personeelsdiensten B.V. Wateringen<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2593
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4588027,
+          [
+            52.1870268
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>L & M Groep B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2594
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4527292,
+          [
+            52.1857089
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Rose Handling Services B.V. Rijnsburg<p><br/>Jaarstukken:<ul><li>Niet alle jaarstukken zijn definitief en zijn voorlopig gedeponeerd.</li></ul>"
+      },
+      "id": 2595
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3387665,
+          [
+            52.0154561
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Bioprocess Pilot Facility B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li><li>Er ontbreekt een jaar in de gedeponeerde stukken.</li></ul>"
+      },
+      "id": 2596
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3457377,
+          [
+            52.0043809
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "<p>Burger Bouw Support en Uitzendbureau B.V. Delft<p><br/>Jaarstukken:<ul><li>Laatste jaar nog niet gedeponeerd.</li></ul>"
+      },
+      "id": 2597
     }
   ]
 }
