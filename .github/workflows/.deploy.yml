@@ -22,17 +22,7 @@ jobs:
       - name: Fix absolute paths in Tella theme
         run: |
           cat themes/tella/layouts/partials/head.html
-          sed -i -r "s/\"\/css\/fa6\.min\.css\"/\"css\/fa6\.min\.css\"/"                       themes/tella/layouts/partials/head.html
           cat themes/tella/layouts/partials/head.html
-          sed -i -r "s/\"\/css\/swiper\-bundle\.min\.css\"/\"css\/swiper\-bundle\.min\.css\"/" themes/tella/layouts/partials/head.html
-          sed -i -r "s/\"\/css\/custom\.css\"/\"css\/custom\.css\"/"                           themes/tella/layouts/partials/head.html
-          sed -i -r "s/\"\/css\/style\.min\.css\"/\"css\/style\.min\.css\"/"                   themes/tella/layouts/partials/head.html
-          sed -i -r "s/\"\/js\/swiper\-bundle\.min\.js\"/\"js\/swiper\-bundle\.min\.js\"/"     themes/tella/layouts/index.html
-          sed -i -r "s/\"\/img\/default\.jpg\"/\"img\/default\.jpg\"/"                         themes/tella/layouts/partials/summary.html
-          sed -i -r "s/\"\/js\/clipboard\.min\.js\"/\"js\/clipboard\.min\.js\"/"               themes/tella/layouts/partials/footer.html
-          sed -i -r "s/\"\/js\/highlight\.min\.js\"/\"js\/highlight\.min\.js\"/"               themes/tella/layouts/partials/footer.html
-          sed -i -r "s/\"\/js\/highlightjs\-line\-numbers\.min\.js\"/\"js\/highlightjs\-line\-numbers\.min\.js\"/" themes/tella/layouts/partials/footer.html
-          sed -i -r "s/\"\/js\/sweetalert2\.min\.js\"/\"js\/sweetalert2\.min\.js\"/"           themes/tella/layouts/partials/footer.html
 
       - name: Install NPM modules
         run: |
