@@ -29,4 +29,5 @@ node_modules
 public
 _gen
 static/fontawesome
-themes
+themes/tella
+.gitmodules

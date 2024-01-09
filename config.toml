@@ -1,5 +1,5 @@
 baseURL = 'https://trideeindhoven.github.io/website/'
-title = "Tella"
+title = "CloudAware Technical Consultancy"
 author = "jhermans"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -32,22 +32,22 @@ enableRobotsTXT = true
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "CloudAware Technical Consultancy"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "CloudAware Technical Consultancy. Security services on demand."
+    meta_og_title = "CloudAware Technical Consultancy"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://trideeindhoven.github.io/website"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    #meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    #meta_twitter_card = "summary_large_image"
+    #meta_twitter_site = "@username"
+    #meta_twitter_creator = "@username"
 
 [menu]
 
@@ -66,7 +66,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "support"
     name = "Support"
-    url = "/support/"
+    url = "/support"
     weight = 3
 
   [[menu.main]]
@@ -89,6 +89,6 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/gitaware"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
