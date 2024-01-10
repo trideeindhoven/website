@@ -31,7 +31,6 @@ jobs:
           sed -i -r "s/\"\/js\/highlight\.min\.js\"/\"js\/highlight\.min\.js\"/"               themes/tella/layouts/partials/footer.html
           sed -i -r "s/\"\/js\/highlightjs\-line\-numbers\.min\.js\"/\"js\/highlightjs\-line\-numbers\.min\.js\"/" themes/tella/layouts/partials/footer.html
           sed -i -r "s/\"\/js\/sweetalert2\.min\.js\"/\"js\/sweetalert2\.min\.js\"/"           themes/tella/layouts/partials/footer.html
-          cat themes/tella/layouts/partials/head.html
 
       - name: Install NPM modules
         run: |
@@ -47,7 +46,7 @@ jobs:
       - name: Setup Hugo
         run: |
           curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.121.2/hugo_0.121.2_linux-amd64.tar.gz'
-          tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo
+          tar -C ${RUNNER_TEMP} -zxf /tmp/hugo.tar.gz hugo
       - name: Build
         run: ${RUNNER_TEMP}/hugo
 
