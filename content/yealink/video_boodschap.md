@@ -16,7 +16,7 @@ in de gaten. Ik zat hier elke publicatie aankondigen. De publicaties zullen elke
 Hieronder de video die ik heb gemaakt om e.e.a. persoonlijk toe te lichten. De tekst is integraal onder de video opgenomen.
 
 ## De video
-
+Deze video is een placeholder voor de uiteindelijke video uiteraard!
 {{< youtube NsXyrYwMTJs >}}
 
 ## De tekst
