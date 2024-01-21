@@ -1,5 +1,12 @@
 [
   {
+    "title":  "Publicaties Yealink",
+    "link":   "yealink",
+    "target": "_blank",
+    "image":  "img/slide/yealink_phone.jpg",
+    "color":  "text-white"
+  },
+  {
     "title": "CloudAware technical consultancy.",
     "image": "img/slide/slide01.jpg"
   },

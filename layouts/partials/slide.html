@@ -1,0 +1,20 @@
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        {{ range .Site.Data.slide }}
+        <div class="swiper-slide">
+        {{ if .link }}
+        <a href="{{ .link | relURL }}"{{ if .target }} target="{{ .target }}"{{ end }}>
+        {{ end }}
+            <img src="{{ .image }}" alt="">
+            <div class="s-fade-txt">
+                <h1 class="text-4xl {{ or .color "text-white" }}">{{ .title }}</h1>
+            </div>
+        {{ if .link }}
+        </a>
+        {{ end }}
+        </div>
+        {{ end }}
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+</div>
