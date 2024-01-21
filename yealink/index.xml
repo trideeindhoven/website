@@ -1,40 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yealink on CloudAware</title>
+    <title>Yealink on CloudAware Technical Consultancy</title>
     <link>https://trideeindhoven.github.io/website/yealink/</link>
-    <description>Recent content in Yealink on CloudAware</description>
+    <description>Recent content in Yealink on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2023 21:39:36 +0100</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/yealink/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AES ECB encryption</title>
-      <link>https://trideeindhoven.github.io/website/yealink/aesecb/</link>
-      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>https://trideeindhoven.github.io/website/yealink/aesecb/</guid>
-      <description>Yealink has decided to use Advanced Encryption Standard Electronic codebook (AES-ECB) encryption.&#xA;While AES encryption is considered to be same, the mode chosen by Yealink can be categorised as&amp;hellip;sub par. ECB mode encryption is considered to be a flawed type of encryption because of the &amp;ldquo;ECB penguin&amp;rdquo; attack. I will explain this in a visual example:&#xA;First of all: &amp;ldquo;Tux&amp;rdquo; is the mascotte of the operating system Linux. It is a drawing of a penguin: When performing AES-ECB encryption on the above image, it is easy to see the ECB mode is a highly suboptimal encryption method: Now, for text it may still not be possible to recover the original text (yet), but why choose an encryption mode that is known to be flawed for almost two decades.</description>
+      <title>Aanpak</title>
+      <link>https://trideeindhoven.github.io/website/yealink/aanpak/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/aanpak/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AKD</title>
-      <link>https://trideeindhoven.github.io/website/yealink/akd/</link>
-      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>https://trideeindhoven.github.io/website/yealink/akd/</guid>
-      <description>In the fall of 2023 i was summoned by Dutch lawyer firm AKD. The name of this legal firm is relevant because this is not a small legal firm. AKD has build itself quiet a reputation. In 2022 research by Follow The Money showed that AKD did not distance itself from the Kremlin. I was highly surprised i received a summon from a lawfirm that, until recently, was working for Russian state-owned companies that were involved in the nuclear industry.</description>
+      <title>AVG / GDPR</title>
+      <link>https://trideeindhoven.github.io/website/yealink/avg_gdpr/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/avg_gdpr/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lydis</title>
-      <link>https://trideeindhoven.github.io/website/yealink/lydis/</link>
-      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>https://trideeindhoven.github.io/website/yealink/lydis/</guid>
-      <description>Lydis is/was the monopolistic distributor of the brand Yealink in the BeNeLux.</description>
+      <title>Bedrijfseconomisch overzicht</title>
+      <link>https://trideeindhoven.github.io/website/yealink/bedrijfseconomisch/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/bedrijfseconomisch/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Why</title>
-      <link>https://trideeindhoven.github.io/website/yealink/why/</link>
-      <pubDate>Sun, 17 Dec 2023 21:39:36 +0100</pubDate>
-      <guid>https://trideeindhoven.github.io/website/yealink/why/</guid>
-      <description>The question that i get the most is why i do this research. In the fall of 2023 i was summoned by Dutch lawyer firm AKD. Now there is a whole section in this research about AKD where you can read about this firm and why it is controversial. But this page is about why i am doing this research and in the summon sent to me is the following quote:</description>
+      <title>Conclusie</title>
+      <link>https://trideeindhoven.github.io/website/yealink/conclusie/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/conclusie/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Duurzaamheid</title>
+      <link>https://trideeindhoven.github.io/website/yealink/duurzaamheid/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/duurzaamheid/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Feitelijke onwaarheden</title>
+      <link>https://trideeindhoven.github.io/website/yealink/feitelijke_onwaarheden/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/feitelijke_onwaarheden/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Firmware</title>
+      <link>https://trideeindhoven.github.io/website/yealink/firmware/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/firmware/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Historische staat van beveiliging</title>
+      <link>https://trideeindhoven.github.io/website/yealink/historisch/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/historisch/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open poort</title>
+      <link>https://trideeindhoven.github.io/website/yealink/open_poort/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/open_poort/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Versleuteling</title>
+      <link>https://trideeindhoven.github.io/website/yealink/versleuteling/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/versleuteling/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inleiding</title>
+      <link>https://trideeindhoven.github.io/website/yealink/inleiding/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/inleiding/</guid>
+      <description>&lt;p&gt;Jeroen waarom doe je dit?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Juridisch</title>
+      <link>https://trideeindhoven.github.io/website/yealink/juridisch/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/juridisch/</guid>
+      <description>&lt;p&gt;Jeroen waarom doe je dit?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Videoboodschap</title>
+      <link>https://trideeindhoven.github.io/website/yealink/video_boodschap/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/video_boodschap/</guid>
+      <description>&lt;p&gt;Beste lezer. Welkom bij deze serie publicaties over mijn onderzoek naar Yealink en Lydis waar ik een jaar aan gewerkt heb.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

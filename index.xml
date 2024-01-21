@@ -6,7 +6,7 @@
     <description>Recent content on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remote Support</title>
@@ -30,11 +30,116 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
     </item>
     <item>
+      <title>Aanpak</title>
+      <link>https://trideeindhoven.github.io/website/yealink/aanpak/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/aanpak/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AVG / GDPR</title>
+      <link>https://trideeindhoven.github.io/website/yealink/avg_gdpr/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/avg_gdpr/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bedrijfseconomisch overzicht</title>
+      <link>https://trideeindhoven.github.io/website/yealink/bedrijfseconomisch/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/bedrijfseconomisch/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conclusie</title>
+      <link>https://trideeindhoven.github.io/website/yealink/conclusie/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/conclusie/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Duurzaamheid</title>
+      <link>https://trideeindhoven.github.io/website/yealink/duurzaamheid/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/duurzaamheid/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Feitelijke onwaarheden</title>
+      <link>https://trideeindhoven.github.io/website/yealink/feitelijke_onwaarheden/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/feitelijke_onwaarheden/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Firmware</title>
+      <link>https://trideeindhoven.github.io/website/yealink/firmware/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/firmware/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Historische staat van beveiliging</title>
+      <link>https://trideeindhoven.github.io/website/yealink/historisch/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/historisch/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open poort</title>
+      <link>https://trideeindhoven.github.io/website/yealink/open_poort/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/open_poort/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Versleuteling</title>
+      <link>https://trideeindhoven.github.io/website/yealink/versleuteling/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/versleuteling/</guid>
+      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inleiding</title>
+      <link>https://trideeindhoven.github.io/website/yealink/inleiding/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/inleiding/</guid>
+      <description>&lt;p&gt;Jeroen waarom doe je dit?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Juridisch</title>
+      <link>https://trideeindhoven.github.io/website/yealink/juridisch/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/juridisch/</guid>
+      <description>&lt;p&gt;Jeroen waarom doe je dit?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Videoboodschap</title>
+      <link>https://trideeindhoven.github.io/website/yealink/video_boodschap/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/video_boodschap/</guid>
+      <description>&lt;p&gt;Beste lezer. Welkom bij deze serie publicaties over mijn onderzoek naar Yealink en Lydis waar ik een jaar aan gewerkt heb.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://trideeindhoven.github.io/website/about/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/about/</guid>
       <description>CloudAware regularly publishes open source software on GitHub. Please feel free to look around.</description>
+    </item>
+    <item>
+      <title>Sommatie AKD</title>
+      <link>https://trideeindhoven.github.io/website/sommatie_akd/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/sommatie_akd/</guid>
+      <description>Datum: 15 september 2023&#xA;Onderwerk: Voorgenomen publicatie inzake Lydis en Yealink&#xA;ons kenmerk: 1012320/mhe&#xA;Geachte heer Hermans,&#xA;Namens cliënte, Lydis B.V. (“Lydis”), vraag ik uw dringende aandacht voor het volgende in persoon en als bestuurder van Epsys BV (hierna: “Cloudaware”).&#xA;Lydis is een belangrijke distributeur van Yealink-producten. Onlangs heeft Lydis van Yealink moeten vernemen dat het nieuwsplatform Follow The Money (“FTM”) voornemens is een publicatie te doen met daarin beweerdelijke security-dreigingen over de producten van Yealink.</description>
+    </item>
+    <item>
+      <title>Vragen aan AKD nav sommatie</title>
+      <link>https://trideeindhoven.github.io/website/reactie_sommatie_akd/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/reactie_sommatie_akd/</guid>
+      <description>Aan:&#xA;AKD N.V.&#xA;t.a.v. Martin Hemmer&#xA;Postbus 4302&#xA;3006 AH Rotterdam&#xA;Kopie per email aan: **********@akd.nl&#xA;‘s-Gravenhage, 18 september 2023&#xA;Uw kenmerk: 1012320/mhe&#xA;Betreft: Brief d.d. 15 september 2023&#xA;Geachte heer Hemmer,&#xA;Ik heb heden uw brief met bovenstaand kenmerk van u/AKD gelezen. Na intern overleg is besloten dat CloudAware 2 weken nodig heeft om met een passende reactie te komen. Uw brief is niet eenvoudig te volgen, maar ik begrijp dat u graag antwoord wil hebben op de volgende vragen:</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
