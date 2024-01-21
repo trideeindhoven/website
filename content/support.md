@@ -12,4 +12,3 @@ CloudAware uses Anydesk for remote support. Please click on the link below for t
 [{{< fa fab apple >}} Apple](https://get.anydesk.com/jzjJHZ9N/Epsys.dmg)  
 [{{< fa fab android >}} Android](https://get.anydesk.com/MDMxmvoZ/Epsys.apk)  
 
-

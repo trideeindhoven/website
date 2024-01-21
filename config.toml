@@ -19,9 +19,9 @@ enableRobotsTXT = true
 [params]
 
   showBlog = true
-  mainSections = ['blog']
+  mainSections = ['yealink']
 
-  googleFonts = true
+  googleFonts = false
 
   [params.logo]
     main = "img/logo/logo.svg"
@@ -58,9 +58,9 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+    identifier = "yealink"
+    name = "Yealink"
+    url = "/yealink/"
     weight = 2
 
   [[menu.main]]
