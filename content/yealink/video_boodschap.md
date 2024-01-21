@@ -15,9 +15,11 @@ jullie geïnteresseerd zijn in de volgende publicaties, houdt dan mijn [LinkedIn
 in de gaten. Ik zat hier elke publicatie aankondigen. De publicaties zullen elke 2 dagen tijdens werkdagen plaatsvinden.  
 Hieronder de video die ik heb gemaakt om e.e.a. persoonlijk toe te lichten. De tekst is integraal onder de video opgenomen.
 
-## YouTube Privacy Enhanced Shortcode
+## De video
 
 {{< youtube NsXyrYwMTJs >}}
+
+## De tekst
 
 Hallo. Mijn naam is Jeroen Hermans en dit is een video dit ik eigenlijk nooit heb willen maken. De reden waarom ik deze 
 video wel maak zal ik in de komende weken heel erg uitgebreid beschrijven.  
