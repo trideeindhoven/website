@@ -31,3 +31,5 @@ _gen
 static/fontawesome
 themes/tella
 .gitmodules
+
+update.sh

@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Firmware"
-date = "2024-01-02"
+date = "2024-01-09"
 description = "Firmware"
 tags = [
     "firmware", "Lydis", "Yealink"
@@ -23,4 +23,8 @@ zie timing in presentatie
 firmware ineens x% groter dan voorheen, changelog: geen wijzigingen
 
 Ook EULA (link naar ander artikel?)
+
+Open source in ander artikel??
+GPL license
+Lijst met open source software
 

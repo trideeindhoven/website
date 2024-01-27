@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Feitelijke onwaarheden"
-date = "2024-01-02"
+date = "2024-01-08"
 description = "Feitelijke onwaarheden"
 tags = [
     "onwaarheden", "Lydis", "Yealink"
@@ -34,3 +34,6 @@ we would like to hire you as our security consultant <span>member of Yealink's d
 {{< /quote >}}
 
 singular? Laten we het op een vertaal issue houden... Hopelijk.
+
+Beveiliging Teams door Microsoft ontkent (email 8/28/23, 20:11)
+

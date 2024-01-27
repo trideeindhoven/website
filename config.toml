@@ -1,8 +1,8 @@
 baseURL = 'https://trideeindhoven.github.io/website/'
 title = "CloudAware Technical Consultancy"
-author = "jhermans"
-languageCode = "en"
-DefaultContentLanguage = "en"
+author = "Jeroen Hermans"
+languageCode = "nl"
+DefaultContentLanguage = "nlen"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
