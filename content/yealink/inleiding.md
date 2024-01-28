@@ -31,7 +31,7 @@ blijkbaar zo maar door een advocaat in Nederland op papier gezet mag worden. Hoe
 voor het echte begin van dit onderzoek een aantal jaren terug in de tijd.  
 In de eerste maanden van 2016 kreeg ik een redelijk grote telecom opdracht van een klant van mij. Dit betekende dat er 
 stapels aan telefoons geconfigureerd moesten worden. Nadat alles besteld was en aankwam in mijn appartement in Eindhoven, 
-mijn toemalige woonplaats, werden ook meteen de zogenaamde porteringen van honderden telefoonnummers ingediend. Het 
+mijn toenmalige woonplaats, werden ook meteen de zogenaamde porteringen van honderden telefoonnummers ingediend. Het 
 gaat wellicht wat ver om op dit proces in te gaan, maar het betekent dat er een deadline staat waar niet meer 
 eenvoudig van afgeweken kan worden. De planning zag er goed uit, maar toen kwam toch meneer Murphy om de hoek kijken. 
 En hoe! Mijn vader kwam te overlijden en dit betekende dat ik alle apparatuur naar mijn ouderlijk huis in Limburg 
@@ -53,9 +53,9 @@ extra beveiligingslaag voor te maken.
 
 Zes jaar later in 2022 bleek dat dezelfde beveiligingsproblemen zich nog steeds voordeden bij de Yealink apparatuur. Ik 
 heb toen besloten om contact op te nemen met de distributeur die in de BeNeLux toendertijd het alleenrecht had op 
-distributie van het merk Yealink. Tijdens dit contact wat meer dan een jaar lang heeft geduurd kwamen steeds meer 
-vraagstukken naar boven. Ook kregen verschillende partijen in de markt lucht van mijn onderzoek en namen spontaan 
-contact met mij op met aanvullende informatie.  
+distributie van VoIP producten van het merk Yealink. Tijdens dit contact wat meer dan een jaar lang heeft geduurd 
+kwamen steeds meer vraagstukken naar boven. Ook kregen verschillende partijen in de markt lucht van mijn onderzoek en 
+namen spontaan contact met mij op met aanvullende informatie.  
 
 Het besluit om dit onderzoek door te zetten is dan ook bedoeld om er voor te zorgen dat mijn telecom-klanten
 gebruik kunnen maken van veilige technologie, maar ook uitmaatschappelijk belang. Door mijn uitgebreide ervaring met
@@ -96,7 +96,7 @@ niet van mij op de hoogte is betekent natuurlijk niet dat ik "zelfbenoemd" ben.
 Dan blijft er natuurlijk wel nog de vraag open staan waarom Mr. Hemmer van AKD een complottheorie over mij op papier
 zet. Ik heb in het verleden met en voor inlichtingendiensten in binnen- en buitenland gewerkt. Ik heb hier nooit een 
 geheim van gemaakt, maar ook niet als zodanig mee naar buiten getreden. Ik kan alleen maar concluderen dat het complot
-uit de sommaties voortkomt uit een ernstige verdraaiing van mijn woorden tijdens onze meeting op kantoor in Almere. 
+in de sommaties voortkomt uit een ernstige verdraaiing van mijn woorden tijdens onze meeting op kantoor in Almere. 
 Ach ja... het leverde mij uiteindelijk wel een glimlach op en "gelukkig hebben we de opnames nog". En uiteraard zal hier
 een aparte publicatie aan gewijd worden.
 
@@ -105,14 +105,17 @@ Dat brengt ons bij de "wat". Wat is er nou eigenlijk aan de hand? In het kort ga
 responsible disclosure traject, waarbij zowel Lydis als Yealink zich (juridisch) dreigend naar mij uitgelaten hebben.  
 Maar los van hoe deze firma's op mij hebben gereageerd zijn er zo veel feiten op tafel gekomen in de afgelopen 1.5 jaar
 dat ook al deze randverschijnselen interessant beginnen te worden. Denk hierbij aan economische delicten van 
-beursgenoteerde bedrijven, aantoonbare leugens van een van de grootste certificerings en audit firma's in Europa en 
-zwijgende security experts die in het verleden gepubliceerd hebben.  
+beursgenoteerde bedrijven, aantoonbare leugens van een van de grootste certificerings en audit firma's in Europa, 
+zwijgende security experts die in het verleden gepubliceerd hebben en hoe komt een Chinese firma eigenlijk aan een
+70% marktaandeel in de BeNeLux?.  
 
 Deze serie van publicaties zal een zo compleet mogelijk document worden van alle bevindingen die ik heb gevonden, maar
 ook hoe dit door mijzelf ervaren is. Ik hoop dan ook van harte dat het een interessant document is waar 
 beveiligingsonderzoekers die met eenzelfde traject bezig zijn iets aan hebben.  
 
-En aan directeur Cor Heide en Gijsbert Zijlstra van Lydis wil ik tot slot nog zeggen: ik betreur de harde toon die 
+Tot slot wil ik nog het volgende kwijt aan directeur Cor Heide en Gijsbert Zijlstra van Lydis: ik betreur de harde toon die 
 jullie hebben gebruikt naar aanleiding van mijn bevindingen. Bevindingen die ik in 2022 exclusief met jullie heb gedeeld
-om Lydis te helpen een beter product op de Nederlandse markt te brengen. Laten we dat in de toekomst ajb anders doen.
+om Lydis te helpen een beter product op de Nederlandse markt te brengen. Ik heb jullie nooit om geld gevraagd en ik heb 
+met grote interesse gevolgd toen jullie invloed probeerden uit te oefenen op leden van de Nederlandse pers.
+Laten we dat in de toekomst ajb anders doen.
 

@@ -22,3 +22,6 @@ IBS business
 Kortlopende huur contracten
 Geen uitbetaalde lonen
 Balans niet in balans
+
+Nog notitie van Fruytier toevoegen van eerder dat jaar
+Fruytier op moeten bellen of het wel echt van hen afkomstig was
