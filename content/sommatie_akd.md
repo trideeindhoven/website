@@ -1,6 +1,6 @@
 +++
 title = "Sommatie AKD"
-description = "Sommatie verzonden aan Epsys B.V. en Jeroen Hermans op 15 september 2023 door Mr. Martin Hemmer van AKD"
+description = "Sommatie verzonden aan Epsys B.V. en Jeroen Hermans op 15 september 2023 door Mr. ************ van AKD"
 date = "2023-12-21"
 author = "Jeroen Hermans"
 +++
@@ -105,6 +105,6 @@ Deze brief wordt u toegezonden onder een volledig voorbehoud van rechten en were
 
 Met vriendelijke groet,  
 
-martin Hemmer  
+{{< censuur red >}}martin Hemmer{{< /censuur >}}  
 Advocaat, partner  
 AKD  

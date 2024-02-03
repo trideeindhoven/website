@@ -29,7 +29,7 @@ node_modules
 public
 _gen
 static/fontawesome
-themes/tella
+themes/*
 .gitmodules
 
 update.sh
