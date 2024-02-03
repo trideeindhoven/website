@@ -20,7 +20,7 @@ AKD N.V. hier een daadwerkelijke complot theorie over op papier durfde te zetten
 {{< quote cloudquote >}}
 Uw acties komen dus niet voort uit oprechte interesse maar vanwege externe opdrachtgevers met hun eigen belangen 
 (Lydis tast in het duister over wie dat zijn (concurrenten, of zoals u zelf aangeeft misschien zelfs 
-inlichtingendiensten uit welk land dan ook?) <span>Mr. Martin Hemmer - AKD N.V.</span>
+inlichtingendiensten uit welk land dan ook?) <span>{{< censuur red >}}Mr. Martin Hemmer{{< /censuur >}} - AKD N.V.</span>
 {{< /quote >}}
 
 Nu ik in een officieel juridisch document als een ware 007 neergezet wordt lijkt het mij tijd om dan toch maar in te gaan
