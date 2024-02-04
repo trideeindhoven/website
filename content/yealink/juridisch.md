@@ -67,21 +67,21 @@ een digitale hand en daar blijft het ook bij. Een melding van een datalek is mij
 
 We gaan inmiddels richting een publicatie. Ik ben geen journalist dus ik heb inmiddels al een aantal maanden meetings 
 met Siem Eikelenboom en Sebastiaan Brommersma van Follow The Money. En zoals het een goede journalist betaamt wordt er 
-om wederhoor gevraagd bij Lydis. Directeur Cor Heide reageert als door een wesp gestoken naar Follow The Money:
+om wederhoor gevraagd bij Lydis. Een lid van de directie {{< censuur red >}}Cor Heide{{< /censuur >}}  reageert als door een wesp gestoken naar Follow The Money:
 
 {{< quote cloudquote >}}
 Ik moet eerlijk zeggen dat ik hoop dat FTM zich naar zijn reputatie gaat gedragen en feitelijke juistheid gaat hanteren en zich niet verlaagt tot beweringen die in de roddelpers thuis horen.
-<span>Cor Heide, directeur Lydis B.V.</span>
+<span>{{< censuur red >}}Cor Heide{{< /censuur >}}, direcier Lydis B.V.</span>
 {{< /quote >}}
 
 en
 
 {{< quote cloudquote >}}
 Ik begrijp dat je   weer mails rondstuurd  maar nu naar klanten van Lydis  ,dit is je goed recht maar wat ik niet netjes vind dat je sugereerd (sic) dat je de klant  info van Lydis hebt ontvangen?
-<span>Cor Heide, directeur Lydis B.V.</span>
+<span>{{< censuur red >}}Cor Heide{{< /censuur >}}, directie Lydis B.V.</span>
 {{< /quote >}}
 
-Wat Dhr. Heide hier vergeet is dat de klantinfo daadwerkelijk van Lydis IS ontvangen. Deze is namelijk trots 
+Wat {{< censuur red >}}dhr. Heide{{< /censuur >}} hier vergeet is dat de klantinfo daadwerkelijk van Lydis IS ontvangen. Deze is namelijk trots 
 gepresenteerd op 29 augustus 2023. Tijdens deze presentatie werd op geen enkel moment aangegeven dat deze informatie
 vertrouwelijk was.
 
