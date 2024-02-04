@@ -66,32 +66,88 @@ kan ontzien wat ik al gelezen heb, maar dat ik de gegevens in de email niet lett
 een digitale hand en daar blijft het ook bij. Een melding van een datalek is mij niet bekend.  
 
 We gaan inmiddels richting een publicatie. Ik ben geen journalist dus ik heb inmiddels al een aantal maanden meetings 
-met Siem Eikelenboom en Sebastiaan Brommersma van Follow The Money. En zoals het een goede journalist betaamt wordt er 
-om wederhoor gevraagd bij Lydis. Een lid van de directie {{< censuur red >}}Cor Heide{{< /censuur >}}  reageert als door een wesp gestoken naar Follow The Money:
+met [Siem Eikelenboom](https://www.ftm.nl/auteur/siem-eikelenboom) en [Sebastiaan Brommersma](https://www.ftm.nl/auteur/sebastiaan-brommersma) 
+van Follow The Money. En zoals het een goede journalist betaamt wordt er om wederhoor gevraagd bij Lydis. 
+Een lid van de directie {{< censuur red >}}Cor Heide{{< /censuur >}} reageert als door een wesp gestoken naar Follow The Money:
 
 {{< quote cloudquote >}}
-Ik moet eerlijk zeggen dat ik hoop dat FTM zich naar zijn reputatie gaat gedragen en feitelijke juistheid gaat hanteren en zich niet verlaagt tot beweringen die in de roddelpers thuis horen.
-<span>{{< censuur red >}}Cor Heide{{< /censuur >}}, direcier Lydis B.V.</span>
+Ik moet eerlijk zeggen dat ik hoop dat FTM zich naar zijn reputatie gaat gedragen en feitelijke juistheid gaat hanteren 
+en zich niet verlaagt tot beweringen die in de roddelpers thuis horen.
+<span>{{< censuur red >}}Cor Heide{{< /censuur >}}, directe Lydis B.V.</span>
 {{< /quote >}}
 
 en
 
 {{< quote cloudquote >}}
-Ik begrijp dat je   weer mails rondstuurd  maar nu naar klanten van Lydis  ,dit is je goed recht maar wat ik niet netjes vind dat je sugereerd (sic) dat je de klant  info van Lydis hebt ontvangen?
+Ik begrijp dat je   weer mails rondstuurd (sic) maar nu naar klanten van Lydis  ,dit is je goed recht maar wat ik niet 
+netjes vind dat je sugereerd (sic) dat je de klant  info van Lydis hebt ontvangen?
 <span>{{< censuur red >}}Cor Heide{{< /censuur >}}, directie Lydis B.V.</span>
 {{< /quote >}}
 
-Wat {{< censuur red >}}dhr. Heide{{< /censuur >}} hier vergeet is dat de klantinfo daadwerkelijk van Lydis IS ontvangen. Deze is namelijk trots 
-gepresenteerd op 29 augustus 2023. Tijdens deze presentatie werd op geen enkel moment aangegeven dat deze informatie
-vertrouwelijk was.
+Wat {{< censuur red >}}dhr. Heide{{< /censuur >}} hier vergeet is dat de klantinfo daadwerkelijk van Lydis IS ontvangen. 
+Deze is namelijk trots gepresenteerd op 29 augustus 2023. Tijdens deze presentatie werd op geen enkel moment aangegeven 
+dat deze informatie vertrouwelijk was.  
+
+Na maaanden onderzoek, het horen van verschillende experts, waaronder mijzelf en het zelfs langsgaan op kantoor bij Lydis
+in Almere worden de laatste vragen aan Lydis EN Yealink op 12-9-2023 per email gesteld. Diezelfde dag keer komt er geen antwoord van
+Lydis of Yealink. Wat er wel komt is een email van advocaat {{< censuur red >}}Jop Fellinger{{< /censuur >}} van 
+Fruytier Lawyers in Business. Hij geeft aan dat:
+
+{{< quote cloudquote >}}
+I personally support FTM with my EUR 11 monthly membership, as I consider free press and in depth journalism as an 
+important counter balance against government and corporate powers"
+<span>{{< censuur red >}}Jop Fellinger{{< /censuur >}} van Fruytier Lawyers in Business</span>
+{{< /quote >}}
+
+maar, zo vervolgt hij zijn verhaal, het geven van 2 dagen voor wederhoor vindt hij een "disgrace" en waardig voor een 
+"second tier gossip paper".  
+Zo...de toon is nu definitief gezet. Hij geeft aan dat Lydis en Yealink 2 weken nodig hebben om met antwoorden te komen
+op de vragen. Follow The Money reageert diezelfde dag met de mededeling dat Lydis en Yealink al maanden met mij een FTM in
+contact staan en dat het reageren op de vragen dus probleemloos binnen de gezette deadline moet lukken.  
+Tijdens deze emailwisseling merkt FTM op 13-9-2023 op dat Yealink niet alleen op de hoogte is (en dus eenvoudig een
+antwoord kan formuleren), maar dat Yealink zelfs een PDF document op hun website heeft geplaatst over een van de 
+vragen aan Yealink.  
+
+Nu gebeurt er iets interessants. Fruytier Lawyers in Business (advocaat Yealink) reageert niet meer, maar een dag later 
+op 14-9-2023 nu komt er een aangetekende brief binnen bij de directie van Follow The Money. 
+Deze brief is geschreven door advocaat {{< censuur red >}}Martin Hemmer{{< /censuur >}} van AKD N.V. Deze persoon 
+schrijft aan de directie van FTM dat hij is ingehuurd door Lydis B.V. Deze man zit er bovenop want bij hem "bestaat 
+de indruk dat FTM voornemens is een publicatie te doen over Yealink".  
+
+In de brief wordt ikzelf en mijn bedrijf meerdere malen aangehaald. Het is duidelijk dat AKD hier probeert om de 
+geloofwaardigheid van mij aan te tasten. Helaas staat deze brief vol met (halve-) onwaarheden. Zo klopt de tijdlijn
+niet van het melden doro mij en zou het gaan om alleen maar End Of Life (EOL) devices. Ook zou ik mij hebben 
+voorgedaan als wederverkoper van telefoniediensten.  
+Op dat moment is duidelijk dat mijn website onder vuur ligt en ik neem de beslissing om deze even een aantal dagen 
+offline te halen om hier een melding op te plaatsen dat er een publicatie aankomt. Aan het niet hebben van een website
+wordt bijzonder zwaar getild door de advocaat van AKD N.V. Het is in zijn ogen het bewijs dat "Cloudaware een lege huls 
+lijkt te zijn".  
+
+De brief vervolgt met de suggestieve vraag of "FTM haar belangrijkste bron en zijn beweegredenen wel in
+voldoende mate heeft onderzocht". De reden van deze bijzondere vraag aan een journalistiek platform wat bekend staat om
+zijn onafhankelijke berichtgeving is omdat:
+
+{{< quote cloudquote >}}
+Hermans zich onder valse voorwendselen bij Lydis heeft gemeld en Cloudaware geen serieus bedrijf is
+<span>{{< censuur red >}}Martin Hemmer{{< /censuur >}} van AKD N.V.</span>
+{{< /quote >}}
+
+De vraag die zich bij mij opwerpt is of deze arme man wel volledig door zijn client is ingelicht aangezien ik mijn
+allereerste email aan Lydis op 28 juli 2022 afsluit met:
+
+{{< quote cloudquote >}}
+Aanvullend: mogen we de antwoorden op deze vragen gebruiken voor een publicatie in 2023?  
+Alvast hartelijk dank.
+<span>Jeroen Hermans, CloudAware</span>
+{{< /quote >}}
+
+FTM wordt door de advocaat "getipt" dat ik mijn onderzoek wel eens niet op eigen initiatief zou kunnen doen, maar dat ik
+wel eens andere opdrachtgevers kan hebben voor mijn onderzoek. Of in de woorden van AKD: "wellicht een
+concurrent van Yealink?".  
+Nu is het natuurlijk lasterlijk om dit soort zaken aan de directie van een journalistiek platform te sturen.
 
 
-12-9-2023
-Jop Fellinger
-Attorney-at-law
-Fruytier
 
-14-9 Neemt Martin Hemmer van AKD het over met een brief aan FTM
 
 15-9 twee sommaties van AKD per koerier thuis bezorgd
 
