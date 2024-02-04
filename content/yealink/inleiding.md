@@ -93,7 +93,8 @@ Eind 2023 heb ik na een langdurige responsible disclosure procedure samen met de
 En recentelijk heb ik met mijn firma als teamlead opgetreden van een securityteam in een ministerie. Het feit dat Lydis 
 niet van mij op de hoogte is betekent natuurlijk niet dat ik "zelfbenoemd" ben.  
 
-Dan blijft er natuurlijk wel nog de vraag open staan waarom Mr. Hemmer van AKD een complottheorie over mij op papier
+Dan blijft er natuurlijk wel nog de vraag open staan waarom {{< censuur red >}}Martin Hemmer{{< /censuur >}} van AKD een 
+complottheorie over mij op papier
 zet. Ik heb in het verleden met en voor inlichtingendiensten in binnen- en buitenland gewerkt. Ik heb hier nooit een 
 geheim van gemaakt, maar ook niet als zodanig mee naar buiten getreden. Ik kan alleen maar concluderen dat het complot
 in de sommaties voortkomt uit een ernstige verdraaiing van mijn woorden tijdens onze meeting op kantoor in Almere. 
@@ -113,7 +114,7 @@ Deze serie van publicaties zal een zo compleet mogelijk document worden van alle
 ook hoe dit door mijzelf ervaren is. Ik hoop dan ook van harte dat het een interessant document is waar 
 beveiligingsonderzoekers die met eenzelfde traject bezig zijn iets aan hebben.  
 
-Tot slot wil ik nog het volgende kwijt aan directeur Cor Heide en Gijsbert Zijlstra van Lydis: ik betreur de harde toon die 
+Tot slot wil ik nog het volgende kwijt aan de directie van Lydis: ik betreur de harde toon die 
 jullie hebben gebruikt naar aanleiding van mijn bevindingen. Bevindingen die ik in 2022 exclusief met jullie heb gedeeld
 om Lydis te helpen een beter product op de Nederlandse markt te brengen. Ik heb jullie nooit om geld gevraagd en ik heb 
 met grote interesse gevolgd toen jullie invloed probeerden uit te oefenen op leden van de Nederlandse pers.
