@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Canonical: https://cloudaware.eu/.well-known/security.txt
+Canonical: https://www.cloudaware.eu/.well-known/security.txt
+Expires: 2024-12-01T23:00:01+00:00
+# If you would like to report a security issue, please contact us at:
+Contact: mailto:j.hermans@cloudaware.eu
+Contact: tel:+31857828878
+
+Preferred-Languages: nl,en,de
+Encryption: https://cloudaware.eu/pgp.txt
+
+
+#  /$$$$$$  /$$                           /$$  /$$$$$$                                             
+# /$$__  $$| $$                          | $$ /$$__  $$                                            
+#| $$  \__/| $$  /$$$$$$  /$$   /$$  /$$$$$$$| $$  \ $$ /$$  /$$  /$$  /$$$$$$   /$$$$$$   /$$$$$$ 
+#| $$      | $$ /$$__  $$| $$  | $$ /$$__  $$| $$$$$$$$| $$ | $$ | $$ |____  $$ /$$__  $$ /$$__  $$
+#| $$      | $$| $$  \ $$| $$  | $$| $$  | $$| $$__  $$| $$ | $$ | $$  /$$$$$$$| $$  \__/| $$$$$$$$
+#| $$    $$| $$| $$  | $$| $$  | $$| $$  | $$| $$  | $$| $$ | $$ | $$ /$$__  $$| $$      | $$_____/
+#|  $$$$$$/| $$|  $$$$$$/|  $$$$$$/|  $$$$$$$| $$  | $$|  $$$$$/$$$$/|  $$$$$$$| $$      |  $$$$$$$
+# \______/ |__/ \______/  \______/  \_______/|__/  |__/ \_____/\___/  \_______/|__/       \_______/
+
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQR2HiQg/+5Wx8vY2fZS3SMwUweifAUCZb17owAKCRBS3SMwUwei
+fGQrAQCikjuqjsxYROIZfLlbx438yV92GZtSd83l1PzogFU4bgD/TguGw2f0179b
+Hgiq7VMOEYEZhCeHSPf18cOItaYeogA=
+=Ucjl
+-----END PGP SIGNATURE-----

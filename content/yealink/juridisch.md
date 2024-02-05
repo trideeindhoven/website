@@ -73,7 +73,7 @@ Een lid van de directie {{< censuur red >}}Cor Heide{{< /censuur >}} reageert al
 {{< quote cloudquote >}}
 Ik moet eerlijk zeggen dat ik hoop dat FTM zich naar zijn reputatie gaat gedragen en feitelijke juistheid gaat hanteren 
 en zich niet verlaagt tot beweringen die in de roddelpers thuis horen.
-<span>{{< censuur red >}}Cor Heide{{< /censuur >}}, directe Lydis B.V.</span>
+<span>{{< censuur red >}}Cor Heide{{< /censuur >}}, directie Lydis B.V.</span>
 {{< /quote >}}
 
 en
