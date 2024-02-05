@@ -1,0 +1,37 @@
+<html>
+<head>
+  <title>Codename generator</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script>
+  $(document).ready(function(){
+    cities = []
+    $.getJSON("https://raw.githubusercontent.com/samayo/country-json/master/src/country-by-cities.json", function(data, status){
+      console.log("Status: " + status);
+      $.each(data, function(i, item) {
+        $.each(item.cities, function(i, city) {
+          if( ! /\s/g.test(city) ) {
+            cities.push(city);
+          }
+        });
+      });
+
+      for(i=1;i<11;i++){
+        number = Math.floor(Math.random() * 90) + 10;
+        $('#codelist').append('<li class="codename">'+number+cities[ Math.floor(Math.random() * cities.length) ]+'</li>');
+      }
+      $('#codelist').on('click', 'li', function() {
+        alert($(this).text()+' copied to clipboard!');
+        navigator.clipboard.writeText( $(this).text() );
+      });
+    });
+  });
+  </script>
+</head>
+<body>
+  Click one of the codenames to copy to the clipboard: 
+  <div id="codenames">
+  <ul id="codelist">
+  </ul>
+</div>
+</body>
+</html>
