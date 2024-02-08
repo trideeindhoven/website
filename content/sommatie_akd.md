@@ -40,9 +40,9 @@ De jaarresultaten van CloudAware zijn zeer matig en uw bedrijf leek aanvankelijk
 website te bestaan die overigens de afgelopen dagen volledig niet bereikbaar was en nu plotseling de
 volgende melding bevat:  
 
-{{< img "Screenshot website CloudAware" "img/akd_website_screenshot.jpg" >}}
+{{< img "Screenshot website CloudAware" "img/yealink/akd_website_screenshot.jpg" >}}
 
-Kennelijk was Cloudaware slechts een fapade teneinde informatie los te krijgen van Yealink.  
+Kennelijk was Cloudaware slechts een facade teneinde informatie los te krijgen van Yealink.  
 
 Op 17 juli 2023 heeft vervolgens een gesprek plaatsgevonden bij Lydis op kantoor tussen u, de heer
 Eikelenboom van FTM en Lydis. Aanleiding van dit gesprek was dat een groot aantal klanten van Lydis in
@@ -105,6 +105,6 @@ Deze brief wordt u toegezonden onder een volledig voorbehoud van rechten en were
 
 Met vriendelijke groet,  
 
-{{< censuur red >}}martin Hemmer{{< /censuur >}}  
+{{< censuur red >}}******{{< /censuur >}}  
 Advocaat, partner  
 AKD  

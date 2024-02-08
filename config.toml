@@ -18,14 +18,14 @@ enableRobotsTXT = true
 
 [params]
 
-  showBlog = true
+  showBlog = false
   mainSections = ['yealink']
 
   googleFonts = false
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "CloudAware Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/

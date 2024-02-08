@@ -4,10 +4,25 @@ title = "Inleiding"
 date = "2024-01-01"
 description = "Inleiding"
 tags = [
-    "inleiding", "Lydis", "Yealink", "AKD", "Martin Hemmer"
+    "inleiding", "Lydis", "Yealink", "AKD"
 ]
 image = "img/yealink/pexels-tim-mossholder-2258339.jpg"
 +++
+Het onderzoek naar de security van Yealink heeft meer dan een jaar geduurt. Gedurende deze tijd heb ik interviews
+afgenomen, penetration tests uitgevoerd, data geanalyseerd en tientallen, zo niet honderden emails verzonden.  
+De waarheid bleek altijd weer net iets anders te liggen dan ik dacht. In een samenvatting van een penetrationtest 
+vermelden dat de security weer verbeterd is, is een keihard feit. Maar dat het volledige rapport vermeldt dat er meerdere
+kritieke beveiligingsproblemen waren is dan een kleine, maar belangrijke, omissie.  
+
+Ik heb geprobeerd om in deze serie een verhalend en duidelijk overzicht te maken van wat ik heb onderzocht en hoe ik dit 
+heb gedaan. Op sommige punten kan ik helaas alleen maar de feiten presenteren. Deze zijn vaak al vreemd op zichzelf en 
+hierbij een verklaring verzinnen zou niets anders zijn dan een complot theorie zijn.  
+En over complot theorieën gesproken: Hier wil ik er zo meteen een aan jullie voorleggen. Maar....deze complot theorie 
+komt niet van mij af...maar gaat wel over mij.  
+
+Kortom: het zal een serie worden waar de artikelen elkaar afwissel tussen soms meer technische artikelen en soms een wat
+meer verhalend karakter.  
+
 Laten we beginnen met de vragen waarom, wie en wat. In die volgorde...
 <!--more-->
 # Waarom
@@ -21,7 +36,7 @@ AKD N.V. hier een daadwerkelijke complot theorie over op papier durfde te zetten
 {{< quote cloudquote >}}
 Uw acties komen dus niet voort uit oprechte interesse maar vanwege externe opdrachtgevers met hun eigen belangen 
 (Lydis tast in het duister over wie dat zijn (concurrenten, of zoals u zelf aangeeft misschien zelfs 
-inlichtingendiensten uit welk land dan ook?) <span>{{< censuur red >}}Mr. Martin Hemmer{{< /censuur >}} - AKD N.V.</span>
+inlichtingendiensten uit welk land dan ook?) <span>{{< censuur red >}}Mr. *************{{< /censuur >}} - AKD N.V.</span>
 {{< /quote >}}
 
 Nu ik in een officieel juridisch document als een ware 007 neergezet wordt lijkt het mij tijd om dan toch maar in te gaan
@@ -94,7 +109,7 @@ Eind 2023 heb ik na een langdurige responsible disclosure procedure samen met de
 En recentelijk heb ik met mijn firma als teamlead opgetreden van een securityteam in een ministerie. Het feit dat Lydis 
 niet van mij op de hoogte is betekent natuurlijk niet dat ik "zelfbenoemd" ben.  
 
-Dan blijft er natuurlijk wel nog de vraag open staan waarom {{< censuur red >}}Martin Hemmer{{< /censuur >}} van AKD een 
+Dan blijft er natuurlijk wel nog de vraag open staan waarom {{< censuur red >}}Mr. *********{{< /censuur >}} van AKD een 
 complottheorie over mij op papier
 zet. Ik heb in het verleden met en voor inlichtingendiensten in binnen- en buitenland gewerkt. Ik heb hier nooit een 
 geheim van gemaakt, maar ook niet als zodanig mee naar buiten getreden. Ik kan alleen maar concluderen dat het complot
