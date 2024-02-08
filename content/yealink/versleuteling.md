@@ -6,6 +6,7 @@ description = "Versleuteling"
 tags = [
     "versleuteling", "encryptie", "AES", "RSA", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-george-becker-114741.jpg"
 +++
 
 test123

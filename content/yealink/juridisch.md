@@ -6,6 +6,7 @@ description = "Juridisch"
 tags = [
     "sommatie", "AKD", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-sora-shimazaki-5668481.jpg"
 +++
 Zowel Lydis als Yealink kiezen er op een gegeven moment voor om juridische dreigementen te uiten. Ook deze wil ik hier 
 graag behandelen.

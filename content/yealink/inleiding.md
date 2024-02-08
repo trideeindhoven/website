@@ -6,6 +6,7 @@ description = "Inleiding"
 tags = [
     "inleiding", "Lydis", "Yealink", "AKD", "Martin Hemmer"
 ]
+image = "img/yealink/pexels-tim-mossholder-2258339.jpg"
 +++
 Laten we beginnen met de vragen waarom, wie en wat. In die volgorde...
 <!--more-->

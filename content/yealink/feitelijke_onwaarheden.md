@@ -6,6 +6,7 @@ description = "Feitelijke onwaarheden"
 tags = [
     "onwaarheden", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-pixabay-289381.jpg"
 +++
 
 test123

@@ -6,6 +6,7 @@ description = "Open poort"
 tags = [
     "poort", "5060", "RFC", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-harrison-haines-2869565.jpg"
 +++
 
 test123

@@ -6,6 +6,7 @@ description = "Aanpak"
 tags = [
     "open source", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-kindel-media-7054549.jpg"
 +++
 
 test123

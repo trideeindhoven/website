@@ -6,6 +6,7 @@ description = "Historische staat van beveiliging"
 tags = [
     "historisch", "beveiliging", "lekken", "CVE", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-mike-bird-350784.jpg"
 +++
 
 test123

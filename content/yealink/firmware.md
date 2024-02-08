@@ -6,6 +6,7 @@ description = "Firmware"
 tags = [
     "firmware", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-markus-spiske-2004161.jpg"
 +++
 
 test123

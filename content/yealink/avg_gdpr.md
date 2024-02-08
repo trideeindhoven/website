@@ -6,6 +6,7 @@ description = "AVG / GDPR"
 tags = [
     "AVG", "GDPR", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-marco-13153479.jpg"
 +++
 
 test123

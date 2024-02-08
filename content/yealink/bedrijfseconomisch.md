@@ -6,6 +6,7 @@ description = "Bedrijfseconomisch overzicht"
 tags = [
     "bedrijven", "meehelpen", "Lydis", "Econocom", "Yealink"
 ]
+image = "img/yealink/pexels-nataliya-vaitkevich-8927687.jpg"
 +++
 
 test123

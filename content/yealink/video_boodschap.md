@@ -6,6 +6,7 @@ description = "Videoboodschap"
 tags = [
     "videoboodschap", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-donald-tong-66134.jpg"
 +++
 
 Beste lezer. Welkom bij deze serie publicaties over mijn onderzoek naar Yealink en Lydis waar ik een jaar aan gewerkt heb.

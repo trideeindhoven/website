@@ -6,6 +6,7 @@ description = "Duurzaamheid"
 tags = [
     "duurzaamheid", "meehelpen", "Lydis", "Yealink"
 ]
+image = "img/yealink/pexels-hasan-zahra-2118560.jpg"
 +++
 
 test123
