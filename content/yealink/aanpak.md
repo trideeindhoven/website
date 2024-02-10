@@ -13,3 +13,8 @@ test123
 <!--more-->
 Open source encryption en decryption tool
 open source Ella
+
+Website via Hugo, static
+github pages
+nadat ontdekt werd dat website toch wel druk bezocht werd door buitenlandse bezoekers
+

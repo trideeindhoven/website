@@ -16,6 +16,9 @@ Achteraf bleek dat deze persoon geen potentiële klant was <span>Cor Heide, alge
 {{< /quote >}}
 Dus alleen responsible disclosure als je klant bent?
 facturen 2018
+static/yealink/inv187008243.PDF
+Ook krijg ik elke maand netjes uit naam van de directeur van Lydis al jaren de inkoopprijslijst opgestuurd.
+
 
 niet waar, want zie allereerste email uit 28-7-2022
 Maar ook afsluiting email 28-7-2022
@@ -38,3 +41,11 @@ singular? Laten we het op een vertaal issue houden... Hopelijk.
 
 Beveiliging Teams door Microsoft ontkent (email 8/28/23, 20:11)
 
+
+
+referenties:
+https://tbmnet.nl/wp-content/uploads/2023/12/TBM6-2023_DEF_LR.pdf
+mirror: static/yealink/TBM6-2023_DEF_LR.pdf
+
+https://kantoornet.nl/wp-content/uploads/2023/12/2023_kbm_6_def.pdf
+mirror: static/yealink/2023_kbm_6_def.pdf
