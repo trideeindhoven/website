@@ -16,20 +16,6 @@
       <description>CloudAware uses Anydesk for remote support. Please click on the link below for the correct version:&#xA;Windows&#xA;Apple&#xA;Android</description>
     </item>
     <item>
-      <title>Example Project</title>
-      <link>https://trideeindhoven.github.io/website/products/example-copy/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/products/example-copy/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
-    </item>
-    <item>
-      <title>Example Project</title>
-      <link>https://trideeindhoven.github.io/website/products/example/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/products/example/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
-    </item>
-    <item>
       <title>Conclusie</title>
       <link>https://trideeindhoven.github.io/website/yealink/conclusie/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
@@ -83,14 +69,14 @@
       <link>https://trideeindhoven.github.io/website/yealink/avg_gdpr/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/yealink/avg_gdpr/</guid>
-      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+      <description>&lt;p&gt;Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de AVG wetgeving. Sterker nog: ze claimen hier&#xA;zelfs een &amp;ldquo;GDPR certificate&amp;rdquo; voor te bezitten van TÜV Rheinland.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open poort</title>
       <link>https://trideeindhoven.github.io/website/yealink/open_poort/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/yealink/open_poort/</guid>
-      <description>&lt;p&gt;test123&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tijdens het onderzoek viel het op dat er een netwerkpoort open stond op Yealink devices. Het open staan van deze poort&#xA;kon ik niet verklaren en dus werden ook hier vragen over gesteld aan Yealink.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Versleuteling</title>
