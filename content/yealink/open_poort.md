@@ -6,7 +6,7 @@ description = "Open poort"
 tags = [
     "poort", "5060", "RFC", "Lydis", "Yealink"
 ]
-image = "img/yealink/pexels-harrison-haines-jpg.2869565"
+image = "img/yealink/pexels-harrison-haines-2869565.jpg"
 +++
 Tijdens het onderzoek viel het op dat er een netwerkpoort open stond op Yealink devices. Het open staan van deze poort
 kon ik niet verklaren en dus werden ook hier vragen over gesteld aan Yealink.
