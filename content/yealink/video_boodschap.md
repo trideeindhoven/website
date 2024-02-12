@@ -17,9 +17,7 @@ in de gaten. Ik zal hier elke publicatie aankondigen. De publicaties zullen elke
 Hieronder de video die ik heb gemaakt om e.e.a. persoonlijk toe te lichten. De tekst is integraal onder de video opgenomen.
 
 ## De video
-Deze video is een placeholder voor de uiteindelijke video uiteraard!
-{{< youtube NsXyrYwMTJs >}}
-
+{{< vimeo 912201447 >}}
 ## De tekst
 
 Hallo. Mijn naam is Jeroen Hermans en dit is een video dit ik eigenlijk nooit heb willen maken. De reden waarom ik deze 
