@@ -2,7 +2,7 @@ baseURL = 'https://trideeindhoven.github.io/website/'
 title = "CloudAware Technical Consultancy"
 author = "Jeroen Hermans"
 languageCode = "nl"
-DefaultContentLanguage = "nlen"
+DefaultContentLanguage = "nl"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
@@ -24,7 +24,7 @@ enableRobotsTXT = true
   googleFonts = false
 
   [params.logo]
-    main = "img/logo/logo.svg"
+    main = "img/logo/cloudaware.png"
     alt = "CloudAware Logo"
 
     # The size parameter is the class name of tailwindcss
@@ -39,11 +39,11 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "CloudAware Technical Consultancy. Security services on demand."
+    meta_description = "CloudAware Technical Consultancy"
     meta_og_title = "CloudAware Technical Consultancy"
     meta_og_type = "website"
-    meta_og_url = "https://trideeindhoven.github.io/website"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
+    meta_og_url = "https://cloudaware.eu"
+    #meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     #meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
     #meta_twitter_card = "summary_large_image"
     #meta_twitter_site = "@username"
@@ -52,43 +52,47 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "services"
-    name = "Services"
-    url = "/services/"
-    weight = 1
-
-  [[menu.main]]
     identifier = "yealink"
     name = "Yealink"
     url = "/yealink/"
-    weight = 2
+    weight = 1
 
   [[menu.main]]
     identifier = "support"
     name = "Support"
     url = "/support"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "Over"
     url = "/about/"
-    weight = 4
+    weight = 3
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 4
 
   # Footer Menu
   [[menu.footer]]
+    name = "Privacy statement"
+    url = "/privacybeleid"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Cookieverklaring"
+    url = "/cookieverklaring"
+      weight = 2
+
+  [[menu.footer]]
     name = "Home"
     url = "/"
-      weight = 1
+      weight = 3
 
   [[menu.footer]]
     name = "Github"
     url = "https://github.com/gitaware"
     pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
+      weight = 4
