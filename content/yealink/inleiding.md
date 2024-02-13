@@ -8,7 +8,7 @@ tags = [
 ]
 image = "img/yealink/pexels-tim-mossholder-2258339.jpg"
 +++
-Het onderzoek naar de security van Yealink heeft meer dan een jaar geduurt. Gedurende deze tijd heb ik interviews
+Het onderzoek naar de security van Yealink heeft meer dan een jaar geduurd. Gedurende deze tijd heb ik interviews
 afgenomen, penetration tests uitgevoerd, data geanalyseerd en tientallen, zo niet honderden emails verzonden.  
 De waarheid bleek altijd weer net iets anders te liggen dan ik dacht. In een samenvatting van een penetrationtest 
 vermelden dat de security weer verbeterd is, is een keihard feit. Maar dat het volledige rapport vermeldt dat er meerdere

@@ -27,5 +27,6 @@ Ook EULA (link naar ander artikel?)
 
 Open source in ander artikel??
 GPL license
-Lijst met open source software
+Lijst met open source software (incompleet)
 
+NL firmware loopt achter en dat doen ze voor compatibiliteit. Security is hier van ondergeschikt belang.
