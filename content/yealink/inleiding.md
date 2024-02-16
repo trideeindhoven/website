@@ -131,8 +131,12 @@ ook hoe dit door mijzelf ervaren is. Ik hoop dan ook van harte dat het een inter
 beveiligingsonderzoekers die met eenzelfde traject bezig zijn iets aan hebben.  
 
 Tot slot wil ik nog het volgende kwijt aan de directie van Lydis: ik betreur de harde toon die 
-jullie hebben gebruikt naar aanleiding van mijn bevindingen. Bevindingen die ik in 2022 exclusief met jullie heb gedeeld
-om Lydis te helpen een beter product op de Nederlandse markt te brengen. Ik heb jullie nooit om geld gevraagd en ik heb 
-met grote interesse gevolgd toen jullie invloed probeerden uit te oefenen op leden van de Nederlandse pers.
+jullie hebben gebruikt naar aanleiding van mijn bevindingen. En deze harde toon bezigen jullie nog altijd. Tijdens een meeting
+gisteren, op donderdag 15 februari 2024, werd meerdere malen herhaald dat Lydis mij niet vertrouwde tot op de dag van vandaag.  
+Vanaf 2022 heb ik mijn bevindingen exclusief met jullie heb gedeeld om Lydis te helpen een beter product op de Nederlandse 
+markt te brengen. Ik heb jullie nooit om geld gevraagd en ik heb met grote interesse gevolgd toen jullie invloed probeerden 
+uit te oefenen op leden van de Nederlandse pers.  
+
+
 Laten we dat in de toekomst ajb anders doen.
 
