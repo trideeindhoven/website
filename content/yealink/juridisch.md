@@ -169,3 +169,21 @@ verder sommatie goed lezen, want ook conspiracy staat hier in
 nep webpagina
 
 
+
+30-9-2023 Martin Hemmer
+"Geachte confrère,
+
+Dank voor uw e-mail.
+
+Het bericht maakt duidelijk dat aan de zijde van Hermans geen bereidheid bestaat om op enige wijze aan de sommatie gevolg te geven.
+
+Lydis zal dan ook nadere juridische stappen tegen Epsys BV en de heer Hermans in persoon (ook los van zijn rol als bestuurder overigens) voorbereiden.
+
+Met vriendelijke groet,
+
+Martin Hemmer"
+
+16-2-2023, Gijsbert Zijlstra
+"Zoals ook aangegeven tijdens het gesprek hebben wij niet de intentie om te procederen tegen een ethical hacker."
+
+

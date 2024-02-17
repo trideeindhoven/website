@@ -41,6 +41,19 @@ singular? Laten we het op een vertaal issue houden... Hopelijk.
 
 Beveiliging Teams door Microsoft ontkent (email 8/28/23, 20:11)
 
+https://www.lydis.nl/over-ons/yealink-security-faq
+"Yealink voldoet met al haar Microsoft Teams producten aan deze certificering van Microsoft omdat je alleen dan door Microsoft het stempel "certified" kan krijgen en mag voeren.
+
+
+De vereisten voor certificering omvatten:
+
+· Hardware beveiliging
+
+· Softwarebeveiliging
+
+· Accountbeveiliging
+
+· Netwerkbeveiliging."
 
 
 referenties:

@@ -208,11 +208,16 @@ Ik denk dat dit een goed moment is om even samen te vatten:
 - Yealink bood de nieuwe RSA "Default Mode" ter download aan op hun support website.
 - Ook de nieuwe "RSA" versleuteling van Yealink was hiermee een uitgebreide manier om bestanden plaintext aan te bieden.
 
-Yealink en Lydis {{< a_blank "bewerken achteraf" "https://portal.lydis.com/download/lydis/ftm/Article%20FTM-Yealink-160923-NL-Lydis_detail_reaction_short-v2.4.pdf" >}}
+Yealink en Lydis {{< a_blank "beweren achteraf" "https://portal.lydis.com/download/lydis/ftm/Article%20FTM-Yealink-160923-NL-Lydis_detail_reaction_short-v2.4.pdf" >}}
 {{< a_blank "mirror" "yealink/Article FTM-Yealink-160923-NL-Lydis_detail_reaction_short-v2.4.pdf" >}} dat "de 
 encryptietool niet wordt gebruikt door providers/carriers/professionals". Bovendien geeft Yealink op 24 februari 2023 
 in een email aan:
 {{< quote cloudquote >}}If the customer uses the RSA tool , the default key is only for demo. In the actual application, most IT with security awareness will not use the demo key provided by the manufacturer{{< /quote >}}
+Verder geeft Lydis op hun 
+{{< a_blank "security FAQ" "https://www.lydis.nl/over-ons/yealink-security-faq#netwerk" >}}
+{{< a_blank "mirror" "yealink/20240217_Yealink FAQ Security Lydis.pdf" >}} aan dat
+{{< quote cloudquote >}}In de VoIP-industrie werken professionals die de platforms en beveiliging beheren. Ze weten dat standaard pin- of defaults codes niet gebruikt moeten worden, net zoals bij het wijzigen van de pincode van een smartphone.{{< /quote >}}
+
 Dat is wel heel erg pijnlijk aangezien het juist deze gelekte RSA sleutel is die de technisch directeur van Lydis gebruikt 
 om mij {{< a_blank "bestand1" "yealink/y000000000065_1.cfg" >}} en {{< a_blank "bestand2" "yealink/y000000000065_2.cfg" >}} 
 toe te zenden met als doel om te laten zien hoe veilig het systeem is.
@@ -245,7 +250,7 @@ Interessant genoeg zijn er nu ineens twee logo's verdwenen.
 
 Het laat maar weer zien hoe belangrijk het is om niet iedereen op zijn blauwe ogen te geloven. Security is geen vinklijst
 die maar even afgeraffeld moet worden. Controleer dit soort dingen zelf, verifieer, vraag om verduidelijking. Een ISO27001
-betekent niets zonder op de hoogte te zijn van de scope, mooie referenties zullen wel gecontroleerd moeten worden.  
+betekent niets zonder op de hoogte te zijn van de scope en mooie referenties zullen wel gecontroleerd moeten worden.  
 
 En juist dat zelf controleren daar ben ik mee verder gegaan. Woensdag een nieuw artikel. Ook dit keer weer een meer technisch 
 artikel. En ook dit keer blijkt het bijzonder belangrijk gebleken om zelf feiten te controleren.  
@@ -253,7 +258,3 @@ artikel. En ook dit keer blijkt het bijzonder belangrijk gebleken om zelf feiten
 Tot woensdag!
 
 
-
-
-
-Ook voor Teams
