@@ -14,16 +14,19 @@ kon ik niet verklaren en dus werden ook hier vragen over gesteld aan Yealink.
 Laat ik eerst even beginnen met het uitleggen wat een "netwerkpoort" is.  
 
 Toen computernetwerken bedacht werden vond men dat het handig zou zijn om meerdere netwerkdiensten ("servers") op een 
-enkele computer te kunnen draaien. Hierdoor werd het "huisnummer" van een computer: het ip-adres uitgebreid met een 
-zogenaamd poortnummer. Men zou dit kunnen zien als de toevoeging aan het huisnummer. Zo kan men de netwerkinterface zien
+enkele computer te kunnen draaien. Hierdoor werd het "huisnummer" van een computer, het ip-adres, uitgebreid met een 
+zogenaamd {{< a_blank "poortnummer" "https://en.wikipedia.org/wiki/Port_(computer_networking)" >}}.
+Men zou dit kunnen zien als de toevoeging aan het huisnummer. Zo kan men de netwerkinterface zien
 als een heel lange gang in een hotel met allemaal deuren. De deuren zijn bij een computer genummerd van 1 tot ruim 65.000.  
-Achter elke deur is het mogelijk om een netwerkdienst te draaien. Om er voor te zorgen dat anderen de netwerkdienst kunnen
-vinden heeft men internationaal afspraken gemaakt welke netwerkdiensten achter welk poortnummer draaien. Deze toewijzingen
+Achter elke deur is het mogelijk om een netwerkdienst te draaien. Denk hierbij bijvoorbeeld aan een webserver of een emailserver.
+Om er voor te zorgen dat anderen de netwerkdienst kunnen vinden heeft men internationaal afspraken gemaakt welke 
+netwerkdiensten achter welk poortnummer draaien. Deze toewijzingen
 worden beheerd en toegewezen door de Internet Assigned Numbers Authority (IANA).  
 Een goed voorbeeld is een webserver. Door het intikken van: cloudaware.eu in de webbrowser weet de webbrowser meteen dat
 er gezocht moet gaan worden op poort 443 van de server waar cloudaware.eu op staat. Deze toewijzingen worden vaak vrij 
-snel vrij complex, maar een ander voorbeeld is poort 5060. Poort 5060 is gereserveerd voor het Session Initiation 
-Protocol (SIP).  
+snel vrij complex, maar een ander voorbeeld is poort 5060. Poort 5060 is gereserveerd voor het 
+{{< a_blank "Session Initiation Protocol (SIP)" "https://en.wikipedia.org/wiki/Session_Initiation_Protocol" >}}.  
+
 SIP is het protocol wat vaak gebruikt wordt voor de zogenaamde signalling in VoIP gesprekken. Denk hierbij aan 
 berichten als:
 - "Ik ben telefoon x en ik wil nu graag telefoon y bereiken."
@@ -52,25 +55,31 @@ Nu is dit natuurlijk een wat vereenvoudigde voorstelling van de techniek en ik h
 zelfde "gesprek" plaatsvindt bij het ophangen van een gesprek.  
 
 Maar wat heeft dit nu met poorten te maken? Nou. Zoals hierboven duidelijk is communiceert de telefoon NAAR poort 5060 
-op de telefooncentrale. In enkele uitzonderingsgevallen IS het mogelijk dat het nodig is om ook naar de telefoon TOE te 
+op de telefooncentrale. In enkele uitzonderingsgevallen is het mogelijk dat het nodig is om ook naar de telefoon toe te 
 communiceren. In dat geval treedt de telefoon zelf als een soort telefooncentrale op. Dit is een functionaliteit die ik in
 de afgelopen 20 jaar nog niet bij een klant ben tegen gekomen, maar ik moet dit er voor de volledigheid hier bij vermelden.  
 
 Kortom: het is van belang dat de telefoon de telefooncentrale op poort 5060 kan bereiken. Maar wat wil het feit nu: ook 
 op de telefoons zelf staat poort 5060 open. Ik vond dit vreemd en ik heb hierover een vraag gesteld aan Yealink op 
-6-7-2023: "why is port 5060 open? Is there some functionality in the Yealink phones that i am unaware of?"  
-Yealink reageert met "5060 port is used to IP CALL function, which means you could use call IP address from phone A 
-to phone B". Dit is inderdaad een van die uitzonderingsgevallen waar ik het eerder over had. Dus na een eenvoudig testje
-mail ik Yealink terug: *"We DISabled Direct IP Call (Features->General Information->Allow IP Call->Disabled). 
+6-7-2023:
+{{< quote cloudemail >}}why is port 5060 open? Is there some functionality in the Yealink phones that i am unaware of?
+{{< /quote >}}
+Yealink reageert met 
+{{< quote cloudemail >}}5060 port is used to IP CALL function, which means you could use call IP address from phone A 
+to phone B{{< /quote >}}
+Dit is inderdaad een van die uitzonderingsgevallen waar ik het eerder over had. Dus na een eenvoudig testje
+mail ik Yealink terug: 
+{{< quote cloudemail >}}
+We DISabled Direct IP Call (Features->General Information->Allow IP Call->Disabled). 
 But when we did a portscan of the phone we could still see port 5060 open. It seems that the port is open whether you 
-have Direct IP Call enabled or not."*  
+have Direct IP Call enabled or not.{{< /quote >}}  
 Ik heb een groot deel van het antwoord van Yealink hier woord voor woord geciteerd, omdat het een mooi inzicht geeft
 in hoe lastig de communicatie soms was:  
-*"The IP Call feature use 5060 port is following the SIP RFC standard, but 
+{{< quote cloudemail >}}The IP Call feature use 5060 port is following the SIP RFC standard, but 
 disable IP Call feature can’t block 5060, because 5060 port is also used in UDP registering and Calling. If you 
 check the major brand like Poly(Polycom) and Cisco, they also have the same mechanism. Because open 5060 port doesn’t 
 bring security issue. According to RFC standard, 5060 port is standard SIP port, the 5060 port will not handling a 
-non-sip message. "*  
+non-sip message. {{< /quote >}}  
 
 Er zijn nogal wat zaken mis met deze uitspraken. Uiteraard heb ik naar die claim gekeken: "jamaar iedereen doet het". 
 Dus ik heb 3 telefoons van Cisco, Grandstream en SNOM genomen. Al deze telefoons hadden ook default poort 5060 open 

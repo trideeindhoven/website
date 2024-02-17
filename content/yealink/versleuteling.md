@@ -29,7 +29,7 @@ compatible was met de systemen van Yealink zelf. Helaas had ik hiervoor allerlei
 welke versleuteling wordt er gebruikt en natuurlijk ook: welke sleutel wordt er gebruikt. Uiteraard ging ik er niet van
 uit dat ik deze informatie ging krijgen, dus ben ik op het internet op zoek gegaan naar manieren om een zo 
 compatibel mogelijk systeem te bouwen. Hierbij kwam ik een persoon tegen die mij niet alleen kon vertellen welke 
-versleuteling Yealink gebruikte, maar zelfs welke sleutel Yealink gebruikte. Het vroegst waar ik deze gelekte
+versleuteling Yealink gebruikte, maar zelfs welke geheime sleutel Yealink gebruikte. Het vroegst waar ik deze gelekte
 sleutel kon terug vinden was 2014. Met deze gegevens was het een koud kunstje
 om een provisioning systeem te bouwen wat 100% compatibel was met de Yealink systemen. Maar echt goed voelde dit 
 natuurlijk niet: Als ik deze gegevens had, wie dan nog meer?
@@ -52,8 +52,10 @@ voor ga schrijven in deze serie.
 - Vervolgens krijg ik een "Remediation Report" opgestuurd van de Yealink Cloud Services. Het is de volledige versie van
 de samenvatting van de NetSPI testen die ook op de website van Yealink staan. Daar waar de (openbare) samenvatting
 redelijk positief is, is het volledige rapport dat...niet. Hier later meer over in een vervolg publicatie!
-- Tijdens een Teams meeting wordt ik geïnformeerd dat de nieuwe Encryption Tool met RSA versleuteling werkt. Yealink 
-geeft aan dat ze pas 6 jaar na het uitlekken van de AES sleutel hiertoe hebben besloten.
+- Tijdens een Teams meeting wordt ik geïnformeerd dat de nieuwe Encryption Tool met 
+{{< a_blank "Rivest–Shamir–Adleman (RSA)" "https://en.wikipedia.org/wiki/RSA_(cryptosystem)" >}}
+versleuteling  werkt. Yealink geeft aan dat ze pas 6 jaar na het uitlekken van de 
+{{< a_blank "AES" "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" >}} sleutel hiertoe hebben besloten.
 - En tot slot krijg ik een screenshot opgestuurd van de nieuwe Yealink Configuration Encryption Tool.  
 
 {{< img "Yealink Configuration Encryption Tool" "img/yealink/encryption_tool_1.jpg" >}}  
