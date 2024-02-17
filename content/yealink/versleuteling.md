@@ -231,7 +231,9 @@ met het volgende antwoord:
 De gecertificeerde devices worden getest op het leveren van audio- en video-ervaringen met een hoge kwaliteit. In onze specificatiesgeven wij aan dat de fabrikanten van de devices verantwoordelijk zijn voor de beveiliging van de devices, de software en de firmware.{{< /quote >}}
 
 Dat is een heel ander verhaal dan door Lydis en Yealink naar buiten gebracht wordt. En welke andere claims zijn er dan 
-eigenlijk wel te controleren? Ik besluit naar de "Security and Compliance" pagina van het "Trust Center" van Yealink te browsen.
+eigenlijk wel te controleren? Ik besluit naar de 
+"{{< a_blank "Security and Compliance" "https://www.yealink.com/en/trust-center/security-compliance" >}}"
+ pagina van het "Trust Center" van Yealink te browsen.
 Op deze pagina staan mooie klinkende namen met logo's:
 {{< img "Security and Compliance 20230901" "img/yealink/20230901_trust_center_security_compliance.png" >}}  
 Een waarlijk indrukwekkende lijst. Twee van de logo's vallen mij op: Migros (grootgrutter in Zwitserland) en KPN. Ik besluit
