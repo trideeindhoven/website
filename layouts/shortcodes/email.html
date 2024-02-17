@@ -1,4 +1,4 @@
 {{ $quoteclass := .Get 0 }}
 {{ printf "<blockquote class=\"%s\">" $quoteclass | htmlUnescape | safeHTML }}
-{{ replace .Inner "\n" "<br/>" | safeHTML }}
+{{ .Inner | safeHTML }}
 {{ printf "</blockquote>" | htmlUnescape | safeHTML }}
