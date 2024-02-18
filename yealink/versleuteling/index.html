@@ -141,7 +141,8 @@
     <h1 class="title text-5xl mb-4">Versleuteling</h1>
     <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>De aanleiding van dit onderzoek waren enkele zaken in de versleuteling in het provisioning proces die ik niet goed
 begreep. Ik kon toen niet vermoeden dat ik hier 2 jaar later nog steeds mee bezig zou zijn.</p>
-<p>Zoals in de inleiding uitgelegd is provisioning het systeem wat gebruikt wordt om configuratie bestanden veilig te
+<p>Zoals in de <a href="https://trideeindhoven.github.io/website/yealink/inleiding/">inleiding</a> uitgelegd is provisioning het systeem wat gebruikt wordt
+om configuratie bestanden veilig te
 transporteren van een configuratieserver naar een systeem. Dit systeem kan een VoIP telefoon zijn, maar hetzelfde geldt
 ook voor b.v. videobars.</p>
 <p>In deze provisioning bestanden staan zaken als:</p>
@@ -195,10 +196,10 @@ redelijk positief is, is het volledige rapport dat&hellip;niet. Hier later meer 
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29">Rivest–Shamir–Adleman (RSA)</a> <i class="fa fa-external-link"></i>
 
-versleuteling  werkt. Yealink geeft aan dat ze pas 6 jaar na het uitlekken van de
+versleuteling  werkt. Yealink geeft aan dat ze dit pas 6 jaar na het uitlekken van de
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Advanced_Encryption_Standard">AES</a> <i class="fa fa-external-link"></i>
- sleutel hiertoe hebben besloten.</li>
+ sleutel hebben geïmplementeerd.</li>
 <li>En tot slot krijg ik een screenshot opgestuurd van de nieuwe Yealink Configuration Encryption Tool.</li>
 </ul>
 <img src="https://trideeindhoven.github.io/website/img/yealink/encryption_tool_1.jpg" alt="Yealink Configuration Encryption Tool">
@@ -213,7 +214,7 @@ versleuteling  werkt. Yealink geeft aan dat ze pas 6 jaar na het uitlekken van d
 <p>Het is duidelijk dat ik even moet gaan proberen te begrijpen hoe deze nieuwe Encryption Tool in elkaar zit en ik kom
 tot de volgende conclusie:</p>
 <ul>
-<li>Yealink heeft de &ldquo;Default&rdquo; AES sleutel nog steeds in gebruik, maar dan alleen in &ldquo;Compatibility Mode&rdquo;. Op het moment
+<li>Het is nog steeds mogelijk om alleen met AES te werken in de zogenaamde &ldquo;Compatibility Mode&rdquo;. Op het moment
 dat ik deze modus kies, krijg ik geen melding dat deze mogelijk onveilig is.</li>
 <li>In RSA Mode wordt het configuratie bestand nog steeds met AES versleuteld. Echter de sleutel voor het versleutelen is
 nu niet meer hetzelfde voor alle gebruikers (wat goed is).</li>
@@ -231,8 +232,7 @@ ontsleutelde bestand. Ik besluit het op
 <a target="_blank" href="https://github.com/gitaware/yealink-encryption">github</a> <i class="fa fa-external-link"></i>
 
 te zetten, maar voorlopig als private repository aangezien het met deze software mogelijk is om geheime bestanden
-te ontsleutelen.
-&lt;TODO: fixen van image link in README op github&gt;</p>
+te ontsleutelen.</p>
 <p>Nu email ik opnieuw met de &ldquo;support manager&rdquo; welke nu de &ldquo;Technisch directeur&rdquo; van Lydis blijkt te zijn. Ik stel dat ik
 denk dat de versleuteling ernstig stuk is en dat Lydis dit waarschijnlijk met grote spoed aan Yealink moet gaan melden.
 Ook vraag ik hem op 27 september 2022 om mij een versleuteld bestand te sturen, zodat ik kan zien of mijn
@@ -281,11 +281,11 @@ Zou je bijgevoegd bestand ook kunnen testen.
 </p>
 <p>Dit keer levert hij echter 
 <a target="_blank" href="https://trideeindhoven.github.io/website/yealink/y000000000065_3.cfg">een bestand</a> <i class="fa fa-external-link"></i>
- waar het &ldquo;key_ciphertext&rdquo; helemaal
+ waar het &ldquo;key_ciphertext&rdquo; deel helemaal
 is verdwenen. Ik vraag hem waarom mijn
 telefoon dit bestand niet kan gebruiken als geldig provisioniong document en hij geeft aan dat zij wat andere
 instellingen in de provisioningtool hebben gebruikt. Als ik dan vraag of hij een lege sleutel oid heeft gebruikt omdat
-er geen (versleutelde) AES sleutel in het document staat reageert hij dat
+er geen (versleutelde) AES sleutel in het document staat reageert hij met
 
 <blockquote class="cloudemail">
 Waarom de key_ciphertext in het bestand dan leeg is, is ons nu zo even niet bekend.
@@ -293,7 +293,7 @@ Waarom de key_ciphertext in het bestand dan leeg is, is ons nu zo even niet beke
 </p>
 <p>Ik reageert met dat ALS dit een geldig provisioning document is (en Lydis beweert dat het dat is) dat &ldquo;er een geheime
 key4a is die in elke telefoon meegeleverd wordt (backdoor).&rdquo;<br>
-Er volgt een serie aan meetings met Yealink zowel via Teams als physiek in Almere. Het leidt er toe dat de encryption
+Er volgt een serie aan meetings met Yealink zowel via Teams als fysiek in Almere. Het leidt er toe dat de encryption
 Tool (en dus ook Clouddienst) van Yealink wordt aangepast. Het is niet meer mogelijk om het &ldquo;Default RSA Model&rdquo; te
 gebruiken, waardoor de gelekte RSA private key ook niet meer gebruikt kan worden voor nieuwe deployments.</p>
 <h1 id="ecb">ECB</h1>
@@ -313,8 +313,8 @@ als Yealink voor een versleutelings methode kiest welke onnodig onveilig is. Laa
 is een versleutelings methode die niet &ldquo;gekraakt&rdquo; is op het moment van schrijven. Maar deze methode van versleuteling is
 een heel specifieke keuze die niet verklaard kan worden door mensen die hier veel meer verstand van hebben dan ikzelf.</p>
 <p>Wat is er precies aan de hand? Electronic CodeBook encryption (ECB) is een versleutelingsmethode waar de data opgesplitst
-wordt in blokken van een bepaalde grootte. Elk block wordt vervolgens met een sleutel versleuteld. Deze sleutel is voor ELK
-block exact hetzelfde. Dit betekent dus ook dat identieke blokken een identieke ciphertext opleveren.<br>
+wordt in blokken van een bepaalde grootte. Elk blok wordt vervolgens met een sleutel versleuteld. Deze sleutel is voor ELK
+blok exact hetzelfde. Dit betekent dus ook dat identieke blokken een identieke ciphertext opleveren.<br>
 Ook is het ontsleutelen van de blokken mogelijk door exact dezelfde bewerking nog een keer uit te voeren. Het maakt deze
 versleutelingsmethode vatbaar voor zogenaamde replay attacks.</p>
 <p>Maar zoals het gezegde gaat: een beeld zegt meer dan 1000 worden. En dit beeld heet voor ECB versleuteling: ECB penguin. De
@@ -385,7 +385,7 @@ Verder geeft Lydis op hun
 In de VoIP-industrie werken professionals die de platforms en beveiliging beheren. Ze weten dat standaard pin- of defaults codes niet gebruikt moeten worden, net zoals bij het wijzigen van de pincode van een smartphone.
 </blockquote>
 </p>
-<p>Dat is wel heel erg pijnlijk aangezien het juist deze gelekte RSA sleutel is die de technisch directeur van Lydis gebruikt
+<p>Dat is wel heel erg interessant aangezien het juist deze gelekte RSA sleutel is die de technisch directeur van Lydis gebruikt
 om mij 
 <a target="_blank" href="https://trideeindhoven.github.io/website/yealink/y000000000065_1.cfg">bestand1</a> <i class="fa fa-external-link"></i>
  en 
@@ -393,7 +393,7 @@ om mij
 
 toe te zenden met als doel om te laten zien hoe veilig het systeem is.</p>
 <h1 id="teams">Teams</h1>
-<p>Maar zo beweert Lydis. Er is is niets aan de hand. De publicaties van Follow The Money en De Tijd bevatten &ldquo;feitelijke
+<p>Maar zo beweert Lydis. Er is is niets aan de hand! De publicaties van Follow The Money en De Tijd bevatten &ldquo;feitelijke
 onjuistheden&rdquo;. In het bijzonder de &ldquo;Teams&rdquo; gecertificeerde apparatuur &ldquo;is van deze kwesties volledig uitgesloten&rdquo;. Deze
 worden namelijk &ldquo;
 <a target="_blank" href="https://www.lydis.nl/over-ons/lydis-statement-2">compleet door Microsoft beveiligd</a> <i class="fa fa-external-link"></i>
@@ -429,7 +429,8 @@ Interessant genoeg zijn er nu ineens twee logo&rsquo;s verdwenen.</p>
 die maar even afgeraffeld moet worden. Controleer dit soort dingen zelf, verifieer, vraag om verduidelijking. Een ISO27001
 betekent niets zonder op de hoogte te zijn van de scope en mooie referenties zullen wel gecontroleerd moeten worden.</p>
 <p>En juist dat zelf controleren daar ben ik mee verder gegaan. Woensdag een nieuw artikel. Ook dit keer weer een meer technisch
-artikel. En ook dit keer blijkt het bijzonder belangrijk gebleken om zelf feiten te controleren.</p>
+artikel waar ik uitgebreid in ga op de netwerk functionaliteit van Yealink VoIP apparatuur.
+En ook dit keer blijkt het bijzonder belangrijk gebleken om zelf feiten te controleren.</p>
 <p>Tot woensdag!</p></div>
   </div>
 </div>
