@@ -139,35 +139,264 @@
 <div class="mx-auto my-10 max-w-6xl">
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
     <h1 class="title text-5xl mb-4">AVG / GDPR</h1>
-    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de AVG wetgeving. Sterker nog: ze claimen hier
-zelfs een &ldquo;GDPR certificate&rdquo; voor te bezitten van TÜV Rheinland.</p>
-<p><a href="https://www.lydis.nl/yealink-beveiliging-maatregelen">https://www.lydis.nl/yealink-beveiliging-maatregelen</a></p>
-<p>EULA van USB devices niet GDPR compliant
-Verlopen certificaat</p>
-<p>gevraagd aan TÜV
-ingetrokken
-toch nog aangeboden op website
-ETSI TS 103 645
-Deze norm is niet gemaakt voor het testen van cloud diensten
-ETSI geeft aan dat het gebruiken van deze norm werkt &quot;&quot;
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de
+
+<a target="_blank" href="https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex%3A32016R0679">Algemene Verordening Gegevensbescherming (AVG)</a> <i class="fa fa-external-link"></i>
+ wetgeving.
+Sterker nog: ze claimen hier zelfs een &ldquo;General Data Protection Regulation (GDPR) certificate&rdquo; (Engelse benaming voor AVG)
+voor te bezitten van TÜV Rheinland.</p>
+<p>Het is tijdens een van de dinertjes aan de keukentafel met de experts die hebben meegewerkt aan het
+
+<a target="_blank" href="https://www.ftm.nl/artikelen/yealink-apparatuur-overheid-vitale-sectoren">FTM artikel</a> <i class="fa fa-external-link"></i>
+ wanneer ik het AVG/GDPR
+certificaat ter sprake breng. Dit certificaat wordt door Lydis en Yealink veelvuldig gebruikt als het bewijs dat het toch echt
+wel goed zit met de beveiliging van de Yealink apparaten. Ik ben zelf met zo veel zaken in dit project bezig dat ik er nog niet
+op aangeslagen ben. Aan de andere kant van de tafel veert iemand op&hellip;<br>
+&ldquo;Een GDPR certificaat?&rdquo; &ldquo;Ja?&rdquo; antwoord ik. In het gesprek wat volgt besef ik heel snel dat dit iets heel interessants is.
+De AVG/GDPR gaat natuurlijk niet alleen over technische zaken, maar ook over je processen, en hoe je met de persoonsgegevens
+omgaat. Het is dus opvallend dat er een GDPR certificaat bestaat. Dit&hellip;vraagt&hellip;om&hellip;meer&hellip;onderzoek.<br>
+De volgende dag duik ik in het
+
+<a target="_blank" href="https://www.yealink.com/website-service/download/yealink-trust-center-security-gdpr.pdf">certificaat</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240114034519/https://www.yealink.com/website-service/download/yealink-trust-center-security-gdpr.pdf">mirror</a> <i class="fa fa-external-link"></i>
+. Het blijkt een indrukwekkend uitziend document te zijn, compleet met logo en een &ldquo;Licensed Test mark&rdquo; van
+TÜV Rheinland. Er wordt melding gemaakt dat de &ldquo;Yealink Management Cloud Service&rdquo; (YMCS) getest is volgens testnorm
+ETSI TS 103 645 v1.1.1:2019.<br>
+Onderaan het document staat:
 
 <blockquote class="cloudquote">
-<br/>in the same way an old airplane can be repurposed as a hotel<br/><span>Uit UVC30 EULA</span><br/>
+<br/>...the security controls and data processing of the tested portal ate ensured to be compliant with the General Data Protection<br/>Regulation (GDPR)<br/>
+</blockquote>
+
+Dat klinkt als een behoorlijke zekerheid. Het document roept in elk geval erg veel vragen op.</p>
+<h1 id="adres">Adres</h1>
+<p>Bovenaan het document wordt een license holder vermeld: Yealink (Xiamen) Netowrk Technology Co., Ltd. Dat is de officiële naam
+van Yealink. Maar er wordt ook een &ldquo;Manufacturing Plant&rdquo; vermeld. Deze ligt in dezelfde stad (Xiamen), maar is volgens het
+document niet Yealink zelf. Ik kan dit niet op waarde beoordelen en ben hier verder ook niet meer in gedoken, maar ik vond
+het in elk geval wel iets interessants.</p>
+<h1 id="tüv">TÜV?</h1>
+<p>Dan de uitgever van het document. Dit is TÜV&hellip;TÜV Rheinland&hellip;TÜV Rheinland (China) Ltd. Beijing. Op het document staat
+een Dipl.-Ing. Univ. titel en ik zoek deze beste man op op het internet. Volgens zijn LinkedIn is hij de &ldquo;Technical Competence
+Center Director at TÜV Rheinland Group&rdquo; in Shenzhen. Aangezien hij dit document heeft ondertekend besluit ik hem een emailbericht
+te sturen. Op 25-7-2023 schrijf ik hem:
+
+<blockquote class="cloudemail">
+We have seen the attached Certificate issued by TÜV Rheinland (China Ltd (from here on: TÜV).<br/>- Given the scope defined in chapter 1 of ETSI TS 103645 ("The present document specifies high-level provisions for the security of consumer devices that are connected"), is it the opinion of TÜV that ETSI TS 103645 is suited for testing a "Cloud Service"?<br/>- The certificate states: "The tested portal reveals no significant and widespreak security shortcomings according to ETSI TS 103645". As we now know there have been quite a few significant, high impact, security shortcomings in the tested portal. Can TÜV elaborate on the used testing procedure for ETSI TS 103645? What tools does TÜV use to test for "significant and widespreak security shortcomings"?<br/>- The certificate says: "are ensured to be compliant with the <cut> GDPR". We think there may be a misunderstanding here in the wording. Does this sentence mean:<br/>     * compliance with the GDPR, or<br/>     * the tested components are not in conflict with the provisions as stated in the GDPR (but not a complete GDPR compliance)?<br/>- Can TÜV explain the seemingly large discrepancy between the wording in the Certificate and ETSI TS 103645:<br/>        Certificate: "are ensured to be compliant with the <cut> GDPR"<br/>        ETSI TS 103645: "the present document can help in ensuring that these are compliant with the<cut>GDPR"<br/>
+</blockquote>
+
+Een weekje later stuur ik de Dipl.-Ing. Univ. een reminder dat ik nog geen antwoorden heb ontvangen, maar ik zal nooit meer
+iets van hem horen.</p>
+
+<blockquote class="cloudemail">
+Ik besluit TÜV Rheinland Duitsland een mailbericht te sturen, hopende op een beter antwoord. Op 8 augustus 2023 email ik:<br/> I have asked the below questions to Mr. <font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font> of TÜV Rheinland China. <br/> Unfortunately i have not received a reply back.<br/>
+</blockquote>
+
+<p>Nadat ik ook TÜV Rheinland Duitsland een reminder heb gestuurd krijg ik op 23 augustus 2023 een antwoord terug van iemand
+die volgens zijn eigen LinkedIn als functieomschrijving heeft &ldquo;Spokesperson, Unternehmenskommunikation, Pressearbeit,
+Redaktion, Medienanalyse&rdquo;
+
+<blockquote class="cloudemail">
+Dear Mr. Hermans,<br/><br/>thanks for your inquiry.<br/><br/>We forwarded your request straight to mark surveillance to review the case.<br/><br/>They should get back to you shortly.
 </blockquote>
 </p>
-<p>tuv: norm retracted,
-ETSI: dat is niet zo
-ETSI, 2-10-2023
+<p>Dit klinkt niet alsof deze persvoorlichter een net antwoord voor mij klaar heeft liggen. Maar daar ben ik natuurlijk wel
+naar op zoek. En dus vraag ik diezelfde dag nog:</p>
+
+<blockquote class="cloudemail">
+The case is going to be reviewed? I only asked a few basic questions about the certificate. <br/>If you could answer them for me that would be great.
+</blockquote>
+
+<p>&lt;TODO: invoegen van telefoongesprek met Volker Seitz&gt;</p>
+<p>2 dagen later op 30 augustus reageert iemand van de &ldquo;Trade Mark Surveillance&rdquo; division. Zijn email vangt aan met:
 
 <blockquote class="cloudquote">
-<br/>Both versions of the TS 103 645 are active and not superseded or retracted. The publication of the later versions does not in itself invalidate the older versions.<br/>
+FYI, the certificate is not valid anymore.
 </blockquote>
 </p>
+<p>..is not v&hellip; Ok. Dit is een email die ik even goed moet lezen. De man gaat puntsgewijs in op mijn eerder gestelde vragen
+aan TÜV Rheinland China in Beijing.<br>
+Voor mijn eerste vraag of de ETSI norm wel geschikt is om een clouddienst te testen heeft hij aan dat er in 2018 geen
+geharmoniseerde standaard was voor het testen van een clouddienst voor de GDPR requirement, waardoor TÜV er voor heeft
+gekozen om een &ldquo;three part approach&rdquo; te kiezen. Uiteraard heb ik naar de twee andere delen van de &ldquo;three part approach&rdquo;
+gevraagd, maar ik heb deze helaas niet in handen mogen krijgen. Wel geeft de man aan dat
+
+<blockquote class="cloudquote">
+ETSI TS 103 645 is an important part of the GDPR certification program for cloud services, but this does not mean that testing ETSI TS 103 645 alone is sufficient to prove that a cloud service is GDPR compliant.
+</blockquote>
+</p>
+<p>Op de vraag hoe TÜV dan eigenlijk geconstateerd heeft dat er geen &ldquo;significant and widespread security shortcomings&rdquo; in de
+clouddienst van Yealink zaten antwoorden zij: &ldquo;We conducted penetration testing of websites according to the requirements
+of OWAST Top 10-2018&rdquo;</p>
+<p>Dit is interessant omdat ik een &ldquo;Web Application Penetration Test&rdquo; rapport in handen heb gekregen voor diezelfde clouddienst
+als waar het GDPR certificaat voor is afgegeven. Helaas kan ik dit rapport hier niet delen omdat het &ldquo;Proprietary and
+Confidential&rdquo; is. Bovendien is het dusdanig specifiek over de beveiligingsgaten dat ik bang ben dat ik hiermee schade
+kan berokkenen aan Yealink en Lydis klanten. En dat is nou net niet mijn bedoeling. Maar ik kan wel uit dit rapport
+stukken aanhalen. En een van de belangrijke zaken is dat TÜV aangeeft dat er geen &ldquo;significant and widespread security
+shortcomings&rdquo; en dat ze dit weten omdat ze volgens de &ldquo;OWAST Top 10-2018&rdquo; getest hebben.<br>
+Het Web Application Penetration Test rapport van NetSPI heeft ook deze OWAST Top 10 getest en zij komen tot de conclusie
+dat er een heel aantal vulnerabilities in de clouddiensten zitten. En onder die vulnerabilities zitten ook vier &ldquo;high
+severity&rdquo; findings, waaronder:</p>
+<ul>
+<li>A1 - Injection</li>
+<li>A2 - Broken Authentication</li>
+<li>A5 - Broken Access Control</li>
+<li>A7 - Cross-Site Scrpting (XSS)</li>
+</ul>
+<p>Het moet gezegd worden dat, volgens het NetSPI rapport deze findings allemaal opgelost zijn, maar de technische details
+laten een kinderlijk eenvoudige manier zien om authenticatie volledig te omzeilen. De gevonden problemen in de clouddienst
+van Yealink leverden een reëel risico op voor alle klanten ter wereld van Yealink. Het is mij niet bekend of er nadien
+onderzoek is uitgevoerd door Yealink of deze ernstige beveiligingsgaten misbruikt zijn.</p>
+<p>De email van TÜV gaat verder over mijn vraag over de bewoording van het certificaat. Deze bewoording is:
+
+<blockquote class="cloudquote">
+the security control and data processing of the tested portal are ensured to be compliant with the<br/>GDPR
+</blockquote>
+</p>
+<p>Ik probeer TÜV hier een beetje te helpen en vraag of dit wellicht een vertaling probleem is en of men bedoelt &ldquo;the tested
+components are not in conflict with the provisions as stated in the GDPR (but not a complete GDPR compliance)?&rdquo;</p>
+<p>TÜV Rheinland reageert alleen terug met het kort, maar o zo krachtige: &ldquo;Compliance with the GDPR&rdquo;</p>
+<p>Uiteraard stel ik TÜV ook vragen over de bewoording &ldquo;are ensured to be compliant with the GDPR&rdquo; en de (veel voorzichtigere)
+bewoording in de ETSI TS 103645: &ldquo;the present document can help in ensuring that these are compliant with the<!-- raw HTML omitted -->GDPR&rdquo;.
+TÜV reageert dat &ldquo;The certification consists of three parts and therefore cannot be simply equated to ETSI TS 103 645&rdquo;.
+Uiteraard heb ik gevraagd of ik deze andere twee delen ook mag inzien of dat ik het certificaatnummer hiervan mag hebben
+zodat ik ook deze delen op 
+<a target="_blank" href="https://www.certipedia.com/">certipedia</a> <i class="fa fa-external-link"></i>
+ kan zien en of deze nog steeds actief
+zijn. Ik heb nooit meer informatie over deze twee andere delen mogen ontvangen.</p>
+<p>Maar blijkbaar maakt ook TÜV zich toch wel wat zorgen over mijn graafwerk en ik krijg ineens een, redelijk intimiderend
+telefoontje van iemand die volgens zijn eigen Linkedin aan &ldquo;(Crisis) Communication&rdquo; doet. In de (niet-geplande) meeting
+zit ook de eerdere communicatiemanager van TÜV en de crisis-communication man begint het telefoongesprek met de vraag of
+ik het gesprek niet wil opnemen. Ik ga even rechtop zitten, want nu ben ik toch wel heel benieuwd wat er nu gezegd gaat worden.</p>
+<p>Hij vervolgt om te zeggen dat &ldquo;all three parts of the certification are not valid anymore&rdquo;. Ik stel de vraag of het certificaat
+&ldquo;cancelled&rdquo; of &ldquo;expired&rdquo; is. Ik krijg het verwarrende antwoord &ldquo;both&rdquo; terug. Ik vraag voor verduidelijking en dan komt het
+hoge woord er uit: &ldquo;No, i am sorry, it&rsquo;s cancelled&rdquo;. Hij bedankt mij voor de &ldquo;feedback&rdquo; die ik gegeven heb.<br>
+Als ik hem vraag of TÜV een officieel press-statement wil geven wordt het gesprek wat dringender van aard. De crisis-communication
+man zegt dat hij geen verdere informatie kan geven aan een concurrent van Yealink en dat ze geen media enquiries hebben ontvangen.<br>
+Ik geef aan dat ik vanaf de allereerste email (via press.tuv.com) duidelijk ben geweest dat ik een onderzoeker ben die gaat
+publiceren. Dit verweer &ldquo;hoezo ga jij nu ineens publiceren?&rdquo; kom ik vaker tegen. Zowel Yealink als Lydis voeren dit argument
+regelmatig aan. De reden waarom dit gebeurt kan ik alleen maar naar gissen, maar ik gok dat het komt omdat er aan de communicatie-
+kant toch af en toe onderschat wordt wat een security probleem voor impact kan hebben. Als ik dan toch tips mag uitdelen:
+als je een onderneming bent en iemand beweert aan een publicatie te werken, neem dit dan serieus. Als je een security
+onderzoeker bent, vermeld <em>altijd</em> vanaf het allereerste begin waar je mee bezig bent. Zorg dat dit per email gebeurt zodat
+je hier altijd op terug kan wijzen.</p>
+<p>De crisis communication man gaat verder dat hij wil weten of ik een &ldquo;accredited journalist&rdquo; ben, want hij is nogal
+&ldquo;irritated&rdquo; dat ik TÜV &ldquo;threaten with media&rdquo; terwijl ik een &ldquo;competitor of Yealink&rdquo; ben. Ik reageer met de vraag wat hij
+eigenlijk bedoeld met dat ik een &ldquo;competitor&rdquo; ben, omdat ik vanaf het allereerste moment in contact ben geweest met de
+press office van TÜV. Nu gebeurt er iets interessants. Iemand anders van TÜV neemt het gesprek snel over. Het is duidelijk
+dat de crisis-communication man er veel te hard in gaat en hij probeert de zaak duidelijk te sussen. Maar hij herhaalt ook
+dat ze &ldquo;irritated&rdquo; zijn en dat als ze geen mediaenquiry van een accredited media ontvangen dat ze de case closed beschouwen.<br>
+Een interessant antwoord. Dat betekent dus dat een organisatie als TÜV weigert om verdere informatie te verschaffen over
+basale zaken, zoals datum van intrekken, over het intrekken van een certificaat. Ik denk dat dat wellicht de beste indicatie
+is hoe ongemakkelijk TÜV zelf in deze zaak zit.</p>
+<p>Maar de strekking is duidelijk. Ik ben geen journalist en daarom willen ze niet met mijn praten. Een dag later op 8
+september stuurt FTM daarom een media verzoek naar TÜV. De, wat emotionele, crisis-communication man reageert terug met een
+&ldquo;-external@tuv.com&rdquo; emailadres.
+
+<blockquote class="cloudquote">
+The certificate that you mentioned lost its validity at the point of time when the respective standard ETSI TS 103 645 lost its validity. It is invalid. This can be seen in Certipedia (www.certipedia.com/certificates/50479079?locale=en)
+</blockquote>
+</p>
+<p>Dit is een belangrijke email. Hier wordt beweert dat TÜV het certificaat TOCH niet heeft ingetrokken, maar dat het niet meer
+geldig is omdat de onderliggende ETSI test methode is komen te vervallen. Dat lijkt een klein detail, maar het wijkt duidelijk
+af van de verklaring die deze zelfde man aan mij telefonisch gaf. Dat gesprek dus waar mij duidelijk verzocht werd om vooral
+niet op te nemen en geen quotes uit te gebruiken. Waarom dit van belang is, zal verderop in dit artikel heel erg duidelijk
+gaan worden.</p>
+<p>De man gaat verder met te vertellen dat:
+
+<blockquote class="cloudquote">
+We informed Yealink that the respective certificate is no longer valid. If a certificate is no longer valid it means, that the respective company can no longer promote its product(s) with the certificate (e.g. no reference to the certificate).
+</blockquote>
+</p>
+<p>Ook dit is een belangrijke uitspraak. Deze email is van 11 september 2023, maar het is ook duidelijk dat Yealink tot zeker
+14 februari 2024
+
+<a target="_blank" href="https://web.archive.org/web/20240114034519/https://www.yealink.com/website-service/download/yealink-trust-center-security-gdpr.pdf">het certificaat</a> <i class="fa fa-external-link"></i>
+ actief aanbiedt op hun website!<br>
+Lydis heeft de
+
+<a target="_blank" href="https://web.archive.org/web/20240217145316/https://www.lydis.nl/yealink-beveiliging-maatregelen">link naar het GDPR certificaat</a> <i class="fa fa-external-link"></i>
+
+zelfs nog op 17 februari 2024 nog op hun website staan. Tijdens een meeting met Lydis op 15 februari 2024 stel ik aan een lid
+van de directie de vraag of TÜV contact met hen heeft opgenomen. Hij bevestigt dat TÜV dat inderdaad &ldquo;in december&rdquo; heeft gedaan
+en dat zij meteen aan de vordering om het certificaat van hun website te halen hebben voldaan. Of er hier nu sprake is van
+bewuste misleiding of van grove slordigheid: wie zal het zeggen.</p>
+<p>Het is opvallend dat de bewoording van de GDPR claims&hellip;anders&hellip;is. Als we naar de
+
+<a target="_blank" href="https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20231129/20231129070537611d28919946efabdccbfb7e087979.pdf">Yealink Management Cloud Service Security White Paper</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240217150220/https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20231129/20231129070537611d28919946efabdccbfb7e087979.pdf">mirror</a> <i class="fa fa-external-link"></i>
+ kijken dan zien we dat er niet meer over TÜV gesproken
+wordt, maar dat er over een &ldquo;Rheinland GDPR certificate&rdquo; gesproken wordt. Het is mij niet duidelijk om wat voor certificaat
+dit dan precies gaat, maar ik laat het aan de lezer om dit zelf uit te vinden.</p>
+<h1 id="etsi">ETSI</h1>
+<p>Het orginele certificaat van TÜV Rheinland gaf duidelijk aan dat er getest was volgens ETSI TS 103 645 v1.1.1:2019. De testen waren
+uitgevoerd op de Yealink Management Cloud Service (YMCS). Als we
+
+<a target="_blank" href="https://www.etsi.org/deliver/etsi_ts/103600_103699/103645/01.01.01_60/ts_103645v010101p.pdf">deze norm</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/ts_103645v010101p.pdf">mirror</a> <i class="fa fa-external-link"></i>
+ er bij nemen, dan zien we dat deze norm aanvangt met een &ldquo;scope&rdquo;.
+Deze scope geeft aan dat
+
+<blockquote class="cloudquote">
+The present document specifies high-level provisions for the security of consumer devices that are connected to network infrastructure
+</blockquote>
+
+En er worden ook een aantal voorbeelden genoemd, zoals &ldquo;connected children&rsquo;s toys&rdquo;, &ldquo;baby monitors&rdquo; en &ldquo;washing machines&rdquo;.
+Het klinkt nou niet echt alsof deze norm geschikt is voor het testen van een &ldquo;Cloud Service&rdquo; van Yealink. Ik stel deze vraag
+dan ook aan de enige organisatie die deze vraag kan beantwoorden: ETSI. Zij reageren dat zij niet kunnen en willen toezien
+op hoe kun documenten gebruikt worden, maar dat ETSI 103 645 niet bedoeld is voor het testen van Cloud diensten. Maar&hellip; zo
+geven zij ook aan: als je echt zou willen, dan kun je het document hier voor gebruiken
+
+<blockquote class="cloudquote">
+<br/>in the same way an old airplane can be repurposed as a hotel<br/>
+</blockquote>
+</p>
+<p>Maar de crisis-communication man bij TÜV gaf ook aan dat &ldquo;the respective standard ETSI TS 103 645 lost its validity. It is invalid.&rdquo;.
+Dat lijkt dan ook een nuttige vraag aan ETSI. Gelukkig heeft ETSI een mooie
+
+<a target="_blank" href="https://www.etsi.org/standards#page=1&amp;search=%22TS%20103%20645%22&amp;title=1&amp;etsiNumber=1&amp;content=1&amp;version=0&amp;onApproval=1&amp;published=1&amp;withdrawn=1&amp;historical=1&amp;isCurrent=1&amp;superseded=1&amp;startDate=1988-01-15&amp;endDate=2024-02-18&amp;harmonized=0&amp;keyword=&amp;TB=&amp;stdType=TS&amp;frequency=&amp;mandate=&amp;collection=&amp;sort=1">zoekfunctie</a> <i class="fa fa-external-link"></i>
+
+op hun website. En hier is duidelijk te zien dat er van deze standaard verschillende versies zijn:
+<img src="https://trideeindhoven.github.io/website/img/yealink/20240218_screenshot_etsiTS103645.png" alt="Screenshot zoekfunctie ETSI">
+<br>
+Wat hier ook opvalt is dat alle drie de versies van dit document nog steeds een groene &ldquo;published&rdquo; status hebben. Het kan toch
+niet zijn dat een crisis-communication manager van TÜV na een aantal dagen in deze zaak duiken een onwaarheid naar een
+journalist heeft gestuurd?</p>
+<p>Dus ik doe wat ik al maanden doe en ik stuur opnieuw een email naar ETSI:</p>
+
+<blockquote class="cloudemail">
+I would  like to confirm that they are both active standards and not superseded  or retracted.
+</blockquote>
+
+<p>ETSI reageert dat de (op dat moment) twee versies van het document beiden niet verlopen zijn.
+
+<blockquote class="cloudemail">
+Both versions of the TS 103 645 are active and not superseded or retracted. The publication of the later versions does not in itself invalidate the older versions.
+</blockquote>
+</p>
+<p>Ik kan dus niet anders concluderen dat TÜV naar aanleiding van mijn vragen een externe (-external@tuv.com mailadres) crisis
+communication medewerker heeft ingehuurd. En dat deze medewerker na uitgebreid in deze zaak te zijn gedoken incorrecte
+informatie heeft verstrekt aan leden van de Nederlandse pers. Het geeft aan hoe enorm moeilijk het is om deze zaak aan
+correcte informatie te komen. Er worden shiny white papers gemaakt, seminars gehouden en publicaties uitgegeven. Maar het
+doordringen tot de echte informatie kost maanden en heel erg veel doorzettingsvermogen.</p>
+<h1 id="eula">EULA</h1>
+<p>Inmiddels wordt ik door verschillende bedrijven gevraagd om lezingen over mijn onderzoek te komen geven. Tijdens een van deze
+lezingen krijg ik feedback dat deze specifieke onderneming toch alleen maar USB devices gebruikt.</p>
 
 <blockquote class="cloudquote">
 <br/>EULA UVC30<br/><span>EULA UVC30</span><br/>
 </blockquote>
 
+<p>Yealink RoomConnect Software
+<a href="https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248">https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248</a></p>
+<p>mirror
+<a href="https://web.archive.org/web/20240218141430/https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248">https://web.archive.org/web/20240218141430/https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248</a></p>
+<p>EULA van USB devices niet GDPR compliant</p>
 <p>
 <blockquote class="cloudquote">
 <br/>quote van staatsveiligheid<br/><span>staatsveiligheid</span><br/>

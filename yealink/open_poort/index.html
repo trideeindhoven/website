@@ -226,7 +226,10 @@ in zo een netwerkservice een ernstig, op afstand, misbruikbaar security probleem
 illustratief is voor het inzicht hoe security werkt. Als ik zo een email lees dan komt dat bij mij zeer, zeer basaal
 over en dan plaats je netwerkdevices in je netwerk die door deze mensen ontworpen zijn.</p>
 <p>Maar in elke email die ik terug krijg blijft Yealink hameren dat de poort open MOET staan, want dat is een verplichting
-in DE RFC. Ik blijf er op hameren dat ik toch echt wel even wil zien om welke RFC het gaat en in welke alinea dit dan
+in DE 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Request_for_Comments">RFC</a> <i class="fa fa-external-link"></i>
+.
+Ik blijf er op hameren dat ik toch echt wel even wil zien om welke RFC het gaat en in welke alinea dit dan
 staat.<br>
 Het is wellicht goed om even stil te staan bij wat een RFC is. RFC staat voor Request for Comments. Het mag worden
 gezien als een verzameling van documenten die beschrijven hoe het internet hoort te werken. Een soort van wetboek zo
@@ -234,14 +237,24 @@ gezegd. Op het moment als iemand een VoIP telefoon maakt, dan is het van belang 
 zo veel mogelijk andere software en apparaten samenwerkt. Door de RFC&rsquo;s strak te volgen zal dit een eenvoudigere taak
 zijn (met een aantal beroemde uitzonderingen daar gelaten (hallo Microsoft!)).</p>
 <p>Maargoed. Na 2 maanden krijg ik nog steeds ontwijkende antwoorden uit China en nu grijpt een lid van de directie van
-Lydis in en emailt op 16-8-2023 in een reply-to-all: <em>&ldquo;Can one of you please give a response on the mail from
-Mr. Hermans, also FDM (sic) is waiting for this reaction( Mr. Hermans inform them)&rdquo;</em><br>
-Een dag later op 17-8-2023 reageert de medewerker uit China: <em>&ldquo;You could refer to rfc 3261, it provides some example.
-Actually, the major IP phone manufactory like poly, they also use this port. You could have a test or you could
-google for it.&rdquo;</em><br>
+Lydis in en emailt op 16-8-2023 in een reply-to-all:
+
+<blockquote class="cloudemail">
+Can one of you please give a response on the mail from <br/>Mr. Hermans, also FDM (sic) is waiting for this reaction( Mr. Hermans inform them)
+</blockquote>
+<br>
+Een dag later op 17-8-2023 reageert de medewerker uit China:
+
+<blockquote class="cloudemail">
+You could refer to rfc 3261, it provides some example.<br/>Actually, the major IP phone manufactory like poly, they also use this port. You could have a test or you could <br/>google for it.
+</blockquote>
+<br>
 En wederom komt het schoolplein argument &ldquo;jamaar de anderen doen het ook!&rdquo; om de hoek kijken. Dat dit überhaupt een
-onwaarheid is heb ik al eerder eenvoudig getest en aangetoond. Nu ben ik redelijk bekend met RFC documenten en <a href="https://www.rfc-editor.org/rfc/rfc3261.html">RFC3261
-in het bijzonder</a>. Een RFC is een technisch document wat redelijk
+onwaarheid is heb ik al eerder eenvoudig getest en aangetoond. Nu ben ik redelijk bekend met RFC documenten en
+
+<a target="_blank" href="https://www.rfc-editor.org/rfc/rfc3261.html">RFC3261 in het bijzonder</a> <i class="fa fa-external-link"></i>
+.
+Een RFC is een technisch document wat redelijk
 lastig te lezen is. Daarom even wat uitleg over een aantal termen. Dit gaat verop in dit verhaal nog belangrijk
 worden. In RFC3261 worden termen gebruikt als User Agent Client (UAC) en User Agent Server (UAS). In het geval van
 een telefooncentrale en een telefoon is de telefoon de UAC en de centrale de UAS.<br>
@@ -250,18 +263,30 @@ Uiteraard is dit wel het geval voor een UAS (telefooncentrale). Zo staat in hoof
 verzoeken te ontvangen de centrale moet luisteren op een netwerkpoort en preferabel op poort 5060. Ik zie deze
 zelfde eis niet voor een UAC (telefoon) in dit document ik vraag dus om ophelderingen. Mijn vraag is: in welk
 hoofdstuk kan ik die eis vinden?<br>
-Op 17-8-2023 krijg ik antwoord uit China: <em>&ldquo;Poly also turns on 5060 by default, which is a common practice in VOIP
-industry.&rdquo;</em> Wat? Serieus? Yealink stelt dat ze een wereld leider zijn op het gebied van telecommunicatiemiddelen.
+Op 17-8-2023 krijg ik antwoord uit China:
+
+<blockquote class="cloudemail">
+Poly also turns on 5060 by default, which is a common practice in VOIP <br/>industry.
+</blockquote>
+ Wat? Serieus? Yealink stelt dat ze een wereld leider zijn op het gebied van telecommunicatiemiddelen.
 Het zou toch heel erg vreemd zijn dat als ik een vraag aan Philips zou stellen en dat Philips zegt: oh dat doen we
 omdat Siemens dat ook doet&hellip; Doorlopen alstublieft. Maar&hellip; in diezelfde mail komt ook het hoge woord:
-<em>&ldquo;Regarding the RFC question, you could refer to RFC3261 18.2.1&rdquo;</em>. Ok. Eindelijk. Na maandenlang doorvragen heb ik
+
+<blockquote class="cloudemail">
+Regarding the RFC question, you could refer to RFC3261 18.2.1
+</blockquote>
+.
+Ok. Eindelijk. Na maandenlang doorvragen heb ik
 eindelijk het antwoord waar ik naar zocht. En inderdaad: Yealink zit gewoon op de verkeerde plek in de RFC te kijken.
 Eerder ben ik express even de techniek in gegaan door uit te leggen wat een UAC en UAS is. En hier is dit van groot
 belang. Eenvoudig gezegd maakt Yealink UAC devices (clients), maar zij hebben dus het hoofdstuk voor UAS devices
 (servers) gelezen.<br>
 Dat is slordig en zorgt voor een onnodige aanvalsvector op de Yealink devices, maar er is hoop! De medewerker in China
-sluit de email af met: <em>&ldquo;If users want to close port 5060, they can configure Local SIP Port as 0, which can
-be configured in phone web portal or via yealink auto provision method.&rdquo;</em><br>
+sluit de email af met: 
+<blockquote class="cloudemail">
+If users want to close port 5060, they can configure Local SIP Port as 0, which can <br/>be configured in phone web portal or via yealink auto provision method.
+</blockquote>
+<br>
 Ok&hellip; Dus het IS mogelijk om deze netwerkpoort toch te sluiten. Deze methode is niet/incorrect gedocumenteerd, maar
 als dit inderdaad het geval is, dan heb ik hier (los van de slechte kennis van Yealink) niet meer veel over op te
 merken. Aangezien dit een eenvoudige test is, zet ik de &ldquo;Local SIP Port&rdquo; in de web interface op 0 en controleer met
@@ -295,20 +320,23 @@ aanwezig in het netwerk. We hebben eerder gezien dat er normaal sprake is van ee
 is hier zeker niet het geval.<br>
 Tot slot is het gevaarlijk omdat dit niet in de documentatie correct vermeld is. Een systeembeheerder kan (begrijpelijk)
 aannemen dat het probleem is afgedekt terwijl dit niet het geval is.</p>
-<p>Maar wat draait er nou eigenlijk achter deze poort, deze &ldquo;hoteldeur&rdquo;. Ik heb hier ook naar gekeken, o.a. omdat het
-gelukt is om de firmware van Yealink te ontsleutelen (hierover later een ander artikel). Als we kijken naar de
+<p>Maar wat gaat er nou eigenlijk achter deze poort, deze &ldquo;hoteldeur&rdquo;, schuil? Ook hier heb ik naar gekeken. Dit was o.a.
+mogelijk omdat het gelukt is om de firmware van Yealink te ontsleutelen (hierover later een ander artikel).
+Als we kijken naar de
 
 <a target="_blank" href="https://www.yealink.com/website-service/download/offer-source-of-open-source-software.pdf">lijst van open source software</a> <i class="fa fa-external-link"></i>
 
 
 <a target="_blank" href="https://trideeindhoven.github.io/static/yealink/Offer%20Source%20of%20Open%20Source%20Software.pdf">mirror</a> <i class="fa fa-external-link"></i>
  dan valt op dat er gebruikt gemaakt
-wordt van het welbekende PJSIP project. De door Yealink zelfverklaarde
+wordt van het welbekende 
+<a target="_blank" href="https://www.pjsip.org/">PJSIP project</a> <i class="fa fa-external-link"></i>
+. De door Yealink zelfverklaarde
 
 <a target="_blank" href="https://github.com/pjsip/pjproject/releases/tag/2.3">PJSIP versie is 2.3</a> <i class="fa fa-external-link"></i>
  en dat is een vreselijk
 oude versie die niet meer in omloop zou moeten zijn. Ter verduidelijking: deze versie is uitgekomen in september 2014.<br>
-Dat zou dus kunnen betekenen dat er 10 jaar oude software op ongedefinieerde netwerkpoorten bij overheids organisaties
+Dat zou dus kunnen betekenen dat er meer dan 10 jaar oude software op ongedefinieerde netwerkpoorten bij overheids organisaties
 draait. Ik krijg daar een ongemakkelijk gevoel bij. Maargoed, ook dat verbaast mij inmiddels niet meer bij dit onderzoek.
 Tot snel!</p></div>
   </div>
