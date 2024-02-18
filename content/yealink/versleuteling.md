@@ -11,7 +11,8 @@ image = "img/yealink/pexels-george-becker-114741.jpg"
 De aanleiding van dit onderzoek waren enkele zaken in de versleuteling in het provisioning proces die ik niet goed 
 begreep. Ik kon toen niet vermoeden dat ik hier 2 jaar later nog steeds mee bezig zou zijn.
 <!--more-->
-Zoals in de inleiding uitgelegd is provisioning het systeem wat gebruikt wordt om configuratie bestanden veilig te 
+Zoals in de [inleiding]({{< ref "inleiding" >}}) uitgelegd is provisioning het systeem wat gebruikt wordt 
+om configuratie bestanden veilig te 
 transporteren van een configuratieserver naar een systeem. Dit systeem kan een VoIP telefoon zijn, maar hetzelfde geldt
 ook voor b.v. videobars.  
 
@@ -54,8 +55,8 @@ de samenvatting van de NetSPI testen die ook op de website van Yealink staan. Da
 redelijk positief is, is het volledige rapport dat...niet. Hier later meer over in een vervolg publicatie!
 - Tijdens een Teams meeting wordt ik geïnformeerd dat de nieuwe Encryption Tool met 
 {{< a_blank "Rivest–Shamir–Adleman (RSA)" "https://en.wikipedia.org/wiki/RSA_(cryptosystem)" >}}
-versleuteling  werkt. Yealink geeft aan dat ze pas 6 jaar na het uitlekken van de 
-{{< a_blank "AES" "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" >}} sleutel hiertoe hebben besloten.
+versleuteling  werkt. Yealink geeft aan dat ze dit pas 6 jaar na het uitlekken van de 
+{{< a_blank "AES" "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" >}} sleutel hebben geïmplementeerd.
 - En tot slot krijg ik een screenshot opgestuurd van de nieuwe Yealink Configuration Encryption Tool.  
 
 {{< img "Yealink Configuration Encryption Tool" "img/yealink/encryption_tool_1.jpg" >}}  
@@ -68,7 +69,7 @@ Hier vallen een aantal zaken op:
 
 Het is duidelijk dat ik even moet gaan proberen te begrijpen hoe deze nieuwe Encryption Tool in elkaar zit en ik kom
 tot de volgende conclusie:
-- Yealink heeft de "Default" AES sleutel nog steeds in gebruik, maar dan alleen in "Compatibility Mode". Op het moment 
+- Het is nog steeds mogelijk om alleen met AES te werken in de zogenaamde "Compatibility Mode". Op het moment 
 dat ik deze modus kies, krijg ik geen melding dat deze mogelijk onveilig is.
 - In RSA Mode wordt het configuratie bestand nog steeds met AES versleuteld. Echter de sleutel voor het versleutelen is
 nu niet meer hetzelfde voor alle gebruikers (wat goed is).
@@ -85,7 +86,6 @@ source na te bouwen. Ik bouw daarom de tool na in python incl. een GUI. Ook zorg
 ontsleutelde bestand. Ik besluit het op {{< a_blank "github" "https://github.com/gitaware/yealink-encryption" >}} 
 te zetten, maar voorlopig als private repository aangezien het met deze software mogelijk is om geheime bestanden 
 te ontsleutelen.
-<TODO: fixen van image link in README op github>  
 
 Nu email ik opnieuw met de "support manager" welke nu de "Technisch directeur" van Lydis blijkt te zijn. Ik stel dat ik
 denk dat de versleuteling ernstig stuk is en dat Lydis dit waarschijnlijk met grote spoed aan Yealink moet gaan melden.
@@ -138,16 +138,16 @@ Hij reageert binnen 10 minuten met een (heel correct)
 en later die dag met:
 {{< quote cloudemail >}}Zou je bijgevoegd bestand ook kunnen testen.{{< /quote >}}
 
-Dit keer levert hij echter {{< a_blank "een bestand" "yealink/y000000000065_3.cfg" >}} waar het "key_ciphertext" helemaal 
+Dit keer levert hij echter {{< a_blank "een bestand" "yealink/y000000000065_3.cfg" >}} waar het "key_ciphertext" deel helemaal 
 is verdwenen. Ik vraag hem waarom mijn 
 telefoon dit bestand niet kan gebruiken als geldig provisioniong document en hij geeft aan dat zij wat andere 
 instellingen in de provisioningtool hebben gebruikt. Als ik dan vraag of hij een lege sleutel oid heeft gebruikt omdat
-er geen (versleutelde) AES sleutel in het document staat reageert hij dat 
+er geen (versleutelde) AES sleutel in het document staat reageert hij met 
 {{< quote cloudemail >}}Waarom de key_ciphertext in het bestand dan leeg is, is ons nu zo even niet bekend.{{< /quote >}}
 
 Ik reageert met dat ALS dit een geldig provisioning document is (en Lydis beweert dat het dat is) dat "er een geheime
 key4a is die in elke telefoon meegeleverd wordt (backdoor)."  
-Er volgt een serie aan meetings met Yealink zowel via Teams als physiek in Almere. Het leidt er toe dat de encryption 
+Er volgt een serie aan meetings met Yealink zowel via Teams als fysiek in Almere. Het leidt er toe dat de encryption 
 Tool (en dus ook Clouddienst) van Yealink wordt aangepast. Het is niet meer mogelijk om het "Default RSA Model" te 
 gebruiken, waardoor de gelekte RSA private key ook niet meer gebruikt kan worden voor nieuwe deployments.  
 
@@ -165,8 +165,8 @@ is een versleutelings methode die niet "gekraakt" is op het moment van schrijven
 een heel specifieke keuze die niet verklaard kan worden door mensen die hier veel meer verstand van hebben dan ikzelf.  
 
 Wat is er precies aan de hand? Electronic CodeBook encryption (ECB) is een versleutelingsmethode waar de data opgesplitst 
-wordt in blokken van een bepaalde grootte. Elk block wordt vervolgens met een sleutel versleuteld. Deze sleutel is voor ELK
-block exact hetzelfde. Dit betekent dus ook dat identieke blokken een identieke ciphertext opleveren.  
+wordt in blokken van een bepaalde grootte. Elk blok wordt vervolgens met een sleutel versleuteld. Deze sleutel is voor ELK
+blok exact hetzelfde. Dit betekent dus ook dat identieke blokken een identieke ciphertext opleveren.  
 Ook is het ontsleutelen van de blokken mogelijk door exact dezelfde bewerking nog een keer uit te voeren. Het maakt deze
 versleutelingsmethode vatbaar voor zogenaamde replay attacks.  
 
@@ -220,12 +220,12 @@ Verder geeft Lydis op hun
 {{< a_blank "mirror" "yealink/20240217_Yealink FAQ Security Lydis.pdf" >}} aan dat
 {{< quote cloudquote >}}In de VoIP-industrie werken professionals die de platforms en beveiliging beheren. Ze weten dat standaard pin- of defaults codes niet gebruikt moeten worden, net zoals bij het wijzigen van de pincode van een smartphone.{{< /quote >}}
 
-Dat is wel heel erg pijnlijk aangezien het juist deze gelekte RSA sleutel is die de technisch directeur van Lydis gebruikt 
+Dat is wel heel erg interessant aangezien het juist deze gelekte RSA sleutel is die de technisch directeur van Lydis gebruikt 
 om mij {{< a_blank "bestand1" "yealink/y000000000065_1.cfg" >}} en {{< a_blank "bestand2" "yealink/y000000000065_2.cfg" >}} 
 toe te zenden met als doel om te laten zien hoe veilig het systeem is.
 
 # Teams
-Maar zo beweert Lydis. Er is is niets aan de hand. De publicaties van Follow The Money en De Tijd bevatten "feitelijke 
+Maar zo beweert Lydis. Er is is niets aan de hand! De publicaties van Follow The Money en De Tijd bevatten "feitelijke 
 onjuistheden". In het bijzonder de "Teams" gecertificeerde apparatuur "is van deze kwesties volledig uitgesloten". Deze 
 worden namelijk "{{< a_blank "compleet door Microsoft beveiligd" "https://www.lydis.nl/over-ons/lydis-statement-2" >}}"
 {{< a_blank "mirror" "yealink/20240217_Lydis reactie op FTM & De Tijd Lydis.pdf" >}}  
@@ -255,7 +255,8 @@ die maar even afgeraffeld moet worden. Controleer dit soort dingen zelf, verifie
 betekent niets zonder op de hoogte te zijn van de scope en mooie referenties zullen wel gecontroleerd moeten worden.  
 
 En juist dat zelf controleren daar ben ik mee verder gegaan. Woensdag een nieuw artikel. Ook dit keer weer een meer technisch 
-artikel. En ook dit keer blijkt het bijzonder belangrijk gebleken om zelf feiten te controleren.  
+artikel waar ik uitgebreid in ga op de netwerk functionaliteit van Yealink VoIP apparatuur. 
+En ook dit keer blijkt het bijzonder belangrijk gebleken om zelf feiten te controleren.  
 
 Tot woensdag!
 
