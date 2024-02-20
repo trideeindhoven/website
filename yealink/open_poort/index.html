@@ -152,8 +152,11 @@ als een heel lange gang in een hotel met allemaal deuren. De deuren zijn bij een
 Achter elke deur is het mogelijk om een netwerkdienst te draaien. Denk hierbij bijvoorbeeld aan een webserver of een emailserver.
 Om er voor te zorgen dat anderen de netwerkdienst kunnen vinden heeft men internationaal afspraken gemaakt welke
 netwerkdiensten achter welk poortnummer draaien. Deze toewijzingen
-worden beheerd en toegewezen door de Internet Assigned Numbers Authority (IANA).<br>
-Een goed voorbeeld is een webserver. Door het intikken van: cloudaware.eu in de webbrowser weet de webbrowser meteen dat
+worden beheerd en toegewezen door de
+
+<a target="_blank" href="https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml">Internet Assigned Numbers Authority (IANA)</a> <i class="fa fa-external-link"></i>
+.</p>
+<p>Een bekend voorbeeld is een webserver. Door het intikken van: cloudaware.eu in de webbrowser weet de webbrowser meteen dat
 er gezocht moet gaan worden op poort 443 van de server waar cloudaware.eu op staat. Deze toewijzingen worden vaak vrij
 snel vrij complex, maar een ander voorbeeld is poort 5060. Poort 5060 is gereserveerd voor het
 
@@ -205,7 +208,7 @@ Dit is inderdaad een van die uitzonderingsgevallen waar ik het eerder over had. 
 mail ik Yealink terug:
 
 <blockquote class="cloudemail">
-<br/>We DISabled Direct IP Call (Features->General Information->Allow IP Call->Disabled). <br/>But when we did a portscan of the phone we could still see port 5060 open. It seems that the port is open whether you <br/>have Direct IP Call enabled or not.
+<br/>We DISabled Direct IP Call (Features->General Information->Allow IP Call->Disabled). <br/>But when we did a portscan of the phone we could still see port 5060 open. It seems that the port is open whether you have Direct IP Call enabled or not.
 </blockquote>
 <br>
 Ik heb een groot deel van het antwoord van Yealink hier woord voor woord geciteerd, omdat het een mooi inzicht geeft
@@ -215,14 +218,23 @@ in hoe lastig de communicatie soms was:<br>
 The IP Call feature use 5060 port is following the SIP RFC standard, but <br/>disable IP Call feature can’t block 5060, because 5060 port is also used in UDP registering and Calling. If you <br/>check the major brand like Poly(Polycom) and Cisco, they also have the same mechanism. Because open 5060 port doesn’t <br/>bring security issue. According to RFC standard, 5060 port is standard SIP port, the 5060 port will not handling a <br/>non-sip message. 
 </blockquote>
 </p>
-<p>Er zijn nogal wat zaken mis met deze uitspraken. Uiteraard heb ik naar die claim gekeken: &ldquo;jamaar iedereen doet het&rdquo;.
+<p>Wat Yealink hier beweert is eigenlijk dat als ik met mijn tablet naar facebook wil gaan (poort 443), dat ik dan eerst
+zelf een webserver moet installeren op mijn tablet.<br>
+Er zijn nogal wat zaken mis met deze uitspraken. En uiteraard heb ik naar die claim gekeken: &ldquo;jamaar iedereen doet het&rdquo;.
 Dus ik heb 3 telefoons van Cisco, Grandstream en SNOM genomen. Al deze telefoons hadden ook default poort 5060 open
 staan, maar op het moment dat de functionaliteit werd uitgezet om de telefoon rechtstreeks te kunnen bereiken was de
 netwerkpoort ook meteen gesloten.<br>
 Nu vind ik het niet super handig om een netwerkpoort open te zetten voor een heel erg klein deel van je klantenkring,
-maar op zijn minst is het mogelijk om deze poort te sluiten.<br>
-Maar ook de claim dat poort 5060 geen SIP verkeer afhandelt is niet heel relevant. Het zal niet de eerste keer zijn dat
-in zo een netwerkservice een ernstig, op afstand, misbruikbaar security probleem ontdekt wordt. Ik vind dat dit ook
+maar het is in elk geval mogelijk om deze poort te sluiten.<br>
+Maar ook de claim dat poort 5060 alleen SIP verkeer afhandelt is niet heel relevant. Het zal niet de eerste keer zijn dat
+in zo een netwerkservice een ernstig,
+
+<a target="_blank" href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-37706">op afstand</a> <i class="fa fa-external-link"></i>
+,
+
+<a target="_blank" href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15260">misbruikbaar</a> <i class="fa fa-external-link"></i>
+
+security probleem ontdekt wordt. Ik vind dat dit ook
 illustratief is voor het inzicht hoe security werkt. Als ik zo een email lees dan komt dat bij mij zeer, zeer basaal
 over en dan plaats je netwerkdevices in je netwerk die door deze mensen ontworpen zijn.</p>
 <p>Maar in elke email die ik terug krijg blijft Yealink hameren dat de poort open MOET staan, want dat is een verplichting
@@ -275,7 +287,7 @@ omdat Siemens dat ook doet&hellip; Doorlopen alstublieft. Maar&hellip; in diezel
 <blockquote class="cloudemail">
 Regarding the RFC question, you could refer to RFC3261 18.2.1
 </blockquote>
-.
+
 Ok. Eindelijk. Na maandenlang doorvragen heb ik
 eindelijk het antwoord waar ik naar zocht. En inderdaad: Yealink zit gewoon op de verkeerde plek in de RFC te kijken.
 Eerder ben ik express even de techniek in gegaan door uit te leggen wat een UAC en UAS is. En hier is dit van groot
@@ -337,8 +349,10 @@ wordt van het welbekende
  en dat is een vreselijk
 oude versie die niet meer in omloop zou moeten zijn. Ter verduidelijking: deze versie is uitgekomen in september 2014.<br>
 Dat zou dus kunnen betekenen dat er meer dan 10 jaar oude software op ongedefinieerde netwerkpoorten bij overheids organisaties
-draait. Ik krijg daar een ongemakkelijk gevoel bij. Maargoed, ook dat verbaast mij inmiddels niet meer bij dit onderzoek.
-Tot snel!</p></div>
+draait. Ik krijg daar een ongemakkelijk gevoel bij. Maargoed, ook dat verbaast mij inmiddels niet meer bij dit onderzoek.</p>
+<p>Vrijdag komt de volgende publicatie. Dit keer is het een minder technisch artikel, maar ga ik in op juridische aspecten
+en regelgeving die bij dit onderzoek hoort.</p>
+<p>Tot snel!</p></div>
   </div>
 </div>
 
