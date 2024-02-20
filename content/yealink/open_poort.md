@@ -21,8 +21,10 @@ als een heel lange gang in een hotel met allemaal deuren. De deuren zijn bij een
 Achter elke deur is het mogelijk om een netwerkdienst te draaien. Denk hierbij bijvoorbeeld aan een webserver of een emailserver.
 Om er voor te zorgen dat anderen de netwerkdienst kunnen vinden heeft men internationaal afspraken gemaakt welke 
 netwerkdiensten achter welk poortnummer draaien. Deze toewijzingen
-worden beheerd en toegewezen door de Internet Assigned Numbers Authority (IANA).  
-Een goed voorbeeld is een webserver. Door het intikken van: cloudaware.eu in de webbrowser weet de webbrowser meteen dat
+worden beheerd en toegewezen door de 
+{{< a_blank "Internet Assigned Numbers Authority (IANA)" "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml" >}}.  
+
+Een bekend voorbeeld is een webserver. Door het intikken van: cloudaware.eu in de webbrowser weet de webbrowser meteen dat
 er gezocht moet gaan worden op poort 443 van de server waar cloudaware.eu op staat. Deze toewijzingen worden vaak vrij 
 snel vrij complex, maar een ander voorbeeld is poort 5060. Poort 5060 is gereserveerd voor het 
 {{< a_blank "Session Initiation Protocol (SIP)" "https://en.wikipedia.org/wiki/Session_Initiation_Protocol" >}}.  
@@ -71,8 +73,7 @@ Dit is inderdaad een van die uitzonderingsgevallen waar ik het eerder over had. 
 mail ik Yealink terug: 
 {{< quote cloudemail >}}
 We DISabled Direct IP Call (Features->General Information->Allow IP Call->Disabled). 
-But when we did a portscan of the phone we could still see port 5060 open. It seems that the port is open whether you 
-have Direct IP Call enabled or not.{{< /quote >}}  
+But when we did a portscan of the phone we could still see port 5060 open. It seems that the port is open whether you have Direct IP Call enabled or not.{{< /quote >}}  
 Ik heb een groot deel van het antwoord van Yealink hier woord voor woord geciteerd, omdat het een mooi inzicht geeft
 in hoe lastig de communicatie soms was:  
 {{< quote cloudemail >}}The IP Call feature use 5060 port is following the SIP RFC standard, but 
@@ -81,14 +82,19 @@ check the major brand like Poly(Polycom) and Cisco, they also have the same mech
 bring security issue. According to RFC standard, 5060 port is standard SIP port, the 5060 port will not handling a 
 non-sip message. {{< /quote >}}  
 
-Er zijn nogal wat zaken mis met deze uitspraken. Uiteraard heb ik naar die claim gekeken: "jamaar iedereen doet het". 
+Wat Yealink hier beweert is eigenlijk dat als ik met mijn tablet naar facebook wil gaan (poort 443), dat ik dan eerst
+zelf een webserver moet installeren op mijn tablet.  
+Er zijn nogal wat zaken mis met deze uitspraken. En uiteraard heb ik naar die claim gekeken: "jamaar iedereen doet het". 
 Dus ik heb 3 telefoons van Cisco, Grandstream en SNOM genomen. Al deze telefoons hadden ook default poort 5060 open 
 staan, maar op het moment dat de functionaliteit werd uitgezet om de telefoon rechtstreeks te kunnen bereiken was de 
 netwerkpoort ook meteen gesloten.  
 Nu vind ik het niet super handig om een netwerkpoort open te zetten voor een heel erg klein deel van je klantenkring, 
-maar op zijn minst is het mogelijk om deze poort te sluiten.  
-Maar ook de claim dat poort 5060 geen SIP verkeer afhandelt is niet heel relevant. Het zal niet de eerste keer zijn dat
-in zo een netwerkservice een ernstig, op afstand, misbruikbaar security probleem ontdekt wordt. Ik vind dat dit ook 
+maar het is in elk geval mogelijk om deze poort te sluiten.  
+Maar ook de claim dat poort 5060 alleen SIP verkeer afhandelt is niet heel relevant. Het zal niet de eerste keer zijn dat
+in zo een netwerkservice een ernstig, 
+{{< a_blank "op afstand" "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-37706" >}}, 
+{{< a_blank "misbruikbaar" "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15260" >}} 
+security probleem ontdekt wordt. Ik vind dat dit ook 
 illustratief is voor het inzicht hoe security werkt. Als ik zo een email lees dan komt dat bij mij zeer, zeer basaal 
 over en dan plaats je netwerkdevices in je netwerk die door deze mensen ontworpen zijn.  
 
@@ -127,7 +133,7 @@ Op 17-8-2023 krijg ik antwoord uit China:
 industry.{{< /quote >}} Wat? Serieus? Yealink stelt dat ze een wereld leider zijn op het gebied van telecommunicatiemiddelen. 
 Het zou toch heel erg vreemd zijn dat als ik een vraag aan Philips zou stellen en dat Philips zegt: oh dat doen we 
 omdat Siemens dat ook doet... Doorlopen alstublieft. Maar... in diezelfde mail komt ook het hoge woord: 
-{{< quote cloudemail >}}Regarding the RFC question, you could refer to RFC3261 18.2.1{{< /quote >}}. 
+{{< quote cloudemail >}}Regarding the RFC question, you could refer to RFC3261 18.2.1{{< /quote >}}
 Ok. Eindelijk. Na maandenlang doorvragen heb ik 
 eindelijk het antwoord waar ik naar zocht. En inderdaad: Yealink zit gewoon op de verkeerde plek in de RFC te kijken.
 Eerder ben ik express even de techniek in gegaan door uit te leggen wat een UAC en UAS is. En hier is dit van groot
@@ -180,6 +186,9 @@ wordt van het welbekende {{< a_blank "PJSIP project" "https://www.pjsip.org/" >}
 {{< a_blank "PJSIP versie is 2.3" "https://github.com/pjsip/pjproject/releases/tag/2.3" >}} en dat is een vreselijk 
 oude versie die niet meer in omloop zou moeten zijn. Ter verduidelijking: deze versie is uitgekomen in september 2014.  
 Dat zou dus kunnen betekenen dat er meer dan 10 jaar oude software op ongedefinieerde netwerkpoorten bij overheids organisaties
-draait. Ik krijg daar een ongemakkelijk gevoel bij. Maargoed, ook dat verbaast mij inmiddels niet meer bij dit onderzoek.
-Tot snel!
+draait. Ik krijg daar een ongemakkelijk gevoel bij. Maargoed, ook dat verbaast mij inmiddels niet meer bij dit onderzoek.  
 
+Vrijdag komt de volgende publicatie. Dit keer is het een minder technisch artikel, maar ga ik in op juridische aspecten
+en regelgeving die bij dit onderzoek hoort.  
+
+Tot snel!
