@@ -34,7 +34,7 @@ Regulation (GDPR)
 Dat klinkt als een behoorlijke zekerheid. Het document roept in elk geval erg veel vragen op.
 
 # Adres
-Bovenaan het document wordt een license holder vermeld: Yealink (Xiamen) Netowrk Technology Co., Ltd. Dat is de officiële naam
+Bovenaan het document wordt een license holder vermeld: Yealink (Xiamen) Network Technology Co., Ltd. Dat is de officiële naam
 van Yealink. Maar er wordt ook een "Manufacturing Plant" vermeld. Deze ligt in dezelfde stad (Xiamen), maar is volgens het 
 document niet Yealink zelf. Ik kan dit niet op waarde beoordelen en ben hier verder ook niet meer in gedoken, maar ik vond 
 het in elk geval wel iets interessants.
@@ -108,7 +108,7 @@ severity" findings, waaronder:
 - A1 - Injection
 - A2 - Broken Authentication
 - A5 - Broken Access Control
-- A7 - Cross-Site Scrpting (XSS)
+- A7 - Cross-Site Scripting (XSS)
 
 Het moet gezegd worden dat, volgens het NetSPI rapport deze findings allemaal opgelost zijn, maar de technische details 
 laten een kinderlijk eenvoudige manier zien om authenticatie volledig te omzeilen. De gevonden problemen in de clouddienst
@@ -116,8 +116,7 @@ van Yealink leverden een reëel risico op voor alle klanten ter wereld van Yeali
 onderzoek is uitgevoerd door Yealink of deze ernstige beveiligingsgaten misbruikt zijn.
 
 De email van TÜV gaat verder over mijn vraag over de bewoording van het certificaat. Deze bewoording is:
-{{< quote cloudquote >}}the security control and data processing of the tested portal are ensured to be compliant with the
-GDPR{{< /quote >}}
+{{< quote cloudquote >}}the security control and data processing of the tested portal are ensured to be compliant with the GDPR{{< /quote >}}
 
 Ik probeer TÜV hier een beetje te helpen en vraag of dit wellicht een vertaling probleem is en of men bedoelt "the tested 
 components are not in conflict with the provisions as stated in the GDPR (but not a complete GDPR compliance)?"
@@ -125,7 +124,7 @@ components are not in conflict with the provisions as stated in the GDPR (but no
 TÜV Rheinland reageert alleen terug met het kort, maar o zo krachtige: "Compliance with the GDPR"
 
 Uiteraard stel ik TÜV ook vragen over de bewoording "are ensured to be compliant with the GDPR" en de (veel voorzichtigere)
-bewoording in de ETSI TS 103645: "the present document can help in ensuring that these are compliant with the<cut>GDPR".
+bewoording in de ETSI TS 103 645: "the present document can help in ensuring that these are compliant with the <cut>GDPR".
 TÜV reageert dat "The certification consists of three parts and therefore cannot be simply equated to ETSI TS 103 645".
 Uiteraard heb ik gevraagd of ik deze andere twee delen ook mag inzien of dat ik het certificaatnummer hiervan mag hebben 
 zodat ik ook deze delen op {{< a_blank "certipedia" "https://www.certipedia.com/" >}} kan zien en of deze nog steeds actief
@@ -138,7 +137,7 @@ ik het gesprek niet wil opnemen. Ik ga even rechtop zitten, want nu ben ik toch 
 
 Hij vervolgt om te zeggen dat "all three parts of the certification are not valid anymore". Ik stel de vraag of het certificaat
 "cancelled" of "expired" is. Ik krijg het verwarrende antwoord "both" terug. Ik vraag voor verduidelijking en dan komt het 
-hoge woord er uit: "No, i am sorry, it's cancelled". Hij bedankt mij voor de "feedback" die ik gegeven heb.  
+hoge woord er uit: "No, I am sorry, it's cancelled". Hij bedankt mij voor de "feedback" die ik gegeven heb.  
 Als ik hem vraag of TÜV een officieel press-statement wil geven wordt het gesprek wat dringender van aard. De crisis-communication
 man zegt dat hij geen verdere informatie kan geven aan een concurrent van Yealink en dat ze geen media enquiries hebben ontvangen.  
 Ik geef aan dat ik vanaf de allereerste email (via press.tuv.com) duidelijk ben geweest dat ik een onderzoeker ben die gaat
@@ -186,7 +185,7 @@ bewuste misleiding of van grove slordigheid: wie zal het zeggen.
 Het is opvallend dat de bewoording van de GDPR claims...anders...is. Als we naar de 
 {{< a_blank "Yealink Management Cloud Service Security White Paper" "https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20231129/20231129070537611d28919946efabdccbfb7e087979.pdf" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240217150220/https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20231129/20231129070537611d28919946efabdccbfb7e087979.pdf" >}} kijken dan zien we dat er niet meer over TÜV gesproken 
-wordt, maar dat er over een "Rheinland GDPR certificate" gesproken wordt. Het is mij niet duidelijk om wat voor certificaat
+wordt, maar dat er over een "Rheinland GDPR compliance" gesproken wordt. Het is mij niet duidelijk om wat voor certificaat
 dit dan precies gaat, maar ik laat het aan de lezer om dit zelf uit te vinden.
 
 # ETSI
