@@ -219,7 +219,7 @@ dat ik deze modus kies, krijg ik geen melding dat deze mogelijk onveilig is.</li
 <li>In RSA Mode wordt het configuratie bestand nog steeds met AES versleuteld. Echter de sleutel voor het versleutelen is
 nu niet meer hetzelfde voor alle gebruikers (wat goed is).</li>
 <li>Een VoIP telefoon die nu een bestand ophaalt kan nu echter onmogelijk weten wat de AES sleutel is om het bestand te
-lezen. De oplossing die Yealink hier voor gekozen heeft is: voeg de AES sleutel toe gaan het configuratie bestand.</li>
+lezen. De oplossing die Yealink hier voor gekozen heeft is: voeg de AES sleutel toe aan het configuratie bestand.</li>
 <li>De AES sleutel wordt niet plain-text toegevoegd aan het bestand, maar wordt eerst met RSA versleuteling versleuteld.</li>
 <li>Helaas besluit Yealink om deze super geheime RSA sleutel mee te leveren als een &ldquo;.pem&rdquo; bestand. Dit maakt het
 ontsleutelen van de AES sleutel triviaal en dus ook het ontsleutelen van de rest van het bestand.</li>
@@ -238,7 +238,7 @@ denk dat de versleuteling ernstig stuk is en dat Lydis dit waarschijnlijk met gr
 Ook vraag ik hem op 27 september 2022 om mij een versleuteld bestand te sturen, zodat ik kan zien of mijn
 decryptie-tool inderdaad werkt. Op 30 september reageert hij terug met een
 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/y000000000065_1.cfg">versleuteld bestand voor een T48S</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/y000000000065_1.cfg">versleuteld bestand voor een T48S</a> <i class="fa fa-external-link"></i>
 . Ik reageer
 dezelfde dag terug:<br>
 
@@ -249,7 +249,7 @@ Mijn vermoeden is dus correct. De bestanden zijn nog steeds goed leesbaar, welli
 <p>De technisch directeur beseft waarschijnlijk toch wel dat dit niet het standaard &ldquo;ik ben een 1337 h4x0r&rdquo; mailtje is
 en hij reageert die maandag meteen terug met <em>&ldquo;Zou je bijgevoegd bestand ook kunnen bekijken?&rdquo;</em> Bij het mailtje is een
 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/y000000000065_2.cfg">nieuw versleuteld bestand</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/y000000000065_2.cfg">nieuw versleuteld bestand</a> <i class="fa fa-external-link"></i>
  toegevoegd.
 Vreemd genoeg struikelt mijn ontsleutel-software over dit bestand. Maar een korte
 zoektocht naar de reden hiervan laat zien dat er een 
@@ -259,7 +259,7 @@ is met het vorige bestand. De reden hiervan kunnen we natuurlijk alleen maar ove
 dat ik diezelfde ochtend hem een email stuur:<br>
 
 <blockquote class="cloudemail">
-Om maar met de deur in huis te vallen:  <br/>  <br/>[jhermans@localhost yealink-encryption]$ ./yealinkdecryption.py -i y000000000065.cfg  <br/>INFO: using RSA mode  <br/>AES key found: 303wlbKBenhhHwpFzzj00QfwhwzbyKhp  <br/>Decrypting provisiong file...  <br/>  <br/>#!version:1.0.0.1  <br/>static.lang.gui = French  <br/>lang.gui = French  <br/>  <br/>Dit is natuurlijk zeer slecht nieuws en zal ook zeer zeker in onze publicatie worden getoond. Ik wil Lydis nogmaals de kans tot wederhoor bieden. Als jullie hier gebruik van willen maken stel ik voor dat we ook mensen van Yealink in deze meeting plaatsen, want dit is een wereldwijd probleem.<br/>Ik hoor graag een voorstel voor een datum/tijd wanneer deze meeting kan plaatsvinden indien jullie gebruik willen maken van deze mogelijkheid. Ik vind het ook geen probleem om hiervoor langs te komen op jullie kantoor.
+Om maar met de deur in huis te vallen:  <br/>  <br/>[jhermans@localhost yealink-encryption]$ ./yealinkdecryption.py -i y000000000065.cfg  <br/>INFO: using RSA mode  <br/>AES key found: 303wlbKBenhhHwpFzzj00QfwhwzbyKhp  <br/>Decrypting provisioning file...  <br/>  <br/>#!version:1.0.0.1  <br/>static.lang.gui = French  <br/>lang.gui = French  <br/>  <br/>Dit is natuurlijk zeer slecht nieuws en zal ook zeer zeker in onze publicatie worden getoond. Ik wil Lydis nogmaals de kans tot wederhoor bieden. Als jullie hier gebruik van willen maken stel ik voor dat we ook mensen van Yealink in deze meeting plaatsen, want dit is een wereldwijd probleem.<br/>Ik hoor graag een voorstel voor een datum/tijd wanneer deze meeting kan plaatsvinden indien jullie gebruik willen maken van deze mogelijkheid. Ik vind het ook geen probleem om hiervoor langs te komen op jullie kantoor.
 </blockquote>
 </p>
 <p>Nu is het natuurlijk al opzienbarend dat een simpel python script deze versleuteling in 100ms kan &ldquo;breken&rdquo;, maar de afsluiting van
@@ -280,10 +280,10 @@ Zou je bijgevoegd bestand ook kunnen testen.
 </blockquote>
 </p>
 <p>Dit keer levert hij echter 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/y000000000065_3.cfg">een bestand</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/y000000000065_3.cfg">een bestand</a> <i class="fa fa-external-link"></i>
  waar het &ldquo;key_ciphertext&rdquo; deel helemaal
 is verdwenen. Ik vraag hem waarom mijn
-telefoon dit bestand niet kan gebruiken als geldig provisioniong document en hij geeft aan dat zij wat andere
+telefoon dit bestand niet kan gebruiken als geldig provisioning document en hij geeft aan dat zij wat andere
 instellingen in de provisioningtool hebben gebruikt. Als ik dan vraag of hij een lege sleutel oid heeft gebruikt omdat
 er geen (versleutelde) AES sleutel in het document staat reageert hij met
 
@@ -328,7 +328,7 @@ schrijven deze modus van versleuteling al 20 jaar als matig veilig beschouwd wor
 <a target="_blank" href="https://www.yealink.com/website-service/download/offer-source-of-open-source-software.pdf">lijst van open source software</a> <i class="fa fa-external-link"></i>
 
 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/Offer%20Source%20of%20Open%20Source%20Software.pdf">mirror</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/Offer%20Source%20of%20Open%20Source%20Software.pdf">mirror</a> <i class="fa fa-external-link"></i>
  kijken die Yealink gebruikt in
 hun producten, dan zou het bijzonder eenvoudig zijn om i.p.v. AES-ECB  AES-CBC te gebruiken. Deze vorm van versleuteling
 gebruikt de ciphertext van een voorgaand block als onderdeel van de sleutel van het volgende block (technisch: XOR met de
@@ -364,7 +364,7 @@ te versleutelen.</p>
 <a target="_blank" href="https://portal.lydis.com/download/lydis/ftm/Article%20FTM-Yealink-160923-NL-Lydis_detail_reaction_short-v2.4.pdf">beweren achteraf</a> <i class="fa fa-external-link"></i>
 
 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/Article%20FTM-Yealink-160923-NL-Lydis_detail_reaction_short-v2.4.pdf">mirror</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/Article%20FTM-Yealink-160923-NL-Lydis_detail_reaction_short-v2.4.pdf">mirror</a> <i class="fa fa-external-link"></i>
  dat &ldquo;de
 encryptietool niet wordt gebruikt door providers/carriers/professionals&rdquo;. Bovendien geeft Yealink op 24 februari 2023
 in een email aan:
@@ -378,7 +378,7 @@ Verder geeft Lydis op hun
 <a target="_blank" href="https://www.lydis.nl/over-ons/yealink-security-faq#netwerk">security FAQ</a> <i class="fa fa-external-link"></i>
 
 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/20240217_Yealink%20FAQ%20Security%20Lydis.pdf">mirror</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/20240217_Yealink%20FAQ%20Security%20Lydis.pdf">mirror</a> <i class="fa fa-external-link"></i>
  aan dat
 
 <blockquote class="cloudquote">
@@ -387,9 +387,9 @@ In de VoIP-industrie werken professionals die de platforms en beveiliging behere
 </p>
 <p>Dat is wel heel erg interessant aangezien het juist deze gelekte RSA sleutel is die de technisch directeur van Lydis gebruikt
 om mij 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/y000000000065_1.cfg">bestand1</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/y000000000065_1.cfg">bestand1</a> <i class="fa fa-external-link"></i>
  en 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/y000000000065_2.cfg">bestand2</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/y000000000065_2.cfg">bestand2</a> <i class="fa fa-external-link"></i>
 
 toe te zenden met als doel om te laten zien hoe veilig het systeem is.</p>
 <h1 id="teams">Teams</h1>
@@ -399,7 +399,7 @@ worden namelijk &ldquo;
 <a target="_blank" href="https://www.lydis.nl/over-ons/lydis-statement-2">compleet door Microsoft beveiligd</a> <i class="fa fa-external-link"></i>
 &rdquo;
 
-<a target="_blank" href="https://trideeindhoven.github.io/website/yealink/20240217_Lydis%20reactie%20op%20FTM%20&amp;%20De%20Tijd%20Lydis.pdf">mirror</a> <i class="fa fa-external-link"></i>
+<a target="_blank" href="https://trideeindhoven.github.io/20240217_Lydis%20reactie%20op%20FTM%20&amp;%20De%20Tijd%20Lydis.pdf">mirror</a> <i class="fa fa-external-link"></i>
 <br>
 Dat is een interessante uitspraak. Maar is dit dan ook wel zo? De speurneuzen van Follow The Money nemen contact op met
 Microsoft over deze claim. Microsoft geeft aan hier goed naar te gaan kijken en na een week komen zij op 28 augustus 2023
