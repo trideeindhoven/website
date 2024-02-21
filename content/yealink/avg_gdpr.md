@@ -231,21 +231,24 @@ doordringen tot de echte informatie kost maanden en heel erg veel doorzettingsve
 Inmiddels wordt ik door verschillende bedrijven gevraagd om lezingen over mijn onderzoek te komen geven. Tijdens een van deze
 lezingen krijg ik feedback dat deze specifieke onderneming toch alleen maar USB devices gebruikt.
 
-{{< quote cloudquote >}}
-EULA UVC30
-<span>EULA UVC30</span>
-{{< /quote >}}
+{{< a_blank "Yealink RoomConnect Software" "https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248" >}}
+{{< a_blank "mirror" "https://web.archive.org/web/20240218141430/https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248" >}}
 
-Yealink RoomConnect Software
-https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248
+{{< a_blank "EULA" "yealink/OEMEULA.txt" >}}
 
-mirror
-https://web.archive.org/web/20240218141430/https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248
+
+{{< quote cloudemail >}}
+The software may collect information about you and your use of the software and send that to Yealink. Yealink may use this information to provide services and improve Yealink’s products and services. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable collection of data from users of your devices that access or use the software. If you use these features to enable data collection in your devices, you must comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately informs users about how you use, collect, and share their data. You can learn more about Yealink’s data collection and use in the product documentation and the Yealink Privacy Statement available at https://www.yealink.com/onepage_66.html. You agree to comply with all applicable provisions of the Yealink Privacy Statement.{{< /quote >}}
+
+{{< a_blank "Yealink Privacy Statement" "https://www.yealink.com/onepage_66.html" >}}
+{{< a_blank "mirror" "https://web.archive.org/web/20240217160621/https://www.yealink.com/en/onepage/privacy-statement" >}}
+
+{{< quote cloudemail >}}With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of Yealink, our business partners, you, or others; or as otherwise required by applicable law.{{< /quote >}}
 
 EULA van USB devices niet GDPR compliant
 
 {{< quote cloudquote >}}
-quote van staatsveiligheid
-<span>staatsveiligheid</span>
+Daarnaast is Yealink onderworpen aan de Chinese compliance-regels met betrekking tot de toegang van de Chinese overheid tot de data verzameld door Yealink
+<span>De Staatsveiligheid – de nationale veiligheidsdienst van België</span>
 {{< /quote >}}
 koppelen met niet GDPR compliancy

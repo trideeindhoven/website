@@ -76,15 +76,11 @@ We DISabled Direct IP Call (Features->General Information->Allow IP Call->Disabl
 But when we did a portscan of the phone we could still see port 5060 open. It seems that the port is open whether you have Direct IP Call enabled or not.{{< /quote >}}  
 Ik heb een groot deel van het antwoord van Yealink hier woord voor woord geciteerd, omdat het een mooi inzicht geeft
 in hoe lastig de communicatie soms was:  
-{{< quote cloudemail >}}The IP Call feature use 5060 port is following the SIP RFC standard, but 
-disable IP Call feature can’t block 5060, because 5060 port is also used in UDP registering and Calling. If you 
-check the major brand like Poly(Polycom) and Cisco, they also have the same mechanism. Because open 5060 port doesn’t 
-bring security issue. According to RFC standard, 5060 port is standard SIP port, the 5060 port will not handling a 
-non-sip message. {{< /quote >}}  
+{{< quote cloudemail >}}The IP Call feature use 5060 port is following the SIP RFC standard, but disable IP Call feature can’t block 5060, because 5060 port is also used in UDP registering and Calling. If you check the major brand like Poly(Polycom) and Cisco, they also have the same mechanism. Because open 5060 port doesn’t bring security issue. According to RFC standard, 5060 port is standard SIP port, the 5060 port will not handling a non-sip message. {{< /quote >}}  
 
-Wat Yealink hier beweert is eigenlijk dat als ik met mijn tablet naar facebook wil gaan (poort 443), dat ik dan eerst
+Wat Yealink hier beweert is eigenlijk dat als ik met mijn tablet naar Facebook wil gaan (poort 443), dat ik dan eerst
 zelf een webserver moet installeren op mijn tablet.  
-Er zijn nogal wat zaken mis met deze uitspraken. En uiteraard heb ik naar die claim gekeken: "jamaar iedereen doet het". 
+Er zijn nogal wat zaken mis met deze uitspraken. En uiteraard heb ik naar die claim gekeken: "ja maar iedereen doet het". 
 Dus ik heb 3 telefoons van Cisco, Grandstream en SNOM genomen. Al deze telefoons hadden ook default poort 5060 open 
 staan, maar op het moment dat de functionaliteit werd uitgezet om de telefoon rechtstreeks te kunnen bereiken was de 
 netwerkpoort ook meteen gesloten.  
@@ -96,7 +92,7 @@ in zo een netwerkservice een ernstig,
 {{< a_blank "misbruikbaar" "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15260" >}} 
 security probleem ontdekt wordt. Ik vind dat dit ook 
 illustratief is voor het inzicht hoe security werkt. Als ik zo een email lees dan komt dat bij mij zeer, zeer basaal 
-over en dan plaats je netwerkdevices in je netwerk die door deze mensen ontworpen zijn.  
+over en dan voel ik persoonlijk toch wat weerstand om dit soort netwerkdevices in mijn netwerk te plaatsen.  
 
 Maar in elke email die ik terug krijg blijft Yealink hameren dat de poort open MOET staan, want dat is een verplichting
 in DE {{< a_blank "RFC" "https://en.wikipedia.org/wiki/Request_for_Comments" >}}. 
@@ -106,7 +102,7 @@ Het is wellicht goed om even stil te staan bij wat een RFC is. RFC staat voor Re
 gezien als een verzameling van documenten die beschrijven hoe het internet hoort te werken. Een soort van wetboek zo 
 gezegd. Op het moment als iemand een VoIP telefoon maakt, dan is het van belang om ook te zorgen dat deze telefoon met
 zo veel mogelijk andere software en apparaten samenwerkt. Door de RFC's strak te volgen zal dit een eenvoudigere taak 
-zijn (met een aantal beroemde uitzonderingen daar gelaten (hallo Microsoft!)).  
+zijn (met een aantal beroemde uitzonderingen daar gelaten).  
 
 Maargoed. Na 2 maanden krijg ik nog steeds ontwijkende antwoorden uit China en nu grijpt een lid van de directie van 
 Lydis in en emailt op 16-8-2023 in een reply-to-all: 
@@ -116,7 +112,7 @@ Een dag later op 17-8-2023 reageert de medewerker uit China:
 {{< quote cloudemail >}}You could refer to rfc 3261, it provides some example.
 Actually, the major IP phone manufactory like poly, they also use this port. You could have a test or you could 
 google for it.{{< /quote >}}  
-En wederom komt het schoolplein argument "jamaar de anderen doen het ook!" om de hoek kijken. Dat dit überhaupt een
+En wederom komt het schoolplein argument "ja maar de anderen doen het ook!" om de hoek kijken. Dat dit überhaupt een
 onwaarheid is heb ik al eerder eenvoudig getest en aangetoond. Nu ben ik redelijk bekend met RFC documenten en 
 {{< a_blank "RFC3261 in het bijzonder" "https://www.rfc-editor.org/rfc/rfc3261.html" >}}.
 Een RFC is een technisch document wat redelijk 
@@ -145,7 +141,10 @@ be configured in phone web portal or via yealink auto provision method.{{< /quot
 Ok... Dus het IS mogelijk om deze netwerkpoort toch te sluiten. Deze methode is niet/incorrect gedocumenteerd, maar
 als dit inderdaad het geval is, dan heb ik hier (los van de slechte kennis van Yealink) niet meer veel over op te 
 merken. Aangezien dit een eenvoudige test is, zet ik de "Local SIP Port" in de web interface op 0 en controleer met 
-NMAP of er een UDP of TCP service staat te draaien op poort 5060, Dit blijkt....NIET... het geval te zijn. Eureka!
+{{< a_blank "NMAP security scanner" "https://nmap.org/" >}} 
+of er een {{< a_blank "UDP" "https://en.wikipedia.org/wiki/User_Datagram_Protocol" >}} 
+of {{< a_blank "TCP" "https://en.wikipedia.org/wiki/Transmission_Control_Protocol" >}} 
+service staat te draaien op poort 5060, Dit blijkt....NIET... het geval te zijn. Eureka!
 Dit is een mooie uitkomt, een aanpassing die in de provisioning terecht hoort en toch iets positiefs.  
 
 Die avond zit ik voor een etentje aan de keukentafel met een aantal bronnen en experts voor het FTM artikel en ik 
@@ -181,12 +180,13 @@ Maar wat gaat er nou eigenlijk achter deze poort, deze "hoteldeur", schuil? Ook 
 mogelijk omdat het gelukt is om de firmware van Yealink te ontsleutelen (hierover later een ander artikel). 
 Als we kijken naar de 
 {{< a_blank "lijst van open source software" "https://www.yealink.com/website-service/download/offer-source-of-open-source-software.pdf" >}}
-{{< a_blank "mirror" "/static/yealink/Offer Source of Open Source Software.pdf" >}} dan valt op dat er gebruikt gemaakt 
+{{< a_blank "mirror" "/yealink/Offer Source of Open Source Software.pdf" >}} dan valt op dat er gebruikt gemaakt 
 wordt van het welbekende {{< a_blank "PJSIP project" "https://www.pjsip.org/" >}}. De door Yealink zelfverklaarde 
 {{< a_blank "PJSIP versie is 2.3" "https://github.com/pjsip/pjproject/releases/tag/2.3" >}} en dat is een vreselijk 
 oude versie die niet meer in omloop zou moeten zijn. Ter verduidelijking: deze versie is uitgekomen in september 2014.  
-Dat zou dus kunnen betekenen dat er meer dan 10 jaar oude software op ongedefinieerde netwerkpoorten bij overheids organisaties
-draait. Ik krijg daar een ongemakkelijk gevoel bij. Maargoed, ook dat verbaast mij inmiddels niet meer bij dit onderzoek.  
+Dat zou dus kunnen betekenen dat er 10 jaar oude software op ongedefinieerde netwerkpoorten bij overheids organisaties
+draait. In de woorden van Lydis zelf leveren zij aan ministeries, politie en aan nog wel spannendere overheidsorganisaties. 
+Ik krijg daar een ongemakkelijk gevoel bij. Maargoed, ook dat verbaast mij inmiddels niet meer bij dit onderzoek.  
 
 Vrijdag komt de volgende publicatie. Dit keer is het een minder technisch artikel, maar ga ik in op juridische aspecten
 en regelgeving die bij dit onderzoek hoort.  
