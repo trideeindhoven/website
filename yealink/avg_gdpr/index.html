@@ -139,7 +139,14 @@
 <div class="mx-auto my-10 max-w-6xl">
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
     <h1 class="title text-5xl mb-4">AVG / GDPR</h1>
-    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>I have added international translations of the articles using google translate:</p>
+<p><a href="https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&amp;_x_tr_tl=en&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/united-kingdom-flag-icon.svg" alt="EN" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a>
+<a href="https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&amp;_x_tr_tl=de&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/germany-flag-icon.svg" alt="DE" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a>
+<a href="https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&amp;_x_tr_tl=fr&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/france-flag-icon.svg" alt="FR" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a></p>
+<p>Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de
 
 <a target="_blank" href="https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex%3A32016R0679">Algemene Verordening Gegevensbescherming (AVG)</a> <i class="fa fa-external-link"></i>
  wetgeving.
@@ -362,7 +369,7 @@ Dat lijkt dan ook een nuttige vraag aan ETSI. Gelukkig heeft ETSI een mooie
 <a target="_blank" href="https://www.etsi.org/standards#page=1&amp;search=%22TS%20103%20645%22&amp;title=1&amp;etsiNumber=1&amp;content=1&amp;version=0&amp;onApproval=1&amp;published=1&amp;withdrawn=1&amp;historical=1&amp;isCurrent=1&amp;superseded=1&amp;startDate=1988-01-15&amp;endDate=2024-02-18&amp;harmonized=0&amp;keyword=&amp;TB=&amp;stdType=TS&amp;frequency=&amp;mandate=&amp;collection=&amp;sort=1">zoekfunctie</a> <i class="fa fa-external-link"></i>
 
 op hun website. En hier is duidelijk te zien dat er van deze standaard verschillende versies zijn:
-<img src="https://trideeindhoven.github.io/website/img/yealink/20240218_screenshot_etsiTS103645.png" alt="Screenshot zoekfunctie ETSI">
+<img src="https://trideeindhoven.github.io/website/"   >
 <br>
 Wat hier ook opvalt is dat alle drie de versies van dit document nog steeds een groene &ldquo;published&rdquo; status hebben. Het kan toch
 niet zijn dat een crisis-communication manager van TÜV na een aantal dagen in deze zaak duiken een onwaarheid naar een
@@ -386,39 +393,87 @@ correcte informatie te komen. Er worden shiny white papers gemaakt, seminars geh
 doordringen tot de echte informatie kost maanden en heel erg veel doorzettingsvermogen.</p>
 <h1 id="eula">EULA</h1>
 <p>Inmiddels wordt ik door verschillende bedrijven gevraagd om lezingen over mijn onderzoek te komen geven. Tijdens een van deze
-lezingen krijg ik feedback dat deze specifieke onderneming toch alleen maar USB devices gebruikt.</p>
-<p>
+lezingen krijg ik feedback dat deze specifieke onderneming toch alleen maar USB devices gebruikt. Ik vraag om welk device het
+gaat en dit blijkt de</p>
+<p>te zijn. De vraag aan mij is: aangezien dit geen netwerk device is, betekent dit dat e.e.a. ook veiliger is?<br>
+Ik moet even over deze vraag nadenken, omdat ik tot nu toe alleen naar network-attached devices heb gekeken. Maar eigenlijk
+al vrij snel bedenk ik mij dat een VoIP telefoon of videobar in een apart
+
+<a target="_blank" href="https://en.wikipedia.org/wiki/VLAN">VLAN</a> <i class="fa fa-external-link"></i>
+ geplaatst kan worden. Bij een apparaat wat met USB werkt is dat
+een stuk lastiger. Deze USB camera&rsquo;s zijn aangesloten op apparaten (laptops/pc&rsquo;s) welke waarschijnlijk in een veel gevoeliger
+VLAN zitten dan een netwerk device van Yealink.<br>
+Ik beloof hier goed naar te gaan kijken en ik ga naar huis toe. Die avond nog ga ik naar de
+
+<a target="_blank" href="https://support.yealink.com/en/portal/docList?archiveType=tool&amp;productCode=50a5ef97c1e644f4">support pagina</a> <i class="fa fa-external-link"></i>
+
+van de UVC30 camera. Wat hier meteen opvalt is dat het nodig is om de
+
 <a target="_blank" href="https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248">Yealink RoomConnect Software</a> <i class="fa fa-external-link"></i>
 
 
 <a target="_blank" href="https://web.archive.org/web/20240218141430/https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248">mirror</a> <i class="fa fa-external-link"></i>
-</p>
 
+te installeren. Het is een &ldquo;indrukwekkend&rdquo; pakket aan software van meer dan 220Mb. Het lijkt mij een logische stap om dan
+maar eens te gaan kijken wat er nou precies IN die software zit. Met
+
+<a target="_blank" href="https://github.com/GNOME/msitools">MSITools</a> <i class="fa fa-external-link"></i>
+ pak ik het installatiepakket van Yealink uit en ga zoals
+gewoonlijk weer met een open mind rondneuzen in de software. En ook hier vallen weer de nodig zaken op:</p>
+<ul>
+<li>Het software pakket zit vol met open source software zoals NGINX, QT5, SSLeay, zlib, en vele andere pakketten</li>
+<li>In het software pakket zijn bestanden te vinden als &ldquo;WebServer.key&rdquo; en (een onversleutelde) &ldquo;YRC_centralcontrol.key&rdquo;</li>
+</ul>
+<p>Maar in het pakket staat ook een 
 <a target="_blank" href="https://trideeindhoven.github.io/website/yealink/OEMEULA.txt">EULA</a> <i class="fa fa-external-link"></i>
-
+. En dat lijkt mij in voor dit artikel dan weer
+relevant. Dus ik duik in deze lijvige tekst.</p>
+<p>Het volgende stuk tekst valt mij meteen op in het hoofdstuk &ldquo;Privacy Policy&rdquo;:
 
 <blockquote class="cloudemail">
 <br/>The software may collect information about you and your use of the software and send that to Yealink. Yealink may use this information to provide services and improve Yealink’s products and services. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable collection of data from users of your devices that access or use the software. If you use these features to enable data collection in your devices, you must comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately informs users about how you use, collect, and share their data. You can learn more about Yealink’s data collection and use in the product documentation and the Yealink Privacy Statement available at https://www.yealink.com/onepage_66.html. You agree to comply with all applicable provisions of the Yealink Privacy Statement.
 </blockquote>
+</p>
+<p>De AVG minded lezer is natuurlijk al lang aangeslagen op de zinssnede
 
-<p>
+<blockquote class="cloudquote">
+Your opt-out rights, if any
+</blockquote>
+</p>
+<p>Nu ben ik geen AVG deskundige, maar dat lijkt mij een wat&hellip;on-Europese&hellip;manier van het interpreteren van deze wet.
+Maar er wordt ook verwezen naar de 
 <a target="_blank" href="https://www.yealink.com/onepage_66.html">Yealink Privacy Statement</a> <i class="fa fa-external-link"></i>
 
 
 <a target="_blank" href="https://web.archive.org/web/20240217160621/https://www.yealink.com/en/onepage/privacy-statement">mirror</a> <i class="fa fa-external-link"></i>
-</p>
+.</p>
+<p>Het is duidelijk dat deze tekst ergens tussen
+
+<a target="_blank" href="https://web.archive.org/web/20211028204713/https://www.yealink.com/onepage_66.html">2021</a> <i class="fa fa-external-link"></i>
+
+en
+
+<a target="_blank" href="https://web.archive.org/web/20221111152117/https://www.yealink.com/en/onepage/privacy-statement">2022</a> <i class="fa fa-external-link"></i>
+
+grondig gewijzigd is. Een van de stukken tekst die toegevoegd zijn aan dit privacy statement staat in hoofdstuk
+&ldquo;5. Sharing Your Personal Information&rdquo;. Het aantal partijen met wie de persoonsdata gedeeld mag worden is uitgebreid. En
+in het bijzonder de volgende zin is van belang:</p>
 
 <blockquote class="cloudemail">
 With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of Yealink, our business partners, you, or others; or as otherwise required by applicable law.
 </blockquote>
 
-<p>EULA van USB devices niet GDPR compliant</p>
-<p>
+<p>Het moge duidelijk zijn dat dit een vreselijk brede omschrijving is, waar vrijwel alles onder kan vallen.<br>
+Dit is van belang omdat er steeds vaker zorgen zijn over de Chinese compiance regels waar Chinese bedrijven aan moeten voldoen.
+Een belangrijke quote die ik hier kan gebruiken is die van De Staatsveiligheid, de nationale veiligheidsdienst van België
+aan het zakenkrant <em>De Tijd</em>.<br>
+Zij zeggen hier over:</p>
+
 <blockquote class="cloudquote">
 <br/>Daarnaast is Yealink onderworpen aan de Chinese compliance-regels met betrekking tot de toegang van de Chinese overheid tot de data verzameld door Yealink<br/><span>De Staatsveiligheid – de nationale veiligheidsdienst van België</span><br/>
 </blockquote>
 
-koppelen met niet GDPR compliancy</p></div>
+<p>De volgende publicatie zal dinsdag 27 februari plaatsvinden. Tot dan!</p></div>
   </div>
 </div>
 

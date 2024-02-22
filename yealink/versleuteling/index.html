@@ -139,7 +139,14 @@
 <div class="mx-auto my-10 max-w-6xl">
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
     <h1 class="title text-5xl mb-4">Versleuteling</h1>
-    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>De aanleiding van dit onderzoek waren enkele zaken in de versleuteling in het provisioning proces die ik niet goed
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>I have added international translations of the articles using google translate:</p>
+<p><a href="https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&amp;_x_tr_tl=en&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/united-kingdom-flag-icon.svg" alt="EN" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a>
+<a href="https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&amp;_x_tr_tl=de&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/germany-flag-icon.svg" alt="DE" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a>
+<a href="https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&amp;_x_tr_tl=fr&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/france-flag-icon.svg" alt="FR" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a></p>
+<p>De aanleiding van dit onderzoek waren enkele zaken in de versleuteling in het provisioning proces die ik niet goed
 begreep. Ik kon toen niet vermoeden dat ik hier 2 jaar later nog steeds mee bezig zou zijn.</p>
 <p>Zoals in de <a href="https://trideeindhoven.github.io/website/yealink/inleiding/">inleiding</a> uitgelegd is provisioning het systeem wat gebruikt wordt
 om configuratie bestanden veilig te
@@ -202,7 +209,7 @@ versleuteling  werkt. Yealink geeft aan dat ze dit pas 6 jaar na het uitlekken v
  sleutel hebben geïmplementeerd.</li>
 <li>En tot slot krijg ik een screenshot opgestuurd van de nieuwe Yealink Configuration Encryption Tool.</li>
 </ul>
-<img src="https://trideeindhoven.github.io/website/img/yealink/encryption_tool_1.jpg" alt="Yealink Configuration Encryption Tool">
+<img src="https://trideeindhoven.github.io/website/img/yealink/encryption_tool_1.jpg" alt="Yealink Configuration Encryption Tool"  >
 
 <p>Hier vallen een aantal zaken op:</p>
 <ul>
@@ -336,7 +343,7 @@ sleutel).</p>
 <p>Maar hoe ziet dit er dan visueel uit? Ik heb als voorbeeld het logo van Yealink genomen. Vervolgens heb ik dit bestand
 omgezet in een bestandsformaat waar elke pixel als een serie van bytes gerepresenteerd wordt. Ik heb hiervoor het formaat PPM
 gebruikt.<br>
-<img src="https://trideeindhoven.github.io/website/img/yealink/ecb/Yealink_Logo.png" alt="Screenshot website CloudAware">
+<img src="https://trideeindhoven.github.io/website/img/yealink/ecb/Yealink_Logo.png" alt="Screenshot website CloudAware"  >
 <br>
 Daarna heb ik het bestand (zonder header) versleuteld op dezelfde manier als Yealink dat ook doet (met openssl):
 
@@ -345,7 +352,7 @@ Daarna heb ik het bestand (zonder header) versleuteld op dezelfde manier als Yea
 </blockquote>
 </p>
 <p>De output van het bestand heb ik hieronder weergegeven.
-<img src="https://trideeindhoven.github.io/website/img/yealink/ecb/Yealink_Logo_ecb.png" alt="Screenshot website CloudAware">
+<img src="https://trideeindhoven.github.io/website/img/yealink/ecb/Yealink_Logo_ecb.png" alt="Screenshot website CloudAware"  >
 <br>
 Technisch gezien is het bestand versleuteld, maar ik kan niet echt zeggen dat dit nou de beste methode is om een bestand
 te versleutelen.</p>
@@ -416,13 +423,13 @@ eigenlijk wel te controleren? Ik besluit naar de
 &rdquo;
 pagina van het &ldquo;Trust Center&rdquo; van Yealink te browsen.
 Op deze pagina staan mooie klinkende namen met logo&rsquo;s:
-<img src="https://trideeindhoven.github.io/website/img/yealink/20230901_trust_center_security_compliance.png" alt="Security and Compliance 20230901">
+<img src="https://trideeindhoven.github.io/website/img/yealink/20230901_trust_center_security_compliance.png" alt="Security and Compliance 20230901"  >
 <br>
 Een waarlijk indrukwekkende lijst. Twee van de logo&rsquo;s vallen mij op: Migros (grootgrutter in Zwitserland) en KPN. Ik besluit
 deze twee bedrijven eens een mail te sturen om te informeren op welke manier zij aan Security en/of Compliance van
 Yealink bijdragen. Ik krijg een reactie terug dat ze er naar gaan kijken. Ik hoor een tijdje niets meer en besluit nog
 maar eens naar deze webpagina te gaan kijken.<br>
-<img src="https://trideeindhoven.github.io/website/img/yealink/20230911_trust_center_security_compliance.png" alt="Security and Compliance 20230911">
+<img src="https://trideeindhoven.github.io/website/img/yealink/20230911_trust_center_security_compliance.png" alt="Security and Compliance 20230911"  >
 <br>
 Interessant genoeg zijn er nu ineens twee logo&rsquo;s verdwenen.</p>
 <p>Het laat maar weer zien hoe belangrijk het is om niet iedereen op zijn blauwe ogen te geloven. Security is geen vinklijst
@@ -431,7 +438,8 @@ betekent niets zonder op de hoogte te zijn van de scope en mooie referenties zul
 <p>En juist dat zelf controleren daar ben ik mee verder gegaan. Woensdag een nieuw artikel. Ook dit keer weer een meer technisch
 artikel waar ik uitgebreid in ga op de netwerk functionaliteit van Yealink VoIP apparatuur.
 En ook dit keer blijkt het bijzonder belangrijk gebleken om zelf feiten te controleren.</p>
-<p>Tot woensdag!</p></div>
+<p>Tot woensdag!</p>
+<p><a href="https://trideeindhoven.github.io/website/yealink/open_poort/">Naar het volgende artikel</a></p></div>
   </div>
 </div>
 
