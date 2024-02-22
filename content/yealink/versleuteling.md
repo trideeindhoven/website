@@ -8,6 +8,12 @@ tags = [
 ]
 image = "img/yealink/pexels-george-becker-114741.jpg"
 +++
+I have added international translations of the articles using google translate:  
+
+[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
+
 De aanleiding van dit onderzoek waren enkele zaken in de versleuteling in het provisioning proces die ik niet goed 
 begreep. Ik kon toen niet vermoeden dat ik hier 2 jaar later nog steeds mee bezig zou zijn.
 <!--more-->
@@ -59,7 +65,7 @@ versleuteling  werkt. Yealink geeft aan dat ze dit pas 6 jaar na het uitlekken v
 {{< a_blank "AES" "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" >}} sleutel hebben geïmplementeerd.
 - En tot slot krijg ik een screenshot opgestuurd van de nieuwe Yealink Configuration Encryption Tool.  
 
-{{< img "Yealink Configuration Encryption Tool" "img/yealink/encryption_tool_1.jpg" >}}  
+{{< img alt="Yealink Configuration Encryption Tool" src="img/yealink/encryption_tool_1.jpg" >}}  
 
 Hier vallen een aantal zaken op:
 - Er is een "compatibility mode" en ik vermoed dat het hier gaat om een AES-only modus.
@@ -184,7 +190,7 @@ sleutel).
 Maar hoe ziet dit er dan visueel uit? Ik heb als voorbeeld het logo van Yealink genomen. Vervolgens heb ik dit bestand 
 omgezet in een bestandsformaat waar elke pixel als een serie van bytes gerepresenteerd wordt. Ik heb hiervoor het formaat PPM
 gebruikt.  
-{{< img "Screenshot website CloudAware" "img/yealink/ecb/Yealink_Logo.png" >}}  
+{{< img alt="Screenshot website CloudAware" src="img/yealink/ecb/Yealink_Logo.png" >}}  
 Daarna heb ik het bestand (zonder header) versleuteld op dezelfde manier als Yealink dat ook doet (met openssl):
 {{< quote cloudemail >}}#Eerst sla ik de afbeeldingsheader op:
 head -n 4 yealink.ppm > header.txt
@@ -196,7 +202,7 @@ openssl enc -aes-128-ecb -nosalt -pass pass:"JEROEN" -in body.bin -out body.ecb.
 cat header.txt body.ecb.bin > yealink.ecb.ppm{{< /quote >}}
 
 De output van het bestand heb ik hieronder weergegeven.
-{{< img "Screenshot website CloudAware" "img/yealink/ecb/Yealink_Logo_ecb.png" >}}  
+{{< img alt="Screenshot website CloudAware" src="img/yealink/ecb/Yealink_Logo_ecb.png" >}}  
 Technisch gezien is het bestand versleuteld, maar ik kan niet echt zeggen dat dit nou de beste methode is om een bestand 
 te versleutelen.  
 
@@ -242,12 +248,12 @@ eigenlijk wel te controleren? Ik besluit naar de
 "{{< a_blank "Security and Compliance" "https://www.yealink.com/en/trust-center/security-compliance" >}}"
  pagina van het "Trust Center" van Yealink te browsen.
 Op deze pagina staan mooie klinkende namen met logo's:
-{{< img "Security and Compliance 20230901" "img/yealink/20230901_trust_center_security_compliance.png" >}}  
+{{< img alt="Security and Compliance 20230901" src="img/yealink/20230901_trust_center_security_compliance.png" >}}  
 Een waarlijk indrukwekkende lijst. Twee van de logo's vallen mij op: Migros (grootgrutter in Zwitserland) en KPN. Ik besluit
 deze twee bedrijven eens een mail te sturen om te informeren op welke manier zij aan Security en/of Compliance van 
 Yealink bijdragen. Ik krijg een reactie terug dat ze er naar gaan kijken. Ik hoor een tijdje niets meer en besluit nog
 maar eens naar deze webpagina te gaan kijken.  
-{{< img "Security and Compliance 20230911" "img/yealink/20230911_trust_center_security_compliance.png" >}}  
+{{< img alt="Security and Compliance 20230911" src="img/yealink/20230911_trust_center_security_compliance.png" >}}  
 Interessant genoeg zijn er nu ineens twee logo's verdwenen.  
 
 Het laat maar weer zien hoe belangrijk het is om niet iedereen op zijn blauwe ogen te geloven. Security is geen vinklijst
@@ -260,4 +266,4 @@ En ook dit keer blijkt het bijzonder belangrijk gebleken om zelf feiten te contr
 
 Tot woensdag!
 
-
+[Naar het volgende artikel]({{< ref "open_poort" >}})

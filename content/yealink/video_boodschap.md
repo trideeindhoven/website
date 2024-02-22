@@ -8,6 +8,11 @@ tags = [
 ]
 image = "img/yealink/pexels-donald-tong-66134.jpg"
 +++
+I have added international translations of the articles using google translate:  
+
+[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/video_boodschap/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/video_boodschap/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/video_boodschap/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
 
 Beste lezer. Welkom bij deze serie publicaties over mijn onderzoek naar Yealink en Lydis waar ik een jaar aan gewerkt heb.
 <!--more-->
@@ -50,3 +55,4 @@ ook interessant is om te lezen hoe een responsible disclosure traject gaat en ho
 
 Vanaf vandaag zal er elke 2 dagen op werkdagen een publicatie plaatsvinden totdat alle data vrijgegeven is.
 
+[Naar het volgende artikel]({{< ref "inleiding" >}})

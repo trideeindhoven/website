@@ -8,6 +8,12 @@ tags = [
 ]
 image = "img/yealink/pexels-marco-13153479.jpg"
 +++
+I have added international translations of the articles using google translate:  
+
+[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
+
 Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de 
 {{< a_blank "Algemene Verordening Gegevensbescherming (AVG)" "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex%3A32016R0679" >}} wetgeving. 
 Sterker nog: ze claimen hier zelfs een "General Data Protection Regulation (GDPR) certificate" (Engelse benaming voor AVG) 
@@ -229,26 +235,60 @@ doordringen tot de echte informatie kost maanden en heel erg veel doorzettingsve
 
 # EULA
 Inmiddels wordt ik door verschillende bedrijven gevraagd om lezingen over mijn onderzoek te komen geven. Tijdens een van deze
-lezingen krijg ik feedback dat deze specifieke onderneming toch alleen maar USB devices gebruikt.
+lezingen krijg ik feedback dat deze specifieke onderneming toch alleen maar USB devices gebruikt. Ik vraag om welk device het
+gaat en dit blijkt de 
 
+te zijn. De vraag aan mij is: aangezien dit geen netwerk device is, betekent dit dat e.e.a. ook veiliger is?  
+Ik moet even over deze vraag nadenken, omdat ik tot nu toe alleen naar network-attached devices heb gekeken. Maar eigenlijk
+al vrij snel bedenk ik mij dat een VoIP telefoon of videobar in een apart 
+{{< a_blank "VLAN" "https://en.wikipedia.org/wiki/VLAN" >}} geplaatst kan worden. Bij een apparaat wat met USB werkt is dat
+een stuk lastiger. Deze USB camera's zijn aangesloten op apparaten (laptops/pc's) welke waarschijnlijk in een veel gevoeliger 
+VLAN zitten dan een netwerk device van Yealink.  
+Ik beloof hier goed naar te gaan kijken en ik ga naar huis toe. Die avond nog ga ik naar de 
+{{< a_blank "support pagina" "https://support.yealink.com/en/portal/docList?archiveType=tool&productCode=50a5ef97c1e644f4" >}}
+van de UVC30 camera. Wat hier meteen opvalt is dat het nodig is om de 
 {{< a_blank "Yealink RoomConnect Software" "https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248" >}}
-{{< a_blank "mirror" "https://web.archive.org/web/20240218141430/https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248" >}}
+{{< a_blank "mirror" "https://web.archive.org/web/20240218141430/https://support-cdn.yealink.com/attachment/document/20231225/665b200d-64d2-4899-a962-a1faba467421.msi?v=1703474447248" >}} 
+te installeren. Het is een "indrukwekkend" pakket aan software van meer dan 220Mb. Het lijkt mij een logische stap om dan
+maar eens te gaan kijken wat er nou precies IN die software zit. Met 
+{{< a_blank "MSITools" "https://github.com/GNOME/msitools" >}} pak ik het installatiepakket van Yealink uit en ga zoals 
+gewoonlijk weer met een open mind rondneuzen in de software. En ook hier vallen weer de nodig zaken op:
+- Het software pakket zit vol met open source software zoals NGINX, QT5, SSLeay, zlib, en vele andere pakketten
+- In het software pakket zijn bestanden te vinden als "WebServer.key" en (een onversleutelde) "YRC_centralcontrol.key"
 
-{{< a_blank "EULA" "yealink/OEMEULA.txt" >}}
+Maar in het pakket staat ook een {{< a_blank "EULA" "yealink/OEMEULA.txt" >}}. En dat lijkt mij in voor dit artikel dan weer 
+relevant. Dus ik duik in deze lijvige tekst.  
 
-
+Het volgende stuk tekst valt mij meteen op in het hoofdstuk "Privacy Policy":
 {{< quote cloudemail >}}
-The software may collect information about you and your use of the software and send that to Yealink. Yealink may use this information to provide services and improve Yealink’s products and services. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable collection of data from users of your devices that access or use the software. If you use these features to enable data collection in your devices, you must comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately informs users about how you use, collect, and share their data. You can learn more about Yealink’s data collection and use in the product documentation and the Yealink Privacy Statement available at https://www.yealink.com/onepage_66.html. You agree to comply with all applicable provisions of the Yealink Privacy Statement.{{< /quote >}}
+The software may collect information about you and your use of the software and send that to Yealink. Yealink may use this information to provide services and improve Yealink’s products and services. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable collection of data from users of your devices that access or use the software. If you use these features to enable data collection in your devices, you must comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately informs users about how you use, collect, and share their data. You can learn more about Yealink’s data collection and use in the product documentation and the Yealink Privacy Statement available at https://www.yealink.com/onepage_66.html. You agree to comply with all applicable provisions of the Yealink Privacy Statement.{{< /quote >}}  
 
-{{< a_blank "Yealink Privacy Statement" "https://www.yealink.com/onepage_66.html" >}}
-{{< a_blank "mirror" "https://web.archive.org/web/20240217160621/https://www.yealink.com/en/onepage/privacy-statement" >}}
+De AVG minded lezer is natuurlijk al lang aangeslagen op de zinssnede
+{{< quote cloudquote >}}Your opt-out rights, if any{{< /quote >}}
+
+Nu ben ik geen AVG deskundige, maar dat lijkt mij een wat...on-Europese...manier van het interpreteren van deze wet. 
+Maar er wordt ook verwezen naar de {{< a_blank "Yealink Privacy Statement" "https://www.yealink.com/onepage_66.html" >}} 
+{{< a_blank "mirror" "https://web.archive.org/web/20240217160621/https://www.yealink.com/en/onepage/privacy-statement" >}}.  
+
+Het is duidelijk dat deze tekst ergens tussen 
+{{< a_blank "2021" "https://web.archive.org/web/20211028204713/https://www.yealink.com/onepage_66.html" >}}
+en
+{{< a_blank "2022" "https://web.archive.org/web/20221111152117/https://www.yealink.com/en/onepage/privacy-statement" >}}
+grondig gewijzigd is. Een van de stukken tekst die toegevoegd zijn aan dit privacy statement staat in hoofdstuk 
+"5. Sharing Your Personal Information". Het aantal partijen met wie de persoonsdata gedeeld mag worden is uitgebreid. En
+in het bijzonder de volgende zin is van belang:
 
 {{< quote cloudemail >}}With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of Yealink, our business partners, you, or others; or as otherwise required by applicable law.{{< /quote >}}
 
-EULA van USB devices niet GDPR compliant
+Het moge duidelijk zijn dat dit een vreselijk brede omschrijving is, waar vrijwel alles onder kan vallen.  
+Dit is van belang omdat er steeds vaker zorgen zijn over de Chinese compiance regels waar Chinese bedrijven aan moeten voldoen.
+Een belangrijke quote die ik hier kan gebruiken is die van De Staatsveiligheid, de nationale veiligheidsdienst van België 
+aan het zakenkrant *De Tijd*.  
+Zij zeggen hier over:
 
 {{< quote cloudquote >}}
 Daarnaast is Yealink onderworpen aan de Chinese compliance-regels met betrekking tot de toegang van de Chinese overheid tot de data verzameld door Yealink
 <span>De Staatsveiligheid – de nationale veiligheidsdienst van België</span>
 {{< /quote >}}
-koppelen met niet GDPR compliancy
+
+De volgende publicatie zal dinsdag 27 februari plaatsvinden. Tot dan!

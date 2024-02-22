@@ -8,6 +8,12 @@ tags = [
 ]
 image = "img/yealink/pexels-tim-mossholder-2258339.jpg"
 +++
+I have added international translations of the articles using google translate:  
+
+[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)
+
 Het onderzoek naar de security van Yealink heeft meer dan een jaar geduurd. Gedurende deze tijd heb ik interviews
 afgenomen, penetration tests uitgevoerd, data geanalyseerd en tientallen, zo niet honderden emails verzonden.  
 De waarheid bleek altijd weer net iets anders te liggen dan ik dacht. In een samenvatting van een penetrationtest 
@@ -140,3 +146,4 @@ uit te oefenen op leden van de Nederlandse pers.
 
 Laten we dat in de toekomst ajb anders doen.
 
+[Naar het volgende artikel]({{< ref "versleuteling" >}})
