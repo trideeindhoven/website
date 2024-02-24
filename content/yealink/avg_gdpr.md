@@ -1,27 +1,29 @@
 +++
 author = "Jeroen Hermans"
 title = "AVG / GDPR"
-date = "2024-01-05"
+date = "2024-02-16"
 description = "AVG / GDPR"
 tags = [
     "AVG", "GDPR", "Lydis", "Yealink"
 ]
 image = "img/yealink/pexels-marco-13153479.jpg"
 +++
+Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de 
+{{< a_blank "Algemene Verordening Gegevensbescherming (AVG)" "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex%3A32016R0679" >}} wetgeving. 
+Sterker nog: ze claimen hier zelfs een "General Data Protection Regulation (GDPR) certificate" (Engelse benaming voor AVG) 
+voor te bezitten van TÜV Rheinland.
+<!--more-->
 I have added international translations of the articles using google translate:  
 
 [{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
 [{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
 [{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
 
-Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de 
-{{< a_blank "Algemene Verordening Gegevensbescherming (AVG)" "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex%3A32016R0679" >}} wetgeving. 
-Sterker nog: ze claimen hier zelfs een "General Data Protection Regulation (GDPR) certificate" (Engelse benaming voor AVG) 
-voor te bezitten van TÜV Rheinland.
-<!--more-->
 Het is tijdens een van de dinertjes aan de keukentafel met de experts die hebben meegewerkt aan het 
 {{< a_blank "FTM artikel" "https://www.ftm.nl/artikelen/yealink-apparatuur-overheid-vitale-sectoren" >}} wanneer ik het AVG/GDPR
-certificaat ter sprake breng. Dit certificaat wordt door Lydis en Yealink veelvuldig gebruikt als het bewijs dat het toch echt
+certificaat ter sprake breng. Dit certificaat {{< a_blank "wordt" "https://www.lydis.nl/yealink-beveiliging-maatregelen" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240217145316/https://www.lydis.nl/yealink-beveiliging-maatregelen" >}} {{< a_blank "door" "https://www.lydis.nl/oplossingen/yealink-security" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240221215348/https://www.lydis.nl/oplossingen/yealink-security" >}} {{< a_blank "Lydis" "https://www.lydis.nl/support/yealink-security-en-opvolging-copy-2" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240117145700/https://www.lydis.nl/support/yealink-security-en-opvolging-copy-2" >}} {{< a_blank "en" "https://www.yealink.com/en/trust-center/privacy" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240221215242/https://www.yealink.com/en/trust-center/privacy" >}}
+{{< a_blank "Yealink" "https://www.yealink.com/en/trust-center/security-compliance" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240221215414/https://www.yealink.com/en/trust-center/security-compliance" >}} 
+veelvuldig gebruikt als het bewijs dat het toch echt
 wel goed zit met de beveiliging van de Yealink apparaten. Ik ben zelf met zo veel zaken in dit project bezig dat ik er nog niet 
 op aangeslagen ben. Aan de andere kant van de tafel veert iemand op...  
 "Een GDPR certificaat?" "Ja?" antwoord ik. In het gesprek wat volgt besef ik heel snel dat dit iets heel interessants is.
@@ -33,9 +35,7 @@ De volgende dag duik ik in het
 TÜV Rheinland. Er wordt melding gemaakt dat de "Yealink Management Cloud Service" (YMCS) getest is volgens testnorm
 ETSI TS 103 645 v1.1.1:2019.  
 Onderaan het document staat:
-{{< quote cloudquote >}}
-...the security controls and data processing of the tested portal ate ensured to be compliant with the General Data Protection
-Regulation (GDPR)
+{{< quote cloudquote >}}...the security controls and data processing of the tested portal are ensured to be compliant with the General Data Protection Regulation (GDPR)
 {{< /quote >}}
 Dat klinkt als een behoorlijke zekerheid. Het document roept in elk geval erg veel vragen op.
 
@@ -58,7 +58,7 @@ te sturen. Op 25-7-2023 schrijf ik hem:
      * the tested components are not in conflict with the provisions as stated in the GDPR (but not a complete GDPR compliance)?
 - Can TÜV explain the seemingly large discrepancy between the wording in the Certificate and ETSI TS 103645:
         Certificate: "are ensured to be compliant with the <cut> GDPR"
-        ETSI TS 103645: "the present document can help in ensuring that these are compliant with the<cut>GDPR"
+        ETSI TS 103645: "the present document can help in ensuring that these are compliant with the GDPR"
 {{< /quote >}}
 Een weekje later stuur ik de Dipl.-Ing. Univ. een reminder dat ik nog geen antwoorden heb ontvangen, maar ik zal nooit meer 
 iets van hem horen.  
@@ -84,8 +84,6 @@ naar op zoek. En dus vraag ik diezelfde dag nog:
 
 {{< quote cloudemail >}}The case is going to be reviewed? I only asked a few basic questions about the certificate. 
 If you could answer them for me that would be great.{{< /quote >}}
-
-<TODO: invoegen van telefoongesprek met Volker Seitz>
 
 2 dagen later op 30 augustus reageert iemand van de "Trade Mark Surveillance" division. Zijn email vangt aan met:
 {{< quote cloudquote >}}FYI, the certificate is not valid anymore.{{< /quote >}}
@@ -151,7 +149,7 @@ publiceren. Dit verweer "hoezo ga jij nu ineens publiceren?" kom ik vaker tegen.
 regelmatig aan. De reden waarom dit gebeurt kan ik alleen maar naar gissen, maar ik gok dat het komt omdat er aan de communicatie-
 kant toch af en toe onderschat wordt wat een security probleem voor impact kan hebben. Als ik dan toch tips mag uitdelen:
 als je een onderneming bent en iemand beweert aan een publicatie te werken, neem dit dan serieus. Als je een security 
-onderzoeker bent, vermeld *altijd* vanaf het allereerste begin waar je mee bezig bent. Zorg dat dit per email gebeurt zodat
+onderzoeker bent, vermeldt *altijd* vanaf het allereerste begin waar je mee bezig bent. Zorg dat dit per email gebeurt zodat
 je hier altijd op terug kan wijzen.  
 
 De crisis communication man gaat verder dat hij wil weten of ik een "accredited journalist" ben, want hij is nogal 
@@ -159,7 +157,7 @@ De crisis communication man gaat verder dat hij wil weten of ik een "accredited 
 eigenlijk bedoeld met dat ik een "competitor" ben, omdat ik vanaf het allereerste moment in contact ben geweest met de
 press office van TÜV. Nu gebeurt er iets interessants. Iemand anders van TÜV neemt het gesprek snel over. Het is duidelijk
 dat de crisis-communication man er veel te hard in gaat en hij probeert de zaak duidelijk te sussen. Maar hij herhaalt ook
-dat ze "irritated" zijn en dat als ze geen mediaenquiry van een accredited media ontvangen dat ze de case closed beschouwen.  
+dat ze "irritated" zijn en dat als ze geen media enquiry van een accredited media ontvangen dat ze de case closed beschouwen.  
 Een interessant antwoord. Dat betekent dus dat een organisatie als TÜV weigert om verdere informatie te verschaffen over
 basale zaken, zoals datum van intrekken, over het intrekken van een certificaat. Ik denk dat dat wellicht de beste indicatie
 is hoe ongemakkelijk TÜV zelf in deze zaak zit.  
@@ -182,9 +180,9 @@ Ook dit is een belangrijke uitspraak. Deze email is van 11 september 2023, maar 
 14 februari 2024 
 {{< a_blank "het certificaat" "https://web.archive.org/web/20240114034519/https://www.yealink.com/website-service/download/yealink-trust-center-security-gdpr.pdf" >}} actief aanbiedt op hun website!  
 Lydis heeft de 
-{{< a_blank "link naar het GDPR certificaat " "https://web.archive.org/web/20240217145316/https://www.lydis.nl/yealink-beveiliging-maatregelen" >}}
-zelfs nog op 17 februari 2024 nog op hun website staan. Tijdens een meeting met Lydis op 15 februari 2024 stel ik aan een lid
-van de directie de vraag of TÜV contact met hen heeft opgenomen. Hij bevestigt dat TÜV dat inderdaad "in december" heeft gedaan
+{{< a_blank "link naar het GDPR certificaat " "https://web.archive.org/web/20240222215356/https://www.lydis.nl/yealink-beveiliging-maatregelen" >}}
+zelfs nog op 22 februari 2024 nog op hun website staan. Tijdens een meeting met Lydis op 15 februari 2024 stel ik aan een lid
+van de directie van Lydis de vraag of TÜV contact met hen heeft opgenomen. Hij bevestigt dat TÜV dat inderdaad "in december" heeft gedaan
 en dat zij meteen aan de vordering om het certificaat van hun website te halen hebben voldaan. Of er hier nu sprake is van 
 bewuste misleiding of van grove slordigheid: wie zal het zeggen.  
 
@@ -205,17 +203,16 @@ Deze scope geeft aan dat
 En er worden ook een aantal voorbeelden genoemd, zoals "connected children's toys", "baby monitors" en "washing machines".
 Het klinkt nou niet echt alsof deze norm geschikt is voor het testen van een "Cloud Service" van Yealink. Ik stel deze vraag 
 dan ook aan de enige organisatie die deze vraag kan beantwoorden: ETSI. Zij reageren dat zij niet kunnen en willen toezien 
-op hoe kun documenten gebruikt worden, maar dat ETSI 103 645 niet bedoeld is voor het testen van Cloud diensten. Maar... zo
-geven zij ook aan: als je echt zou willen, dan kun je het document hier voor gebruiken
-{{< quote cloudquote >}}
-in the same way an old airplane can be repurposed as a hotel
+op hoe kun documenten gebruikt worden, maar dat ETSI TS 103 645 niet bedoeld is voor het testen van Cloud diensten. Maar... zo
+geven zij ook aan: als je echt zou willen, dan kun je het document hier voor gebruiken...
+{{< quote cloudquote >}}...in the same way an old airplane can be repurposed as a hotel
 {{< /quote >}}
 
 Maar de crisis-communication man bij TÜV gaf ook aan dat "the respective standard ETSI TS 103 645 lost its validity. It is invalid.".
 Dat lijkt dan ook een nuttige vraag aan ETSI. Gelukkig heeft ETSI een mooie 
 {{< a_blank "zoekfunctie" "https://www.etsi.org/standards#page=1&search=%22TS%20103%20645%22&title=1&etsiNumber=1&content=1&version=0&onApproval=1&published=1&withdrawn=1&historical=1&isCurrent=1&superseded=1&startDate=1988-01-15&endDate=2024-02-18&harmonized=0&keyword=&TB=&stdType=TS&frequency=&mandate=&collection=&sort=1" >}}
 op hun website. En hier is duidelijk te zien dat er van deze standaard verschillende versies zijn:
-{{< img "Screenshot zoekfunctie ETSI" "img/yealink/20240218_screenshot_etsiTS103645.png" >}}  
+{{< img alt="Screenshot zoekfunctie ETSI" src="img/yealink/20240218_screenshot_etsiTS103645.png" >}}  
 Wat hier ook opvalt is dat alle drie de versies van dit document nog steeds een groene "published" status hebben. Het kan toch
 niet zijn dat een crisis-communication manager van TÜV na een aantal dagen in deze zaak duiken een onwaarheid naar een 
 journalist heeft gestuurd?  
@@ -236,8 +233,7 @@ doordringen tot de echte informatie kost maanden en heel erg veel doorzettingsve
 # EULA
 Inmiddels wordt ik door verschillende bedrijven gevraagd om lezingen over mijn onderzoek te komen geven. Tijdens een van deze
 lezingen krijg ik feedback dat deze specifieke onderneming toch alleen maar USB devices gebruikt. Ik vraag om welk device het
-gaat en dit blijkt de 
-
+gaat en dit blijkt de {{< a_blank "UVC Desktop" "https://www.yealink.com/en/product-detail/camera-uvc30-desktop" >}}
 te zijn. De vraag aan mij is: aangezien dit geen netwerk device is, betekent dit dat e.e.a. ook veiliger is?  
 Ik moet even over deze vraag nadenken, omdat ik tot nu toe alleen naar network-attached devices heb gekeken. Maar eigenlijk
 al vrij snel bedenk ik mij dat een VoIP telefoon of videobar in een apart 
@@ -260,8 +256,7 @@ Maar in het pakket staat ook een {{< a_blank "EULA" "yealink/OEMEULA.txt" >}}. E
 relevant. Dus ik duik in deze lijvige tekst.  
 
 Het volgende stuk tekst valt mij meteen op in het hoofdstuk "Privacy Policy":
-{{< quote cloudemail >}}
-The software may collect information about you and your use of the software and send that to Yealink. Yealink may use this information to provide services and improve Yealink’s products and services. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable collection of data from users of your devices that access or use the software. If you use these features to enable data collection in your devices, you must comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately informs users about how you use, collect, and share their data. You can learn more about Yealink’s data collection and use in the product documentation and the Yealink Privacy Statement available at https://www.yealink.com/onepage_66.html. You agree to comply with all applicable provisions of the Yealink Privacy Statement.{{< /quote >}}  
+{{< quote cloudemail >}}The software may collect information about you and your use of the software and send that to Yealink. Yealink may use this information to provide services and improve Yealink’s products and services. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable collection of data from users of your devices that access or use the software. If you use these features to enable data collection in your devices, you must comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately informs users about how you use, collect, and share their data. You can learn more about Yealink’s data collection and use in the product documentation and the Yealink Privacy Statement available at https://www.yealink.com/onepage_66.html. You agree to comply with all applicable provisions of the Yealink Privacy Statement.{{< /quote >}}  
 
 De AVG minded lezer is natuurlijk al lang aangeslagen op de zinssnede
 {{< quote cloudquote >}}Your opt-out rights, if any{{< /quote >}}
@@ -281,14 +276,18 @@ in het bijzonder de volgende zin is van belang:
 {{< quote cloudemail >}}With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of Yealink, our business partners, you, or others; or as otherwise required by applicable law.{{< /quote >}}
 
 Het moge duidelijk zijn dat dit een vreselijk brede omschrijving is, waar vrijwel alles onder kan vallen.  
-Dit is van belang omdat er steeds vaker zorgen zijn over de Chinese compiance regels waar Chinese bedrijven aan moeten voldoen.
+Dit is van belang omdat er steeds vaker zorgen zijn over de Chinese compliance regels waar Chinese bedrijven aan moeten voldoen.
 Een belangrijke quote die ik hier kan gebruiken is die van De Staatsveiligheid, de nationale veiligheidsdienst van België 
 aan het zakenkrant *De Tijd*.  
 Zij zeggen hier over:
 
-{{< quote cloudquote >}}
-Daarnaast is Yealink onderworpen aan de Chinese compliance-regels met betrekking tot de toegang van de Chinese overheid tot de data verzameld door Yealink
+{{< quote cloudquote >}}Daarnaast is Yealink onderworpen aan de Chinese compliance-regels met betrekking tot de toegang van de Chinese overheid tot de data verzameld door Yealink
 <span>De Staatsveiligheid – de nationale veiligheidsdienst van België</span>
 {{< /quote >}}
 
-De volgende publicatie zal dinsdag 27 februari plaatsvinden. Tot dan!
+Het lijkt er op dat dit een dossier is waarbij elke steen die omgekeerd wordt weer nieuwe vragen opwerpt. Helaas komt er dan 
+ook een moment dat je dit stuk moet laten voor wat het is. Maar het is mij duidelijk dat de AVG claims van Yealink en Lydis
+soms...lastig te verifiëren zijn. Ik laat het maar in het midden waar dat door komt en ik ga verder met mijn onderzoek, 
+want er is nog zo veel te onderzoeken. En daar schrijf ik dinsdag 27 februari over verder.  
+
+Tot dan!

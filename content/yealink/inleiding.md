@@ -1,19 +1,13 @@
 +++
 author = "Jeroen Hermans"
 title = "Inleiding"
-date = "2024-01-01"
+date = "2024-02-13"
 description = "Inleiding"
 tags = [
     "inleiding", "Lydis", "Yealink", "AKD"
 ]
 image = "img/yealink/pexels-tim-mossholder-2258339.jpg"
 +++
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)
-
 Het onderzoek naar de security van Yealink heeft meer dan een jaar geduurd. Gedurende deze tijd heb ik interviews
 afgenomen, penetration tests uitgevoerd, data geanalyseerd en tientallen, zo niet honderden emails verzonden.  
 De waarheid bleek altijd weer net iets anders te liggen dan ik dacht. In een samenvatting van een penetrationtest 
@@ -31,6 +25,12 @@ meer verhalend karakter.
 
 Laten we beginnen met de vragen waarom, wie en wat. In die volgorde...
 <!--more-->
+I have added international translations of the articles using google translate:  
+
+[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/inleiding/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)
+
 # Waarom
 *"Jeroen waarom doe je dit nu eigenlijk?"*. Een vraag die ik regelmatig van vrienden, collega's en familie krijg. Een
 schijnbaar onschuldige vraag die wellicht toch belangrijker is dan deze op het eerste gehoor lijkt.

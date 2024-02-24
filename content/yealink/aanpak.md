@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Aanpak"
-date = "2024-01-11"
+date = "2024-02-23"
 description = "Aanpak"
 tags = [
     "open source", "Lydis", "Yealink"

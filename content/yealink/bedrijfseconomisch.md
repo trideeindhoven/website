@@ -1,15 +1,16 @@
 +++
 author = "Jeroen Hermans"
 title = "Bedrijfseconomisch overzicht"
-date = "2024-01-06"
+date = "2024-02-17"
 description = "Bedrijfseconomisch overzicht"
 tags = [
     "bedrijven", "meehelpen", "Lydis", "Econocom", "Yealink"
 ]
 image = "img/yealink/pexels-nataliya-vaitkevich-8927687.jpg"
 +++
-
-test123
+Tijdens het onderzoek naar Lydis en Yealink kwamen heel veel bedrijven en holdings voorbij. Het leek mij niet meer dan 
+relevant om ook te kijken naar de bedrijfseconomische handel en wandel van deze bedrijven. In het bijzonder wanneer het
+om terrorisme bestrijding (UBO) en beursgenoteerde bedrijven gaat.
 <!--more-->
 Migros, KPN, Deloitte, TÜV Rheinland, Econocom, IBS, Lydis, APlusK
 

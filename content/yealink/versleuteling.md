@@ -1,22 +1,22 @@
 +++
 author = "Jeroen Hermans"
 title = "Versleuteling"
-date = "2024-01-03"
+date = "2024-02-14"
 description = "Versleuteling"
 tags = [
     "versleuteling", "encryptie", "AES", "RSA", "Lydis", "Yealink"
 ]
 image = "img/yealink/pexels-george-becker-114741.jpg"
 +++
+De aanleiding van dit onderzoek waren enkele zaken in de versleuteling in het provisioning proces die ik niet goed 
+begreep. Ik kon toen niet vermoeden dat ik hier 2 jaar later nog steeds mee bezig zou zijn.
+<!--more-->
 I have added international translations of the articles using google translate:  
 
 [{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
 [{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
 [{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/versleuteling/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
 
-De aanleiding van dit onderzoek waren enkele zaken in de versleuteling in het provisioning proces die ik niet goed 
-begreep. Ik kon toen niet vermoeden dat ik hier 2 jaar later nog steeds mee bezig zou zijn.
-<!--more-->
 Zoals in de [inleiding]({{< ref "inleiding" >}}) uitgelegd is provisioning het systeem wat gebruikt wordt 
 om configuratie bestanden veilig te 
 transporteren van een configuratieserver naar een systeem. Dit systeem kan een VoIP telefoon zijn, maar hetzelfde geldt
