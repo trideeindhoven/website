@@ -12,6 +12,12 @@ Tijdens het onderzoek naar Lydis en Yealink kwamen heel veel bedrijven en holdin
 relevant om ook te kijken naar de bedrijfseconomische handel en wandel van deze bedrijven. In het bijzonder wanneer het
 om terrorisme bestrijding (UBO) of beursgenoteerde bedrijven gaat.
 <!--more-->
+I have added international translations of the articles using google translate:  
+
+[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/bedrijfseconomisch/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/bedrijfseconomisch/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/bedrijfseconomisch/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
+
 Wacht eens even. Waarom wordt er nu ineens ook onderzoek gedaan naar bedrijfseconomische aspecten van de bedrijven rondom 
 Yealink. Het is een vraag die mij ook gesteld werd tijdens een meeting die ik samen met mijn advocaat op 15 februari 2024 
 had met Lydis.  
@@ -89,8 +95,8 @@ kijken dan zien we dat er inderdaad trots vermeld wordt dat Econocom een meerder
 Nu we toch zaken aan het checken zijn laten we even naar de balans van 
 {{< a_blank "Lydis B.V." "yealink/lydis_kvk.pdf" >}} teruggrijpen. Als ik mij hier niet heel erg vergis beweert Econocom,
 een beursgenoteerde onderneming, hier in hun jaarrapport dat Lydis in 2021 een winst heeft gerealiseerd die bijna 2 keer 
-zo hoog is als het balanstotaal van Lydis in 2021. Als we dan ook nog eens de 7.3 mln euro kortlopende schulden niet meetellen 
-en de gestegen voorraden, dan zou dit betekenen dat Lydis een winst heeft gerealiseerd die 400% van het balanstotaal is. 
+zo hoog is als het balanstotaal van Lydis in 2021. Als we dan ook nog eens de 7.3 mln euro kortlopende schulden wegstrepen 
+tegen de gestegen voorraden, dan zou dit betekenen dat Lydis een winst heeft gerealiseerd die 400% van het balanstotaal is. 
 Ik vraag me af waar het nu precies verkeerd gaat. Is dit nu Lydis die een incorrecte balans bij de KvK deponeert of is dit 
 nu Econocom die een onzorgvuldigheid in hun jaarrapport aan hun aandeelhouders opschrijft?  
 
@@ -103,7 +109,8 @@ ik per email bericht van hem:
 Na deze email neemt zijn "assistente" het over en na een aantal emails wordt er op 5 januari 2023 om 11:00u een Teams 
 meeting gepland. Behalve de Financial Managing Director zal ook de directeur van AplusK in de meeting aanwezig zijn.  
 
-Op de dag van het interview zit ik al een aantal minuten in de meetingroom te wachten wanneer er twee glimlachende gezichten 
+Op de dag van het interview zit ik al een aantal minuten in de meetingroom te wachten wanneer er twee vriendelijk 
+glimlachende gezichten 
 op mijn laptop verschijnen. Op de muur achter de Financial Managing Director staat in grote letters "Lounge". We doorlopen 
 het interview op een manier die ik inmiddels al meer dan tien keer gedaan heb. Ik leg uit wie ik ben, wat ik doe en dat ik 
 wat vragen heb voor een publicatie die later het jaar zal plaatsvinden.  
@@ -193,37 +200,31 @@ vraag ik ook deze gegevens op:
 Ook bij deze onderneming zijn geen recente wijzigingen zichtbaar in de deponeringen. En er is ook geen spoor van de 408-
 concernverklaring zichtbaar.  
 Ik kan niet anders concluderen dat Econocom bijzonder succesvol is in het mij met kluitjes in het riet sturen.  
-Uiteraard heb ik aan de belastingdienst, de Kamer van Koophandel en de Belgische beurstoezichthouder gevraagd wat zij hier 
-nu eigenlijk van vinden. Interessant genoeg geven zij 
 
+Laten we het dan ook nog even over de registratie van Lydis in het 
+{{< a_blank "UBO register" "yealink/KVK uittreksel UBO-register_57556156_redacted.pdf" >}}
+hebben (niet-relevante persoons gegevens zijn weggehaald).  
+Voor diegenen die niet helemaal meer weten wat het Ultimate Beneficial Owners (UBO) register is: dit is een register van
+waarin is vastgelegd wie de uiteindelijke baathebber van een onderneming is. Of zoals de 
+{{< a_blank "KvK" "https://www.kvk.nl/hulp-en-contact/ubo-register/" >}} het zelf zegt in hun veelgestelde vragen:
 
+{{< quote cloudemail >}}Alle EU-landen hebben een eigen UBO-register omdat dit verplicht is vanuit Europese regelgeving: de vierde anti-witwasrichtlijn (Richtlijn EU) 2015/849). In Nederland is het UBO-register wettelijk geregeld in het Uitvoeringsbesluit Wwft 2018, de Handelsregisterwet 2007 en het Handelsregisterbesluit 2008. Het UBO-register is onderdeel van het Handelsregister.{{< /quote >}}
 
-<TODO: Lydis geen bijgewerkte UBO>
+Het is dus van belang om er voor te zorgen dat dit register is bijgewerkt. Echter als ik maanden na de overname van Lydis 
+het UBO register opvraag (dat was toen nog net mogelijk), zie ik dat de oude eigenaar van Lydis nog steeds als UBO vermeld 
+staat. Ik stel hier vragen over aan Lydis en de oude eigenaar in het bijzonder en het antwoord is dat dit eigenlijk aangepast 
+had moeten worden, maar dat men het hier te druk voor heeft gehad.  
+Nouja, het past wel in de rest van het plaatje laten we dan maar zeggen.  
 
+Uiteraard heb ik aan het Bureau Economische Handhaving van de Belastingdienst, de Kamer van Koophandel en de 
+Belgische beurstoezichthouder gevraagd wat zij hier nu eigenlijk van vinden. Interessant genoeg geven zij allemaal 
+aan dat deze overtredingen niet binnen hun verantwoordelijkheid vallen. Een conclusie die men dan ook kan trekken is 
+dat er een stevige set aan regels en wetten bestaan rondom ondernemingen en beursgenoteerde ondernemingen in het bijzonder 
+maar dat het er op lijkt dat de overheden zijn vergeten om ook het toezicht hiervoor in te richten. Een gemistte kans 
+want het zorgt er voor dat overtredingen blijkbaar meer dan tien jaar kunnen voortduren zonder dat er iemand op aanslaat.  
 
-
-
-
-
-# Yealink (Europe) Network Technology B.V.
-Yealink Europe BV  
-meeting met China in Almere  
-balans niet in balans  
-{{< a_blank "Yealink (Europe) Network Technology B.V." "yealink/yealink_nl_kvk_20230307.pdf" >}}  
-opvragen adres bij kadaster  
-
-langsgaan in Rijswijk  
-
-{{< img alt="Adres Yealink Rijswijk" src="img/yealink/Yealink_Rijswijk.png" >}}  
-
-Yealink blijkt niet meer te huren, maar post komt er nog wel aan  
-{{< a_blank "IBS business" "yealink/ibs_kvk.pdf" >}}  
-<TODO: website van IBS pixelaten vanwege porno>  
-Kortlopende huur contracten  
-Geen uitbetaalde lonen  
-Fruytier Lawyer in Business  
-notitie lijkt nep te zijn  
-Fruytier op moeten bellen of het wel echt van hen afkomstig was  
-Parafrasering: "Yealink (Europe) Network Technology B.V. heeft kloppende jaarstukken en er zijn geen onregelmatigheden"  
-
-
+Dit was een heel lastig artikel om te schrijven. Niet alleen omdat het zo veel informatie is die netjes ge-ordend moest 
+worden, maar ook omdat het vrij...saaie....kost is. Ik hoop dat jullie nog niet zijn afgehaakt, want door de grote hoeveelheid 
+informatie heb ik dit artikel opgesplitst. In het volgende artikel komt een delegatie van Yealink naar Nederland toe om 
+met mij te praten en kom ik er achter dat Yealink een BV op fietsafstand van mijn voordeur heeft opgericht.  
+Tijd om langs te gaan dus. En dat verhaal beschrijf ik donderdag in het volgende artikel. Tot dan!

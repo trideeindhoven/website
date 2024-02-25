@@ -26,3 +26,15 @@ CVE's
 https://fuo.fi/CVE-2020-24113/
 https://hackmd.io/@tahaafarooq/auth_rce_voip
 
+Niet alleen klanten, ook algemeen directeur Lydis:
+
+14-3-2023:
+Nog even wat aanvullende informatie:
+Als ik voor "Lydis" mac adressen gegevens opvraag aan YMCS via de API, dan krijg ik de volgende gegevens terug:
+
+        "resellerId": "306",
+        "resellerName": "Lydis Cor Heide",
+
+Uiteraard niets illegaals oid, maar ik neem aan dat het niet de bedoeling is dat je persoonlijk genoemd wordt in de API van Yealink?
+
+"Ok ,ik schrik hier van,ga er aan werken "
