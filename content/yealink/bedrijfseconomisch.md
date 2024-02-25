@@ -140,33 +140,47 @@ inderdaad een behoorlijk korte tijd.
 Ondanks dat dit toch echt niet zo erg is vraag ik even door: "Wat ik zie is dat AVS Holding B.V. geen jaarrekeningen 
 deponeert. Klopt dat?"  
 Hij antwoordt met:
-{{< quote cloudquote >}}Volgens mij hebben wij een vrijstelling voor de deponeringen van de resultaten omdat die voor de 
-groep worden geconsolideerd
+{{< quote cloudquote >}}Volgens mij hebben wij een vrijstelling voor de deponeringen van de resultaten omdat die voor de groep worden geconsolideerd
 <span>Financial Managing Director Econocom</span>
 {{< /quote >}}
-De 408 verklaring
-
-Als ik vraag waarom die dan niet (verplicht) gedeponeerd is antwoord hij: "Dat zou ik even moeten navragen bij onze 
-juristen.". Juristen? Hij is toch de "Financial Managing Director"? Ik zie in het Teams-beeld dat hij druk gaat schrijven. 
+Bij doorvragen bevestigt hij dat het om een 408 verklaring gaat. Als ik vraag waarom die dan niet (verplicht) gedeponeerd 
+is antwoord hij: "Dat zou ik even moeten navragen bij onze juristen.". Juristen? Hij is toch de "Financial Managing 
+Director"? Ik zie in het Teams-beeld dat hij druk gaat schrijven. 
 Het geeft mij het gevoel dat hij er oprecht mee aan de slag gaat. Meegenomen dat hij in zijn eigen woorden nog niet zo 
-lang bij de groep betrokken is geef ik hem het voordeel van de twijfel.
+lang bij de groep betrokken is geef ik hem het voordeel van de twijfel.  
 
-18-4-2023
-"Wij hebben elkaar een tijd geleden gesproken. U heeft mij toen toegezegd dat u mij de 408 concern verklaring gaat opsturen.
-Ik heb deze nog niet ontvangen. Kunt u dit alsnog doen?"
+Er gaan een aantal maanden voorbij en ik besluit toch even in deze zaak op te volgen. Op 18 april 2023 email ik hem opnieuw:
+{{< quote cloudemail >}}Wij hebben elkaar een tijd geleden gesproken. U heeft mij toen toegezegd dat u mij de 408 concern verklaring gaat opsturen.
+Ik heb deze nog niet ontvangen. Kunt u dit alsnog doen?{{< /quote >}}  
+Hij reageert de volgende dag met een uitgebreide email aan mij. Hij geeft aan dat Econocom druk bezig is met het 
+deponeren van de jaarstukken van alle dochter ondernemingen.
 
-19-4-2023
-Druk bezig met deponeren van de jaarstukken van alle dochter ondernemingen.
+{{< quote cloudemail >}}De hoogste prioriteit is gegeven aan BIS omdat BIS controleplichtig is. Voor Aplusk gaan we dezelfde inhaalslag maken, in parallel.{{< /quote >}}
+{{< quote cloudemail >}}In parallel nemen we ook het onderwerp van de 408 verklaring met onze accountant op, omdat deze vooralsnog niet gedeponeerd is, waarbij we de keuze hebben om deze te deponeren (zonder tussenconsolidatie) of niet te deponeren (met tussenconsolidatie).{{< /quote >}}
 
-"De hoogste prioriteit is gegeven aan BIS omdat BIS controleplichtig is. Voor Aplusk gaan we dezelfde inhaalslag maken, in parallel."
+Hmmm. Het vertrouwen neemt nu toch wel een beetje af. Het gaat niet om een eenmans-B.V. die de jaarstukken een maand te 
+laat deponert, maar een beursgenoteerde multinational met een jaarwinst van 2.7 *miljard* euro in 2023 waarbij 
+dochterondernemingen bestaan die nog nooit een definitieve jaarrekening hebben gedeponeerd.  
+Maar laten we uitgaan van de goede bedoelingen van de Econocom groep. Ik besluit het weer een tijd te laten liggen. 
+Inmiddels heb ik contact met journalisten van Follow The Money voor een publicatie. Over dit proces zal ik later ook 
+een artikel publiceren. Maar u kunt zich voorstellen dat dit een nieuw soort proces voor mij is en hier gaat veel tijd in 
+zitten. Econocom verdwijnt maanden lang naar de achtergrond. Maar dat is wel waar dit stuk van het dossier zich bevindt: 
+in de achtergrond. En dus komen we aan in februari 2024. Tijdens het schrijven van deze tekst vraag ik me af of Econocom 
+er inderdaad achteraan is gegaan of wellicht toch hun zelf-opgelegde deadline van de "tweede helft van 2023" niet is 
+gehaald.  
 
-"In parallel nemen we ook het onderwerp van de 408 verklaring met onze accountant op, omdat deze vooralsnog niet gedeponeerd is, waarbij we de keuze hebben om deze te deponeren (zonder tussenconsolidatie) of niet te deponeren (met tussenconsolidatie). "
-
-<Artikel is "af" tot hier>
-
+Ik besluit op te zoeken welke jaarrekeningen AplusK heeft gedeponeerd:
 {{< img alt="Dedeponeerde jaarrekeningen AplusK op 24 februari 2024" src="img/yealink/20240224_jaarrekeningen_AplusK.png" >}}  
-
+Ohhh. Dat is jammer. Hier heeft de Financial Managing Director van Econocom toch echt een beetje lopen jokken. Er lijkt 
+helemaal niets gebeurt te zijn in de tussentijd en de jaarstukken zijn nog steeds niet definitief gedeponeerd.  
+MAAR! Er is natuurlijk nog altijd de 408 verklaring waarmee het mogelijk is om de jaarrekening van AplusK niet te deponeren, 
+maar om deze te consolideren met de jaarrekening van de moeder-maatschappijk. Deze 408 verklaring moet worden gedeponeerd 
+voor zowel de moeder maatschappij als de dochter maatschappij. Dit is dus eenvoudig na te kijken en ik vraag alle deponeringen 
+van AplusK op:
 {{< img alt="Deponeringen AplusK op 24 februari 2024" src="img/yealink/20240224_deponeringen_aplusk.png" >}}  
+
+Helaas. Ook hier is helaas geen recente deponering te zien en al helemaal geen concernverklaring. Dat is bijzonder jammer 
+in het kader van transparantie aangezien juist deze AplusK Lydis recenteljk heeft overgenomen.
 
 
 {{< img alt="Dedeponeerde jaarrekeningen BIS B.V. op 24 februari 2024" src="img/yealink/20240224_jaarrekeningen_bis.png" >}}  
