@@ -180,12 +180,19 @@ van AplusK op:
 {{< img alt="Deponeringen AplusK op 24 februari 2024" src="img/yealink/20240224_deponeringen_aplusk.png" >}}  
 
 Helaas. Ook hier is helaas geen recente deponering te zien en al helemaal geen concernverklaring. Dat is bijzonder jammer 
-in het kader van transparantie aangezien juist deze AplusK Lydis recenteljk heeft overgenomen.
-
-
+in het kader van transparantie aangezien juist deze AplusK Lydis recentelijk heeft overgenomen.  
+En dus ga ik ook naar de 
+dedeponeerde jaarrekeningen van BIS B.V. kijken. Let wel: deze firma is in de woorden van Econocom zelf "controleplichtig". 
+Een eenvoudige controle bij de Kamer van Koophandel levert het volgende overzicht op:
 {{< img alt="Dedeponeerde jaarrekeningen BIS B.V. op 24 februari 2024" src="img/yealink/20240224_jaarrekeningen_bis.png" >}}  
-
+Naar de achterliggende reden kunnen we alleen maar gissen, maar ook voor deze controleplichtige onderneming zijn geen 
+wijzigingen in de gedeponeerde jaarrekeningen zichtbaar bij de KvK.  
+Maar, wellicht is voor deze onderneming wel een 408 concernverklaring gedeponeerd bij de Kamer van Koophandel. En dus 
+vraag ik ook deze gegevens op:  
 {{< img alt="Deponeringen BIS B.V. op 24 februari 2024" src="img/yealink/20240224_deponeringen_bis.png" >}}  
+Ook bij deze onderneming zijn geen recente wijzigingen zichtbaar in de deponeringen. En er is ook geen spoor van de 408-
+concernverklaring zichtbaar.  
+Ik kan niet anders concluderen dat Econocom bijzonder succesvol is in het mij met kluitjes in het riet sturen. 
 
 
 

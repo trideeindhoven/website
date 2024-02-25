@@ -104,3 +104,6 @@ blockquote p::before {
   background:#EDEDED;
 }
 
+li i.fa {
+  margin-bottom:0.2em;
+}
