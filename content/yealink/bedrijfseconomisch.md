@@ -56,7 +56,7 @@ hier nu aan de hand? Uit het niets neemt een onderneming met een balanstotaal va
 marktaandeel) over. Dit terwijl alleen al de voorraad van Lydis 7.5mln euro is.  
 
 Uit de lijst van Frans klinkende bestuurders wordt ik niet veel wijzer, maar uit de concernrelaties blijkt al snel dat de 
-"controle plichtige" {{< a_blank "BIS B.V." "yealink/BIS_20230724.pdf" >}} meerderheids aandeelhouder van AplusK B.V. is.  
+"controleplichtige" {{< a_blank "BIS B.V." "yealink/BIS_20230724.pdf" >}} meerderheids aandeelhouder van AplusK B.V. is.  
 En natuurlijk werpen de jaarstukken van BIS B.V. weer de nodige vragen op:
 - Jaarstukken die jaren na einde boekjaar worden gedeponeerd.
 - Meerdere kwartalen tussen het vaststellen van jaarstukken en het deponeren hiervan.
@@ -192,7 +192,9 @@ vraag ik ook deze gegevens op:
 {{< img alt="Deponeringen BIS B.V. op 24 februari 2024" src="img/yealink/20240224_deponeringen_bis.png" >}}  
 Ook bij deze onderneming zijn geen recente wijzigingen zichtbaar in de deponeringen. En er is ook geen spoor van de 408-
 concernverklaring zichtbaar.  
-Ik kan niet anders concluderen dat Econocom bijzonder succesvol is in het mij met kluitjes in het riet sturen. 
+Ik kan niet anders concluderen dat Econocom bijzonder succesvol is in het mij met kluitjes in het riet sturen.  
+Uiteraard heb ik aan de belastingdienst, de Kamer van Koophandel en de Belgische beurstoezichthouder gevraagd wat zij hier 
+nu eigenlijk van vinden. Interessant genoeg geven zij 
 
 
 
@@ -203,21 +205,25 @@ Ik kan niet anders concluderen dat Econocom bijzonder succesvol is in het mij me
 
 
 
+# Yealink (Europe) Network Technology B.V.
+Yealink Europe BV  
+meeting met China in Almere  
+balans niet in balans  
+{{< a_blank "Yealink (Europe) Network Technology B.V." "yealink/yealink_nl_kvk_20230307.pdf" >}}  
+opvragen adres bij kadaster  
 
-Yealink Europe BV
-balans niet in balans
-opvragen adres bij kadaster
-langsgaan in Rijswijk
-Yealink blijkt niet meer te huren, maar post komt er nog wel aan
-IBS business
-Kortlopende huur contracten
-Geen uitbetaalde lonen
-Fruytier Lawyer in Business
-notitie lijkt nep te zijn
-Fruytier op moeten bellen of het wel echt van hen afkomstig was
-Parafrasering: "Yealink (Europe) Network Technology B.V. heeft kloppende jaarstukken en er zijn geen onregelmatigheden"
+langsgaan in Rijswijk  
 
-Controle op uitspraken financieel manager Econocom
-Nog steeds geen 408/403 zichtbaar
-toegegeven
+{{< img alt="Adres Yealink Rijswijk" src="img/yealink/Yealink_Rijswijk.png" >}}  
+
+Yealink blijkt niet meer te huren, maar post komt er nog wel aan  
+{{< a_blank "IBS business" "yealink/ibs_kvk.pdf" >}}  
+<TODO: website van IBS pixelaten vanwege porno>  
+Kortlopende huur contracten  
+Geen uitbetaalde lonen  
+Fruytier Lawyer in Business  
+notitie lijkt nep te zijn  
+Fruytier op moeten bellen of het wel echt van hen afkomstig was  
+Parafrasering: "Yealink (Europe) Network Technology B.V. heeft kloppende jaarstukken en er zijn geen onregelmatigheden"  
+
 
