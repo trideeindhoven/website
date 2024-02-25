@@ -22,3 +22,7 @@ Beveiligingsrapport van NetSPI
 
 CVE's
 
+
+https://fuo.fi/CVE-2020-24113/
+https://hackmd.io/@tahaafarooq/auth_rce_voip
+

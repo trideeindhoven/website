@@ -51,13 +51,13 @@ En dan komt er ineens een, voor velen in de industrie, een onverwachts bericht: 
 {{< a_blank "mirror" "https://web.archive.org/web/20220729074726/https://www.aplusk.nl/nl/nieuws/aplusk-neemt-meerderheidsbelang-in-lydis" >}}. 
 Mijn reactie en die van een aantal mensen in de industrie die ik sprak was: wie? Ik moest nu natuurlijk meer weten over 
 {{< a_blank "AplusK" "yealink/aplusk_kvk.pdf" >}}. En schokkend genoeg valt hier op dat in december 2022 de laatst definitief 
-gedeponeerde jaarrekening uit 2012 is. Bovendien is het balanstotaal op de laatst gerapporteerde balans 3.9mln. Wat is 
-hier nu aan de hand? Uit het niets neemt een onderneming met een balanstotaal van 3.9mln de BeNeLux marktleider (70% 
-marktaandeel) over. Dit terwijl alleen al de voorraad van Lydis 7.5mln is.  
+gedeponeerde jaarrekening uit 2012 is. Bovendien is het balanstotaal op de laatst gerapporteerde balans 3.9mln euro. Wat is 
+hier nu aan de hand? Uit het niets neemt een onderneming met een balanstotaal van 3.9mln euro de BeNeLux marktleider (70% 
+marktaandeel) over. Dit terwijl alleen al de voorraad van Lydis 7.5mln euro is.  
 
 Uit de lijst van Frans klinkende bestuurders wordt ik niet veel wijzer, maar uit de concernrelaties blijkt al snel dat de 
 "controle plichtige" {{< a_blank "BIS B.V." "yealink/BIS_20230724.pdf" >}} meerderheids aandeelhouder van AplusK B.V. is.  
-En natuurlijk werpen deze jaarstukken weer de nodige vragen op:
+En natuurlijk werpen de jaarstukken van BIS B.V. weer de nodige vragen op:
 - Jaarstukken die jaren na einde boekjaar worden gedeponeerd.
 - Meerdere kwartalen tussen het vaststellen van jaarstukken en het deponeren hiervan.
 - Een balans die door Ernst & Young Accountants LLP is gecontroleerd (deponering wordt blijkbaar niet op gecontroleerd).
@@ -75,7 +75,7 @@ B.V. Wie is dat nou
 {{< a_blank "precies" "https://en.wikipedia.org/wiki/Econocom" >}}?  
 Volgens hun eigen website is Econocom "De enige in Europa die al bijna 50 jaar financiële innovatie en technologische 
 expertise combineert". Het is plat gezegd een investeringsfirma die in 2023 
-{{< a_blank "2.7 miljard" "https://www.econocom.com/ecmedia/news/econocom-2023-annual-results__en.pdf" >}}
+{{< a_blank "2.7 miljard euro" "https://www.econocom.com/ecmedia/news/econocom-2023-annual-results__en.pdf" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240224203012/https://www.econocom.com/ecmedia/news/econocom-2023-annual-results__en.pdf" >}}
 winst heeft gedraaid, een stijging van 3.5%.  
 En als we in hun 
@@ -89,7 +89,7 @@ kijken dan zien we dat er inderdaad trots vermeld wordt dat Econocom een meerder
 Nu we toch zaken aan het checken zijn laten we even naar de balans van 
 {{< a_blank "Lydis B.V." "yealink/lydis_kvk.pdf" >}} teruggrijpen. Als ik mij hier niet heel erg vergis beweert Econocom,
 een beursgenoteerde onderneming, hier in hun jaarrapport dat Lydis in 2021 een winst heeft gerealiseerd die bijna 2 keer 
-zo hoog is als het balanstotaal van Lydis in 2021. Als we dan ook nog eens de 7.3 mln kortlopende schulden niet meetellen 
+zo hoog is als het balanstotaal van Lydis in 2021. Als we dan ook nog eens de 7.3 mln euro kortlopende schulden niet meetellen 
 en de gestegen voorraden, dan zou dit betekenen dat Lydis een winst heeft gerealiseerd die 400% van het balanstotaal is. 
 Ik vraag me af waar het nu precies verkeerd gaat. Is dit nu Lydis die een incorrecte balans bij de KvK deponeert of is dit 
 nu Econocom die een onzorgvuldigheid in hun jaarrapport aan hun aandeelhouders opschrijft?  
@@ -135,16 +135,21 @@ Deze uitspraak is een belangrijke. Hij geeft hier aan dat dit blijkbaar bekend i
 aan de slag is gegaan. Ook gebruikt hij hier de bewoording "kleine inhaalslag". Op het moment van dit interview 
 (5 januari 2023) was de laatst gedeponeerde jaarrekening van AplusK uit 2012 en had AVD Holding B.V. sinds de oprichting 
 in 2015 nog nooit een definitieve jaarrekening gedeponeerd. En laten we eerlijk zijn: in de evolutie van de mens is dat 
-inderdaad een behoorlijk korte tijd.
+inderdaad een behoorlijk korte tijd.  
 
-"Wat ik zie is dat AVS Holding B.V. geen jaarrekeningen deponeert. Klopt dat?"
-"Volgens mij hebben wij een vrijstelling voor de deponeringen van de resultaten omdat die voor de groep worden geconsolideerd"
+Ondanks dat dit toch echt niet zo erg is vraag ik even door: "Wat ik zie is dat AVS Holding B.V. geen jaarrekeningen 
+deponeert. Klopt dat?"  
+Hij antwoordt met:
+{{< quote cloudquote >}}Volgens mij hebben wij een vrijstelling voor de deponeringen van de resultaten omdat die voor de 
+groep worden geconsolideerd
+<span>Financial Managing Director Econocom</span>
+{{< /quote >}}
 De 408 verklaring
 
-Als ik vraag waarom die dan niet (verplicht) gedeponeerd is 
-
-"Dat zou ik even moeten navragen bij onze juristen."
-Hij gaat druk schrijven
+Als ik vraag waarom die dan niet (verplicht) gedeponeerd is antwoord hij: "Dat zou ik even moeten navragen bij onze 
+juristen.". Juristen? Hij is toch de "Financial Managing Director"? Ik zie in het Teams-beeld dat hij druk gaat schrijven. 
+Het geeft mij het gevoel dat hij er oprecht mee aan de slag gaat. Meegenomen dat hij in zijn eigen woorden nog niet zo 
+lang bij de groep betrokken is geef ik hem het voordeel van de twijfel.
 
 18-4-2023
 "Wij hebben elkaar een tijd geleden gesproken. U heeft mij toen toegezegd dat u mij de 408 concern verklaring gaat opsturen.
