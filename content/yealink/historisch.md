@@ -19,3 +19,6 @@ Bewering dat er geen problemen zijn, maar
 - NetSPI
 
 Beveiligingsrapport van NetSPI
+
+CVE's
+
