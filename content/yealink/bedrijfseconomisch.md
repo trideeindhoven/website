@@ -50,7 +50,6 @@ Een aantal belangrijke zaken zijn:
 
 Nu valt het op dat al deze drie de ondernemingen regelmatig niet aan deze regels voldoen. Ook vindt het bestuur van deze B.V.'s 
 het blijkbaar nodig om regelmatig "bijzondere omstandigheden" te claimen om uitstel te krijgen voor het deponeren.  
-De enig en zelfstandig bevoegd bestuurder van deze B.V. is VicRos Holding B.V.  
 
 En dan komt er ineens een, voor velen in de industrie, een onverwachts bericht: Lydis wordt overgenomen 
 {{< a_blank "door AplusK" "https://www.aplusk.nl/nl/nieuws/aplusk-neemt-meerderheidsbelang-in-lydis" >}}
@@ -83,7 +82,7 @@ Volgens hun eigen website is Econocom "De enige in Europa die al bijna 50 jaar f
 expertise combineert". Het is plat gezegd een investeringsfirma die in 2023 
 {{< a_blank "2.7 miljard euro" "https://www.econocom.com/ecmedia/news/econocom-2023-annual-results__en.pdf" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240224203012/https://www.econocom.com/ecmedia/news/econocom-2023-annual-results__en.pdf" >}}
-winst heeft gedraaid, een stijging van 3.5%.  
+winst heeft gedraaid, een stijging van 3.5% ten opzichte van 2022.  
 En als we in hun 
 {{< a_blank "jaar rapport 2022" "https://www.econocom.com/ecmedia/fin_report/econocom22_ra_en_ecobook_230403-1.pdf" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240224203610/https://www.econocom.com/ecmedia/fin_report/econocom22_ra_en_ecobook_230403-1.pdf" >}}
@@ -141,7 +140,7 @@ en:
 Deze uitspraak is een belangrijke. Hij geeft hier aan dat dit blijkbaar bekend is bij Econocom en dat men hier al mee 
 aan de slag is gegaan. Ook gebruikt hij hier de bewoording "kleine inhaalslag". Op het moment van dit interview 
 (5 januari 2023) was de laatst gedeponeerde jaarrekening van AplusK uit 2012 en had AVD Holding B.V. sinds de oprichting 
-in 2015 nog nooit een definitieve jaarrekening gedeponeerd. En laten we eerlijk zijn: in de evolutie van de mens is dat 
+in 2015 nog nooit een definitieve jaarrekening gedeponeerd. Maar laten het ook in perspectief zien: in de evolutie van de mens is dat 
 inderdaad een behoorlijk korte tijd.  
 
 Ondanks dat dit toch echt niet zo erg is vraag ik even door: "Wat ik zie is dat AVS Holding B.V. geen jaarrekeningen 
@@ -179,7 +178,7 @@ gehaald.
 Ik besluit op te zoeken welke jaarrekeningen AplusK heeft gedeponeerd:
 {{< img alt="Gedeponeerde jaarrekeningen AplusK op 24 februari 2024" src="img/yealink/20240224_jaarrekeningen_AplusK.png" >}}  
 Ohhh. Dat is jammer. Hier heeft de Financial Managing Director van Econocom toch echt een beetje lopen jokken. Er lijkt 
-helemaal niets gebeurt te zijn in de tussentijd en de jaarstukken zijn nog steeds niet definitief gedeponeerd.  
+helemaal niets gebeurd te zijn in de tussentijd en de jaarstukken zijn nog steeds niet definitief gedeponeerd.  
 MAAR! Er is natuurlijk nog altijd de 408 verklaring waarmee het mogelijk is om de jaarrekening van AplusK niet te deponeren, 
 maar om deze te consolideren met de jaarrekening van de moedermaatschappij. Deze 408 verklaring moet worden gedeponeerd 
 voor zowel de moeder maatschappij als de dochter maatschappij. Dit is dus eenvoudig na te kijken en ik vraag alle deponeringen 
@@ -219,7 +218,7 @@ Nouja, het past wel in de rest van het plaatje laten we dan maar zeggen.
 Uiteraard heb ik aan het Bureau Economische Handhaving van de Belastingdienst, de Kamer van Koophandel en de 
 Belgische beurstoezichthouder gevraagd wat zij hier nu eigenlijk van vinden. Interessant genoeg geven zij allemaal 
 aan dat deze overtredingen niet binnen hun verantwoordelijkheid vallen. Een conclusie die men dan ook kan trekken is 
-dat er een stevige set aan regels en wetten bestaat rondom ondernemingen en beursgenoteerde ondernemingen in het bijzonder 
+dat er een stevige set aan regels en wetten bestaat rondom ondernemingen en beursgenoteerde ondernemingen in het bijzonder, 
 maar dat het er op lijkt dat de overheden zijn vergeten om ook het toezicht hiervoor in te richten. Een gemiste kans 
 want het zorgt er voor dat overtredingen blijkbaar meer dan tien jaar kunnen voortduren zonder dat er iemand op aanslaat.  
 
