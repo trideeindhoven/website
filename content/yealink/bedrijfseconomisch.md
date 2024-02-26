@@ -45,7 +45,7 @@ In Nederland (en waarschijnlijk ook in de rest van Europa) hebben we
 hoe een Besloten Vennootschap zijn jaarstukken moet vaststellen en deponeren.  
 Een aantal belangrijke zaken zijn:
 - Tussen vaststellen van de jaarstukken het het deponeren van deze stukken bij de Kamer van Koophandel mogen maximaal 8 dagen zitten.
-- Het vaststellen van jaarstukken mag op zijn laatst op 8 augustus van het jaar na het boekjaar plaatsvinden.
+- Het deponeren van jaarstukken mag op zijn laatst op 8 augustus van het jaar na het boekjaar plaatsvinden.
 - Het is mogelijk om dit pas op 31 december te doen mits het bestuur vaststelt dat er "bijzondere omstandigheden" zijn.
 
 Nu valt het op dat al deze drie de ondernemingen regelmatig niet aan deze regels voldoen. Ook vind het bestuur van deze B.V.'s 
