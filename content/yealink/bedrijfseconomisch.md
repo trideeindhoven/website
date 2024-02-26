@@ -19,19 +19,19 @@ I have added international translations of the articles using google translate:
 [{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/bedrijfseconomisch/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
 
 Wacht eens even. Waarom wordt er nu ineens ook onderzoek gedaan naar bedrijfseconomische aspecten van de bedrijven rondom 
-Yealink. Het is een vraag die mij ook gesteld werd tijdens een meeting die ik samen met mijn advocaat op 15 februari 2024 
+Yealink? Het is een vraag die mij ook gesteld werd tijdens een meeting die ik samen met mijn advocaat op 15 februari 2024 
 had met Lydis.  
 Laat ik deze vraag eerst eenvoudigweg beantwoorden met: waarom niet? Maar voordat de advocaat van de tegenpartij weer 
-een complot theorie over mij op papier gaat zetten, laat dan toch maar weer ingaan op mijn beweegredenen.  
+een complot theorie over mij op papier gaat zetten, laat ik dan toch maar weer ingaan op mijn beweegredenen.  
 
 Het is natuurlijk niet zo dat veiligheid alleen maar over nullen en eenen gaat. Het is natuurlijk niet zo dat duurzaamheid 
 alleen maar over CO2 gaat. Ook de manier waarop een onderneming, of een groep ondernemingen, omgaat met de maatschappij 
 is hier veelzeggend en belangrijk. Waarom er in het geval van Lydis en Yealink een bijzonder maatschappelijk belang is, 
 is eenvoudig te verklaren. Beide organisaties zijn (inmiddels) direct of indirect beursgenoteerd. Dit betekent dat deze 
-ondernemingen gefinancieerd worden door geld van particulieren, maar ook b.v. pensioenfondsen. De manier waarop deze 
+ondernemingen gefinancierd worden door geld van particulieren, maar ook b.v. pensioenfondsen. De manier waarop deze 
 ondernemingen in de maatschappij staan is daarom maatschappelijk relevant. Het was uiteraard geen doel om een uitgebreid 
-boekenonderzoek te gaan uitvoeren, maar nadat er ook in de jaarstukken van verschillende ondernemingen rondom Yealink 
-onregelmatigheden plaatsvonden heb ik besloten om ook hier (kort) in te duiken. Dit is namelijk triviaal omdat jaarstukken 
+boekenonderzoek te gaan uitvoeren, maar nadat ik ook in de jaarstukken van verschillende ondernemingen rondom Yealink 
+onregelmatigheden constateerde, heb ik besloten om ook hier (kort) in te duiken. Dit omdat jaarstukken 
 van besloten en naamloze vennootschappen vrijwel overal in Europa openbaar zijn. Let wel: dit deel van het onderzoek 
 heeft meer dan een jaar geleden plaatsgevonden. Dus...here we go:  
 
@@ -42,13 +42,13 @@ Ten tijde van dit deel van het onderzoek waren er een aantal bedrijven actief ro
 
 In Nederland (en waarschijnlijk ook in de rest van Europa) hebben we 
 {{< a_blank "afspraken gemaakt" "https://www.kvk.nl/deponeren/uiterste-termijn-deponeren-jaarrekening/" >}} 
-hoe een Besloten Vennootschap zijn jaarstukken moet vaststellen en deponeren.  
+hoe een besloten vennootschap zijn jaarstukken moet vaststellen en deponeren.  
 Een aantal belangrijke zaken zijn:
-- Tussen vaststellen van de jaarstukken het het deponeren van deze stukken bij de Kamer van Koophandel mogen maximaal 8 dagen zitten.
+- Tussen vaststellen van de jaarstukken en het deponeren van deze stukken bij de Kamer van Koophandel mogen maximaal 8 dagen zitten.
 - Het deponeren van jaarstukken mag op zijn laatst op 8 augustus van het jaar na het boekjaar plaatsvinden.
 - Het is mogelijk om dit pas op 31 december te doen mits het bestuur vaststelt dat er "bijzondere omstandigheden" zijn.
 
-Nu valt het op dat al deze drie de ondernemingen regelmatig niet aan deze regels voldoen. Ook vind het bestuur van deze B.V.'s 
+Nu valt het op dat al deze drie de ondernemingen regelmatig niet aan deze regels voldoen. Ook vindt het bestuur van deze B.V.'s 
 het blijkbaar nodig om regelmatig "bijzondere omstandigheden" te claimen om uitstel te krijgen voor het deponeren.  
 De enig en zelfstandig bevoegd bestuurder van deze B.V. is VicRos Holding B.V.  
 
@@ -61,9 +61,9 @@ gedeponeerde jaarrekening uit 2012 is. Bovendien is het balanstotaal op de laats
 hier nu aan de hand? Uit het niets neemt een onderneming met een balanstotaal van 3.9mln euro de BeNeLux marktleider (70% 
 marktaandeel) over. Dit terwijl alleen al de voorraad van Lydis 7.5mln euro is.  
 
-Uit de lijst van Frans klinkende bestuurders wordt ik niet veel wijzer, maar uit de concernrelaties blijkt al snel dat de 
+Uit de lijst van Frans klinkende bestuurders word ik niet veel wijzer, maar uit de concernrelaties blijkt al snel dat de 
 "controleplichtige" {{< a_blank "BIS B.V." "yealink/BIS_20230724.pdf" >}} meerderheids aandeelhouder van AplusK B.V. is.  
-En natuurlijk werpen de jaarstukken van BIS B.V. weer de nodige vragen op:
+En ook de jaarstukken van BIS B.V. roepen de nodige vragen op:
 - Jaarstukken die jaren na einde boekjaar worden gedeponeerd.
 - Meerdere kwartalen tussen het vaststellen van jaarstukken en het deponeren hiervan.
 - Een balans die door Ernst & Young Accountants LLP is gecontroleerd (deponering wordt blijkbaar niet op gecontroleerd).
@@ -135,7 +135,7 @@ al sinds 2012 geen jaarstukken hebben gedeponeerd?"
 De Financial Managing Director welke ik niet bij naam mag noemen geeft aan dat hij het eigenlijk ook niet weet, want zo 
 laat hij weten:
 {{< quote cloudquote >}}Ik ben zelf ook redelijk recent in die zin bij de groep.{{< /quote >}}
-en
+en:
 {{< quote cloudquote >}}Ik weet dat er nog een kleine inhaalslag met jaarrekeningen aan het plaatsvinden is.{{< /quote >}}
 
 Deze uitspraak is een belangrijke. Hij geeft hier aan dat dit blijkbaar bekend is bij Econocom en dat men hier al mee 
@@ -151,7 +151,7 @@ Hij antwoordt met:
 <span>Financial Managing Director Econocom</span>
 {{< /quote >}}
 Bij doorvragen bevestigt hij dat het om een 408 verklaring gaat. Als ik vraag waarom die dan niet (verplicht) gedeponeerd 
-is antwoord hij: "Dat zou ik even moeten navragen bij onze juristen.". Juristen? Hij is toch de "Financial Managing 
+is antwoordt hij: "Dat zou ik even moeten navragen bij onze juristen.". Juristen? Hij is toch de "Financial Managing 
 Director"? Ik zie in het Teams-beeld dat hij druk gaat schrijven. 
 Het geeft mij het gevoel dat hij er oprecht mee aan de slag gaat. Meegenomen dat hij in zijn eigen woorden nog niet zo 
 lang bij de groep betrokken is geef ik hem het voordeel van de twijfel.  
@@ -166,7 +166,7 @@ deponeren van de jaarstukken van alle dochter ondernemingen.
 {{< quote cloudemail >}}In parallel nemen we ook het onderwerp van de 408 verklaring met onze accountant op, omdat deze vooralsnog niet gedeponeerd is, waarbij we de keuze hebben om deze te deponeren (zonder tussenconsolidatie) of niet te deponeren (met tussenconsolidatie).{{< /quote >}}
 
 Hmmm. Het vertrouwen neemt nu toch wel een beetje af. Het gaat niet om een eenmans-B.V. die de jaarstukken een maand te 
-laat deponert, maar een beursgenoteerde multinational met een jaarwinst van 2.7 *miljard* euro in 2023 waarbij 
+laat deponeert, maar een beursgenoteerde multinational met een jaarwinst van 2.7 *miljard* euro in 2023 waarbij 
 dochterondernemingen bestaan die nog nooit een definitieve jaarrekening hebben gedeponeerd.  
 Maar laten we uitgaan van de goede bedoelingen van de Econocom groep. Ik besluit het weer een tijd te laten liggen. 
 Inmiddels heb ik contact met journalisten van Follow The Money voor een publicatie. Over dit proces zal ik later ook 
@@ -177,11 +177,11 @@ er inderdaad achteraan is gegaan of wellicht toch hun zelf-opgelegde deadline va
 gehaald.  
 
 Ik besluit op te zoeken welke jaarrekeningen AplusK heeft gedeponeerd:
-{{< img alt="Dedeponeerde jaarrekeningen AplusK op 24 februari 2024" src="img/yealink/20240224_jaarrekeningen_AplusK.png" >}}  
+{{< img alt="Gedeponeerde jaarrekeningen AplusK op 24 februari 2024" src="img/yealink/20240224_jaarrekeningen_AplusK.png" >}}  
 Ohhh. Dat is jammer. Hier heeft de Financial Managing Director van Econocom toch echt een beetje lopen jokken. Er lijkt 
 helemaal niets gebeurt te zijn in de tussentijd en de jaarstukken zijn nog steeds niet definitief gedeponeerd.  
 MAAR! Er is natuurlijk nog altijd de 408 verklaring waarmee het mogelijk is om de jaarrekening van AplusK niet te deponeren, 
-maar om deze te consolideren met de jaarrekening van de moeder-maatschappijk. Deze 408 verklaring moet worden gedeponeerd 
+maar om deze te consolideren met de jaarrekening van de moedermaatschappij. Deze 408 verklaring moet worden gedeponeerd 
 voor zowel de moeder maatschappij als de dochter maatschappij. Dit is dus eenvoudig na te kijken en ik vraag alle deponeringen 
 van AplusK op:
 {{< img alt="Deponeringen AplusK op 24 februari 2024" src="img/yealink/20240224_deponeringen_aplusk.png" >}}  
@@ -189,9 +189,9 @@ van AplusK op:
 Helaas. Ook hier is helaas geen recente deponering te zien en al helemaal geen concernverklaring. Dat is bijzonder jammer 
 in het kader van transparantie aangezien juist deze AplusK Lydis recentelijk heeft overgenomen.  
 En dus ga ik ook naar de 
-dedeponeerde jaarrekeningen van BIS B.V. kijken. Let wel: deze firma is in de woorden van Econocom zelf "controleplichtig". 
+gedeponeerde jaarrekeningen van BIS B.V. kijken. Let wel: deze firma is in de woorden van Econocom zelf "controleplichtig". 
 Een eenvoudige controle bij de Kamer van Koophandel levert het volgende overzicht op:
-{{< img alt="Dedeponeerde jaarrekeningen BIS B.V. op 24 februari 2024" src="img/yealink/20240224_jaarrekeningen_bis.png" >}}  
+{{< img alt="Gedeponeerde jaarrekeningen BIS B.V. op 24 februari 2024" src="img/yealink/20240224_jaarrekeningen_bis.png" >}}  
 Naar de achterliggende reden kunnen we alleen maar gissen, maar ook voor deze controleplichtige onderneming zijn geen 
 wijzigingen in de gedeponeerde jaarrekeningen zichtbaar bij de KvK.  
 Maar, wellicht is voor deze onderneming wel een 408 concernverklaring gedeponeerd bij de Kamer van Koophandel. En dus 
@@ -219,11 +219,11 @@ Nouja, het past wel in de rest van het plaatje laten we dan maar zeggen.
 Uiteraard heb ik aan het Bureau Economische Handhaving van de Belastingdienst, de Kamer van Koophandel en de 
 Belgische beurstoezichthouder gevraagd wat zij hier nu eigenlijk van vinden. Interessant genoeg geven zij allemaal 
 aan dat deze overtredingen niet binnen hun verantwoordelijkheid vallen. Een conclusie die men dan ook kan trekken is 
-dat er een stevige set aan regels en wetten bestaan rondom ondernemingen en beursgenoteerde ondernemingen in het bijzonder 
-maar dat het er op lijkt dat de overheden zijn vergeten om ook het toezicht hiervoor in te richten. Een gemistte kans 
+dat er een stevige set aan regels en wetten bestaat rondom ondernemingen en beursgenoteerde ondernemingen in het bijzonder 
+maar dat het er op lijkt dat de overheden zijn vergeten om ook het toezicht hiervoor in te richten. Een gemiste kans 
 want het zorgt er voor dat overtredingen blijkbaar meer dan tien jaar kunnen voortduren zonder dat er iemand op aanslaat.  
 
-Dit was een heel lastig artikel om te schrijven. Niet alleen omdat het zo veel informatie is die netjes ge-ordend moest 
+Dit was een heel lastig artikel om te schrijven. Niet alleen omdat het zo veel informatie is die netjes geordend moest 
 worden, maar ook omdat het vrij...saaie....kost is. Ik hoop dat jullie nog niet zijn afgehaakt, want door de grote hoeveelheid 
 informatie heb ik dit artikel opgesplitst. In het volgende artikel komt een delegatie van Yealink naar Nederland toe om 
 met mij te praten en kom ik er achter dat Yealink een BV op fietsafstand van mijn voordeur heeft opgericht.  
