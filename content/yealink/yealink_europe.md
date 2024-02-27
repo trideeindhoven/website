@@ -18,6 +18,9 @@ I have added international translations of the articles using google translate:
 [{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/yealink_europe/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
 [{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/yealink_europe/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)
 
+Ik wil even waarschuwen dat verderop in dit artikel een (gecensureerde) afbeelding is geplaatst welke NSFW is. Met deze
+waarschuwing op zak, laten we aan het artikel beginnen.
+
 In februari 2023 ben ik inmiddels al een half jaar vragen aan het stellen aan Lydis en Yealink. Het gaat zoals jullie al 
 gelezen hebben om zowel technische als niet-technische zaken. Het krijgen van een antwoord gaat vaak moeizaam. We hebben 
 dat bijvoorbeeld kunnen lezen in het artikel over de [open poort]({{< ref "open_poort" >}}) of het artikel over de 
@@ -59,8 +62,10 @@ Ik heb de screenshot toch maar gecensureerd voor jullie. Maar ik denk dat het id
 Maar deze firma heeft ook een Nederlandse gevolmachtigde. Het is een mevrouw met een Chinese naam. Het is geen 
 "Annie", maar ik besluit haar toch te bellen. Helaas lijkt het telefoonnummer afgesloten te zijn.  
 Maar een korte zoektocht
-naar haar LinkedIn en Google laat zien dat zij inderdaad de persoon is die de praktische zaken van Yealink B.V. afhandeld
+naar haar LinkedIn en Google laat zien dat zij inderdaad de persoon is die de praktische zaken van Yealink B.V. afhandelt
 in Rijswijk.  
+IBS B.V. is denk ik toch minder tevreden over hun website en ze besluiten om dit domein niet langer te registreren. Ik
+heb het dan ook als mijn taak gezien om dit domein naar deze serie artikelen te laten verwijzen.  
 
 Terug naar Yealink China en men begint mijn berichten toch wel belangrijk te vinden en dus krijg ik op 10 februari 2023 
 een email uit Xiamen:
@@ -197,21 +202,53 @@ te controleren of een jaarrekening op tijd is ingediend of dat een balans in bal
 Maar ook Yealink B.V. is blijkbaar niet meer zo "tevreden" over een vestigingsadres in Rijswijk en ze verhuizen voor de 
 vierde keer sinds 2016. Dit keer verhuizen ze naar een bedrijvenverzamelgebouw aan de Keizersgracht in Amsterdam. Omdat
 ik dan toch ook wel wil weten wat er op dit adres gevestigd is bezoek ik opnieuw de website van het handelsregister. Het 
-blijkt dat er een kleine 380 bedrijven op dit adres gevestigd zijn. So far voor de "voorzien van gebruikelijke 
+blijkt dat er een kleine 380 bedrijven op dit adres gevestigd zijn. Tot zo ver voor de "voorzien van gebruikelijke 
 faciliteiten voor de uitoefening van de werkzaamheden".  
 
+Maar: zoals eerder vermeldt in de email van Yealink China aan mij zou er een "lawyer's investigation report" komen. 
+Hierbij werd meerdere malen vermeldt dat het om een "lawyer" ging en inderdaad. Op 23 februari 2023 ontvang ik een 
+{{< a_blank "memo" "yealink/20230223_memo_fruytier.pdf" >}}
+van "Fruytier Lawyers in Business". Ik heb in deze memo de naam en handtekening van de opsteller weggelaten om schade aan
+deze persoon te voorkomen.  
+Het document ziet er niet al te officieel uit. De resolutie is laag en er is geen dossiernummer of kenmerk vermeld. 
+Ik besluit om de opsteller van dit document op te bellen om te verifiëren of hij inderdaad degene is die dit document 
+heeft opgesteld. Hij bevestigt dat hij inderdaad de opsteller is, maar dat hij niet met mij wil praten en dat vragen
+aan Yealink gericht moeten worden.  
 
+Laten we dan maar eens grondig naar dit document kijken. Allereerst de opsteller: is deze persoon eigenlijk wel een 
+"lawyer". Een eenvoudige zoektocht op de {{< a_blank "website van Fruytier" "https://www.flib.nl" >}} laat zien dat
+de opsteller helemaal geen advocaat is. Nu moet ik er bij zeggen dat hij zit zelf niet heeft beweerd, maar ik zie hier
+maar twee opties:
+- Fruytier heeft dit wel zo aan Yealink gecommuniceerd, of
+- Yealink was hier wel van op de hoogte maar heeft dit incorrect aan mij gecommuniceerd.  
 
+Laten we dan ook even door de inhoud van dit document gaan:  
+"The Company's visiting address is.... The Company has stated the lease agreement is still in effect. We have no 
+indication that the lease agreement is invalid or terminated"  
+Interessant. Ik bel weer met de pandeigenaar in Rijswijk. Ik heb het helemaal verkeerd begrepen en Yealink heeft nog wel 
+degelijk een actief huurcontract. My bad... ik zal het wel verkeerd gehoord hebben.  
 
-Fruytier Lawyer in Business  
-{{< a_blank "memo" "yealink/20230223_memo_fruytier.pdf" >}}  
-notitie lijkt nep te zijn  
-Yealink spreekt over "lawyer" , maar afzender is medewerker zonder "advocaat" titel. Ik bel hem
-Fruytier op moeten bellen of het wel echt van hen afkomstig was  
-Parafrasering: "Yealink (Europe) Network Technology B.V. heeft kloppende jaarstukken en er zijn geen onregelmatigheden"  
+"The Company has requested services to pick up the e-mail". Ik denk dat alle email dus uitgeprint wordt? Bijzonder, maar 
+ik zal niet twijfelen aan dit grondige "lawyer's investigation report".  
 
+"The Company has filed all its annual accounts for which the filing due date has come up.". Dat is een feitelijk waarheid
+en was natuurlijk ook niet mijn vraag. Dat deze documenten gedeponeerd zijn is niet betwist, maar het is *jaren* te laat
+gebeurd en dan ook nog eens met een balans die niet in balans is.  
 
+De vragen over het niet-gestorte kapitaal laat ik maar even voor wat het is. In het uittreksel van het handelsregister
+is duidelijk te zien dat hier niet het volledige kapitaal gestort is:
+{{< img alt="Gestort aandelen kapitaal Yealink" src="img/yealink/20230307_yealink_bv_gestortkapitaal.png" >}}  
 
+In de {{< a_blank "oprichtingsacte" "yealink/oprichtingsacte_yealink.PDF" >}} van Yealink B.V. uit 2016 is hier over 
+opgenomen:
+{{< quote cloudemail >}}De aandelen zullen binnen twee (2) jaar na de oprichting van de vennootschap worden volgestort, of op een latere datum op verzoek van de vennootschap.{{< /quote >}}
 
-Opvallend, want eenvoudig om {{< a_blank "oprichtingsacte" "yealink/oprichtingsacte_yealink.PDF" >}} op te vragen uit 20xx  
+Dit is voor mij dus niet te controleren of dit verzoek is gebeurd en daarom kan ik hier alleen maar rapporteren wat er in
+het handelsregister te vinden is.  
 
+Dit was weer een langer artikel over de jaarrekeningen, brievenbusfirma's en belastingregels. Ik weet dat een groot deel
+van het publiek toch ook technische zaken wil zien. En daarom zal het artikel van volgende week dinsdag weer over een 
+technisch onderwerp gaan. Want waarom heeft Yealink en Lydis eigenlijk een memo verstuurd aan hun grotere klanten
+over een "unpack" probleem met de firmware?  
+De reden achter deze memo was ikzelf en ik zal volgende week daarom ook 
+uitleggen wat er nou precies aan de hand was. Tot dinsdag!
