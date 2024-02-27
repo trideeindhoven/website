@@ -291,3 +291,5 @@ soms...lastig te verifiëren zijn. Ik laat het maar in het midden waar dat door 
 want er is nog zo veel te onderzoeken. En daar schrijf ik dinsdag 27 februari over verder.  
 
 Tot dan!
+
+[Naar het volgende artikel]({{< ref "bedrijfseconomisch" >}})

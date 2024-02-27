@@ -16,14 +16,13 @@ Achteraf bleek dat deze persoon geen potentiële klant was <span>Cor Heide, alge
 {{< /quote >}}
 Dus alleen responsible disclosure als je klant bent?
 facturen 2018
-static/yealink/inv187008243.PDF
-Ook krijg ik elke maand netjes uit naam van de directeur van Lydis al jaren de inkoopprijslijst opgestuurd.
+{{< a_blank "factuur Lydis" "yealink/inv187008243.PDF" >}}
 
+Ook krijg ik elke maand netjes uit naam van de directeur van Lydis al jaren de inkoopprijslijst opgestuurd.
 
 niet waar, want zie allereerste email uit 28-7-2022
 Maar ook afsluiting email 28-7-2022
-{{< quote cloudquote >}}
-Mogen we de antwoorden op deze vragen gebruiken voor een publicatie in 2023?<span>Jeroen Hermans</span>
+{{< quote cloudquote >}}Mogen we de antwoorden op deze vragen gebruiken voor een publicatie in 2023?<span>Jeroen Hermans</span>
 {{< /quote >}}
 
 {{< quote cloudquote >}}
@@ -56,9 +55,15 @@ De vereisten voor certificering omvatten:
 · Netwerkbeveiliging."
 
 
-referenties:
-https://tbmnet.nl/wp-content/uploads/2023/12/TBM6-2023_DEF_LR.pdf
-mirror: static/yealink/TBM6-2023_DEF_LR.pdf
+Definitie van wederhoor van Lydis:
+{{< quote cloudquote >}}Mocht FTM een publicatie die mede betrekking heeft op Yealink (en dus een impact heeft op Lydis) willen doorzetten, dan verzoek ik u deze publicatie in het kader van wederhoor minimaal één week voorafgaand aan de daadwerkelijke publicatie in concept aan ondergetekende toe te sturen
+<span>Mr. {{< censuur red >}}*************{{< /censuur >}} - AKD N.V.</span>{{< /quote >}}
 
-https://kantoornet.nl/wp-content/uploads/2023/12/2023_kbm_6_def.pdf
-mirror: static/yealink/2023_kbm_6_def.pdf
+referenties:
+{{< a_blank "TBM6" "https://tbmnet.nl/wp-content/uploads/2023/12/TBM6-2023_DEF_LR.pdf" >}}
+{{< a_blank "mirror" "yealink/TBM6-2023_DEF_LR.pdf" >}}
+
+{{< a_blank "KBM6" "https://kantoornet.nl/wp-content/uploads/2023/12/2023_kbm_6_def.pdf" >}}
+{{< a_blank "mirror" "yealink/2023_kbm_6_def.pdf" >}}
+
+
