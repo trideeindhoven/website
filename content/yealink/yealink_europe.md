@@ -46,8 +46,8 @@ over kwijt dan dat het een mevrouw is die hij "vertrouwd" met de naam "Annie". H
 want wie is deze persoon dan die post ophaalt voor een Nederlandse firma die niet meer op dat adres gevestigd is.  
 
 Ik ga op een zoektocht naar wie dit kan zijn en vraag bij het handelsregister alle bedrijven op die op dit adres zitten. 
-Als ik een onderneming tegen kom met dezelfde naam als een Bond-villain moet ik toch even uitgebreid glimlachen. Maar de 
-zoektocht gaat verder en ik kom uit bij een onderneming 
+Als ik een onderneming tegen kom met dezelfde naam als een Bond-villain moet ik toch even uitgebreid glimlachen 
+(disclaimer: unrelated!). Maar de zoektocht gaat verder en ik kom uit bij een onderneming 
 {{< a_blank "IBS business" "yealink/ibs_kvk.pdf" >}}.
 Deze onderneming heeft weer een balans met de bekende probleempjes en een Chinese bestuurder. Het uittreksel uit het 
 handelsregister vermeldt ook een website adres en ik besluit het adres te bezoeken (no worries: ik heb 
@@ -112,7 +112,7 @@ ingericht. De volledige muur is een luchtfoto waarop de inmiddels beruchte konin
 
 We hebben over verschillende zaken, zowel technisch als niet-technisch, totdat ik een vraag stel welke ik al een tijdje 
 wil vragen. Ik vraag hoe het eigenlijk zit met 
-{{< a_blank "Yealink (Europe) Network Technology B.V." "https://www.kvk.nl/bestellen/#/66644755000035248602" >}}.
+{{< a_blank "Yealink (Europe) Network Technology B.V." "https://www.kvk.nl/bestellen/#/66644755000035248602" >}} in Rijswijk.
 Ik krijg het idee dat de vraag voor beide partijen dusdanig ongemakkelijk is dat ik de konikspaarden achter mij hoor draven.  
 Ik leg een lijst van vragen neer:
 - De balans net voor de meeting ziet er als volgt uit:
@@ -121,7 +121,8 @@ Hier valt op dat de B.V. geen euro activiteiten lijkt uit te voeren. Wat doet de
 - Uiteraard zie ik dezelfde zaken die we ook zagen in het vorige artikel over het
 [bedrijfseconomisch overzicht]({{< ref "bedrijfseconomisch" >}}). Deponeringen lijken er laat te gebeuren en 
 "kortlopende schulden < 1 jaar" die meerdere jaren exact gelijk blijven. Het is bijzonder te noemen dat deze consistentie 
-ook in deze jaarrekening weer terug te vinden is.  
+ook in deze jaarrekening weer terug te vinden is.
+- Is "Annie" een medewerkster van Yealink of wordt zij door Yealink betaald en welke B.V. doet deze betalingen eigenlijk?
 
 Uiteraard kan er op dat moment geen antwoord worden gegeven waarom deze B.V. nou eigenlijk is opgericht, maar men belooft 
 mij om dat op korte termijn te doen.  
@@ -171,26 +172,37 @@ dat de activiteiten zijn:
 
 {{< quote cloudemail >}}Het ontwerpen, het ontwikkelen, het produceren en het verkopen van netwerkproducten, communicatiemiddelen, electronica, hardware en software voor computers, single-chip software en gerelateerde technische ondersteuning.{{< /quote >}}
 
+We kunnen dus uit de balans opmaken dat er geen activiteiten plaatsvinden, maar dit wordt ook door Yealink bevestigd in
+bovenstaande reactie. Dit is opvallend te noemen aangezien een Nederlandse brievenbusfirma 
+"{{< a_blank "substance" "https://novio.tax/nl/news-206/article/regeling-substance-vereisten-gewijzigd-als-gevolg-van-danish-cases" >}}" 
+moet hebben. Maw: er moeten activiteiten in plaatsvinden. In 
+{{< a_blank "art. 2d van de Uitvoeringsbeschikking vennootschapsbelasting 1971" "https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2024-01-01&g=2024-01-01" >}}
+zijn twee kwantitatieve vereisten vastgelegd:
+{{< quote cloudemail >}}de belastingplichtige gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.{{< /quote >}}
+en
+{{< quote cloudemail >}}de belastingplichtige een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden in het kader van de economische activiteiten van de belastingplichtige in het licht van zijn aanmerkelijk belang in de in Nederland gevestigde vennootschap en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de belastingplichtige is gevestigd{{< /quote >}}
+
+Wat hier eigenlijk staat is dat er minimaal 100.000 euro aan loonkosten moeten worden betaald. Ik denk dat het uit de balansen
+vanaf 2017 duidelijk is dat het in elk geval vanaf dat moment niet het geval is.  
+
+Maar er staat ook dat er een kantoor moet zijn "voorzien van gebruikelijke faciliteiten voor de uitoefening van de 
+werkzaamheden". Dat dit niet het geval is zal duidelijk zijn. Ik ben namelijk ter plaatse geweest en Yealink is geen 
+actieve huurder meer. Er is dus ook geen sprake meer van beschikking tot onroerende zaak.  
+
+Yealink lijkt hier een brievenbusfirma te hebben opgezet die niet lijkt te voldoen aan de (toch al lakse) regels die 
+daarvoor staan in Nederland. Van enige handhaving of controle door het Bureau Economische Handhaving van de Belastingdienst 
+of de Kamer van Koophandel lijkt geen sprake te zijn. Zeker in deze digitale tijden zou het toch eenvoudig moeten zijn om
+te controleren of een jaarrekening op tijd is ingediend of dat een balans in balans is.  
+
+Maar ook Yealink B.V. is blijkbaar niet meer zo "tevreden" over een vestigingsadres in Rijswijk en ze verhuizen voor de 
+vierde keer sinds 2016. Dit keer verhuizen ze naar een bedrijvenverzamelgebouw aan de Keizersgracht in Amsterdam. Omdat
+ik dan toch ook wel wil weten wat er op dit adres gevestigd is bezoek ik opnieuw de website van het handelsregister. Het 
+blijkt dat er een kleine 380 bedrijven op dit adres gevestigd zijn. So far voor de "voorzien van gebruikelijke 
+faciliteiten voor de uitoefening van de werkzaamheden".  
 
 
 
 
-Opvallend, want eenvoudig om {{< a_blank "oprichtingsacte" "yealink/oprichtingsacte_yealink.PDF" >}} op te vragen uit 20xx  
-
-
-
-
-Balans blijft gelijk, dus ook geen betalingen en dat is ene probleem, want het heeft er alle schijn van dat deze
-B.V. geen "{{< a_blank "substance" "https://novio.tax/nl/news-206/article/regeling-substance-vereisten-gewijzigd-als-gevolg-van-danish-cases" >}}" heeft
-
-
-Een aantal weken nadat ik langs ga in Rijswijk is Yealink weer verdwenen uit Rijswijk en zijn ze ineens verhuist naar Amsterdam.
-In het pand waar ze "gevestigd" zijn, zijn 380 andere firma's gevestigd.
-
-Per 1 januari 2019 regelde art. 2d Uitvoeringsbeschikking vennootschapsbelasting 1971 dat (houdster)maatschappijen die een beroep doen op voordelen van een fiscale richtlijn enkel moesten voldoen aan een aantal kwantitatieve vereisten ten aanzien van de substance. De substance voorwaarden zijn (samengevat) dat de (houdster)maatschappij ten minste (i) personeelskosten heeft van EUR 100.000 en (ii) de beschikking heeft over een kantoorruimte gedurende 24 maanden.
-
-Kortlopende huur contracten  
-Geen uitbetaalde lonen  
 Fruytier Lawyer in Business  
 {{< a_blank "memo" "yealink/20230223_memo_fruytier.pdf" >}}  
 notitie lijkt nep te zijn  
@@ -200,4 +212,6 @@ Parafrasering: "Yealink (Europe) Network Technology B.V. heeft kloppende jaarstu
 
 
 
+
+Opvallend, want eenvoudig om {{< a_blank "oprichtingsacte" "yealink/oprichtingsacte_yealink.PDF" >}} op te vragen uit 20xx  
 
