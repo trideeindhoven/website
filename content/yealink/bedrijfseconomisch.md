@@ -226,4 +226,6 @@ Dit was een heel lastig artikel om te schrijven. Niet alleen omdat het zo veel i
 worden, maar ook omdat het vrij...saaie....kost is. Ik hoop dat jullie nog niet zijn afgehaakt, want door de grote hoeveelheid 
 informatie heb ik dit artikel opgesplitst. In het volgende artikel komt een delegatie van Yealink naar Nederland toe om 
 met mij te praten en kom ik er achter dat Yealink een BV op fietsafstand van mijn voordeur heeft opgericht.  
-Tijd om langs te gaan dus. En dat verhaal beschrijf ik donderdag in het volgende artikel. Tot dan!
+Tijd om langs te gaan dus. En dat verhaal beschrijf ik donderdag in het volgende artikel. Tot dan!  
+
+[Naar het volgende artikel]({{< ref "yealink_europe" >}})
