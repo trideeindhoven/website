@@ -29,18 +29,18 @@ dat bijvoorbeeld kunnen lezen in het artikel over de [open poort]({{< ref "open_
 Maar soms krijg je interessante informatie toegespeeld van mensen die meer lijken te weten. Een bron vertelt mij dat het 
 wel "interessant" zou zijn als Yealink in Nederland een B.V. opgericht zou hebben. De glimlach zegt mij voldoende en als ik
 thuiskom plaats ik meteen een zoekactie in het handelsregister. En wat schetst mijn verbazing: er bestaat een 
-{{< a_blank "Yealink (Europe) Network Technology B.V." "https://www.kvk.nl/bestellen/#/66644755000035248602" >}}. En nog 
-beter deze firma heeft een vestigingsadres in Rijswijk op fietsafstand van mijn voordeur.  
+{{< a_blank "Yealink (Europe) Network Technology B.V." "https://www.kvk.nl/bestellen/#/66644755000035248602" >}} . En nog 
+beter: deze firma heeft een vestigingsadres in Rijswijk op fietsafstand van mijn voordeur.  
 Ik vraag dan ook de eigenaar van het kantoorpand op bij het kadaster en bel hem op. Hij is zeer verbaasd over mijn vragen.
-Ik geef aan dat ik begrijp dat e.e.a. wellicht uit de lucht komt vallen en biedt hem aan om langs te komen in Rijswijk. 
+Ik geef aan dat ik begrijp dat e.e.a. wellicht uit de lucht komt vallen en bied hem aan om langs te komen in Rijswijk. 
 Op die manier heeft hij ook een gezicht bij mij en is het toch wat minder anoniem dan een telefoontje.  
 Ik stap in de auto en rij naar het pand in Rijswijk toe. Als ik aankomt blijkt het een bedrijven verzamelgebouw te zijn:
 {{< img alt="Adres Yealink Rijswijk" src="img/yealink/Yealink_Rijswijk.png" >}}  
-Ik bel aan en ik wordt binnengelaten door de vriendelijke, maar begrijpelijk voorzichtige, pandeigenaar. We hebben een redelijk
-lang gesprek aan de bar in het kantoor van zijn vastgoedfirma die ook in het pand gehuisvest zit.  
+Ik bel aan en ik word binnengelaten door de vriendelijke, maar begrijpelijk voorzichtige, pandeigenaar. We hebben een redelijk
+lang gesprek aan de bar in het kantoor van zijn vastgoedfirma die ook in het pand gehuisvest is.  
 Ik vraag hem of hij kan verklaren dat een multinational als Yealink besluit om in zijn bedrijvenverzamelgebouw een kantoor
 te huren. Hij heeft hier wel een theorie over. Hij weet dat brievenbusfirma's massaal wegtrekken van de Zuidas omdat 
-die lokatie toch wel te veel in het oog springt. Rijswijk is dan een heel interessant alternatief. En inderdaad is een vorig 
+die lokatie te veel in het oog springt. Rijswijk is dan een heel interessant alternatief. En inderdaad is een vorig 
 adres van Yealink B.V. op de Strawinskylaan in Amsterdam, strak tegen de Zuidas aan, gevestigd.  
 
 Maar zo vertelt hij: Yealink B.V. is geen huurder meer. Als ik hem vraag waarom het postadres dan nog steeds in zijn pand
@@ -51,10 +51,10 @@ want wie is deze persoon dan die post ophaalt voor een Nederlandse firma die nie
 Ik ga op een zoektocht naar wie dit kan zijn en vraag bij het handelsregister alle bedrijven op die op dit adres zitten. 
 Als ik een onderneming tegen kom met dezelfde naam als een Bond-villain moet ik toch even uitgebreid glimlachen 
 (disclaimer: unrelated!). Maar de zoektocht gaat verder en ik kom uit bij een onderneming 
-{{< a_blank "IBS business" "yealink/ibs_kvk.pdf" >}}.
+{{< a_blank "IBS business B.V." "yealink/ibs_kvk.pdf" >}}.
 Deze onderneming heeft weer een balans met de bekende probleempjes en een Chinese bestuurder. Het uittreksel uit het 
 handelsregister vermeldt ook een website adres en ik besluit het adres te bezoeken (no worries: ik heb 
-voorzorgsmaatregelen genomen). De website die ik zie staat vol met gokreclame en Aziatische porno:
+voorzorgsmaatregelen genomen). De website die ik zie staat vol met gokreclames en Aziatische porno:
 
 {{< img alt="Website IBS" src="img/yealink/ibsbv.com_2_redacted.png" >}}
 
@@ -65,7 +65,7 @@ Maar een korte zoektocht
 naar haar LinkedIn en Google laat zien dat zij inderdaad de persoon is die de praktische zaken van Yealink B.V. afhandelt
 in Rijswijk.  
 IBS B.V. is denk ik toch minder tevreden over hun website en ze besluiten om dit domein niet langer te registreren. Ik
-heb het dan ook als mijn taak gezien om dit domein naar deze serie artikelen te laten verwijzen.  
+heb het dan ook als mijn taak gezien om dit {{< a_blank "domein" "https://www.ibsbv.com" >}} naar deze serie artikelen te laten verwijzen.  
 
 Terug naar Yealink China en men begint mijn berichten toch wel belangrijk te vinden en dus krijg ik op 10 februari 2023 
 een email uit Xiamen:
@@ -93,7 +93,7 @@ kunnen boeken.
 {{< quote cloudemail >}}Actually, Yealink is 100% non-government controlled or owned company and we are listed in stock market, it’s easy to get our company background.
 Therefore, we are not able to make the connection with PCR embassy and impossible to book a meeting room over there.{{< /quote >}}
 
-Een uitspraak voor de boeken! Blijkbaar kunnen alleen door de overheids bestuurde ondernemingen een
+Een uitspraak voor de boeken! Blijkbaar kunnen alleen door de overheid bestuurde ondernemingen een
 afspraak maken in de Chinese ambassade in Nederland?  
 Ik probeer toch nog een keer om deze meeting op de juiste plek te laten plaatsvinden:
 
@@ -108,17 +108,17 @@ te laten plaatsvinden in Almere bij Lydis op kantoor. Ik maak hier een duidelijk
 
 {{< quote cloudemail >}}I think we have to keep in mind that my questions are specifically directed at Yealink. As long as we do not see meeting at Lydis Almere that Lydis is being questioned, i am fine with meeting at Lydis for the purpose of being convenient.{{< /quote >}}
 
-En dus spreken we af om op 16 februari 2023 meeting in Almere op kantoor bij Lydis de meeting te laten plaatsvinden.  
+En dus spreken we af om de meeting op 16 februari 2023 in Almere op kantoor bij Lydis te laten plaatsvinden.  
 De meeting begint met een rondleiding door het pand door een trotse directeur. We lopen langs inkoop-, verkoop- en technische
 afdelingen in het pand. Tijdens de rondleiding lopen we ook door het warehouse wat in hetzelfde pand zit. Het is duidelijk
 dat wat hier ligt voor meer dan 90% Yealink is.  
 We lopen een aantal trappen op en komen in een mooie meetingroom die geheel in het thema van de Oostvaardersplassen is 
 ingericht. De volledige muur is een luchtfoto waarop de inmiddels beruchte koninkspaarden door het landschap draven.  
 
-We hebben over verschillende zaken, zowel technisch als niet-technisch, totdat ik een vraag stel welke ik al een tijdje 
+We hebben het over verschillende zaken, zowel technisch als niet-technisch, totdat ik een vraag stel die ik al een tijdje 
 wil vragen. Ik vraag hoe het eigenlijk zit met 
 {{< a_blank "Yealink (Europe) Network Technology B.V." "https://www.kvk.nl/bestellen/#/66644755000035248602" >}} in Rijswijk.
-Ik krijg het idee dat de vraag voor beide partijen dusdanig ongemakkelijk is dat ik de konikspaarden achter mij hoor draven.  
+Ik krijg het idee dat de vraag voor beide partijen dusdanig ongemakkelijk is dat ik de koninkspaarden achter mij hoor draven.  
 Ik leg een lijst van vragen neer:
 - De balans net voor de meeting ziet er als volgt uit:
 {{< img alt="Balans 7 februari 2023" src="img/yealink/20230207_balans_yealink_bv.png" >}}  
@@ -165,8 +165,8 @@ In fact,it is an guarantee of Yealink’s after-sale service to establish the Du
 En wat schetst mijn verbazing: de balans ziet er ineens anders uit:
 {{< img alt="Balans 7 maart 2023" src="img/yealink/20230307_balans_yealink_bv.png" >}}  
 Er zijn een aantal zaken die hier ineens gewijzigd zijn:
-- Er zijn ineens twee jaarrekeningen gedeponeerd in 2020 op 16-2-2023 (de exacte dag van onze meeting in Almere!) en 2021
-op 20-23-2023. Zeker in het geval van 2020 is deze deponering dus *jaren* te laat.
+- Er zijn ineens twee jaarrekeningen gedeponeerd: 2020 op 16-2-2023 (de exacte dag van onze meeting in Almere!) en 2021
+een aantal dagen later op 20-2-2023. Zeker in het geval van 2020 is deze deponering dus *jaren* te laat.
 - Het onverdeelde verlies van een halve ton in 2019 staat ook in 2020 en 2021 op de balans....als een winst. En dus is
 de balans ineens niet meer in balans, want 300.000 + 50.650 euro is niet 249.350 euro
 - Afgezien van een verlies wat ineens een winst is ziet het er dus naar uit dat deze firma sinds 2017 geen enkele 
@@ -183,11 +183,11 @@ bovenstaande reactie. Dit is opvallend te noemen aangezien een Nederlandse briev
 moet hebben. Maw: er moeten activiteiten in plaatsvinden. In 
 {{< a_blank "art. 2d van de Uitvoeringsbeschikking vennootschapsbelasting 1971" "https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2024-01-01&g=2024-01-01" >}}
 zijn twee kwantitatieve vereisten vastgelegd:
-{{< quote cloudemail >}}de belastingplichtige gedurende een periode van ten minste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.{{< /quote >}}
+{{< quote cloudemail >}}de belastingplichtige gedurende een periode van tenminste 24 maanden een in de staat, bedoeld in onderdeel a, gelegen onroerende zaak of deel van een onroerende zaak ter beschikking heeft waarbij zich in die onroerende zaak, onderscheidenlijk dat deel, een kantoor bevindt dat is voorzien van gebruikelijke faciliteiten voor de uitoefening van de werkzaamheden, bedoeld in onderdeel g, en die werkzaamheden ook daadwerkelijk in dat kantoor worden uitgeoefend.{{< /quote >}}
 en
 {{< quote cloudemail >}}de belastingplichtige een bedrag aan loonkosten heeft dat een vergoeding vormt voor de werkzaamheden in het kader van de economische activiteiten van de belastingplichtige in het licht van zijn aanmerkelijk belang in de in Nederland gevestigde vennootschap en dat ten minste gelijk is aan € 100.000 vermenigvuldigd met de woonlandfactor die ingevolge de bijlage geldt voor de staat waarin de belastingplichtige is gevestigd{{< /quote >}}
 
-Wat hier eigenlijk staat is dat er minimaal 100.000 euro aan loonkosten moeten worden betaald. Ik denk dat het uit de balansen
+Wat hier eigenlijk staat is dat er minimaal 100.000 euro aan loonkosten moet worden betaald. Ik denk dat het uit de balansen
 vanaf 2017 duidelijk is dat het in elk geval vanaf dat moment niet het geval is.  
 
 Maar er staat ook dat er een kantoor moet zijn "voorzien van gebruikelijke faciliteiten voor de uitoefening van de 
@@ -195,18 +195,18 @@ werkzaamheden". Dat dit niet het geval is zal duidelijk zijn. Ik ben namelijk te
 actieve huurder meer. Er is dus ook geen sprake meer van beschikking tot onroerende zaak.  
 
 Yealink lijkt hier een brievenbusfirma te hebben opgezet die niet lijkt te voldoen aan de (toch al lakse) regels die 
-daarvoor staan in Nederland. Van enige handhaving of controle door het Bureau Economische Handhaving van de Belastingdienst 
+daarvoor bestaan in Nederland. Van enige handhaving of controle door het Bureau Economische Handhaving van de Belastingdienst 
 of de Kamer van Koophandel lijkt geen sprake te zijn. Zeker in deze digitale tijden zou het toch eenvoudig moeten zijn om
 te controleren of een jaarrekening op tijd is ingediend of dat een balans in balans is.  
 
 Maar ook Yealink B.V. is blijkbaar niet meer zo "tevreden" over een vestigingsadres in Rijswijk en ze verhuizen voor de 
 vierde keer sinds 2016. Dit keer verhuizen ze naar een bedrijvenverzamelgebouw aan de Keizersgracht in Amsterdam. Omdat
 ik dan toch ook wel wil weten wat er op dit adres gevestigd is bezoek ik opnieuw de website van het handelsregister. Het 
-blijkt dat er een kleine 380 bedrijven op dit adres gevestigd zijn. Tot zo ver voor de "voorzien van gebruikelijke 
+blijkt dat er een kleine 380 bedrijven op dit adres gevestigd zijn. Tot zover voor de "voorzien van gebruikelijke 
 faciliteiten voor de uitoefening van de werkzaamheden".  
 
-Maar: zoals eerder vermeldt in de email van Yealink China aan mij zou er een "lawyer's investigation report" komen. 
-Hierbij werd meerdere malen vermeldt dat het om een "lawyer" ging en inderdaad. Op 23 februari 2023 ontvang ik een 
+Maar: zoals eerder vermeld in de email van Yealink China aan mij zou er een "lawyer's investigation report" komen. 
+Hierbij werd meerdere malen vermeld dat het om een "lawyer" ging en inderdaad. Op 23 februari 2023 ontvang ik een 
 {{< a_blank "memo" "yealink/20230223_memo_fruytier.pdf" >}}
 van "Fruytier Lawyers in Business". Ik heb in deze memo de naam en handtekening van de opsteller weggelaten om schade aan
 deze persoon te voorkomen.  
@@ -217,7 +217,7 @@ aan Yealink gericht moeten worden.
 
 Laten we dan maar eens grondig naar dit document kijken. Allereerst de opsteller: is deze persoon eigenlijk wel een 
 "lawyer". Een eenvoudige zoektocht op de {{< a_blank "website van Fruytier" "https://www.flib.nl" >}} laat zien dat
-de opsteller helemaal geen advocaat is. Nu moet ik er bij zeggen dat hij zit zelf niet heeft beweerd, maar ik zie hier
+de opsteller helemaal geen advocaat is. Nu moet ik er bij zeggen dat hij dit zelf niet heeft beweerd, maar ik zie hier
 maar twee opties:
 - Fruytier heeft dit wel zo aan Yealink gecommuniceerd, of
 - Yealink was hier wel van op de hoogte maar heeft dit incorrect aan mij gecommuniceerd.  
@@ -231,7 +231,7 @@ degelijk een actief huurcontract. My bad... ik zal het wel verkeerd gehoord hebb
 "The Company has requested services to pick up the e-mail". Ik denk dat alle email dus uitgeprint wordt? Bijzonder, maar 
 ik zal niet twijfelen aan dit grondige "lawyer's investigation report".  
 
-"The Company has filed all its annual accounts for which the filing due date has come up.". Dat is een feitelijk waarheid
+"The Company has filed all its annual accounts for which the filing due date has come up.". Dat is een feitelijke waarheid
 en was natuurlijk ook niet mijn vraag. Dat deze documenten gedeponeerd zijn is niet betwist, maar het is *jaren* te laat
 gebeurd en dan ook nog eens met een balans die niet in balans is.  
 
@@ -243,8 +243,8 @@ In de {{< a_blank "oprichtingsacte" "yealink/oprichtingsacte_yealink.PDF" >}} va
 opgenomen:
 {{< quote cloudemail >}}De aandelen zullen binnen twee (2) jaar na de oprichting van de vennootschap worden volgestort, of op een latere datum op verzoek van de vennootschap.{{< /quote >}}
 
-Dit is voor mij dus niet te controleren of dit verzoek is gebeurd en daarom kan ik hier alleen maar rapporteren wat er in
-het handelsregister te vinden is.  
+Dit is voor mij dus niet te controleren of dit verzoek heeft plaatsgevonden en daarom kan ik hier alleen maar 
+rapporteren wat er in het handelsregister te vinden is.  
 
 Dit was weer een langer artikel over de jaarrekeningen, brievenbusfirma's en belastingregels. Ik weet dat een groot deel
 van het publiek toch ook technische zaken wil zien. En daarom zal het artikel van volgende week dinsdag weer over een 
