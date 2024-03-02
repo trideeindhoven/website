@@ -141,16 +141,59 @@
     <h1 class="title text-5xl mb-4">Firmware</h1>
     <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>test123</p>
 <h1 id="unpack">Unpack</h1>
-<p>Eenvoudig om firmware uit te pakken
-Uitleggen hoe uitpakken werkte
-Carrier providercodes in te zien
+<p>Eenvoudig om firmware uit te pakken</p>
+<p>
+<a target="_blank" href="https://www.synacktiv.com/en/publications/no-grave-but-the-sip-reversing-a-voip-phone-firmware">reversing firmware</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20231101233259/https://www.synacktiv.com/en/publications/no-grave-but-the-sip-reversing-a-voip-phone-firmware">mirror</a> <i class="fa fa-external-link"></i>
+</p>
+<p>Uitleggen hoe uitpakken werkte
+YAFFS filesystem</p>
+<ul>
+<li>alleen eerste 512 bytes van de headers van het filesystem versleuteld.</li>
+<li>&ldquo;File content is contained in cleartext blocks&rdquo;</li>
+<li>&ldquo;The firmware is not signed&rdquo;</li>
+<li>&ldquo;The custom encryption scheme of the upgrade file is very weak, and the new ones are all using the same shared AES key in ECB mode.&rdquo;
+AES ECB waar hebben we dat eerder gezien?
+<a href="https://trideeindhoven.github.io/website/yealink/versleuteling/">versleuteling</a></li>
+</ul>
+<p>Carrier providercodes in te zien
 Vertalingen in te zien.</p>
-<p>Reactie &ldquo;unpacking&rdquo; brief
-&quot;&quot;
-Lydis 
+<p>188 firmware
+NL firmware loopt achter en dat doen ze voor compatibiliteit. Security is hier van ondergeschikt belang.</p>
+<p>1-12-2022:
+&ldquo;Who produces the &ldquo;188&rdquo; Dutch Lydis firmware? Is this Lydis or Yealink? Can you elaborate on the release procedure of this special firmware?&rdquo;</p>
+<p>20-1-2023:
+[Answer]: Yealink produces the 188 Dutch firmware which based on the latest international firmware with customer’s customization items, like Dutch language and etc.</p>
+<h1 id="reactie-yealink">Reactie Yealink</h1>
+<p>Yealink geeft een reactie
+
+<a target="_blank" href="https://portal.lydis.com/download/yealink/gz_new_fw/YEALINK_IP_PHONE_SECURITY_ISSUE_APR2023.PDF">Yealink</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240302220402/https://portal.lydis.com/download/yealink/gz_new_fw/YEALINK_IP_PHONE_SECURITY_ISSUE_APR2023.PDF">mirror</a> <i class="fa fa-external-link"></i>
+
+
+<blockquote class="cloudemail">
+The Yealink genetic firmware don’t have customized URL information preset, but Lydis customized firmware is affected because it has auto provisioning code.
+</blockquote>
+
+en
+&ldquo;Change the AutoProvision URL/username/password&rdquo;</p>
+<p>Reactie &ldquo;unpacking&rdquo; brief Lydis<br>
+
 <a target="_blank" href="https://trideeindhoven.github.io/website/yealink/Mailing_Lydis_Klanten_260423.pdf">mailing</a> <i class="fa fa-external-link"></i>
  in april 2023</p>
-<h1 id="reactie-yealink">Reactie Yealink</h1>
+<p>
+<blockquote class="cloudquote">
+Beste “contactpersoon”
+</blockquote>
+
+Die aanhef geeft alvast &ldquo;vertrouwen&rdquo; in dit document.</p>
+<p>&ldquo;ondanks dat we vanuit de Benelux nog geen berichten
+ontvangen hebben, maar omdat het in theorie een security issue is.&rdquo;</p>
+<p>Er zijn wel berichten vanuit de BeNeLux en wel van mij. En het is niet in theorie een security issue, maar ik heb de provider codes uit de firmware gehaald.</p>
 <p>Achteraf aanpassen van firmwares, soms wel 7 jaar na EOL</p>
 <p>
 <a target="_blank" href="https://support.yealink.com/en/portal/docList?archiveType=software&amp;productCode=85585442c3aeb1fb">mailing</a> <i class="fa fa-external-link"></i>
@@ -182,8 +225,17 @@ Lijst met open source software (incompleet)
 
 <a target="_blank" href="https://trideeindhoven.github.io/website/yealink/Offer%20Source%20of%20Open%20Source%20Software.pdf">mirror</a> <i class="fa fa-external-link"></i>
 </p>
-<p>188 firmware
-NL firmware loopt achter en dat doen ze voor compatibiliteit. Security is hier van ondergeschikt belang.</p>
+<p>14-3-2023
+Geachte heer Heide, Beste Cor,</p>
+<p>Nog even wat aanvullende informatie:
+Als ik voor &ldquo;Lydis&rdquo; mac adressen gegevens opvraag aan YMCS via de API, dan krijg ik de volgende gegevens terug:</p>
+<pre><code>    &quot;resellerId&quot;: &quot;306&quot;,
+    &quot;resellerName&quot;: &quot;Lydis <font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font>&quot;,
+</code></pre>
+<p>Uiteraard niets illegaals oid, maar ik neem aan dat het niet de bedoeling is dat je persoonlijk genoemd wordt in de API van Yealink?</p>
+<p>Diezelfde dag:</p>
+<p>Ok ,ik schrik hier van,ga er aan werken</p>
+<p>Bedankt</p>
 <p>Ook EULA (link naar ander artikel?)</p></div>
   </div>
 </div>

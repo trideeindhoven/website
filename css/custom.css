@@ -65,6 +65,13 @@ blockquote p::before {
   background:#EDEDED;
 }
 
+@media only screen and (max-width: 480px) {
+  .cloudquote {
+    width: 100%;
+    font-size: 1.0em;
+  }
+}
+
 .cloudquote::before{
   font-family:Arial;
   content: "\201C";
