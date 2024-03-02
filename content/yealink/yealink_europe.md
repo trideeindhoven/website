@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Yealink (Europe) Network Technology B.V."
-date = "2024-02-18"
+date = "2024-02-23"
 description = "Yealink (Europe) Network Technology B.V."
 tags = [
     "Lydis", "Rijswijk", "Yealink"

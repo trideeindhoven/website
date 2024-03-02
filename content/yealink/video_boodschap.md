@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Videoboodschap"
-date = "2024-02-12"
+date = "2024-02-17"
 description = "Videoboodschap"
 tags = [
     "videoboodschap", "Lydis", "Yealink"

@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Bedrijfseconomisch overzicht"
-date = "2024-02-17"
+date = "2024-02-22"
 description = "Bedrijfseconomisch overzicht"
 tags = [
     "bedrijven", "meehelpen", "Lydis", "Econocom", "Yealink"

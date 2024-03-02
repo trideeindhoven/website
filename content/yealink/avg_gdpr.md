@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "AVG / GDPR"
-date = "2024-02-16"
+date = "2024-02-21"
 description = "AVG / GDPR"
 tags = [
     "AVG", "GDPR", "Lydis", "Yealink"

@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Duurzaamheid"
-date = "2024-02-19"
+date = "2024-02-25"
 description = "Duurzaamheid"
 tags = [
     "duurzaamheid", "meehelpen", "Lydis", "Yealink"

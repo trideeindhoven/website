@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Historische staat van beveiliging"
-date = "2024-02-21"
+date = "2024-02-27"
 description = "Historische staat van beveiliging"
 tags = [
     "historisch", "beveiliging", "lekken", "CVE", "Lydis", "Yealink"

@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Publicatie"
-date = "2024-02-24"
+date = "2024-03-01"
 description = "Publicatie"
 tags = [
     "Publicatie", "Lydis", "Yealink", "Follow The Money", "FTM"
