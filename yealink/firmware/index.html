@@ -139,29 +139,183 @@
 <div class="mx-auto my-10 max-w-6xl">
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
     <h1 class="title text-5xl mb-4">Firmware</h1>
-    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>test123</p>
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>In april 2023 brengt zowel Lydis als Yealink een redelijk cryptische memo naar buiten. Het is niet eenvoudig in te zien
+wat de strekking van deze memo is, maar wat op dat moment nog niemand weet ben ik de oorzaak van deze memo en een direct
+gevolg van mijn samenwerking met Yealink en Lydis.</p>
+<p>I have added international translations of the articles using google translate:</p>
+<p><a href="https://cloudaware-eu.translate.goog/yealink/firmware/?_x_tr_sl=nl&amp;_x_tr_tl=en&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/united-kingdom-flag-icon.svg" alt="EN" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a>
+<a href="https://cloudaware-eu.translate.goog/yealink/firmware/?_x_tr_sl=nl&amp;_x_tr_tl=de&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/germany-flag-icon.svg" alt="DE" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a>
+<a href="https://cloudaware-eu.translate.goog/yealink/firmware/?_x_tr_sl=nl&amp;_x_tr_tl=fr&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/france-flag-icon.svg" alt="FR" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a></p>
 <h1 id="unpack">Unpack</h1>
-<p>Eenvoudig om firmware uit te pakken</p>
-<p>
+<p>Laten we voorop stellen dat ik een redelijk matige reverse engineer ben, maar het was ook voor mij kinderlijk eenvoudig
+om de &ldquo;versleutelde&rdquo; firmware van Yealink en Lydis uit te lezen. De reden hierachter was dat iemand al het lastige werk
+voor mij gedaan had.</p>
+<p>In augustus 2019 had Tristan Pourcelot namelijk een fantastisch artikel geschreven over
+
 <a target="_blank" href="https://www.synacktiv.com/en/publications/no-grave-but-the-sip-reversing-a-voip-phone-firmware">reversing firmware</a> <i class="fa fa-external-link"></i>
 
 
 <a target="_blank" href="https://web.archive.org/web/20231101233259/https://www.synacktiv.com/en/publications/no-grave-but-the-sip-reversing-a-voip-phone-firmware">mirror</a> <i class="fa fa-external-link"></i>
-</p>
-<p>Uitleggen hoe uitpakken werkte
-YAFFS filesystem</p>
+
+van de firmware van Yealink.<br>
+En niet alleen had hij een artikel hierover geschreven, hij had ook een GitHub repository gemaakt met de software die
+hij hiervoor gemaakt had. Jaren later in 2022 krijg ik dit artikel onder ogen en kan ik de firmware van Yealink en
+Lydis eenvoudig uitlezen.</p>
+<p>De manier waarop de firmware &ldquo;beveiligd&rdquo; is leunt sterk op het principe van &ldquo;security through obscurity&rdquo;. Yealink heeft
+een eigen beveiliging verzonnen die niet bij het grote publiek bekend is. Maar voor Tristan is het meteen duidelijk
+hoe deze firmware uitgelezen moet worden.<br>
+In het kort werkt de &ldquo;beveiliging&rdquo; als volgt:</p>
 <ul>
-<li>alleen eerste 512 bytes van de headers van het filesystem versleuteld.</li>
-<li>&ldquo;File content is contained in cleartext blocks&rdquo;</li>
-<li>&ldquo;The firmware is not signed&rdquo;</li>
-<li>&ldquo;The custom encryption scheme of the upgrade file is very weak, and the new ones are all using the same shared AES key in ECB mode.&rdquo;
-AES ECB waar hebben we dat eerder gezien?
-<a href="https://trideeindhoven.github.io/website/yealink/versleuteling/">versleuteling</a></li>
+<li>In de .rom file zitten meerdere filesystems aan elkaar geplakt.</li>
+<li>De eerste 512 bytes van de filesystem headers zijn versleuteld.</li>
+<li>Het filesystem zelf is niet versleuteld en is in cleartext blocks aanwezigin het .rom bestand. Ik weet niet waarom
+hier voor gekozen is, maar ik neem aan dat de SoC in de apparatuur niet krachtig genoeg is om het volledige filesystem
+tijdens het booten te decrypten.</li>
+<li>De firmware is niet ondertekend (signed), waardoor het vaststellen van de integriteit&hellip;lastig is.</li>
+<li>De gebruikte versleuteling is AES-ECB. Waar hebben we dat ook weer eerder <a href="https://trideeindhoven.github.io/website/yealink/versleuteling/">gezien</a></li>
 </ul>
-<p>Carrier providercodes in te zien
+<p>Yealink brengt hier zelfs een memo over uit waar ik later op terugkom. In deze memo staat:
+
+<blockquote class="cloudquote">
+Lydis customized firmware is affected
+</blockquote>
+</p>
+<p>&hellip;Lydis customized firmware&hellip; laten we daar even op inzoomen!</p>
+<h1 id="188-firmware">&ldquo;188&rdquo; firmware</h1>
+<p>Het schrijven van een samenhangend verhaal over de findings in dit onderzoek is een aardige opgave. Er is zo veel
+informatie, tijdlijnen moeten worden nagezocht en laten we niet vergeten hoe belangrijk het is om informatie te
+controlen op waarheid. We hebben dat in een eerder artikel ook al gezien.<br>
+En dat is ook voor dit artikel niet anders. En ik denk op dit punt in het verhaal is het goed om het over de &ldquo;188&rdquo; firmware te hebben.</p>
+<p>Yealink maakt regelmatig nieuwe
+
+<a target="_blank" href="https://support.yealink.com/en/portal/docDetail?documentCode=105f1c68a5a54ee4">firmware</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240303161233/https://support-cdn.yealink.com/attachment/temp/20221108/24527720-098f-47a8-9513-edc14dd4dd1f.pdf?v=1667909984814">mirror</a> <i class="fa fa-external-link"></i>
+
+voor hun apparatuur. Wat hier b.v. opvalt is de firmwareversie in het formaat x.y.0.z.<br>
+Hierbij is:</p>
+<ul>
+<li>x: het apparaat type</li>
+<li>y: de &ldquo;major&rdquo; versie</li>
+<li>&ldquo;0&rdquo;: dit is een Yealink internationale versie</li>
+<li>z: het patch niveau</li>
+</ul>
+<p>Als we naar de
+
+<a target="_blank" href="https://portal.lydis.com/download/yealink/Latest_Yealink_Firmware.zip">Nederlandse firmware</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240302151931/https://portal.lydis.com/download/yealink/Latest_Yealink_Firmware.zip">mirror</a> <i class="fa fa-external-link"></i>
+
+kijken dan zien we dat dit derde getal altijd, voor alle apparatuur, &ldquo;188&rdquo; is. De &ldquo;188&rdquo; firmware wordt alleen door Lydis
+verkocht. Dus als een grote distributeur als Atis of Businesscom een Yealink apparaat verkoopt in Nederland, dan komt dit apparaat van
+Lydis af met de &ldquo;188&rdquo; firmware.</p>
+<p>Als we nu voor device &ldquo;146&rdquo; (DECT W70B) gaan kijken, dan zien we dat 
+<a target="_blank" href="https://support.yealink.com/en/portal/docDetail?documentCode=105f1c68a5a54ee4">Yealink</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240303161233/https://support-cdn.yealink.com/attachment/temp/20221108/24527720-098f-47a8-9513-edc14dd4dd1f.pdf?v=1667909984814">mirror</a> <i class="fa fa-external-link"></i>
+
+op major versie 85 zit en op patchniveau 40.<br>
+Als we nu in de Nederlandse firmware kijken, dan zien we voor dit device firmware: 146.85.188.8. Het patchniveau is dus
+32 ouder.</p>
+<p>En nu hoor ik de oplettende lezer denken: nou en? En dat is een terechte èn belangrijke vraag. Want het is duidelijk
+dat de firmware versie die Lydis verkoopt in de BeNeLux ouder is dan de versie die alle andere landen ter wereld krijgen.
+Het is eenvoudig om te bepalen of dit een probleem is of niet en dus zoek ik voor dit apparaat een
+
+<a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2019-14656">CVE</a> <i class="fa fa-external-link"></i>
+ er bij met een klinkende
+
+<a target="_blank" href="https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System">CVSS</a> <i class="fa fa-external-link"></i>
+
+van 8.8 (&ldquo;do not
+properly check user roles in POST requests&rdquo;). De CVE is van augustus 2019 en er wordt gesproken over een
+
+<a target="_blank" href="https://sway.cloud.microsoft/3pCb559LYVuT0eig">0-day exploit</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240303162154/https://sway.cloud.microsoft/3pCb559LYVuT0eig">mirror</a> <i class="fa fa-external-link"></i>
+
+in juli 2019. Dat is op het moment van schrijven (maart 2024) dus al bijna 5 jaar geleden.<br>
+Yealink geeft in hun
+
+<a target="_blank" href="https://www.yealink.com/en/trust-center/security-advisories/cve-2019-14656-yealink-phone-privilege-escalation-vulnerabilities">eigen advisory</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240303160528/https://www.yealink.com/en/trust-center/security-advisories/cve-2019-14656-yealink-phone-privilege-escalation-vulnerabilities">mirror</a> <i class="fa fa-external-link"></i>
+
+aan dat dit gerepareerd is in 146.85.0.35<br>
+Yealink laat de releasedates van hun firmware versies niet online staan, dus dit is niet meer te controleren wanneer dit
+is geweest. Aangezien patchlevel 25 in februari 2022 is uitgekomen, moet het daarna zijn.<br>
+Dit betekent we kunnen hieruit dus het volgende concluderen:</p>
+<ul>
+<li>Klanten buiten de BeNeLux krijgen een patch voor een 0-day waar Yealink zelf en advisory voor heeft gemaakt pas na
+jaren aangeboden</li>
+<li>Klanten in de BeNeLux krijgen hun firmware exclusief in de &ldquo;188&rdquo; versie van Lydis</li>
+<li>In bovenstaand voorbeeld is uit het patchniveau af te leiden dat de klanten van Lydis nog steeds geen patch hebben
+voor de CVSS van 8.8</li>
+</ul>
+<p>Uiteraard heb ik ook aan Lydis gevraagd of het klopt dat hun firmware achter loopt op de internationale versie. Tijdens
+een interview met de technisch directeur van Lydis geeft hij aan dat dit komt:
+
+<blockquote class="cloudquote">
+Zo houden we rust in de markt he. Omdat we veel carrier klanten hebben, die willen niet elke maand een nieuwe update willen ontvangen en die testen doorlopen. Nu kunnen we zelf min of meer bepalen wanneer we een grote update uitbrengen gebaseerd op de internationale versie en normaliter lopen we daar een aantal weken op achter omdat ze die nieuwe versie moeten maken. Maar we kunnen zelf beslissen naar carrier klanten moet je wel updaten of moet je niet updaten
+</blockquote>
+ (evidence-code: 2301171230)</p>
+<p>Hiet geeft Lydis dus duidelijk aan dat de &ldquo;188&rdquo; firmware een ander release schema heeft dan de &ldquo;0&rdquo; internationale
+firmware. Tijdens het interview geeft de technisch directeur van Lydis aan dat als er &ldquo;dringende&rdquo; zaken zijn, dat er
+dan sneller een release kan plaatsvinden. Maar bovenstaande uiteenzetting van versienummers en datum laat zien dat
+het er alle schijn van heeft dat die policy niet effectief is in het voorkomen van security problemen.<br>
+De prioriteit ligt duidelijk op compatibiliteit en certificering van platformen zoals Teams en 3CX, en veel minder op
+security.</p>
+<p>Even terug naar de firmware die ik heb kunnen inzien. Yealink gaf hierover zelf aan dat het voor de internationale
+firmware niet zo&rsquo;n groot probleem was, maar dat de &ldquo;Lydis customized firmware is affected&rdquo;. Hoe komt dit nou eigenlijk?</p>
+<p>Een van de belangrijke sellingpoints van de &ldquo;188&rdquo; firmware is de Nederlandse vertaling die Lydis voor Yealink heeft
+gemaakt. Op moment dat ik in Duitsland een telefoon koop van Yealink, dan kan ik hier geen Nederlandse taal selecteren.<br>
+Doordat ik nu de firmware van Lydis heb kunnen inzien heb ik ook inzage in het Nederlands taalbestand van Lydis. Ik kan
+mij voorstellen dat Lydis dit als een handelsgeheim beschouwd.</p>
+<p>Maar een ander geheim in de &ldquo;188&rdquo; firmware zijn de provider codes. Als ik in de lijst van providercodes kijk, dan zie
+ik klinkende namen staan:</p>
+<ul>
+<li>Lydis</li>
+<li>KPN</li>
+<li>Lanlogic</li>
+<li>SIP-NL</li>
+<li>VoipIT</li>
+<li>KPN EEN</li>
+<li>HIP Express Office</li>
+<li>Telfort Zakelijk</li>
+<li>Dean Connect (hulde heren voor de provisioning url!)</li>
+<li>Massxess IPCCC</li>
+<li>Esprittelecom Direct</li>
+<li>CBizz</li>
+<li>Tele2</li>
+<li>Telfort</li>
+<li>Proximus</li>
+<li>BellQ</li>
+<li>Mijnconfig</li>
+<li>StormKPN</li>
+<li>VofafoneOne</li>
+</ul>
+<p>Hoe</p>
+<pre tabindex="0"><code>[ autoprovision1 ]
+Name = Lydis
+code = #*188#
+server_address = https://lydisprovisioning.nl
+user = supersecret
+password = TmljZSB0cnksIG1hYXIgbmVlLg==
+AES = T29rIGhpZXIgbmlldHMgdGUgemllbg==
+MAC_AES = RG9vcmxvcGVuIGF1Yg==
+</code></pre><p>Carrier providercodes in te zien
 Vertalingen in te zien.</p>
-<p>188 firmware
-NL firmware loopt achter en dat doen ze voor compatibiliteit. Security is hier van ondergeschikt belang.</p>
+<p>&ldquo;level&rdquo; vertaald als &ldquo;nivo&rdquo;
+&ldquo;Call Push&rdquo; vertaald als &ldquo;Push
+&ldquo;Invalid Common AES Key!&rdquo; &ldquo;Ongeldige Standaard AES toets!&rdquo;
+<a href="https://taaladvies.net/buro-of-bureau-nivo-of-niveau-kado-of-cadeau/">https://taaladvies.net/buro-of-bureau-nivo-of-niveau-kado-of-cadeau/</a></p>
 <p>1-12-2022:
 &ldquo;Who produces the &ldquo;188&rdquo; Dutch Lydis firmware? Is this Lydis or Yealink? Can you elaborate on the release procedure of this special firmware?&rdquo;</p>
 <p>20-1-2023:
@@ -181,6 +335,7 @@ The Yealink genetic firmware don’t have customized URL information preset, but
 
 en
 &ldquo;Change the AutoProvision URL/username/password&rdquo;</p>
+<h1 id="reactie-lydis">Reactie Lydis</h1>
 <p>Reactie &ldquo;unpacking&rdquo; brief Lydis<br>
 
 <a target="_blank" href="https://trideeindhoven.github.io/website/yealink/Mailing_Lydis_Klanten_260423.pdf">mailing</a> <i class="fa fa-external-link"></i>
@@ -194,6 +349,18 @@ Die aanhef geeft alvast &ldquo;vertrouwen&rdquo; in dit document.</p>
 <p>&ldquo;ondanks dat we vanuit de Benelux nog geen berichten
 ontvangen hebben, maar omdat het in theorie een security issue is.&rdquo;</p>
 <p>Er zijn wel berichten vanuit de BeNeLux en wel van mij. En het is niet in theorie een security issue, maar ik heb de provider codes uit de firmware gehaald.</p>
+<p>Uit de 
+<a target="_blank" href="https://www.lydis.nl/over-ons/yealink-security-faq">Lydis security FAQ</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240226235252/https://www.lydis.nl/over-ons/yealink-security-faq">mirror</a> <i class="fa fa-external-link"></i>
+
+:
+&ldquo;Waar kan ik zien welke kwetsbaarheden er gevonden zijn in de beveiliging van Yealink producten?&rdquo;
+&ldquo;Yealink scoort positief op cvedetails.com&rdquo;</p>
+<p><a href="https://www.cvedetails.com/cve/CVE-2021-27561/">https://www.cvedetails.com/cve/CVE-2021-27561/</a>
+&ldquo;unauthenticated remote code execution.&rdquo;
+&ldquo;Probability of exploitation activity in the next 30 days: 97.42%&rdquo;</p>
 <p>Achteraf aanpassen van firmwares, soms wel 7 jaar na EOL</p>
 <p>
 <a target="_blank" href="https://support.yealink.com/en/portal/docList?archiveType=software&amp;productCode=85585442c3aeb1fb">mailing</a> <i class="fa fa-external-link"></i>
@@ -225,6 +392,14 @@ Lijst met open source software (incompleet)
 
 <a target="_blank" href="https://trideeindhoven.github.io/website/yealink/Offer%20Source%20of%20Open%20Source%20Software.pdf">mirror</a> <i class="fa fa-external-link"></i>
 </p>
+<p>Uit de 
+<a target="_blank" href="https://www.lydis.nl/over-ons/yealink-security-faq">Lydis security FAQ</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240226235252/https://www.lydis.nl/over-ons/yealink-security-faq">mirror</a> <i class="fa fa-external-link"></i>
+
+&ldquo;Waarom bevat de Yealink software open source software?
+Yealink heeft haar eigen software heeft geschreven voor de open source modules. Deze software zorgt ervoor dat de veiligheid van het complete product gegarandeerd is.&rdquo;</p>
 <p>14-3-2023
 Geachte heer Heide, Beste Cor,</p>
 <p>Nog even wat aanvullende informatie:
