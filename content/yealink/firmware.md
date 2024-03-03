@@ -104,7 +104,7 @@ Uiteraard heb ik ook aan Lydis gevraagd of het klopt dat hun firmware achter loo
 een interview met de technisch directeur van Lydis geeft hij aan dat dit komt:
 {{< quote cloudquote >}}Zo houden we rust in de markt he. Omdat we veel carrier klanten hebben, die willen niet elke maand een nieuwe update willen ontvangen en die testen doorlopen. Nu kunnen we zelf min of meer bepalen wanneer we een grote update uitbrengen gebaseerd op de internationale versie en normaliter lopen we daar een aantal weken op achter omdat ze die nieuwe versie moeten maken. Maar we kunnen zelf beslissen naar carrier klanten moet je wel updaten of moet je niet updaten{{< /quote >}} (evidence-code: 2301171230)
 
-Hiet geeft Lydis dus duidelijk aan dat de "188" firmware een ander release schema heeft dan de "0" internationale 
+Hier geeft Lydis dus duidelijk aan dat de "188" firmware een ander release schema heeft dan de "0" internationale 
 firmware. Tijdens het interview geeft de technisch directeur van Lydis aan dat als er "dringende" zaken zijn, dat er 
 dan sneller een release kan plaatsvinden. Maar bovenstaande uiteenzetting van versienummers en datum laat zien dat
 het er alle schijn van heeft dat die policy niet effectief is in het voorkomen van security problemen.  
@@ -139,12 +139,24 @@ ik klinkende namen staan:
 - BellQ
 - Mijnconfig
 - StormKPN
-- VofafoneOne  
+- VofafoneOne (sic)  
 
+Dat klinkt in elk geval als een lijst van belangrijke partijen in Nederland en Belgie. Maar welke informatie staat er nu
+daadwerkelijk zichtbaar in de firmware? Bestudering van het bestand autop_code.cfg levert de volgende data op:
+- provisioning urls
+- gebruikersnamen en wachtwoorden
+- (base64 geëncode) AES sleutels voor de common en MAC specifieke configuratie
 
-Hoe  
+Goede beveiliging zal nooit op een enkele beveiligingslaag vertrouwen. Maar op deze manier worden er wel een aantal 
+belangrijke lagen van beveiliging weggepeld. Nu ben ik iemand die dit netjes aan Lydis en Yealink heeft gemeld (vandaar 
+de memo die naar grote klanten is uitgestuurd), maar het is natuurlijk niet bekend wie verder nog deze informatie in 
+handen heeft gekregen. Dit leidt dan ook tot zeer ernstige beveiligingsvraagstukken voor enorm grote groepen gebruikers
+bij de grote carriers in Nederland en België.  
+
+Maar hoe ziet de configuratie er dan uit? Ik heb een voorbeeld genomen van een van de providercodes (Lydis, 188):
+
 ``` 
-[ autoprovision1 ]
+  [ autoprovision1 ]
 Name = Lydis
 code = #*188#
 server_address = https://lydisprovisioning.nl
@@ -153,113 +165,114 @@ password = TmljZSB0cnksIG1hYXIgbmVlLg==
 AES = T29rIGhpZXIgbmlldHMgdGUgemllbg==
 MAC_AES = RG9vcmxvcGVuIGF1Yg==
 ```
+Het moge duidelijk zijn dat deze gegevens in handen van de verkeerde mensen de beveiliging en privacy van zeer grote 
+groepen klanten van partijen als KPN, Vodafone en Proximus in gevaar brengen.  
+Maar wat ook opvalt is dat er verschillende providercodes zijn zonder een AES sleutel. Dat betekent dat het document
+niet versleuteld wordt met de methode zoals deze in het artikel over de [versleuteling]({{< ref "versleuteling" >}}) is
+beschreven. Deze extra laag van beveiliging lijkt hier dan ook volledig te ontbreken.  
+Ook zijn er enkele providers welke zelfs geen gebruikersnaam en wachtwoord hebben gebruikt voor hun provisioning. Ik
+kan alleen maar gissen naar de beweegredenen om deze extra laag beveiliging niet te gebruiken.  
 
+Als ik de firmware verder bestudeer zie ik ook het Nederlandse taalbestand staan wat de Lydis "188" firmware zo belangrijk
+maakt in de BeNeLux. Helaas is het niveau van de vertaling bijzonder laag. Een aantal voorbeelden uit het (grote) 
+taalbestand:
+- Het Engelse "level" wordt vertaald als "nivo" vertaald. Nu vroeg ik mij meteen af if dit wellicht een toegestane 
+schrijfwijze is. Maar een korte zoektocht bij Van Dale en 
+{{< a_blank "andere sites" "https://taaladvies.net/buro-of-bureau-nivo-of-niveau-kado-of-cadeau/" >}}
+laat duidelijk zien dat dit geen correct Nederlands is.
+- Maar dan zie ik ook dat er verschillende Engelse termen niet vertaald zijn. Denk hierbij aan "Call Push" wat vertaald 
+wordt als "Push". En dit keer hoef ik niet op te zoeken of dit een correct Nederlands woord is.
+- Maar het kan nog erger. De Nederlandse vertaling van "Invalid Common AES Key!" lijkt wel geautomatiseerd door een 
+computer gedaan. De vertaling is namelijk: "Ongeldige Standaard AES toets!". Hier is duidelijk dat de vertaling niet is
+gemaakt door iemand die het Nederlands machtig is en waarschijnlijk een google-translate vertaling is.
 
-Carrier providercodes in te zien
-Vertalingen in te zien.
+De matige kwaliteit van de vertaling is extra zuur aangezien hier per telefoon extra voor betaald moet worden. Ik heb 
+zelf een tijd lang telefoons uit Oostenrijk geïmporteerd. Deze telefoons hadden een (meer up-to-date) internationale 
+firmware en ik laadde hier zelf een Nederlands taalpakket in. Deze constructie kostte (zelfs met verzendkosten in kleine 
+hoeveelheden) minder dan "Nederlandse" telefoons bij Lydis inkopen.  
 
-"level" vertaald als "nivo"
-"Call Push" vertaald als "Push
-"Invalid Common AES Key!" "Ongeldige Standaard AES toets!"
-https://taaladvies.net/buro-of-bureau-nivo-of-niveau-kado-of-cadeau/
+Tijd om vragen te gaan stellen dus. In december 2022 stel ik de eerste vragen over de "188" firmware aan Yealink:
 
-
-1-12-2022:
-"Who produces the "188" Dutch Lydis firmware? Is this Lydis or Yealink? Can you elaborate on the release procedure of this special firmware?"
+{{< quote cloud >}}Who produces the "188" Dutch Lydis firmware? Is this Lydis or Yealink? Can you elaborate on the release procedure of this special firmware?{{< /quote >}}
  
-20-1-2023:
-[Answer]: Yealink produces the 188 Dutch firmware which based on the latest international firmware with customer’s customization items, like Dutch language and etc.
+Pas eind januari krijg ik antwoord van Yealink
+{{< quote cloudemail >}}Yealink produces the 188 Dutch firmware which based on the latest international firmware with customer’s customization items, like Dutch language and etc.{{< /quote >}}
+Dit wordt later ook door Lydis bevestigd dat zij deze firmware niet zelf bouwen, maar dat zij hiervoor alleen samenwerken
+met Yealink in China.  
+
+Als ik Lydis vraag of zij zelf eigenlijk wel eens onderzoeken hebben gedaan naar de beveiliging krijg ik van de 
+directeur van Lydis het antwoord dat het allemaal op vertrouwen is gebeurd. Een ongelofelijke uitspraak die wellicht
+prima verklaart wat ik tot nu toe allemaal gevonden heb.-
+
 # Reactie Yealink
-Yealink geeft een reactie
-{{< a_blank "Yealink" "https://portal.lydis.com/download/yealink/gz_new_fw/YEALINK_IP_PHONE_SECURITY_ISSUE_APR2023.PDF" >}}
+En dus komt Yealink met een 
+{{< a_blank "reactie" "https://portal.lydis.com/download/yealink/gz_new_fw/YEALINK_IP_PHONE_SECURITY_ISSUE_APR2023.PDF" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240302220402/https://portal.lydis.com/download/yealink/gz_new_fw/YEALINK_IP_PHONE_SECURITY_ISSUE_APR2023.PDF" >}}
-{{< quote cloudemail >}}The Yealink genetic firmware don’t have customized URL information preset, but Lydis customized firmware is affected because it has auto provisioning code.{{< /quote >}}
-en
-"Change the AutoProvision URL/username/password"
+
+Uit deze reactie hebben we al eerder een quote gezien in de inleiding. Het is een interessante zinssnede:
+{{< quote cloudemail >}}The Yealink genetic (sic...?) firmware don’t have customized URL information preset, but Lydis customized firmware is affected because it has auto provisioning code.{{< /quote >}}
+Wat deze "auto provisioning code" is en welke gevoelige data van grote hoeveelheden carrier klanten hiervan gebruik maken
+weten we inmiddels. Het advies van Yealink is dan ook:
+{{< quote cloudquote >}}Change the AutoProvision URL/username/password{{< /quote >}}
+
+En hoewel dat als een goed advies klinkt zou het ook verwoord kunnen worden als: "We hebben de credentials gelekt van alle
+grote carriers met meer dan 70% marktaandeel in de BeNeLux". Maar ik begrijp dat zo een mailing voorzichtig verwoord moet 
+worden. Maar ik betwijfel of de carriers de noodzaak van deze memo hebben begrepen.
 
 # Reactie Lydis
-Reactie "unpacking" brief Lydis  
-{{< a_blank "mailing" "yealink/Mailing_Lydis_Klanten_260423.pdf" >}} in april 2023  
+Maar ook Lydis ziet de noodzaak om zelf met een mailing te komen naar aanleiding van mijn melding. Zij sturen een 
+{{< a_blank "mailing" "yealink/Mailing_Lydis_Klanten_260423.pdf" >}} naar hun grote klanten in april 2023.  
 
-
+De memo begint met 
 {{< quote cloudquote >}}Beste “contactpersoon”{{< /quote >}}
-Die aanhef geeft alvast "vertrouwen" in dit document.
+Die aanhef geeft alvast "vertrouwen" in dit document. Het document gaat verder met te vermelden:
 
-"ondanks dat we vanuit de Benelux nog geen berichten
-ontvangen hebben, maar omdat het in theorie een security issue is."
+{{< quote cloudemail >}}ondanks dat we vanuit de Benelux nog geen berichten ontvangen hebben, maar omdat het in theorie een security issue is.{{< /quote >}}
 
-Er zijn wel berichten vanuit de BeNeLux en wel van mij. En het is niet in theorie een security issue, maar ik heb de provider codes uit de firmware gehaald.
+Er zijn wel berichten vanuit de BeNeLux en wel van mij. En het is niet in theorie een security issue, maar ik heb de provider codes uit de firmware gehaald. En hier zelf ik niet alleen zelf van dat dit gevoelige informatie is, maar ook Yealink en Lydis 
+zijn dat met mij eens. Het is niet mogelijk om te weten voor zowel Yealink als Lydis of ik de enige persoon ben die deze
+codes heeft ingezien of dat er nog 100 mensen de software van GitHub hebben gedownload en deze providercodes hebben 
+ingezien. Bovenstaand is dus een grove manier van downplayen die wederom de belangrijke carrierklanten niet het gevoel
+geeft dat er iets belangrijks heeft plaatsgevonden.  
 
-Uit de {{< a_blank "Lydis security FAQ" "https://www.lydis.nl/over-ons/yealink-security-faq" >}}
+Maar dit past wel in het plaatje wat ik van Lydis heb. In hun
+Uit de {{< a_blank "security FAQ" "https://www.lydis.nl/over-ons/yealink-security-faq" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240226235252/https://www.lydis.nl/over-ons/yealink-security-faq" >}}
-:
-"Waar kan ik zien welke kwetsbaarheden er gevonden zijn in de beveiliging van Yealink producten?"
-"Yealink scoort positief op cvedetails.com"
+schrijven zij namelijk onder het kopje "Waar kan ik zien welke kwetsbaarheden er gevonden zijn in de beveiliging van Yealink producten?" het volgende:
+{{< quote cloudemail >}}Yealink scoort positief op cvedetails.com{{< /quote >}}
 
-https://www.cvedetails.com/cve/CVE-2021-27561/
-"unauthenticated remote code execution."
-"Probability of exploitation activity in the next 30 days: 97.42%"
+cvedetails.com Is geen Libris Literatuurprijs. Het is een verzameling van CVE's en disclosures. Maar als we dan voor het
+gedachtenexperiment meegaan in deze denkwijze, laten we dan even kijken wat er inderdaad op cvedetails.com over Yealink
+gezegd wordt. Een van de eerste zoekresultaten is
+{{< a_blank "CVE-2021-27561" "https://www.cvedetails.com/cve/CVE-2021-27561/" >}}.
+En inderdaad is dit een mooie CVSS score: 10 op een schaal van 10. "unauthenticated remote code execution.". Het is wel
+kenmerkend voor CVE's voor Yealink dat er iets mis is met hun authenticatie of authorisatie. Maar ook Remote Code
+Execution (RCE) is iets wat is te vaak tegenkom voor een firma van deze statuur.  
+cvedetails.com vervolgt het rapport met: "Probability of exploitation activity in the next 30 days: 97.42%"  
 
+We kunnen dus inderdaad concluderen dat Yealink behoorlijk scoort op cvetails.com. Het hangt er dan wel van af natuurlijk
+wat de 
+{{< a_blank "kleur van je hoedje" "https://veiliginternetten.nl/thema/kinderen-online/op-school/wat-het-verschil-tussen-een-white-hat-en-een-black/" >}}
+is.
 
+En dus besluit de telecomgigant uit Xiamen om de obfuscation van hun firmware aan te passen. En ze doen dit met terugwerkende
+kracht ook voor EOL devices. Soms is dat wel 
 
+Achteraf aanpassen van 
+{{< a_blank "firmwares" "https://support.yealink.com/en/portal/docList?archiveType=software&productCode=85585442c3aeb1fb" >}}
+, soms wel 6 jaar na de laatste firmware update.  
 
-Achteraf aanpassen van firmwares, soms wel 7 jaar na EOL  
-
-{{< a_blank "mailing" "https://support.yealink.com/en/portal/docList?archiveType=software&productCode=85585442c3aeb1fb" >}}
 {{< img alt="SIP-T27P firmware releases" src="img/yealink/20240202_yealink_sipt27p_firmware.png" >}}
 
-zie timing in presentatie  
-firmware ineens x% groter dan voorheen,  
-Van 7.41Mb naar 7.97Mb, dat is bijna 8% meer data
-
-changelog: geen wijzigingen  
-{{< a_blank "Changelog SIP-T27P" "https://support.yealink.com/en/portal/docDetail?documentCode=4a1a04e0b6be4a1b" >}}
+Wat hier opvalt is dat de firmware update bijna een half jaar na de memo's van Yealink en Lydis verschijnt.  
+Ook valt op dat de firmware ineens 8% groter is geworden. Ik zou niet weten waarom dit zou zijn. Het ZOU natuurlijk iets
+met het nieuwe algoritme te maken kunnen hebben wat gebruikt wordt om de firmware onleesbaar te maken. Volgens de 
+{{< a_blank "changelog" "https://support.yealink.com/en/portal/docDetail?documentCode=4a1a04e0b6be4a1b" >}}
 {{< a_blank "mirror" "yealink/Yealink SIP Phone Release Notes.pdf" >}}
+van de SIP-T27P zijn er in elk geval geen wijzigingen in de firmware zelf doorgevoerd.  
 
-
-Aanpassen van datums naar maart 2015
-
-{{< a_blank "SIP-T28P" "https://support.yealink.com/en/portal/docList?archiveType=software&productCode=b0d249cb02451c0d" >}}
+Maar zo zal Yealink zich toch niet helemaal goed hebben gevoeld bij deze surprise firmware update en hoe enorm zichtbaar
+dit voor iedereen is. En daarom besluit de telecomgigant om alle {{< a_blank "release datums" "https://support.yealink.com/en/portal/docList?archiveType=software&productCode=b0d249cb02451c0d" >}} van firmware aan te passen naar maart 2015:
 {{< img alt="SIP-T28P firmware releases" src="img/yealink/20240302_sipt28p_firmwareversions.png" >}}
 
-
-
-
-Open source in ander artikel??
-GPL license
-Lijst met open source software (incompleet)
-{{< a_blank "open source software" "https://www.yealink.com/website-service/download/offer-source-of-open-source-software.pdf" >}}
-{{< a_blank "mirror" "yealink/Offer Source of Open Source Software.pdf" >}}
-
-
-Uit de {{< a_blank "Lydis security FAQ" "https://www.lydis.nl/over-ons/yealink-security-faq" >}}
-{{< a_blank "mirror" "https://web.archive.org/web/20240226235252/https://www.lydis.nl/over-ons/yealink-security-faq" >}}
-"Waarom bevat de Yealink software open source software?
-Yealink heeft haar eigen software heeft geschreven voor de open source modules. Deze software zorgt ervoor dat de veiligheid van het complete product gegarandeerd is."
-
-
-
- 
-14-3-2023
-Geachte heer Heide, Beste Cor,
-
-Nog even wat aanvullende informatie:
-Als ik voor "Lydis" mac adressen gegevens opvraag aan YMCS via de API, dan krijg ik de volgende gegevens terug:
-
-        "resellerId": "306",
-        "resellerName": "Lydis {{< censuur red >}}*************{{< /censuur >}}",
-
-Uiteraard niets illegaals oid, maar ik neem aan dat het niet de bedoeling is dat je persoonlijk genoemd wordt in de API van Yealink?
-
-Diezelfde dag:
-
-Ok ,ik schrik hier van,ga er aan werken
-
-Bedankt
-
-
-
-
-
-Ook EULA (link naar ander artikel?)
 

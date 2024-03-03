@@ -67,3 +67,7 @@ referenties:
 {{< a_blank "mirror" "yealink/2023_kbm_6_def.pdf" >}}
 
 
+{{< a_blank "Statement" "https://www.lydis.nl/over-ons/lydis-statement" >}}
+TODO: mirror toevoegen
+{{< quote cloudquote >}}De videoapparatuur van Yealink (bijv. Teams) is van deze kwesties volledig uitgesloten. Deze wordt compleet door Microsoft beveiligd
+<span>{{< censuur yellow >}}Gijsbert Zijlstra{{< /censuur >}} - Technical Director Lydis</span>{{< /quote >}}
