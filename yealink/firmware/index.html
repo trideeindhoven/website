@@ -140,8 +140,8 @@
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
     <h1 class="title text-5xl mb-4">Firmware</h1>
     <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>In april 2023 brengt zowel Lydis als Yealink een redelijk cryptische memo naar buiten. Het is niet eenvoudig in te zien
-wat de strekking van deze memo is, maar wat op dat moment nog niemand weet ben ik de oorzaak van deze memo en een direct
-gevolg van mijn samenwerking met Yealink en Lydis.</p>
+wat de strekking van deze memo is, maar wat op dat moment nog niemand weet is dat de oorzaak van deze memo ikzelf ben
+en een direct gevolg van mijn samenwerking met Yealink en Lydis.</p>
 <p>I have added international translations of the articles using google translate:</p>
 <p><a href="https://cloudaware-eu.translate.goog/yealink/firmware/?_x_tr_sl=nl&amp;_x_tr_tl=en&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/united-kingdom-flag-icon.svg" alt="EN" style="margin-top:5px;margin-bottom:5px;width:50px;" >
 </a>
@@ -172,7 +172,11 @@ In het kort werkt de &ldquo;beveiliging&rdquo; als volgt:</p>
 <li>In de .rom file zitten meerdere filesystems aan elkaar geplakt.</li>
 <li>De eerste 512 bytes van de filesystem headers zijn versleuteld.</li>
 <li>Het filesystem zelf is niet versleuteld en is in cleartext blocks aanwezigin het .rom bestand. Ik weet niet waarom
-hier voor gekozen is, maar ik neem aan dat de SoC in de apparatuur niet krachtig genoeg is om het volledige filesystem
+hier voor gekozen is, maar ik neem aan dat de
+
+<a target="_blank" href="https://nl.wikipedia.org/wiki/System-on-a-chip">SoC</a> <i class="fa fa-external-link"></i>
+
+in de apparatuur niet krachtig genoeg is om het volledige filesystem
 tijdens het booten te decrypten.</li>
 <li>De firmware is niet ondertekend (signed), waardoor het vaststellen van de integriteit&hellip;lastig is.</li>
 <li>De gebruikte versleuteling is AES-ECB. Waar hebben we dat ook weer eerder <a href="https://trideeindhoven.github.io/website/yealink/versleuteling/">gezien</a></li>
@@ -221,8 +225,8 @@ Lydis af met de &ldquo;188&rdquo; firmware.</p>
 <a target="_blank" href="https://web.archive.org/web/20240303161233/https://support-cdn.yealink.com/attachment/temp/20221108/24527720-098f-47a8-9513-edc14dd4dd1f.pdf?v=1667909984814">mirror</a> <i class="fa fa-external-link"></i>
 
 op major versie 85 zit en op patchniveau 40.<br>
-Als we nu in de Nederlandse firmware kijken, dan zien we voor dit device firmware: 146.85.188.8. Het patchniveau is dus
-32 ouder.</p>
+Als we nu in de Nederlandse firmware kijken, dan zien we voor dit device firmware: 146.85.188.8. Het patchniveau is dus &ldquo;8&rdquo; en
+dus ouder dan de firmware voor alle andere landen buiten het werkgebied van Lydis.</p>
 <p>En nu hoor ik de oplettende lezer denken: nou en? En dat is een terechte èn belangrijke vraag. Want het is duidelijk
 dat de firmware versie die Lydis verkoopt in de BeNeLux ouder is dan de versie die alle andere landen ter wereld krijgen.
 Het is eenvoudig om te bepalen of dit een probleem is of niet en dus zoek ik voor dit apparaat een
@@ -251,7 +255,7 @@ Yealink geeft in hun
 aan dat dit gerepareerd is in 146.85.0.35<br>
 Yealink laat de releasedates van hun firmware versies niet online staan, dus dit is niet meer te controleren wanneer dit
 is geweest. Aangezien patchlevel 25 in februari 2022 is uitgekomen, moet het daarna zijn.<br>
-Dit betekent we kunnen hieruit dus het volgende concluderen:</p>
+Dit betekent dat we hieruit dus het volgende kunnen concluderen:</p>
 <ul>
 <li>Klanten buiten de BeNeLux krijgen een patch voor een 0-day waar Yealink zelf en advisory voor heeft gemaakt pas na
 jaren aangeboden</li>
@@ -333,7 +337,7 @@ kan alleen maar gissen naar de beweegredenen om deze extra laag beveiliging niet
 maakt in de BeNeLux. Helaas is het niveau van de vertaling bijzonder laag. Een aantal voorbeelden uit het (grote)
 taalbestand:</p>
 <ul>
-<li>Het Engelse &ldquo;level&rdquo; wordt vertaald als &ldquo;nivo&rdquo; vertaald. Nu vroeg ik mij meteen af if dit wellicht een toegestane
+<li>Het Engelse &ldquo;level&rdquo; wordt als &ldquo;nivo&rdquo; vertaald. Nu vroeg ik mij meteen af if dit wellicht een toegestane
 schrijfwijze is. Maar een korte zoektocht bij Van Dale en
 
 <a target="_blank" href="https://taaladvies.net/buro-of-bureau-nivo-of-niveau-kado-of-cadeau/">andere sites</a> <i class="fa fa-external-link"></i>
@@ -365,7 +369,7 @@ Dit wordt later ook door Lydis bevestigd dat zij deze firmware niet zelf bouwen,
 met Yealink in China.</p>
 <p>Als ik Lydis vraag of zij zelf eigenlijk wel eens onderzoeken hebben gedaan naar de beveiliging krijg ik van de
 directeur van Lydis het antwoord dat het allemaal op vertrouwen is gebeurd. Een ongelofelijke uitspraak die wellicht
-prima verklaart wat ik tot nu toe allemaal gevonden heb.-</p>
+prima verklaart wat ik tot nu toe allemaal gevonden heb.</p>
 <h1 id="reactie-yealink">Reactie Yealink</h1>
 <p>En dus komt Yealink met een
 
@@ -407,13 +411,13 @@ Die aanhef geeft alvast &ldquo;vertrouwen&rdquo; in dit document. Het document g
 ondanks dat we vanuit de Benelux nog geen berichten ontvangen hebben, maar omdat het in theorie een security issue is.
 </blockquote>
 
-<p>Er zijn wel berichten vanuit de BeNeLux en wel van mij. En het is niet in theorie een security issue, maar ik heb de provider codes uit de firmware gehaald. En hier zelf ik niet alleen zelf van dat dit gevoelige informatie is, maar ook Yealink en Lydis
+<p>Er zijn wel berichten vanuit de BeNeLux en wel van mij. En het is niet in theorie een security issue, maar ik heb de provider codes uit de firmware gehaald. En hier zeg ik niet alleen zelf van dat dit gevoelige informatie is, maar ook Yealink en Lydis
 zijn dat met mij eens. Het is niet mogelijk om te weten voor zowel Yealink als Lydis of ik de enige persoon ben die deze
 codes heeft ingezien of dat er nog 100 mensen de software van GitHub hebben gedownload en deze providercodes hebben
 ingezien. Bovenstaand is dus een grove manier van downplayen die wederom de belangrijke carrierklanten niet het gevoel
 geeft dat er iets belangrijks heeft plaatsgevonden.</p>
 <p>Maar dit past wel in het plaatje wat ik van Lydis heb. In hun
-Uit de 
+
 <a target="_blank" href="https://www.lydis.nl/over-ons/yealink-security-faq">security FAQ</a> <i class="fa fa-external-link"></i>
 
 
@@ -435,19 +439,17 @@ En inderdaad is dit een mooie CVSS score: 10 op een schaal van 10. &ldquo;unauth
 kenmerkend voor CVE&rsquo;s voor Yealink dat er iets mis is met hun authenticatie of authorisatie. Maar ook Remote Code
 Execution (RCE) is iets wat is te vaak tegenkom voor een firma van deze statuur.<br>
 cvedetails.com vervolgt het rapport met: &ldquo;Probability of exploitation activity in the next 30 days: 97.42%&rdquo;</p>
-<p>We kunnen dus inderdaad concluderen dat Yealink behoorlijk scoort op cvetails.com. Het hangt er dan wel van af natuurlijk
+<p>We kunnen dus inderdaad concluderen dat Yealink behoorlijk scoort op cvedetails.com. Het hangt er dan wel van af natuurlijk
 wat de
 
 <a target="_blank" href="https://veiliginternetten.nl/thema/kinderen-online/op-school/wat-het-verschil-tussen-een-white-hat-en-een-black/">kleur van je hoedje</a> <i class="fa fa-external-link"></i>
 
 is.</p>
 <p>En dus besluit de telecomgigant uit Xiamen om de obfuscation van hun firmware aan te passen. En ze doen dit met terugwerkende
-kracht ook voor EOL devices. Soms is dat wel</p>
-<p>Achteraf aanpassen van
+kracht ook voor EOL devices. Soms is dat wel 
+<a target="_blank" href="https://support.yealink.com/en/portal/docList?archiveType=software&amp;productCode=85585442c3aeb1fb">6 jaar</a> <i class="fa fa-external-link"></i>
 
-<a target="_blank" href="https://support.yealink.com/en/portal/docList?archiveType=software&amp;productCode=85585442c3aeb1fb">firmwares</a> <i class="fa fa-external-link"></i>
-
-, soms wel 6 jaar na de laatste firmware update.</p>
+na de laatste firmware update.</p>
 <img src="https://trideeindhoven.github.io/website/img/yealink/20240202_yealink_sipt27p_firmware.png" alt="SIP-T27P firmware releases"  >
 
 <p>Wat hier opvalt is dat de firmware update bijna een half jaar na de memo&rsquo;s van Yealink en Lydis verschijnt.<br>
@@ -465,7 +467,19 @@ dit voor iedereen is. En daarom besluit de telecomgigant om alle
 <a target="_blank" href="https://support.yealink.com/en/portal/docList?archiveType=software&amp;productCode=b0d249cb02451c0d">release datums</a> <i class="fa fa-external-link"></i>
  van firmware aan te passen naar maart 2015:
 <img src="https://trideeindhoven.github.io/website/img/yealink/20240302_sipt28p_firmwareversions.png" alt="SIP-T28P firmware releases"  >
-</p></div>
+</p>
+<p>Het blijft opvallen dat de transparantie van zowel Lydis en Yealink vaak ver te zoeken is. Hierbij moet ik wel opmerken
+dat Lydis mij na een meeting enkele weken geleden beloofd heeft dat zij meer transparantie willen gaan uitdragen.<br>
+Dit gebrek aan transparantie is opvallend te noemen aangezien zowel Yealink als Lydis dit voortdurend als verwijt naar
+mij toe gebruiken. En&hellip;.Lydis laat het niet bij verwijten. De advocaat van Lydis schrijft in beide sommaties:</p>
+
+<blockquote class="cloudquote">
+Tevens verzoeken danwel sommeren we u om per ommegaande doch uiterlijk aanstaande maandag 18 september 2023 om 12:00 uur helderheid te verschaffen aan ondergetekende over uw beweegredenen en opdrachtgever(s) althans daar in ieder geval transparant over te zijn<br/><span>Mr. <font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font> van AKD N.V.</span>
+</blockquote>
+
+<p>Het blijft mij dan ook verbazen dat het juist op alle vlakken aan deze transparantie ontbreekt bij vrijwel alle
+bedrijven die bij Yealink betrokken zijn. Het is voor mij niet vast te stellen wat de beweegredenen hier achter zijn<br>
+Tot zo ver dit artikel over Yealink en Lydis. Het volgende artikel komt uit op vrijdag 8 maart. Tot dan!</p></div>
   </div>
 </div>
 
