@@ -252,3 +252,5 @@ technisch onderwerp gaan. Want waarom heeft Yealink en Lydis eigenlijk een memo 
 over een "unpack" probleem met de firmware?  
 De reden achter deze memo was ikzelf en ik zal volgende week daarom ook 
 uitleggen wat er nou precies aan de hand was. Tot dinsdag!
+
+[Naar het volgende artikel]({{< ref "firmware" >}})

@@ -71,3 +71,9 @@ referenties:
 TODO: mirror toevoegen
 {{< quote cloudquote >}}De videoapparatuur van Yealink (bijv. Teams) is van deze kwesties volledig uitgesloten. Deze wordt compleet door Microsoft beveiligd
 <span>{{< censuur yellow >}}Gijsbert Zijlstra{{< /censuur >}} - Technical Director Lydis</span>{{< /quote >}}
+
+
+https://portal.lydis.com/download/lydis/ftm/Article%20FTM-Yealink-160923-NL-Lydis_detail_reaction_short-v2.4.pdf
+"Deze bewering is onjuist en onthult een gebrek aan kennis bij Hermans over hoe SIP-telefonie werkt."
+
+

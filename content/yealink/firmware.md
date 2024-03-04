@@ -9,8 +9,8 @@ tags = [
 image = "img/yealink/pexels-markus-spiske-2004161.jpg"
 +++
 In april 2023 brengt zowel Lydis als Yealink een redelijk cryptische memo naar buiten. Het is niet eenvoudig in te zien 
-wat de strekking van deze memo is, maar wat op dat moment nog niemand weet ben ik de oorzaak van deze memo en een direct 
-gevolg van mijn samenwerking met Yealink en Lydis.
+wat de strekking van deze memo is, maar wat op dat moment nog niemand weet is dat de oorzaak van deze memo ikzelf ben 
+en een direct gevolg van mijn samenwerking met Yealink en Lydis.
 <!--more-->
 I have added international translations of the articles using google translate:  
 
@@ -38,7 +38,9 @@ In het kort werkt de "beveiliging" als volgt:
 - In de .rom file zitten meerdere filesystems aan elkaar geplakt.
 - De eerste 512 bytes van de filesystem headers zijn versleuteld.
 - Het filesystem zelf is niet versleuteld en is in cleartext blocks aanwezigin het .rom bestand. Ik weet niet waarom 
-hier voor gekozen is, maar ik neem aan dat de SoC in de apparatuur niet krachtig genoeg is om het volledige filesystem
+hier voor gekozen is, maar ik neem aan dat de 
+{{< a_blank "SoC" "https://nl.wikipedia.org/wiki/System-on-a-chip" >}}
+in de apparatuur niet krachtig genoeg is om het volledige filesystem
 tijdens het booten te decrypten.
 - De firmware is niet ondertekend (signed), waardoor het vaststellen van de integriteit...lastig is.
 - De gebruikte versleuteling is AES-ECB. Waar hebben we dat ook weer eerder [gezien]({{< ref "versleuteling" >}})
@@ -74,8 +76,8 @@ Lydis af met de "188" firmware.
 Als we nu voor device "146" (DECT W70B) gaan kijken, dan zien we dat {{< a_blank "Yealink" "https://support.yealink.com/en/portal/docDetail?documentCode=105f1c68a5a54ee4" >}} 
 {{< a_blank "mirror" "https://web.archive.org/web/20240303161233/https://support-cdn.yealink.com/attachment/temp/20221108/24527720-098f-47a8-9513-edc14dd4dd1f.pdf?v=1667909984814" >}}
 op major versie 85 zit en op patchniveau 40.  
-Als we nu in de Nederlandse firmware kijken, dan zien we voor dit device firmware: 146.85.188.8. Het patchniveau is dus 
-32 ouder.  
+Als we nu in de Nederlandse firmware kijken, dan zien we voor dit device firmware: 146.85.188.8. Het patchniveau is dus "8" en 
+dus ouder dan de firmware voor alle andere landen buiten het werkgebied van Lydis.  
 
 En nu hoor ik de oplettende lezer denken: nou en? En dat is een terechte èn belangrijke vraag. Want het is duidelijk
 dat de firmware versie die Lydis verkoopt in de BeNeLux ouder is dan de versie die alle andere landen ter wereld krijgen. 
@@ -93,7 +95,7 @@ Yealink geeft in hun
 aan dat dit gerepareerd is in 146.85.0.35  
 Yealink laat de releasedates van hun firmware versies niet online staan, dus dit is niet meer te controleren wanneer dit 
 is geweest. Aangezien patchlevel 25 in februari 2022 is uitgekomen, moet het daarna zijn.  
-Dit betekent we kunnen hieruit dus het volgende concluderen:
+Dit betekent dat we hieruit dus het volgende kunnen concluderen:
 - Klanten buiten de BeNeLux krijgen een patch voor een 0-day waar Yealink zelf en advisory voor heeft gemaakt pas na 
 jaren aangeboden
 - Klanten in de BeNeLux krijgen hun firmware exclusief in de "188" versie van Lydis
@@ -176,7 +178,7 @@ kan alleen maar gissen naar de beweegredenen om deze extra laag beveiliging niet
 Als ik de firmware verder bestudeer zie ik ook het Nederlandse taalbestand staan wat de Lydis "188" firmware zo belangrijk
 maakt in de BeNeLux. Helaas is het niveau van de vertaling bijzonder laag. Een aantal voorbeelden uit het (grote) 
 taalbestand:
-- Het Engelse "level" wordt vertaald als "nivo" vertaald. Nu vroeg ik mij meteen af if dit wellicht een toegestane 
+- Het Engelse "level" wordt als "nivo" vertaald. Nu vroeg ik mij meteen af if dit wellicht een toegestane 
 schrijfwijze is. Maar een korte zoektocht bij Van Dale en 
 {{< a_blank "andere sites" "https://taaladvies.net/buro-of-bureau-nivo-of-niveau-kado-of-cadeau/" >}}
 laat duidelijk zien dat dit geen correct Nederlands is.
@@ -202,7 +204,7 @@ met Yealink in China.
 
 Als ik Lydis vraag of zij zelf eigenlijk wel eens onderzoeken hebben gedaan naar de beveiliging krijg ik van de 
 directeur van Lydis het antwoord dat het allemaal op vertrouwen is gebeurd. Een ongelofelijke uitspraak die wellicht
-prima verklaart wat ik tot nu toe allemaal gevonden heb.-
+prima verklaart wat ik tot nu toe allemaal gevonden heb.
 
 # Reactie Yealink
 En dus komt Yealink met een 
@@ -229,14 +231,14 @@ Die aanhef geeft alvast "vertrouwen" in dit document. Het document gaat verder m
 
 {{< quote cloudemail >}}ondanks dat we vanuit de Benelux nog geen berichten ontvangen hebben, maar omdat het in theorie een security issue is.{{< /quote >}}
 
-Er zijn wel berichten vanuit de BeNeLux en wel van mij. En het is niet in theorie een security issue, maar ik heb de provider codes uit de firmware gehaald. En hier zelf ik niet alleen zelf van dat dit gevoelige informatie is, maar ook Yealink en Lydis 
+Er zijn wel berichten vanuit de BeNeLux en wel van mij. En het is niet in theorie een security issue, maar ik heb de provider codes uit de firmware gehaald. En hier zeg ik niet alleen zelf van dat dit gevoelige informatie is, maar ook Yealink en Lydis 
 zijn dat met mij eens. Het is niet mogelijk om te weten voor zowel Yealink als Lydis of ik de enige persoon ben die deze
 codes heeft ingezien of dat er nog 100 mensen de software van GitHub hebben gedownload en deze providercodes hebben 
 ingezien. Bovenstaand is dus een grove manier van downplayen die wederom de belangrijke carrierklanten niet het gevoel
 geeft dat er iets belangrijks heeft plaatsgevonden.  
 
 Maar dit past wel in het plaatje wat ik van Lydis heb. In hun
-Uit de {{< a_blank "security FAQ" "https://www.lydis.nl/over-ons/yealink-security-faq" >}}
+{{< a_blank "security FAQ" "https://www.lydis.nl/over-ons/yealink-security-faq" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240226235252/https://www.lydis.nl/over-ons/yealink-security-faq" >}}
 schrijven zij namelijk onder het kopje "Waar kan ik zien welke kwetsbaarheden er gevonden zijn in de beveiliging van Yealink producten?" het volgende:
 {{< quote cloudemail >}}Yealink scoort positief op cvedetails.com{{< /quote >}}
@@ -250,17 +252,14 @@ kenmerkend voor CVE's voor Yealink dat er iets mis is met hun authenticatie of a
 Execution (RCE) is iets wat is te vaak tegenkom voor een firma van deze statuur.  
 cvedetails.com vervolgt het rapport met: "Probability of exploitation activity in the next 30 days: 97.42%"  
 
-We kunnen dus inderdaad concluderen dat Yealink behoorlijk scoort op cvetails.com. Het hangt er dan wel van af natuurlijk
+We kunnen dus inderdaad concluderen dat Yealink behoorlijk scoort op cvedetails.com. Het hangt er dan wel van af natuurlijk
 wat de 
 {{< a_blank "kleur van je hoedje" "https://veiliginternetten.nl/thema/kinderen-online/op-school/wat-het-verschil-tussen-een-white-hat-en-een-black/" >}}
 is.
 
 En dus besluit de telecomgigant uit Xiamen om de obfuscation van hun firmware aan te passen. En ze doen dit met terugwerkende
-kracht ook voor EOL devices. Soms is dat wel 
-
-Achteraf aanpassen van 
-{{< a_blank "firmwares" "https://support.yealink.com/en/portal/docList?archiveType=software&productCode=85585442c3aeb1fb" >}}
-, soms wel 6 jaar na de laatste firmware update.  
+kracht ook voor EOL devices. Soms is dat wel {{< a_blank "6 jaar" "https://support.yealink.com/en/portal/docList?archiveType=software&productCode=85585442c3aeb1fb" >}}
+na de laatste firmware update.  
 
 {{< img alt="SIP-T27P firmware releases" src="img/yealink/20240202_yealink_sipt27p_firmware.png" >}}
 
@@ -276,3 +275,14 @@ dit voor iedereen is. En daarom besluit de telecomgigant om alle {{< a_blank "re
 {{< img alt="SIP-T28P firmware releases" src="img/yealink/20240302_sipt28p_firmwareversions.png" >}}
 
 
+Het blijft opvallen dat de transparantie van zowel Lydis en Yealink vaak ver te zoeken is. Hierbij moet ik wel opmerken
+dat Lydis mij na een meeting enkele weken geleden beloofd heeft dat zij meer transparantie willen gaan uitdragen.  
+Dit gebrek aan transparantie is opvallend te noemen aangezien zowel Yealink als Lydis dit voortdurend als verwijt naar
+mij toe gebruiken. En....Lydis laat het niet bij verwijten. De advocaat van Lydis schrijft in beide sommaties:
+
+{{< quote cloudquote >}}Tevens verzoeken danwel sommeren we u om per ommegaande doch uiterlijk aanstaande maandag 18 september 2023 om 12:00 uur helderheid te verschaffen aan ondergetekende over uw beweegredenen en opdrachtgever(s) althans daar in ieder geval transparant over te zijn
+<span>Mr. {{< censuur red >}}******{{< /censuur >}} van AKD N.V.</span>{{< /quote >}}
+
+Het blijft mij dan ook verbazen dat het juist op alle vlakken aan deze transparantie ontbreekt bij vrijwel alle 
+bedrijven die bij Yealink betrokken zijn. Het is voor mij niet vast te stellen wat de beweegredenen hier achter zijn  
+Tot zo ver dit artikel over Yealink en Lydis. Het volgende artikel komt uit op vrijdag 8 maart. Tot dan!

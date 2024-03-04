@@ -40,7 +40,7 @@ De jaarresultaten van CloudAware zijn zeer matig en uw bedrijf leek aanvankelijk
 website te bestaan die overigens de afgelopen dagen volledig niet bereikbaar was en nu plotseling de
 volgende melding bevat:  
 
-{{< img "Screenshot website CloudAware" "img/yealink/akd_website_screenshot.jpg" >}}
+{{< img alt="Screenshot website CloudAware" src="img/yealink/akd_website_screenshot.jpg" >}}
 
 Kennelijk was Cloudaware slechts een facade teneinde informatie los te krijgen van Yealink.  
 
