@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Versleuteling"
-date = "2024-02-19"
+date = "2024-02-24"
 description = "Versleuteling"
 tags = [
     "versleuteling", "encryptie", "AES", "RSA", "Lydis", "Yealink"

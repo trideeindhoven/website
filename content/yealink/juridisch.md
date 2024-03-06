@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Juridisch"
-date = "2024-02-28"
+date = "2024-03-04"
 description = "Juridisch"
 tags = [
     "sommatie", "AKD", "Lydis", "Yealink"

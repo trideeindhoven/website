@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Conclusie"
-date = "2024-03-02"
+date = "2024-03-06"
 description = "Conclusie"
 tags = [
     "conclusie", "Lydis", "Yealink"
