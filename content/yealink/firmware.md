@@ -286,3 +286,5 @@ mij toe gebruiken. En....Lydis laat het niet bij verwijten. De advocaat van Lydi
 Het blijft mij dan ook verbazen dat het juist op alle vlakken aan deze transparantie ontbreekt bij vrijwel alle 
 bedrijven die bij Yealink betrokken zijn. Het is voor mij niet vast te stellen wat de beweegredenen hier achter zijn  
 Tot zo ver dit artikel over Yealink en Lydis. Het volgende artikel komt uit op vrijdag 8 maart. Tot dan!
+
+[Naar het volgende artikel]({{< ref "publicatie" >}})
