@@ -8,7 +8,7 @@ tags = [
 ]
 image = "img/yealink/pexels-nataliya-vaitkevich-8927687.jpg"
 +++
-Tijdens het onderzoek naar Lydis en Yealink kwamen heel veel bedrijven en holdings voorbij. Het leek mij niet meer dan 
+Tijdens het onderzoek naar Lydis en Yealink kwamen heel veel bedrijven en holdings voorbij. Het leek mij dan ook
 relevant om ook te kijken naar de bedrijfseconomische handel en wandel van deze bedrijven. In het bijzonder wanneer het
 om terrorisme bestrijding (UBO) of beursgenoteerde bedrijven gaat.
 <!--more-->
@@ -51,7 +51,7 @@ Een aantal belangrijke zaken zijn:
 Nu valt het op dat al deze drie de ondernemingen regelmatig niet aan deze regels voldoen. Ook vindt het bestuur van deze B.V.'s 
 het blijkbaar nodig om regelmatig "bijzondere omstandigheden" te claimen om uitstel te krijgen voor het deponeren.  
 
-En dan komt er ineens een, voor velen in de industrie, een onverwachts bericht: Lydis wordt overgenomen 
+En dan komt er ineens een, voor velen in de industrie, onverwachts bericht: Lydis wordt overgenomen 
 {{< a_blank "door AplusK" "https://www.aplusk.nl/nl/nieuws/aplusk-neemt-meerderheidsbelang-in-lydis" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20220729074726/https://www.aplusk.nl/nl/nieuws/aplusk-neemt-meerderheidsbelang-in-lydis" >}}. 
 Mijn reactie en die van een aantal mensen in de industrie die ik sprak was: wie? Ik moest nu natuurlijk meer weten over 
@@ -65,7 +65,7 @@ Uit de lijst van Frans klinkende bestuurders word ik niet veel wijzer, maar uit 
 En ook de jaarstukken van BIS B.V. roepen de nodige vragen op:
 - Jaarstukken die jaren na einde boekjaar worden gedeponeerd.
 - Meerdere kwartalen tussen het vaststellen van jaarstukken en het deponeren hiervan.
-- Een balans die door Ernst & Young Accountants LLP is gecontroleerd (deponering wordt blijkbaar niet op gecontroleerd).
+- Een balans die door Ernst & Young Accountants LLP is gecontroleerd (de deponering wordt blijkbaar niet gecontroleerd).
 - Een gemiddeld salaris over alle 115 werknemers van 87.000 euro.  
 
 Mijn zoektocht gaat verder en ik kom terecht bij de volgende holding: 
@@ -112,7 +112,7 @@ Op de dag van het interview zit ik al een aantal minuten in de meetingroom te wa
 glimlachende gezichten 
 op mijn laptop verschijnen. Op de muur achter de Financial Managing Director staat in grote letters "Lounge". We doorlopen 
 het interview op een manier die ik inmiddels al meer dan tien keer gedaan heb. Ik leg uit wie ik ben, wat ik doe en dat ik 
-wat vragen heb voor een publicatie die later het jaar zal plaatsvinden.  
+wat vragen heb voor een publicatie die later dat jaar zal plaatsvinden.  
 Ik begin uit te leggen wat ik dan toe heb uitgevonden en ik haal ook de rapporten aan die ik van de technisch directeur 
 van Lydis heb gekregen. De Financial Managing Director van Econocom geeft aan dat zij niet op complot theorieën acteren
  (heel goed!) en geeft aan dat
@@ -121,8 +121,7 @@ van Lydis heb gekregen. De Financial Managing Director van Econocom geeft aan da
 
 De directeur van AplusK neemt het woord over en geeft aan dat hij het "vrij verontrustend" vindt wat hij hoort en zegt:
 
-{{< quote cloudquote >}}Wij zijn natuurlijk totaal niet op de hoogte van deze rapporten. Dus we zouden ook graag ontvangen, want als we dit 
-hadden geweten...ik weet niet wat er dan gebeurd was
+{{< quote cloudquote >}}Wij zijn natuurlijk totaal niet op de hoogte van deze rapporten. Dus we zouden deze ook graag ontvangen, want als we dit hadden geweten...ik weet niet wat er dan gebeurd was
 <span>directeur AplusK</span>{{< /quote >}}
 
 Toch is dit wel een ernstige uitspraak. Het betekent dat Lydis voor de verkoop van het meerderheidsaandeel aan Econocom 
@@ -155,7 +154,7 @@ Director"? Ik zie in het Teams-beeld dat hij druk gaat schrijven.
 Het geeft mij het gevoel dat hij er oprecht mee aan de slag gaat. Meegenomen dat hij in zijn eigen woorden nog niet zo 
 lang bij de groep betrokken is geef ik hem het voordeel van de twijfel.  
 
-Er gaan een aantal maanden voorbij en ik besluit toch even in deze zaak op te volgen. Op 18 april 2023 email ik hem opnieuw:
+Er gaan een aantal maanden voorbij en ik besluit toch even deze zaak op te volgen. Op 18 april 2023 email ik hem opnieuw:
 {{< quote cloudemail >}}Wij hebben elkaar een tijd geleden gesproken. U heeft mij toen toegezegd dat u mij de 408 concern verklaring gaat opsturen.
 Ik heb deze nog niet ontvangen. Kunt u dit alsnog doen?{{< /quote >}}  
 Hij reageert de volgende dag met een uitgebreide email aan mij. Hij geeft aan dat Econocom druk bezig is met het 

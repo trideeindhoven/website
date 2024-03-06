@@ -105,7 +105,7 @@ als waar het GDPR certificaat voor is afgegeven. Helaas kan ik dit rapport hier 
 Confidential" is. Bovendien is het dusdanig specifiek over de beveiligingsgaten dat ik bang ben dat ik hiermee schade
 kan berokkenen aan Yealink en Lydis klanten. En dat is nou net niet mijn bedoeling. Maar ik kan wel uit dit rapport 
 stukken aanhalen. En een van de belangrijke zaken is dat TÜV aangeeft dat er geen "significant and widespread security 
-shortcomings" en dat ze dit weten omdat ze volgens de "OWAST Top 10-2018" getest hebben.  
+shortcomings" aanwezig zijn. Ze geven aan dat ze dit weten omdat ze volgens de "OWAST Top 10-2018" getest hebben.  
 Het Web Application Penetration Test rapport van NetSPI heeft ook deze OWAST Top 10 getest en zij komen tot de conclusie 
 dat er een heel aantal vulnerabilities in de clouddiensten zitten. En onder die vulnerabilities zitten ook vier "high
 severity" findings, waaronder:
@@ -122,7 +122,7 @@ onderzoek is uitgevoerd door Yealink of deze ernstige beveiligingsgaten misbruik
 De email van TÜV gaat verder over mijn vraag over de bewoording van het certificaat. Deze bewoording is:
 {{< quote cloudquote >}}the security control and data processing of the tested portal are ensured to be compliant with the GDPR{{< /quote >}}
 
-Ik probeer TÜV hier een beetje te helpen en vraag of dit wellicht een vertaling probleem is en of men bedoelt "the tested 
+Ik probeer TÜV hier een beetje te helpen en vraag of dit wellicht een vertaal probleem is en of men bedoelt "the tested 
 components are not in conflict with the provisions as stated in the GDPR (but not a complete GDPR compliance)?"
 
 TÜV Rheinland reageert alleen terug met het kort, maar o zo krachtige: "Compliance with the GDPR"
@@ -137,7 +137,7 @@ zijn. Ik heb nooit meer informatie over deze twee andere delen mogen ontvangen.
 Maar blijkbaar maakt ook TÜV zich toch wel wat zorgen over mijn graafwerk en ik krijg ineens een, redelijk intimiderend
 telefoontje van iemand die volgens zijn eigen Linkedin aan "(Crisis) Communication" doet. In de (niet-geplande) meeting
 zit ook de eerdere communicatiemanager van TÜV en de crisis-communication man begint het telefoongesprek met de vraag of
-ik het gesprek niet wil opnemen. Ik ga even rechtop zitten, want nu ben ik toch wel heel benieuwd wat er nu gezegd gaat worden.  
+ik het gesprek niet wil opnemen. Ik ga even rechtop zitten, want nu ben ik toch wel heel benieuwd wat er gezegd gaat worden.  
 
 Hij vervolgt om te zeggen dat "all three parts of the certification are not valid anymore". Ik stel de vraag of het certificaat
 "cancelled" of "expired" is. Ik krijg het verwarrende antwoord "both" terug. Ik vraag voor verduidelijking en dan komt het 
@@ -146,7 +146,7 @@ Als ik hem vraag of TÜV een officieel press-statement wil geven wordt het gespr
 man zegt dat hij geen verdere informatie kan geven aan een concurrent van Yealink en dat ze geen media enquiries hebben ontvangen.  
 Ik geef aan dat ik vanaf de allereerste email (via press.tuv.com) duidelijk ben geweest dat ik een onderzoeker ben die gaat
 publiceren. Dit verweer "hoezo ga jij nu ineens publiceren?" kom ik vaker tegen. Zowel Yealink als Lydis voeren dit argument
-regelmatig aan. De reden waarom dit gebeurt kan ik alleen maar naar gissen, maar ik gok dat het komt omdat er aan de communicatie-
+regelmatig aan. Naar de reden waarom dit gebeurt kan ik alleen maar naar gissen, maar ik gok dat het komt omdat er aan de communicatie-
 kant toch af en toe onderschat wordt wat een security probleem voor impact kan hebben. Als ik dan toch tips mag uitdelen:
 als je een onderneming bent en iemand beweert aan een publicatie te werken, neem dit dan serieus. Als je een security 
 onderzoeker bent, vermeldt *altijd* vanaf het allereerste begin waar je mee bezig bent. Zorg dat dit per email gebeurt zodat
@@ -157,12 +157,12 @@ De crisis communication man gaat verder dat hij wil weten of ik een "accredited 
 eigenlijk bedoeld met dat ik een "competitor" ben, omdat ik vanaf het allereerste moment in contact ben geweest met de
 press office van TÜV. Nu gebeurt er iets interessants. Iemand anders van TÜV neemt het gesprek snel over. Het is duidelijk
 dat de crisis-communication man er veel te hard in gaat en hij probeert de zaak duidelijk te sussen. Maar hij herhaalt ook
-dat ze "irritated" zijn en dat als ze geen media enquiry van een accredited media ontvangen dat ze de case closed beschouwen.  
+dat ze "irritated" zijn en dat ze de zaak case closed beschouwen als ze geen media enquiry van een accredited media ontvangen.  
 Een interessant antwoord. Dat betekent dus dat een organisatie als TÜV weigert om verdere informatie te verschaffen over
 basale zaken, zoals datum van intrekken, over het intrekken van een certificaat. Ik denk dat dat wellicht de beste indicatie
 is hoe ongemakkelijk TÜV zelf in deze zaak zit.  
 
-Maar de strekking is duidelijk. Ik ben geen journalist en daarom willen ze niet met mijn praten. Een dag later op 8 
+Maar de strekking is duidelijk. Ik ben geen journalist en daarom willen ze niet met mij praten. Een dag later op 8 
 september stuurt FTM daarom een media verzoek naar TÜV. De, wat emotionele, crisis-communication man reageert terug met een 
 "-external@tuv.com" emailadres.
 {{< quote cloudquote >}}The certificate that you mentioned lost its validity at the point of time when the respective standard ETSI TS 103 645 lost its validity. It is invalid. This can be seen in Certipedia (www.certipedia.com/certificates/50479079?locale=en){{< /quote >}}
@@ -248,7 +248,7 @@ van de UVC30 camera. Wat hier meteen opvalt is dat het nodig is om de
 te installeren. Het is een "indrukwekkend" pakket aan software van meer dan 220Mb. Het lijkt mij een logische stap om dan
 maar eens te gaan kijken wat er nou precies IN die software zit. Met 
 {{< a_blank "MSITools" "https://github.com/GNOME/msitools" >}} pak ik het installatiepakket van Yealink uit en ga zoals 
-gewoonlijk weer met een open mind rondneuzen in de software. En ook hier vallen weer de nodig zaken op:
+gewoonlijk weer met een open mind rondneuzen in de software. En ook hier vallen weer de nodige zaken op:
 - Het software pakket zit vol met open source software zoals NGINX, QT5, SSLeay, zlib, en vele andere pakketten
 - In het software pakket zijn bestanden te vinden als "WebServer.key" en (een onversleutelde) "YRC_centralcontrol.key"
 
