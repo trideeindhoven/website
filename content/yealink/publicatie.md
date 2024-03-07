@@ -41,7 +41,7 @@ twee zijgende mannen. Laten we er van uitgaan dat het om overdreven voorzichtigh
 
 Siem bedankt mij voor de informatie bij het afscheid. We zorgen dat we elkaar via een versleutelde chat kunnen bereiken
 en lopen weer naar buiten. De chat krijgt een Haagse codenaam mee. Het geeft ook wel aan hoe voorzichtig we zijn. Je wil eigenlijk
-te voorzichtig zijn, want als informatie te vroeg of incompleet lekt, dan kan dat het dossier, FTM of mij schade toe doen.  
+te voorzichtig zijn, want als informatie te vroeg of incompleet lekt, dan kan dat het dossier, FTM of mij schade berokkenen.  
 Een aantal dagen later vraagt Siem mij of het goed is als er een tweede journalist bij betrokken raakt. Uiteraard vind
 ik dat geen enkel probleem en zo wordt 
 {{< a_blank "Sebastiaan Brommersma" "https://www.ftm.nl/auteur/sebastiaan-brommersma" >}}
@@ -96,10 +96,10 @@ onduidelijkheden hebben
 over de inhoud van het gesprek. Siem en ik kijken elkaar even aan, halen allebei ons opname apparaat uit de binnenzak, 
 drukken op start en leggen het naast die van Lydis. De schermpjes van de drie opname apparaten laten in sync de waveform
 van onze stemmen zien.  
-Het is goed dat deze vraag gesteld werd. Het blijkt tijdens het later traject wanneer de verhoudingen met Lydis verder 
-verzuurd raken dat het van belang is dat het precies duidelijk is wat er gezegd is
+Het is goed dat deze vraag gesteld werd. Het blijkt tijdens het latere traject, wanneer de verhoudingen met Lydis verder 
+verzuurd raken, dat het van belang is dat het precies duidelijk is wat er gezegd is
 
-Als we de meeting verlaten hebben we een aantal stevige vragen kunnen stellen. Uiteraard krijgen we daar niet ter plekke 
+Als we de meeting verlaten, hebben we een aantal stevige vragen kunnen stellen. Uiteraard krijgen we daar niet ter plekke 
 antwoord op, maar we hebben er wel vertrouwen in dat dat antwoord er nog gaat komen.  
 Na de meeting krijgen we een net mailtje van de algemeen directeur:
 {{< quote cloudemail >}}Naar ons idee was het een goed en prettig gesprek waarin we hopelijk hebben kunnen verduidelijken wat voor soort bedrijven Lydis en Yealink zijn en dat er geen reële veiligheidsrisico’s aan de orde zijn. Ook van jullie kant hebben we niets gehoord wat daarop wijst.{{< /quote >}}
@@ -122,7 +122,7 @@ Journalisten krijgen er ongetwijfeld regelmatig mee te maken, maar ik was best w
 Onafhankelijke journalisten vragen om klanten te overtuigen aangezien het Lydis zelf niet lukt om ongeruste klanten 
 "gerust te stellen".  
 Onverrassend reageert FTM in een net mailtje met "nee". De directeur van Lydis laat het er niet bij zitten en probeert het
-nog een keer, maar faalt ook hier. Geen verrassing eigenlijk  
+nog een keer, maar faalt ook hier. Geen verrassing eigenlijk.  
 
 In de laatste fase van de publicatie gaat alles vrij stormachtig. Er worden lange documenten opgesteld met de status van
 wederhoor bij Lydis, Yealink, TÜV Rheinland en Microsoft. Ook ontstaat er een lang document met de antwoorden die zijn 
@@ -156,7 +156,10 @@ onvolledige lijst van Open Source software. Zij geven hier ruiterlijk toe dat ze
 {{< quote cloudemail >}}Currently, the usage status of OSS for the IP PHONE product line has been disclosed on the official website, and we are still disclosing the usage status of OSS for other products.{{< /quote >}}
 Dit betekent dus alle video apparatuur, USB cams, alle tooling, YMDP, "Configuration Encryption Tool" en de "IP Discovery Tool". 
 Het is een lange lijst aan software en apparatuur waar de OSS niet vermeld wordt en ondanks het antwoord van Yealink
-op 14 september 2023 is deze lijst in maart 2024 nog steeds niet aangevuld.
+op 14 september 2023 is 
+{{< a_blank "deze lijst" "https://www.yealink.com/website-service/download/offer-source-of-open-source-software.pdf" >}}
+{{< a_blank "mirror" "https://web.archive.org/web/20240307205452/https://www.yealink.com/website-service/download/offer-source-of-open-source-software.pdf" >}}
+in maart 2024 nog steeds niet aangevuld.
 
 Lydis heeft op dit moment nog het idee om dit op hun eigen manier zonder advocaat te kunnen oplossen. En dus stuurt de 
 directeur van Lydis opnieuw een email aan FTM met mij in de CC:
@@ -180,7 +183,7 @@ toch *echt* samen met Lydis een reactie op te stellen naar hun klanten toe.
 {{< quote cloudemail >}}Ik wil je ook nog vragen wanneer ik een reactie op mijn mail naar jou kan verwachten over het benaderen van klanten en aangeven dat je klanten gegevens van Lydis hebt ontvangen, wat totaal niet juist is zoals je weet.{{< /quote >}}
 Ik moet het Lydis nageven. Het is lef hebben!
 
-Naar Lydis heeft er zelf ook geen vertrouwen meer in zo blijkt als op 14 september 2023 een aangetekende brief in 
+Maar Lydis heeft er zelf ook geen vertrouwen meer in zo blijkt als op 14 september 2023 een aangetekende brief in 
 Amsterdam bij de directie van FTM wordt afgeleverd.  
 Het is een onsamenhangende brief van een advocaat van AKD N.V. De brief gaat pagina's lang in op het in diskrediet 
 brengen van mij en mijn onderneming. Er worden bewoordingen gebruikt als "hetze van Hermans" en na een lang betoog sluit
@@ -194,12 +197,13 @@ in publicaties op voorhand:
 Het heeft dus alle schijn van dat de definitie van wederhoor van Lydis heel anders is dan die van de
 {{< a_blank "rest van de wereld" "https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/wederhoor" >}}.
 Want het heet niet voor niets wederhoor en niet wederpraat. Dat Lydis tot op de dag van vandaag nog steeds hun eigen 
-definitie aanhoudt van wederhoor blijkt ook wel dat ook ik nu voor deze publicatiereeks weer hetzelfde verzoek krijg.  
+definitie aanhoudt van wederhoor blijkt ook wel uit het feit dat ik, nu ook voor deze publicatiereeks, weer hetzelfde verzoek krijg.  
 
 Het is geen brief die aan mij gericht is en dus kan en wil ik deze hier ook niet beschikbaar stellen, maar ik hoop dat 
-ik met bovenstaande tekststukken heb kunnen duidelijk maken hoe Lydis mij in diskretiet heeft proberen te brengen.  
-Toen Lydis dit is blijven doen ook na de publicatie in FTM met termen als "zelfbenoemde security export" in publicaties in 
-vakbladen heeft mij doen besluiten om met deze serie publicaties te beginnen. Dan maar alles op tafel en dan kan iedereen
+ik met bovenstaande tekststukken duidelijk heb kunnen maken hoe Lydis mij in diskrediet heeft proberen te brengen.  
+Toen Lydis dit stelselmatig is blijven doen, ook na de publicatie in FTM, met termen als "zelfbenoemde security export" 
+doormiddel van publicaties in 
+vakbladen, heb ik besloten om met deze serie publicaties te beginnen. Dan maar alles op tafel en dan kan iedereen
 zijn eigen oordeel vellen over mijn "gebrek aan kennis bij Hermans over hoe SIP-telefonie werkt".  
 
 Het is de avond voor de publicatie. Al het harde werk zit er op. Het is wachten op de release van het artikel. Mijn telefoon
@@ -214,14 +218,14 @@ buitenwereld stille, fase van het verhaal. Stil voor de buitenwereld, maar zeer 
 En tot hier de publicatie over de publicatie. De reden dat ik uitgebreid op het publicatieproces ben ingegaan is omdat
 het, volgens mij, niet vaak gebeurt dat er op deze manier samengewerkt wordt met journalisten om een verhaal naar buiten
 te brengen. Ik denk dat het interessant is om aan te geven hoe zo'n proces gaat en waar het toe gan leiden. Wellicht
-dat er beveiligingsonderzoekers zijn in de toekomst die hier dan iets aan hebben. Als er iets is wat ik geleerd heb is:
+dat er beveiligingsonderzoekers zijn in de toekomst die hier dan iets aan hebben. Als er iets is wat ik geleerd heb is het:
 - Vertel je verhaal. Bitjes en bytes zijn niet te publiceren. Waarom is iets belangrijk? Waarom is het relevant?
 - Ben open en eerlijk. Als je open bent over alles dan kun je ook niet in diskrediet gebracht worden. Er zijn soms zaken 
 die je niet onafhankelijk kunt staven. Dat is heel jammer, maar maak het dan niet mooier dan het is.
 - Controleer al je findings en het liefst: *laat* het controleren. Je wil geen sommatie van 7mln op je deurmat hebben 
 als je iets gepubliceerd hebt wat achteraf niet waar blijkt te zijn.
-- Houd de menselijke maat ook in gedachte. Niet iedereen met vreselijke security maatregelen is een badguy. Er werken 
-echte mensen met echte gezinnen met grote passie aan een product. Niet iedereen duikt er zo diep in als jijzelf. 
+- Houd de menselijke maat ook in gedachte. Niet iedereen met vreselijke security maatregelen is een bad guy. Er werken 
+echte mensen met echte gezinnen met grote passie aan een product. Niet iedereen duikt er zo diep in als jij zelf. 
 Probeer een probleem eerst op te lossen samen met de fabrikant en maak de maatschappij op die manier veiliger. Wat 
 hier is gebeurd is heel ongewenst en een last resort.
 
