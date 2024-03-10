@@ -37,7 +37,7 @@ heeft meer dan een jaar geleden plaatsgevonden. Dus...here we go:
 
 Ten tijde van dit deel van het onderzoek waren er een aantal bedrijven actief rondom Lydis:
 - {{< a_blank "Lydis B.V." "yealink/lydis_kvk.pdf" >}}
-- {{< a_blank "VicRos Holding B.V." "yealink/vicros_kvk.pdf" >}}
+- {{< a_blank "VicRos Holding B.V." "yealink/vicros_kvk_redacted.pdf" >}}
 - {{< a_blank "Dylis Beheer B.V." "yealink/Dylis_kvk.pdf" >}}
 
 In Nederland (en waarschijnlijk ook in de rest van Europa) hebben we 
@@ -55,13 +55,13 @@ En dan komt er ineens een, voor velen in de industrie, onverwachts bericht: Lydi
 {{< a_blank "door AplusK" "https://www.aplusk.nl/nl/nieuws/aplusk-neemt-meerderheidsbelang-in-lydis" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20220729074726/https://www.aplusk.nl/nl/nieuws/aplusk-neemt-meerderheidsbelang-in-lydis" >}}. 
 Mijn reactie en die van een aantal mensen in de industrie die ik sprak was: wie? Ik moest nu natuurlijk meer weten over 
-{{< a_blank "AplusK" "yealink/aplusk_kvk.pdf" >}}. En schokkend genoeg valt hier op dat in december 2022 de laatst definitief 
+{{< a_blank "AplusK" "yealink/aplusk_kvk_redacted.pdf" >}}. En schokkend genoeg valt hier op dat in december 2022 de laatst definitief 
 gedeponeerde jaarrekening uit 2012 is. Bovendien is het balanstotaal op de laatst gerapporteerde balans 3.9mln euro. Wat is 
 hier nu aan de hand? Uit het niets neemt een onderneming met een balanstotaal van 3.9mln euro de BeNeLux marktleider (70% 
 marktaandeel) over. Dit terwijl alleen al de voorraad van Lydis 7.5mln euro is.  
 
 Uit de lijst van Frans klinkende bestuurders word ik niet veel wijzer, maar uit de concernrelaties blijkt al snel dat de 
-"controleplichtige" {{< a_blank "BIS B.V." "yealink/BIS_20230724.pdf" >}} meerderheids aandeelhouder van AplusK B.V. is.  
+"controleplichtige" {{< a_blank "BIS B.V." "yealink/BIS_20230724_redacted.pdf" >}} meerderheids aandeelhouder van AplusK B.V. is.  
 En ook de jaarstukken van BIS B.V. roepen de nodige vragen op:
 - Jaarstukken die jaren na einde boekjaar worden gedeponeerd.
 - Meerdere kwartalen tussen het vaststellen van jaarstukken en het deponeren hiervan.
@@ -69,7 +69,7 @@ En ook de jaarstukken van BIS B.V. roepen de nodige vragen op:
 - Een gemiddeld salaris over alle 115 werknemers van 87.000 euro.  
 
 Mijn zoektocht gaat verder en ik kom terecht bij de volgende holding: 
-{{< a_blank "AVS Holding B.V." "yealink/AVS Holding B.V._kvk.pdf" >}}  
+{{< a_blank "AVS Holding B.V." "yealink/AVS Holding B.V._kvk_redacted.pdf" >}}  
 Wederom kom ik dezelfde Franse namen tegen bij de bestuurders, maar ook deze onderneming met een geplaatst kapitaal van 
 1 euro lijkt 
 mij nou niet echt een kandidaat voor het overnemen van een marktleider in de telecom sector. Dat deze firma sinds haar 
