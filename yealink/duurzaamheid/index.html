@@ -140,6 +140,13 @@
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
     <h1 class="title text-5xl mb-4">Duurzaamheid</h1>
     <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Hernoemen naar betrouwbaarheid/continuïteit?</p>
+<p>I have added international translations of the articles using google translate:</p>
+<p><a href="https://cloudaware-eu.translate.goog/yealink/duurzaamheid/?_x_tr_sl=nl&amp;_x_tr_tl=en&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/united-kingdom-flag-icon.svg" alt="EN" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a>
+<a href="https://cloudaware-eu.translate.goog/yealink/duurzaamheid/?_x_tr_sl=nl&amp;_x_tr_tl=de&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/germany-flag-icon.svg" alt="DE" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a>
+<a href="https://cloudaware-eu.translate.goog/yealink/duurzaamheid/?_x_tr_sl=nl&amp;_x_tr_tl=fr&amp;_x_tr_hl=nl&amp;_x_tr_pto=wapp"><img src="https://trideeindhoven.github.io/website/img/uxwing/france-flag-icon.svg" alt="FR" style="margin-top:5px;margin-bottom:5px;width:50px;" >
+</a></p>
 <p>sommaties, ook aan prive persoon
 bereid om mijn leven kapot te maken
 niet aan regels voldoen</p>
@@ -185,6 +192,62 @@ Lijst met open source software (incompleet)
 &ldquo;Waarom bevat de Yealink software open source software?
 Yealink heeft haar eigen software heeft geschreven voor de open source modules. Deze software zorgt ervoor dat de veiligheid van het complete product gegarandeerd is.&rdquo;</p>
 <h1 id="api">API</h1>
+<p>In maart 2023 ben ik bezig om een python koppeling te maken met de
+
+<a target="_blank" href="https://support.yealink.com/forward2filesystem/attachment/upload/attachment/2019-2-26/5/fe3701af-d78e-4f6c-b78f-7148e6f5aad8/Yealink_Json_API_for_RPS_Management_Platform.pdf">API</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240311202534/https://support.yealink.com/forward2filesystem/attachment/upload/attachment/2019-2-26/5/fe3701af-d78e-4f6c-b78f-7148e6f5aad8/Yealink_Json_API_for_RPS_Management_Platform.pdf">mirror</a> <i class="fa fa-external-link"></i>
+
+van de
+
+<a target="_blank" href="https://www.yealink.com/en/onepage/yealink-free-remote-provisioning-service">Yealink RPS</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20231004172859/https://www.yealink.com/en/onepage/yealink-free-remote-provisioning-service">mirror</a> <i class="fa fa-external-link"></i>
+.
+De Redirection and Provisioning Service (RPS) is de dienst waar dit onderzoek mee begonnen is. Het is de dienst waar alle
+apparatuur van Yealink contact mee maakt bij het opstarten. Deze RPS dienst vertelt het apparaat (videobar of telefoon)
+vervolgens waar de configuratie voor dit apparaat te vinden is.</p>
+<p>Het is mijn doel om mijn eigen provisioning servers te koppelen aan de RPS van Yealink zodat MAC <!-- raw HTML omitted --> addressen van telefoons
+automatisch aan mijn eigen servers gekoppeld worden. Een REST API heeft zogenaamde endpoints. Dit is functionaliteit die
+gebruikt kan worden. Een van deze endpoints is /api/open/v1/device/list en deze kan gebruikt worden voor &ldquo;Viewing the
+Device Information&rdquo;. Als test voer ik een POST request uit naar dit endpoint en ik krijg inderdaad een lijst terug
+van Yealink devices die door mijn bedrijf beheerd worden. Het is wat vreemd dat dit een POST request moet zijn. Ik zou
+zelf verwachten bij een REST API dat dit een GET request zou zijn. Voor de niet-technici onder ons: een POST request
+wordt op het internet gebruikt om een object aan te maken (&ldquo;Voeg een apparaat toe aan de RPS&rdquo;) een GET request
+zal worden gebruikt om informatie over een object op te halen (&ldquo;Laat mij alle informatie zien van dit apparaat&rdquo;).</p>
+<p>Maargoed. Het &ldquo;list device&rdquo; endpoint dus. Ik krijg heel veel informatie terug als ik dit endpoint opvraagd, maar wat mij
+ook opvalt is dat er reseller informatie terug komt van de API. Zo kan ik zien waar dit apparaat ooit verkocht is. Nu is
+dit in Nederland door het monopolie op VoIP toestellen niet zo interessant&hellip;of toch wel?<br>
+In de reseller informatie staat het volgende:</p>
+<pre><code>    &quot;resellerId&quot;: &quot;306&quot;,
+    &quot;resellerName&quot;: &quot;Lydis <font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font>&quot;,
+</code></pre>
+<p>En inderdaad: dat is de volledige naam van de algemeen directeur van Lydis die hier terug komt. Ik vind dit nogal apart
+dus ik schrijf hem op 14 maart 2023 een email bericht:</p>
+
+<blockquote class="cloudemail">
+Nog even wat aanvullende informatie:<br/>Als ik voor "Lydis" mac adressen gegevens opvraag aan YMCS via de API, dan krijg ik de volgende gegevens terug:<br/><br/>        "resellerId": "306",<br/>        "resellerName": "Lydis *********",<br/><br/>Uiteraard niets illegaals oid, maar ik neem aan dat het niet de bedoeling is dat je persoonlijk genoemd wordt in de API van Yealink?<br/>
+</blockquote>
+
+<p>Nog diezelfde dag komt hij met een geschrokken antwoord:</p>
+
+<blockquote class="cloudquote">
+Ok ,ik schrik hier van,ga er aan werken<br/><span><font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font>, algemeen directeur Lydis</span><br/>
+</blockquote>
+
+<p>en 10 minuten later laat ook de technisch directeur van Lydis per email van zich horen:</p>
+
+<blockquote class="cloudquote">
+Het lijkt ons inderdaad niet nodig dat deze naam ook in de API genoemd wordt.<br/>We gaan het laten aanpassen.<br/><span><font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font>, technisch directeur Lydis</span><br/>
+</blockquote>
+
+<p>Zoals ik ook al in het email bericht zei: ik denk niet dat dit iets illegaals is, maar het laat maar weer zien hoe
+weinig er door Lydis aan controle gedaan wordt. Maar het laat ook zien dat ik ook op dit vlak zaken aan Lydis heb gemeld.
+En we hebben dit soort persoonlijke zaken ook uit het artikel in FTM gehouden. En als Lydis niet stelselmatig en regelmatig
+met artikelen naar buiten waren gekomen over het artikel, mij en mijn bedrijf dan was dit ook nooit naar buiten gekomen.
+De reden dat ik dit nu wel doe is om te laten zien wat voor support Lydis meer dan een jaar van mij heeft gehad.</p>
 <p>Persoonsgegevens
 14-3-2023
 
