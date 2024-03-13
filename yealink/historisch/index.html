@@ -156,7 +156,7 @@ de tijd gaat.</p>
 
 <a target="_blank" href="https://web.archive.org/web/20240306181308/https://www.lydis.nl/over-ons/yealink-security-faq">mirror</a> <i class="fa fa-external-link"></i>
 
-van Lydis worden de producten onafhankelijk getest en dat deze testhuizen
+van Lydis worden de producten onafhankelijk getest en deze testhuizen
 
 <blockquote class="cloudquote">
 komen tot de conclusie dat er "geen kwetsbaarheden" te vinden zijn.
@@ -173,7 +173,7 @@ heet
 <a target="_blank" href="https://web.archive.org/web/20230223063802/https://www.slideshare.net/sleepycal/auto-provisioning-sucks">mirror</a> <i class="fa fa-external-link"></i>
 
 en dat is natuurlijk al een behoorlijk pakkende titel.</p>
-<p>En meteen aan het begin van de presentatie verwoord hij het in niet al te voorzichtige woorden:
+<p>En meteen aan het begin van de presentatie verwoordt hij het in niet al te voorzichtige woorden:
 
 <blockquote class="cloudquote">
 how would you feel if..<br/>- You found a vulnerability that allows malicious user to extract user creds remotely with no authentication<br/>- Your supplier was shipping you vuln devices by default<br/>- The vendor did not fix the problem entirely<br/>- All your customers were affected<br/><br/>This is the BS I had to deal with in June 2012 
@@ -187,7 +187,7 @@ Disclosed June 2012, patched Aug 2012, problem still exists
 </p>
 <p>Dat klinkt niet echt alsof er in 2012 &ldquo;geen kwetsbaarheden&rdquo; waren in Yealink apparatuur. En in zijn presentatie wordt het
 ook maar al te duidelijk dat de RPS een centrale rol in de problemen speelt&hellip;Toen ook al.</p>
-<p>Wat verder ook opvalt in zijn presentatie dat het toen ook al kinderlijk eenvoudig was om de
+<p>Wat verder ook opvalt in zijn presentatie is dat het toen ook al kinderlijk eenvoudig was om de
 <a href="https://trideeindhoven.github.io/website/yealink/firmware/">firmware uit te lezen</a>. Iets waar ik in een eerder artikel ook al over geschreven heb.
 Daar lijkt in 12 jaar tijd dan bijzonder weinig in gewijzigd te zijn.</p>
 <p>Hij sluit zijn presentatie af met de woorden
@@ -213,8 +213,8 @@ het bericht naartoe heb gestuurd.</p>
 <a target="_blank" href="https://web.archive.org/web/20230506103652/https://www.heise.de/news/Grave-Vulnerabilities-Discovered-in-Yealink-s-VoIP-Services-4654617.html">mirror</a> <i class="fa fa-external-link"></i>
 .
 Het artikel is 8 jaar na de presentatie van Cal Leeming gedateerd, maar ook in dit artikel zijn de onderzoekers niet
-heel positief over de beveiliging van de RPS service van Yealink. Ik begin het artikel te lezen en mijn vermoeden wordt
-bevestigd dat de beveiligingsproblemen zich in een groot deel van het portfolio voordoet.</p>
+heel positief over de beveiliging van de cloud service van Yealink. Ik begin het artikel te lezen en mijn vermoeden wordt
+bevestigd dat de beveiligingsproblemen zich in een groot deel van het portfolio voordoen.</p>
 
 <blockquote class="cloudquote">
 VTrust’s research indicates that the company’s entire product line is susceptible to the flaws<br/><span>Heise.de</span>
@@ -228,7 +228,7 @@ hebben kunnen &ldquo;swipen&rdquo;, waaronder</p>
 users‘ login credentials, phone books, caller lists, programmed shortcuts and other user-specific information by hijacking the service.
 </blockquote>
 
-<p>Het klinkt bijzonder ernstig en het bevestigd het sterke vermoeden wat ik zelf al had. Hier wil ik natuurlijk meer van weten
+<p>Het klinkt bijzonder ernstig en het bevestigt het sterke vermoeden wat ik zelf al had. Hier wil ik natuurlijk meer van weten
 en ik neem contact op met Vtrust. In een online meeting spreek ik met de twee oprichters van het bedrijf uit een dorpje
 vlakbij Frankfurt. Zij zijn niet verbaasd dat ik ook tegen problemen in de beveiliging van Yealink ben gelopen. Ik vraag
 hen hoe ze eigenlijk weten dat ze aan die gevoelige gegevens kunnen komen. Trots vertellen ze mij dat ze een python script
@@ -241,10 +241,10 @@ certificaat&rdquo; om verbinding te maken met de RPS dienst van Yealink on-the-f
 doen, want hier zullen ze toch een root certificaat voor nodig hebben wat door de RPS server van Yealink vertrouwd wordt.<br>
 Even is het stil en dan geven ze toe dat ze dit certificaat hebben gevonden in de Android firmware van Yealink. Opnieuw
 een gelekt certificaat dus.</p>
-<p>We besluiten de meeting op een hartelijke manier en spreken af om in contact te blijven. De volgende week neem ik weet
-contact met hen op met aanvullende vragen. Meteen aan begin van het gesprek is de toon bijzonder defensief. Ze hebben
+<p>We besluiten de meeting op een hartelijke manier en spreken af om in contact te blijven. De volgende week neem ik weer
+contact met hen op met aanvullende vragen. Meteen aan het begin van het gesprek is de toon bijzonder defensief. Ze hebben
 contact gehad met Yealink geven ze aan en ze hebben geen vertrouwen dat ik ter goede trouw handel. Ik geef aan dat ik
-daar best aan wil werken zodat dat vertrouwen er weer komt. Ik stel voor om hen in contact te brengen met FTM. Het lijkt
+daar best aan wil werken zodat dat vertrouwen er wel komt. Ik stel voor om hen in contact te brengen met FTM. Het lijkt
 mij een goede stap om te laten zien dat ik geen kwaadaardige hacker ben die hun bevindingen wil misbruiken. Maar de
 boodschap is duidelijk: er is geen vertrouwen en ze willen niet meer met mij praten.<br>
 Verbijsterd leg ik de telefoon neer en vraag me af wat hier nou eigenlijk besproken is met Yealink. Ik zal er nooit
@@ -290,7 +290,7 @@ Het valt op dat deze pagina redelijk leeg is. Het Yealink management platform he
 
 
 <a target="_blank" href="https://web.archive.org/web/20240111192244/https://www.yealink.com/en/trust-center/security-advisories/yealink-device-management-ssrf-vulnerability">mirror</a> <i class="fa fa-external-link"></i>
-.
+ er bij te nemen en te bestuderen.
 In de advisory is te lezen dat het behoorlijk fout is gegaan:
 
 <blockquote class="cloudemail">
@@ -312,6 +312,9 @@ Het blijkt ook een CVE te zijn voor het Device Management platform van Yealink. 
 Bijna de hoogste score dus. En aan deze CVE is een
 
 <a target="_blank" href="https://ssd-disclosure.com/ssd-advisory-yealink-dm-pre-auth-root-level-rce/">externe vulnerability disclosure gekoppeld</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20231203114407/https://ssd-disclosure.com/ssd-advisory-yealink-dm-pre-auth-root-level-rce/">mirror</a> <i class="fa fa-external-link"></i>
 .
 De Vulnerabity Disclosure laat een kinderlijk eenvoudige omzeiling van de authenticatie zien waar niet veel meer voor nodig
 is dan curl.<br>
@@ -324,7 +327,7 @@ deniability bijzonder interessant.</p>
 
 
 <a target="_blank" href="https://web.archive.org/web/20240311224749/https://www.yealink.com/en/trust-center/security-advisories">mirror</a> <i class="fa fa-external-link"></i>
-.
+
 op de website van Yealink zelf. Hier vallen meteen een aantal zaken op.<br>
 Het is een redelijk kort lijstje en de links leiden naar de interne disclosure pagina&rsquo;s van Yealink. Maar, zo lijkt het
 op het moment dat een vulnerability spannend wordt, dan is het lastiger om een CVE te vinden. Een van de
@@ -343,7 +346,10 @@ The Yealink Meeting Server file upload interface is vulnerable to OS command inj
 Nou heb ik in een ver verleden nog wel eens colleges gegeven op een Hogeschool en als studenten met zoiets aan kwamen
 zetten dan was dat niet bevorderlijk voor hun punt. De advisory vermeldt verder: &ldquo;CVE Number: NA&rdquo;. Nu kunnen we met een
 recente advisory aannemen dat er <em>nog</em> geen CVE nummer gepubliceerd is. Maar dat is natuurlijk niet zo, want er is allang
-een CVE nummer toegewezen en wel: CVE-2024-24091.<br>
+een CVE nummer toegewezen en wel:
+
+<a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2024-24091">CVE-2024-24091</a> <i class="fa fa-external-link"></i>
+.<br>
 Hoewel vrijwel elke advisory een link naar de CVE bevat is dat bij de advisory over de
 
 <a target="_blank" href="https://www.yealink.com/en/trust-center/security-advisories/yealink-ip-phone-directory-traversal-vulnerability">Yealink IP Phone Directory Traversal Vulnerability</a> <i class="fa fa-external-link"></i>
@@ -356,7 +362,7 @@ niet het geval. Een korte zoektocht laat zien dat het niet een CVE is
 <a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2020-24113">om trots op te zijn</a> <i class="fa fa-external-link"></i>
 . De CVE krijgt een CVS Score van
 9.1 Critical mee. Het is toevallig dat juist deze CVE geen link vanuit de website van Yealink heeft.</p>
-<p>Maar deze advisory pagina is op meerdere manier apart te noemen. Voor verschillende CVE&rsquo;s worden (interne?) CVE nummers
+<p>Maar deze advisory pagina is op meerdere manieren apart te noemen. Voor verschillende CVE&rsquo;s worden (interne?) CVE nummers
 gebruikt die niet vindbaar zijn op het internet. Zo zie ik een CVE nummer
 
  <a target="_blank" href="https://www.yealink.com/en/trust-center/security-advisories/30a6a00b46324ecc">YVD-2024-1298699</a> <i class="fa fa-external-link"></i>
@@ -365,7 +371,7 @@ gebruikt die niet vindbaar zijn op het internet. Zo zie ik een CVE nummer
 <a target="_blank" href="https://web.archive.org/web/20240313132843/https://www.yealink.com/en/trust-center/security-advisories/30a6a00b46324ecc">mirror</a> <i class="fa fa-external-link"></i>
 .
 Nu vind ik het al bijzonder eng als je interne CVE nummers 7 digits per jaar nodig hebben, maar dat is een ander vraagstuk.
-De CVE heeft als titel &ldquo;Yealink device management platform Unauthorized RCE vulnerability&rdquo;. Als ik de CVE ga lezen zie
+De advisory heeft als titel &ldquo;Yealink device management platform Unauthorized RCE vulnerability&rdquo;. Als ik de advisory ga lezen zie
 ik in de summary staan:
 
 <blockquote class="cloudquote">
@@ -392,7 +398,7 @@ Het is duidelijk dat ik
 
 <a target="_blank" href="https://hackmd.io/@tahaafarooq/auth_rce_voip">de enige</a> <i class="fa fa-external-link"></i>
 
-ben die vragen stelt bij Yealink security, maar Yealink en Lydis zorgen er op verschillende manieren dat het vulnerability
+ben die vragen stelt bij Yealink security, maar Yealink en Lydis zorgen er op verschillende manieren voor dat het vulnerability
 disclosure proces gefrustreerd wordt, waardoor transparantie ver te zoeken is. Ik denk dat het goed is om dat in gedachten
 te houden bij het lezen van de
 
@@ -409,7 +415,7 @@ Yealink scoort positief op cvedetails en blijft voortdurend investeren in het ve
 <br>
 En dat is een interessante uitspraak. En dan heb ik het niet over een &ldquo;scoort positief op cvedetails&rdquo;. Die laat ik maar even
 varen. Dan heb ik het over de onafhankelijke controles van o.a. NetSPI.</p>
-<p>Tijdens een van mijn eerste emails met de technisch directeur van Lydis breng ik dit ook ter sprake. Hij geeft aan dat
+<p>Tijdens een van mijn eerste emails met de technisch directeur van Lydis in 2022 breng ik dit ook ter sprake. Hij geeft aan dat
 alles extern getest wordt en hij stuurt mij als bewijs het rapport op van NetSPI. Op de website van Yealink staat de
 
 <a target="_blank" href="https://web.archive.org/web/20231023195308/https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20230711/20230711055726204cc9361774cb1909c483a8eebf7ef.pdf">samenvatting van het rapport</a> <i class="fa fa-external-link"></i>
@@ -425,7 +431,7 @@ Maar wat deze recommendations nou precies zijn geweest is nergens weergegeven. I
 best wel wat gewicht kan geven aan de security van het product. Maar&hellip; de technisch directeur van Lydis stuurt mij het
 penetration test rapport van NetSPI op. Helaas kan ik dit document hier niet delen omdat op elke pagina duidelijk
 vermeld staat dat het document &ldquo;Proprietary &amp; Confidential&rdquo; is. Maar dat het goed mis is met de centrale clouddiensten
-van Yealink is duidelijk. Het rapport tien vulnerabilities. En onder die vulnerabilities zitten ook vier &ldquo;high
+van Yealink is duidelijk. Het rapport beschrijft tien vulnerabilities. En onder die vulnerabilities zitten ook vier &ldquo;high
 severity&rdquo; findings, waaronder:</p>
 <ul>
 <li>A1 - Injection</li>
@@ -436,10 +442,15 @@ severity&rdquo; findings, waaronder:</p>
 <p>Het moet gezegd worden dat, volgens het NetSPI rapport deze findings allemaal opgelost zijn, maar de technische details
 laten een kinderlijk eenvoudige manier zien om authenticatie volledig te omzeilen. Omzeilen van authenticatie&hellip;waar hadden
 we dat ook al weer eerder gezien? Een lijn begint zich af te tekenen.<br>
-De clouddiensten van Yealink worden door alle klanten (ook Teams!) van Yealink gebruikt. Het is mij niet bekend of er nadien
-onderzoek is uitgevoerd door Yealink of deze ernstige beveiligingsgaten misbruikt zijn.</p>
-<p>Na de sommaties is de communicatie tussen mij en Yealink en Lydis even wat minder. Als ik begin 2024 op LinkedIn aankondig
-dat ik mijn dossier op internet ga publiceren gebeuren er een aantal zaken. Veel mensen die interactie hebben op mijn LinkedIn
+De clouddiensten van Yealink worden door alle klanten (ook Teams!) van Yealink gebruikt. Dit is door een onafhankelijke
+onderzoeker van een Nederlandse universiteit bevestigd. Het is mij niet bekend of er nadien onderzoek is uitgevoerd door
+Yealink of deze ernstige beveiligingsgaten misbruikt zijn. Zo bestond er blijkbaar al 2 jaar een CVE reservering voor
+de gelekte RSA sleutel zonder dat dit tot een disclosure heeft geleid.</p>
+<p>Na de sommaties is de communicatie tussen mij en Yealink en Lydis even wat minder. Als ik begin 2024 op
+
+<a target="_blank" href="https://www.linkedin.com/posts/jeroenhermans_beste-volger-het-is-in-de-afgelopen-maanden-activity-7153007672601055232-3ILE">LinkedIn</a> <i class="fa fa-external-link"></i>
+
+aankondig dat ik mijn dossier op internet ga publiceren gebeuren er een aantal zaken. Veel mensen die interactie hebben op mijn LinkedIn
 posts krijgen&hellip;extra aandacht van Lydis. En in het bijzonder van de technisch directeur van Lydis. Een hooggeplaatste
 overheidsambtenaar in mijn netwerk reageert naar hem:
 
@@ -450,7 +461,7 @@ overheidsambtenaar in mijn netwerk reageert naar hem:
 De technisch directeur reageert met een (naar later blijkt) gestandaardiseerd bericht:
 
 <blockquote class="cloudquote">
-Hallo <font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font>,<br/><br/>We zijn elkaar waarschijnlijk nog niet eerder tegengekomen, maar ik zou mijn netwerk graag willen uitbreiden met mensen<br/>uit de cybersecurity, CISO markt omdat we zien dat dit steeds meer raakvlakken heeft met producten die wij distribueren. <br/>Via gezamelijke contacten kwam ik jou naam tegen en vandaar heb ik je een uitnodiging gestuurd.<br/><br/>Met vriendelijke groeten,<br/><font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font><br/>
+Hallo <font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font>,<br/><br/>We zijn elkaar waarschijnlijk nog niet eerder tegengekomen, maar ik zou mijn netwerk graag willen uitbreiden met mensen uit de cybersecurity, CISO markt omdat we zien dat dit steeds meer raakvlakken heeft met producten die wij distribueren. <br/>Via gezamelijke contacten kwam ik jou naam tegen en vandaar heb ik je een uitnodiging gestuurd.<br/><br/>Met vriendelijke groeten,<br/><font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font><br/>
 </blockquote>
 </p>
 <p>Ik spreek meerdere mensen die een reactie ontvangen van deze man die vrijwel identiek is. Het lijkt dus om een template
@@ -463,13 +474,14 @@ Maar niet lang hierna benadert Lydis iemand uit mijn netwerk en huurt hem in om 
 op het gebied van cybersecurity. Deze persoon contacteert mij meteen en vertelt het mij voordat ik het via een andere weg
 hoor. We besluiten dat het beter is dat we vanaf dat moment de zaak niet meer met elkaar bespreken omdat het een conflict
 of interest is.</p>
-<p>Op 14 februari komt de video boodschap naar buiten waarin ik uitleg wat er allemaal is gebeurd en wat ik in de komende
+<p>Op 14 februari 2024 komt de
+<a href="https://trideeindhoven.github.io/website/yealink/video_boodschap/">video boodschap</a> naar buiten waarin ik uitleg wat er allemaal is gebeurd en wat ik in de komende
 periode zal gaan publiceren. En zo gebeurt het dat ik de dag na de videoboodschap in een Teams meeting zit samen met de
 technisch directeur van Lydis. Lydis
 wil van deze affaire leren en aan hun transparantie werken. Ik vraag of het dan ook de bedoeling is om te gaan bevestigen
 dat het versturen van sommaties aan mij een vergissing was en dat er geen intentie is om een Nederlandse beveiligingsonderzoeker
 die nooit een geheim heeft gemaakt van zijn identiteit en bedoelingen aan te klagen. Het verbijsterende antwoord is dat
-Lydis dat niet kan doen, omdat Lydis mij niet vertrouwd en dat vertrouwen moet eerst groeien.<br>
+Lydis dat niet kan doen, omdat Lydis mij niet vertrouwt en dat vertrouwen moet eerst groeien.<br>
 De security expert uit mijn netwerk die nu voor Lydis werkt stelt voor dat ik mijn publicaties deel voor de publicatiedatum.
 Ik vraag nog tijdens de meeting aan mijn advocaat die ook in de meeting zit of dit wellicht een risico voor mij kan
 opleveren. Als hij aangeeft dat dit niet het geval is en dat hij hier geen problemen mee heeft stem ik toe. Die middag
@@ -490,8 +502,8 @@ We hebben dit eerder gezien waarbij Lydis <a href="https://trideeindhoven.github
 van FTM. Gezien de precaire juridische situatie bedank ik hier voor. Lydis heeft namelijk hier ook al iemand voor ingehuurd
 uit mijn eigen netwerk die hier waarschijnlijk een van de beste in Nederland in is.</p>
 <p>In de weken die volgen komen er maar weinig concrete stappen die wijzen op de voorgenomen transparantie. Een van de
-vragen die ik aan Lydis heb gesteld is waar de GDPR claims op gebaseerd zijn? Op hun website en tijdens webinars
-laat Lydis duidelijk weten dat zij GDPR gecertificeerd zijn. Nadat ik wekenlang geen antwoord krijg op deze basale vragen
+vragen die ik aan Lydis heb gesteld is waar de GDPR claims op gebaseerd zijn. Op hun website en tijdens webinars
+laat Lydis duidelijk weten dat Yealink apparatuur GDPR gecertificeerd is. Nadat ik wekenlang geen antwoord krijg op deze basale vragen
 laat ik Lydis weten dat ik onze overeenkomst voor het delen van publicaties ga pauzeren omdat het op een eenzijdige afspraak
 begint te lijken.<br>
 Maar zo geeft hij aan:
@@ -502,16 +514,17 @@ We kunnen je informeren dat Lydis voornemens is om, naar breed geaccepteerde CVD
 
 Dat is in elk geval fijn om te horen, maar op het moment dat Lydis het woord &ldquo;norm&rdquo; gebruikt, dan ga ik toch even wat rechter
 op zitten. Dus ik vraag om verduidelijking:</p>
-
+<p>
 <blockquote class="cloudemail">
 Ik ben enthousiast over het initiatief van Lydis om vanaf nu de CVD normen te volgen. Helaas kan ik geen CVD / responsible disclosure procedure op jullie website vinden. Ook is er geen security.txt beschikbaar op jullie website. Het is mij dan ook niet helemaal duidelijk wat jullie definitie van "breed geaccepteerde CVD normen" is. Kunt u dit verduidelijken?
 </blockquote>
 
+Ik krijg het volgende antwoord terug:
 
 <blockquote class="cloudquote">
 Wat betreft de vraag over de CVD-normen die we voornemens zijn om te volgen, hebben we in de praktijk te maken met Yealink die als fabrikant de issues afhandelt. Yealink heeft zelf een Vulnerability Disclosure Policy gepubliceerd: https://www.yealink.com/en/trust-center/resources waar jij ook gebruik van kunt maken.<br/><br/>Het heeft nog wat tijd nodig voordat Lydis haar eigen beleid kan publiceren, maar we ondersteunen en volgende deze manier van aanpak in principe nu al wel.<br/><span>technisch directeur Lydis</span>
 </blockquote>
-
+</p>
 <p>Dit mag geen verrassend antwoord heten. En dus duik ik in de
 
 <a target="_blank" href="https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20230718/2023071801063423643ed8be449a48cef9595e4903e27.pdf">Yealink Vulnerability Disclosure Policy</a> <i class="fa fa-external-link"></i>
