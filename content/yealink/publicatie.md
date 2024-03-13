@@ -234,3 +234,5 @@ beveiligingsonderzoekers die eerder met Yealink zijn bezig geweest? Kun je CVE's
 rapporten die Yealink trots presenteert? En lekt de YMCS nu persoonsdata van de directeur van Lydis?
 
 Tot dinsdag!
+
+[Naar het volgende artikel]({{< ref "historisch" >}})
