@@ -269,35 +269,163 @@ We would appreciate if you could respond to us in writing as to whether you are 
 <p>In plaats van alleen naar China te wijzen is het volledige, zeer gedetailleerde, rapport bij de brief gevoegd.<br>
 De conclusies in het rapport zijn keihard:
 
-<blockquote class="cloudquote">
-The Yealink Device Management Platform (YDMP) is a source of significant vulnerability and threat to any VoIP systems operator or company that relies upon it
+<blockquote class="cloudemail">
+<br/>- The Yealink Device Management Platform (YDMP) is a source of significant vulnerability and threat to any VoIP systems operator or company that relies upon it<br/>- The T54W exhibits poor security behavior when installed in its default configuration on a standard VoIP network<br/>- The Yealink IP phone, as designed and as the firmware is implemented, provides the ability for a malicious 3rd party, with access to the phone’s network, to conduct a Man-In-The-Middle (MITM) attack on the customer phone/network with plausible deniability on the part of Yealink.<br/>
 </blockquote>
-</p>
-<ul>
-<li>
-<p>Amerikaanse congres</p>
-</li>
-<li>
-<p>Verzonnen CVE nummers
-Maar heel weinig
-<a href="https://www.lydis.nl/over-ons/yealink-security-adviezen">https://www.lydis.nl/over-ons/yealink-security-adviezen</a>
-<a href="https://web.archive.org/web/20240306181049/https://www.lydis.nl/over-ons/yealink-security-adviezen">https://web.archive.org/web/20240306181049/https://www.lydis.nl/over-ons/yealink-security-adviezen</a></p>
-</li>
-</ul>
-<p>Yealink:
-<a href="https://www.yealink.com/en/trust-center/security-advisories">https://www.yealink.com/en/trust-center/security-advisories</a>
-<a href="https://web.archive.org/web/20240311224749/https://www.yealink.com/en/trust-center/security-advisories">https://web.archive.org/web/20240311224749/https://www.yealink.com/en/trust-center/security-advisories</a></p>
-<p>Advisories die met &ldquo;YVD&rdquo; beginnen</p>
-<p><a href="https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=yealink">https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=yealink</a></p>
-<p><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-24681">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-24681</a> AES sleutel voor mij
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-48625">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-48625</a> was nog niet gepubliceerd</p>
-<ul>
-<li>NetSPI
-yealink/Yealink YMCS Penetration Test Report by NetSPI.pdf
-Interessant dat er alleen gesproken wordt DAT er een test is gedaan, maar niet wat de uitkomt was.</li>
-</ul>
-<p>et Web Application Penetration Test rapport van NetSPI heeft ook deze OWAST Top 10 getest en zij komen tot de conclusie
-dat er een heel aantal vulnerabilities in de clouddiensten zitten. En onder die vulnerabilities zitten ook vier &ldquo;high
+
+En hier zien we een aantal zaken terug komen die we in eerdere artikelen van mij ook terug zagen komen. De matige
+default instellingen hebben we het over gehad in het artikel over de <a href="https://trideeindhoven.github.io/website/yealink/open_poort/">open poort</a>. Het is ook interessant te zien dat de plausible deniability hier genoemd wordt. Dit is een uitspraak die ik ook te horen kreeg van
+een cryptografie expert waar ik over schreef in het artikel over de <a href="https://trideeindhoven.github.io/website/yealink/publicatie/">publicatie</a>.</p>
+<p>Maar ik ben eigenlijk ook geïnteresseerd in hoe Lydis en Yealink zelf vulnerabilities bekend maken. Ik ga naar de website
+van Lydis en bezoek de pagina over
+
+<a target="_blank" href="https://www.lydis.nl/over-ons/yealink-security-adviezen">security adviezen</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240306181049/https://www.lydis.nl/over-ons/yealink-security-adviezen">mirror</a> <i class="fa fa-external-link"></i>
+.
+Het valt op dat deze pagina redelijk leeg is. Het Yealink management platform heeft maar één enkele CVE (CVE-2021-27561). Ik besluit de
+
+<a target="_blank" href="https://www.yealink.com/en/trust-center/security-advisories/yealink-device-management-ssrf-vulnerability">advisory</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240111192244/https://www.yealink.com/en/trust-center/security-advisories/yealink-device-management-ssrf-vulnerability">mirror</a> <i class="fa fa-external-link"></i>
+.
+In de advisory is te lezen dat het behoorlijk fout is gegaan:
+
+<blockquote class="cloudemail">
+Yealink Device Management allows command injection as root via the /sm/api/v1/firewall/zone/services URI, without authentication.
+</blockquote>
+
+Ik besluit op de link naar CVE-2021-27561 te klikken. Ik kom terecht op de
+
+<a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2019-14657">NIST</a> <i class="fa fa-external-link"></i>
+
+pagina van deze CVE. NIST geeft de CVE een CVSS van 8.8 mee, dus dit is een behoorlijk gevoelige CVE. Maar wacht even&hellip;
+De link naar NIST komt helemaal niet terecht bij CVE-2021-27561, maar bij CVE-2019-14657!<br>
+5 seconden later ben ik naar
+
+<a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2021-27561">CVE-2021-27561</a> <i class="fa fa-external-link"></i>
+
+aan het kijken.<br>
+Het blijkt ook een CVE te zijn voor het Device Management platform van Yealink. Maar deze CVE heeft een CVSS van 9.8 critical.
+Bijna de hoogste score dus. En aan deze CVE is een
+
+<a target="_blank" href="https://ssd-disclosure.com/ssd-advisory-yealink-dm-pre-auth-root-level-rce/">externe vulnerability disclosure gekoppeld</a> <i class="fa fa-external-link"></i>
+.
+De Vulnerabity Disclosure laat een kinderlijk eenvoudige omzeiling van de authenticatie zien waar niet veel meer voor nodig
+is dan curl.<br>
+Yealink lijkt een probleem te hebben om dit soort authenticatie problemen onder de knie te krijgen. Veel disclosures en CVE&rsquo;s
+gaan over authenticatie en authorisatie. Het maakt de opmerking in het eerder genoemde rapport over plausible
+deniability bijzonder interessant.</p>
+<p>Dus is het interessant om te gaan kijken naar de
+
+<a target="_blank" href="https://www.yealink.com/en/trust-center/security-advisories">Security Advisories</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240311224749/https://www.yealink.com/en/trust-center/security-advisories">mirror</a> <i class="fa fa-external-link"></i>
+.
+op de website van Yealink zelf. Hier vallen meteen een aantal zaken op.<br>
+Het is een redelijk kort lijstje en de links leiden naar de interne disclosure pagina&rsquo;s van Yealink. Maar, zo lijkt het
+op het moment dat een vulnerability spannend wordt, dan is het lastiger om een CVE te vinden. Een van de
+
+<a target="_blank" href="https://www.yealink.com/en/trust-center/security-advisories/2f2b990211c440cf">advisories</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240212044709/https://www.yealink.com/en/trust-center/security-advisories/2f2b990211c440cf">mirror</a> <i class="fa fa-external-link"></i>
+
+gaat over de Yealink Meeting Server. De advisory van Yealink zelf vermeldt
+
+<blockquote class="cloudquote">
+The Yealink Meeting Server file upload interface is vulnerable to OS command injection, allowing attackers to execute root-level commands by manipulating the file upload process.
+</blockquote>
+
+Nou heb ik in een ver verleden nog wel eens colleges gegeven op een Hogeschool en als studenten met zoiets aan kwamen
+zetten dan was dat niet bevorderlijk voor hun punt. De advisory vermeldt verder: &ldquo;CVE Number: NA&rdquo;. Nu kunnen we met een
+recente advisory aannemen dat er <em>nog</em> geen CVE nummer gepubliceerd is. Maar dat is natuurlijk niet zo, want er is allang
+een CVE nummer toegewezen en wel: CVE-2024-24091.<br>
+Hoewel vrijwel elke advisory een link naar de CVE bevat is dat bij de advisory over de
+
+<a target="_blank" href="https://www.yealink.com/en/trust-center/security-advisories/yealink-ip-phone-directory-traversal-vulnerability">Yealink IP Phone Directory Traversal Vulnerability</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240313132454/https://www.yealink.com/en/trust-center/security-advisories/yealink-ip-phone-directory-traversal-vulnerability">mirror</a> <i class="fa fa-external-link"></i>
+
+niet het geval. Een korte zoektocht laat zien dat het niet een CVE is
+
+<a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2020-24113">om trots op te zijn</a> <i class="fa fa-external-link"></i>
+. De CVE krijgt een CVS Score van
+9.1 Critical mee. Het is toevallig dat juist deze CVE geen link vanuit de website van Yealink heeft.</p>
+<p>Maar deze advisory pagina is op meerdere manier apart te noemen. Voor verschillende CVE&rsquo;s worden (interne?) CVE nummers
+gebruikt die niet vindbaar zijn op het internet. Zo zie ik een CVE nummer
+
+ <a target="_blank" href="https://www.yealink.com/en/trust-center/security-advisories/30a6a00b46324ecc">YVD-2024-1298699</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240313132843/https://www.yealink.com/en/trust-center/security-advisories/30a6a00b46324ecc">mirror</a> <i class="fa fa-external-link"></i>
+.
+Nu vind ik het al bijzonder eng als je interne CVE nummers 7 digits per jaar nodig hebben, maar dat is een ander vraagstuk.
+De CVE heeft als titel &ldquo;Yealink device management platform Unauthorized RCE vulnerability&rdquo;. Als ik de CVE ga lezen zie
+ik in de summary staan:
+
+<blockquote class="cloudquote">
+The Yealink device management platform’s file upload interface is vulnerable to unauthorized operating system (OS) command injection. Attackers can execute malicious OS commands by carefully crafting a payload during the unauthorized file upload process.
+</blockquote>
+
+&hellip;dat&hellip;klinkt&hellip;bekend. In mijn hoofd hoor ik een echo met de woorden &ldquo;plausible deniability&rdquo;. Ik kan zo snel geen extern
+CVE nummer voor deze vulnerability vinden, maar gezien de laatste CVE met een RCE kunnen we raden naar het oordeel van
+Mitre.</p>
+<p>Maar er gebeuren nog meer vreemde zaken. Ik zie dat er nog geen CVE is gepubliceerd voor de
+<a href="https://trideeindhoven.github.io/website/yealink/versleuteling/">gelekte RSA sleutel</a>
+die ik gevonden heb. Ik neem contact op met Mitre in februari 2024 en vraag een CVE-reservering aan. Het duurt even
+voordat Mitre reageert met een CVE nummer:
+
+<a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2022-48625">CVE-2022-48625</a> <i class="fa fa-external-link"></i>
+.
+En dat is GEEN 2024 CVE nummer, maar uit 2022. Ik kan alleen maar concluderen dat <em>iemand</em> in 2022 de RSA sleutel heeft
+gevonden en om een reden die mij niet bekend is heeft besloten om deze CVE niet te publiceren na reservering. Op
+de pagina van NIST is duidelijk te zien dat de CVE pas in februari 2024 is gepubliceerd en dat is na mijn disclosure.<br>
+Het is duidelijk dat ik
+
+<a target="_blank" href="https://fuo.fi/CVE-2020-24113/">niet</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://hackmd.io/@tahaafarooq/auth_rce_voip">de enige</a> <i class="fa fa-external-link"></i>
+
+ben die vragen stelt bij Yealink security, maar Yealink en Lydis zorgen er op verschillende manieren dat het vulnerability
+disclosure proces gefrustreerd wordt, waardoor transparantie ver te zoeken is. Ik denk dat het goed is om dat in gedachten
+te houden bij het lezen van de
+
+<a target="_blank" href="https://www.lydis.nl/over-ons/yealink-security-faq">Security FAQ</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20240306181308/https://www.lydis.nl/over-ons/yealink-security-faq">mirror</a> <i class="fa fa-external-link"></i>
+
+van Lydis waar in mooie marketing woorden beweert wordt:
+
+<blockquote class="cloudquote">
+Yealink scoort positief op cvedetails en blijft voortdurend investeren in het verbeteren van hun producten en het vermijden van beveiligingsproblemen. Ze werken samen met experts van Netspi, Spirent en Miercom voor gedetailleerde onafhankelijke controles.
+</blockquote>
+<br>
+En dat is een interessante uitspraak. En dan heb ik het niet over een &ldquo;scoort positief op cvedetails&rdquo;. Die laat ik maar even
+varen. Dan heb ik het over de onafhankelijke controles van o.a. NetSPI.</p>
+<p>Tijdens een van mijn eerste emails met de technisch directeur van Lydis breng ik dit ook ter sprake. Hij geeft aan dat
+alles extern getest wordt en hij stuurt mij als bewijs het rapport op van NetSPI. Op de website van Yealink staat de
+
+<a target="_blank" href="https://web.archive.org/web/20231023195308/https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20230711/20230711055726204cc9361774cb1909c483a8eebf7ef.pdf">samenvatting van het rapport</a> <i class="fa fa-external-link"></i>
+.
+In dit document staat dat de Yealink clouddienst getest is volgende de OWASP top-10. Ik lees het document grondig door
+om de resultaten te vinden, maar ik kan nergens zien wat de resultaten nou eigenlijk waren. Het document sluit af met
+
+<blockquote class="cloudquote">
+our approach analyzes the current security posture and results in recommendations for strengthening security controls<br/><span><font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font> COO NetSPI</span>
+</blockquote>
+
+Maar wat deze recommendations nou precies zijn geweest is nergens weergegeven. Ik kan mij voorstellen dat dit document
+best wel wat gewicht kan geven aan de security van het product. Maar&hellip; de technisch directeur van Lydis stuurt mij het
+penetration test rapport van NetSPI op. Helaas kan ik dit document hier niet delen omdat op elke pagina duidelijk
+vermeld staat dat het document &ldquo;Proprietary &amp; Confidential&rdquo; is. Maar dat het goed mis is met de centrale clouddiensten
+van Yealink is duidelijk. Het rapport tien vulnerabilities. En onder die vulnerabilities zitten ook vier &ldquo;high
 severity&rdquo; findings, waaronder:</p>
 <ul>
 <li>A1 - Injection</li>
@@ -305,10 +433,11 @@ severity&rdquo; findings, waaronder:</p>
 <li>A5 - Broken Access Control</li>
 <li>A7 - Cross-Site Scripting (XSS)</li>
 </ul>
-<p>Beveiligingsrapport van NetSPI</p>
-<p>CVE&rsquo;s</p>
-<p><a href="https://fuo.fi/CVE-2020-24113/">https://fuo.fi/CVE-2020-24113/</a>
-<a href="https://hackmd.io/@tahaafarooq/auth_rce_voip">https://hackmd.io/@tahaafarooq/auth_rce_voip</a></p>
+<p>Het moet gezegd worden dat, volgens het NetSPI rapport deze findings allemaal opgelost zijn, maar de technische details
+laten een kinderlijk eenvoudige manier zien om authenticatie volledig te omzeilen. Omzeilen van authenticatie&hellip;waar hadden
+we dat ook al weer eerder gezien? Een lijn begint zich af te tekenen.<br>
+De clouddiensten van Yealink worden door alle klanten (ook Teams!) van Yealink gebruikt. Het is mij niet bekend of er nadien
+onderzoek is uitgevoerd door Yealink of deze ernstige beveiligingsgaten misbruikt zijn.</p>
 <p>CVD
 mail van Zijlstra
 CVD van Yealink uit elkaar trekken</p></div>
