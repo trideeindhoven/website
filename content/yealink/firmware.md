@@ -1,7 +1,7 @@
 +++
 author = "Jeroen Hermans"
 title = "Firmware"
-date = "2024-02-28"
+date = "2024-03-05"
 description = "Firmware"
 tags = [
     "firmware", "Lydis", "Yealink"
