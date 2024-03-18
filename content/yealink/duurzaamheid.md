@@ -8,11 +8,15 @@ tags = [
 ]
 image = "img/yealink/pexels-hasan-zahra-2118560.jpg"
 +++
-Een korte google-actie laat zien dat Lydis en Yealink duurzaamheid 
+Een korte google-actie laat zien dat Lydis en Yealink 
 {{< a_blank "duurzaamheid" "https://www.lydis.nl/blog/hoe-stimuleer-je-een-duurzame-financiele-sector" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240316113956/https://www.lydis.nl/blog/hoe-stimuleer-je-een-duurzame-financiele-sector" >}}
-belangrijk vinden. En daar kan ik het niet mee oneens zijn. Maar wat is duurzaamheid eigenlijk en kunnen Lydis en Yealink
-zich oprecht duurzaam noemen?
+belangrijk vinden. En daar kan ik het niet mee oneens zijn. 
+En als ook maatschappelijk betrokken ondernemingen als
+{{< a_blank "Tony's Chocolonely" "https://www.lydis.nl/cases/tonys-chocolonely-videoconferencing-yealink" >}}
+{{< a_blank "mirror" "https://web.archive.org/web/20240318190337/https://www.lydis.nl/cases/tonys-chocolonely-videoconferencing-yealink" >}}
+nadrukkelijk voor Lydis kiezen als leverancier, wordt dit extra belangrijk voor het product en onderneming.
+Maar wat is duurzaamheid eigenlijk en kunnen Lydis en Yealink zich wel oprecht duurzaam noemen?
 <!--more-->
 I have added international translations of the articles using google translate:  
 
@@ -22,7 +26,7 @@ I have added international translations of the articles using google translate:
 
 Je als onderneming duurzaam noemen gaat natuurlijk verder dan alleen een paar zonnepanelen op het dak leggen. Het gaat 
 over hoe je met de maatschappij omgaat. Het gaat er over hoe je deze aarde beter achterlaat voor de volgende generaties
-dan je heb gekregen hebt. En ik denk dat na een aantal weken publiceren het wel duidelijk moge zijn dat Lydis en Yealink
+dan hoe je deze gekregen hebt. En ik denk dat na een aantal weken publiceren het wel duidelijk moge zijn dat Lydis en Yealink
 hier af en toe wel eens een steekje laten vallen.  
 
 # Open source
@@ -31,7 +35,7 @@ oogpunt vind ik het een mooie gedachte dat een groep ontwikkelaars samen iets ga
 van dit op een eilandje te doen.  
 Maar aan het gebruik van OSS zitten voorwaarden. En deze voorwaarden zijn vaak in een licentie vastgelegd. Een veel gebruikte
 licentie die OSS gebruikt is de 
-"{{< a_blank "General Public License" "https://en.wikipedia.org/wiki/GNU_General_Public_License" >}}".  
+"{{< a_blank "General Public License" "https://en.wikipedia.org/wiki/GNU_General_Public_License" >}}" (GPL).  
 Het idee achter de GPL is dat eindgebruikers gebruik kunnen maken van vier vrijheden:
 * uitvoeren van software
 * bestuderen van software
@@ -48,8 +52,8 @@ Als we naar de
 {{< a_blank "mirror" "https://web.archive.org/web/20240307205452/https://www.yealink.com/website-service/download/offer-source-of-open-source-software.pdf" >}}
 in Yealink apparatuur kijken, dan zien we verschillende OSS licentie modellen zoals GPLv2, BSD, MIT en Apache. Ik ga het 
 hier vandaag alleen hebben over de GPLv2, omdat het anders een college rechten gaat worden. Maar je mag aannemen dat 
-elke licentie weer eigen eigenaardigheden heeft waar an voldaan moet worden.  
-De GPL software die we voor de T5XW IP Phones zien is:
+elke licentie weer eigen eigenaardigheden heeft waar aan voldaan moet worden.  
+Laten we even inzoomen op de T5XW IP telefoon. De GPL software die we voor de T5XW IP Phones zien is:
 
 | Naam | Versie | Releasedatum | Leeftijd |
 |------|--------|--------------|----------|
@@ -66,7 +70,7 @@ De GPL software die we voor de T5XW IP Phones zien is:
 
 En hier vallen meteen een aantal zaken op. De "belangrijkste onderdelen" van de telefoons zijn vele jaren oud. Ook is een
 "release candidate" (rc1) gebruikt voor libhid. Voor de niet-technische lezers: een release candidate is een software 
-versie die niet in productie omgevingen gebruikt hoort te worden. Deze versie is een versie die gebruikt kan worden of 
+versie die niet in productie omgevingen gebruikt hoort te worden. Deze versie is een versie die gebruikt kan worden om te bepalen of 
 er nog zaken opgelost moeten worden in deze versie voordat de echte versie gereleased wordt. De versie van libstrophe is 
 dusdanig oud dat ik deze versie niet meer op het internet kan vinden en ik kan alleen zien dat deze versie ouder moet zijn
 dan 7 augustus 2014.  
@@ -99,7 +103,7 @@ er bij nemen, dan zien we in paragraaf 3 het volgende staan:
 {{< quote cloudemail >}}You may copy and distribute the Program *knip* in object code or executable form *knip* provided that you also do one of the following:
 
     a) Accompany it with the complete corresponding machine-readable source code *knip* or, 
-    b) Accompany it with a written offer *knip* a complete machine-readable copy of the corresponding source code *knip* or, 
+    b) Accompany it with a written offer *knip* a complete machine-readable copy of the corresponding source code *knip* 
 *niet commerciële knip*
 
 *knip*
@@ -126,8 +130,8 @@ te houden.
 Niet alleen is dat heel erg onsympatiek, maar het is ook nog eens illegaal. Maar Lydis en Yealink weten dondersgoed dat ze 
 er mee weg kunnen komen omdat de meeste OSS projecten niet de juridische kennis en financiering aan boord hebben om hier
 iets tegen te doen.  
-Bovendien zal niet iedereen hier van op de hoogte zijn, omdat zij (ook na meerdere aanmaningen van mijzelf) geen licentie
-meeleveren met de producten. Of zoals de GPLv2 het zelf verwoord:
+Bovendien zal niet elke gebruiker hier van op de hoogte zijn, omdat Lydis en Yealink (ook na meerdere aanmaningen van mijzelf) 
+geen licentie meeleveren met de producten. Of zoals de GPLv2 het zelf verwoord:
 
 {{< quote cloudemail >}}You may copy and distribute verbatim copies of the Program's source code as you receive it, *knip* provided that you *knip* publish on each copy an appropriate copyright notice *knip*; keep intact all the notices that refer to this License *knip* and give any other recipients of the Program a copy of this License along with the Program.{{< /quote >}}
 
@@ -149,6 +153,8 @@ op baseren. Het is niet moeilijk om deze claims op hun website te vinden.
 Ik stuur een email bericht aan de technisch directeur van Lydis:
 {{< quote cloudquote >}}Ik heb in de afgelopen week met zeer veel mensen in de industrie gesproken en het is voor hen ook niet meer duidelijk waar de AVG claims op gebouwd zijn. Kunt u op deze vraag ook antwoord geven? Het is natuurlijk van belang dat overheidsorganisaties en, in de woorden van {{< censuur red >}}de algemeen directeur{{< /censuur >}}, "zelfs inlichtingendiensten", deze AVG claims wel op waarde moeten kunnen schatten nu het TÜV certificaat ongeldig is.{{< /quote >}}
 
+De technisch directeur antwoord per email en schuift deze vervelende vraag meteen door aan Yealink:
+
 {{< quote cloudquote >}}Zoals aangegeven hebben we de vraag voor meer informatie, over pentestrapporten en AVG-certificaat bij Yealink neergelegd{{< /quote >}}
 
 Let wel: Lydis is in hun eigen woorden in december al ingelicht door TÜV dat het certificaat niet meer geldig is. In de 
@@ -160,7 +166,6 @@ Maar is dit nou een geval van slecht onderhoud van hun website of gaat het hier 
 Op 5 maart 2024 houdt Lydis een webinar "Videoconferentie in 
 de Juridische sector". Aan het einde van dit webinar beweert de enthousiaste medewerker dat Yealink veilig is omdat zij 
 een GDPR certificaat hebben.
-<TODO: exacte quote beluisteren>
 Uiteraard ben ik bijzonder geïnteresseerd in dit certificaat, maar zo weet ik: laat de presentatie even gebeuren, want
 het is niet prettig om een presentatie te onderbreken voor je eigen vragen.  
 Aan het einde van het webinar geeft de medewerker van Lydis aan dat hij het webinar nog even open laat staan zodat iedereen 
@@ -176,7 +181,7 @@ Uiteraard confronteer ik de technisch directeur met de uitspraken van de medewer
 Dat is apart. Want is Lydis nu op de hoogte van het niet bestaan van een GDPR certificaat ("De vermelding in het seminar 
 was inderdaad niet correct") en gebruiken zij deze claim bewust onterecht op hun website en in artikelen? Het alternatief
 is dat zij niet op de hoogte zijn van het ingetrokken certificaat en dat ze zonder reden aangeven dat de claim niet in 
-het webinar gemaakt had mogen worden. Voor een onderneming die op 14-4-2024 een email afsluit met "We zijn van mening dat we volledig transparant zijn in het delen van informatie" is dit behoorlijk moeilijk te volgen.
+het webinar gemaakt had mogen worden. Voor een onderneming die op 14-3-2024 een email afsluit met "We zijn van mening dat we volledig transparant zijn in het delen van informatie" is dit behoorlijk moeilijk te volgen.
 
 Maar: duurzaamheid: hoe gaan we met de maatschappij om? En dat gaat natuurlijk ook over persoonsgegevens. Hoewel bovenstaand
 verhaal over de [AVG/GDPR]({{< ref "avg_gdpr" >}}) natuurlijk al niet te positief uitziet, is er natuurlijk geen hard bewijs 
@@ -302,9 +307,9 @@ De oplettende lezer ziet het hier ook terug komen: "cliënten". Dat is de man va
 Het ziet er wat verwarrend uit, maar juridisch gezien gaat het toch echt om twee verschillende entiteiten.  
 De advocaat van AKD N.V. reageert op zaterdagmiddag wat geïrriteerd met:
 {{< quote cloudquote >}}Het bericht maakt duidelijk dat aan de zijde van Hermans geen bereidheid bestaat om op enige wijze aan de sommatie gevolg te geven.{{< /quote >}}
-Het begrijpend lezen zit er goed in bij deze meneer, want dat is inderdaad letterlijk wat mijn advocaat terug heeft 
+Het is een open deur, want dat is inderdaad letterlijk wat mijn advocaat terug heeft 
 gereageerd naar AKD N.V. Hierbij moet worden opgemerkt dat de sommaties bijzonder onsamenhangend zijn. Het is niet
-mijn doel om iets illegaals te doen, maar ik moet wel mijn werk kunnen blijven doen. De begrijpend-lezen advocaat gaat
+mijn doel om iets illegaals te doen, maar ik moet wel mijn werk kunnen blijven doen. De advocaat gaat in dwingende taal
 verder met:
 
 {{< quote cloudquote >}}Lydis zal dan ook nadere juridische stappen tegen Epsys BV en de heer Hermans in persoon (ook los van zijn rol als bestuurder overigens) voorbereiden.{{< /quote >}} 
@@ -320,16 +325,16 @@ gehoord.
 
 # Wetgeving
 In Europa en in Nederland in het bijzonder hebben we allerlei regels en wetten die betrekking hebben op het bouwen van 
-een mooie werkende maatschappijk. Denk hierbij aan anti-witwas wetgeving, privacy wetgeving, anti-terreur wetgeving en 
+een mooie werkende maatschappij. Denk hierbij aan anti-witwas wetgeving, privacy wetgeving, anti-terreur wetgeving en 
 de bijbehorede registers zoals het handelsregister en het Ultimate Beneficial Owner (UBO) register. In het artikel over
 het [bedrijfseconomisch overzicht]({{< ref "bedrijfseconomisch" >}}) heb ik duidelijk laten zien dat Yealink, Lydis en 
-haar holdings tot aan de beursgenoteerde moedermaatschappijk, Econocom, niet voldoen aan een heel scala van deze wetten 
+haar holdings tot aan de beursgenoteerde moedermaatschappij, Econocom, niet voldoen aan een heel scala van deze wetten 
 en regels.  
 Op het moment dat je participeert aan een maatschappij en gebruik maakt van de lusten hiervan, zoals de infrastructuur,
 het sociale vangnet en hoogopgeleide medewerkers dan ga je ook akkoord met de plichten die hierbij horen. Maar net zoals 
 bij de OSS licenties wordt hier een selectief beleid gevoerd waarbij wel de lusten worden geplukt, maar niet de 
 (collectieve) lasten worden gedragen.  
-Ik begon dit artikel dat duurzaamheid betekent hoe je met de maatschappijk omgaat. Ik denk dat zowel Yealink als Lydis hier
+Ik begon dit artikel dat duurzaamheid betekent hoe je met de maatschappij omgaat. Ik denk dat zowel Yealink als Lydis hier
 grote steken laten vallen.
 
 # RPS
@@ -340,7 +345,7 @@ het RPS systeem van Yealink. Op deze manier kan hij in zijn telefooncentrales ee
 automatisch toegevoegd in het RPS systeem van Yealink. Hierdoor kan hij de telefoons dropshippen naar de eindklant.  
 Maar in het telefoontje vertelt hij mij dat een nieuwe klant zijn telefoons niet kan gebruiken. Ik ga met hem meekijken 
 met Anydesk en zie inderdaad dat de telefoons nog steeds factory defaults hebben. Ik vul handmatig de provisioning-url
-in in alle telefoons, waarna de telefoon werken. Ik sluit de Anydesk verbinding af en bespreek met mijn klant dat ik op
+in in alle telefoons, waarna de telefoons werken. Ik sluit de Anydesk verbinding af en bespreek met mijn klant dat ik op
 zoek ga naar wat hier nou precies verkeerd is gegaan.  
 Al snel zie ik dat het registreren van een telefoon in het RPS systeem niet werkt. Als ik in de web interface probeer in
 te loggen krijg ik een mysterieuze melding: "Enterprise is frozen". Dat is vreemd. Ik dubbelcheck de combinatie 
@@ -352,7 +357,7 @@ Daarna ga ik in mijn eigen RPS proberen in te loggen en wat schetst mijn verbazi
 {{< img alt="enterprise is frozen" src="img/yealink/20230302_rps_frozen.png" >}}
 
 Ook mijn RPS account doet het niet meer. Er zal wel een storing zijn bij Yealink, dus ik bel een concollega op of hij 
-even kan proberen in te loggen. En hij kan meteen inloggen. Dat is vreemd. En ik besluit hier zelf op 20 december 2023 
+even kan proberen in te loggen. En hij kan meteen inloggen onder zijn eigen account. Dat is vreemd. En ik besluit hier zelf op 20 december 2023 
 ook een ticket over aan te maken bij Lydis.  
 En dan blijft het stil. Heel erg stil. En ik stuur op 2 januari 2024 een reminder naar het ticketing systeem van Lydis. En 
 wederom blijft het angstvallig stil. Ook mijn klant heeft nog geen antwoord ontvangen van Yealink. Op 8 januari 2024
@@ -367,7 +372,7 @@ En dan blijft het weer stil. Naïef probeer ik het op 2 februari 2024 nog een ke
 nooit meer antwoord door Lydis B.V.  
 
 Op 15 februari tijdens de Teams meeting met Lydis stel ik dan ook de vraag: "Wordt CloudAware op een andere manier 
-behandeld dan een willekeurige andere klant". De technisch directeur Lydis antwoordt: "Wat mij betreft niet". Ik ga 
+behandeld dan een willekeurige andere klant". De technisch directeur van Lydis antwoordt: "Wat mij betreft niet". Ik ga 
 verder met het verduidelijken van mijn vraag
 
 {{< quote cloudquote >}}Stel als een Nederlandse klant van Yealink problemen heeft met de clouddiensten van Yealink en zij melden dat via jullie ticketing systeem. Op welke termijn worden zij dan geholpen?{{< /quote >}}
@@ -381,7 +386,7 @@ De reden waaarom mijn klant zijn account ook geblokkeerd is wordt zo wel pijnlij
 inlognaam voor zijn RPS account. En dat account was natuurlijk gekoppeld aan @cloudaware.eu. En tsja... daar hangt dus een
 vinkje aan.  
 Het moge duidelijk zijn dat het praten met journalisten over duidelijke misstanden je kan verzekeren van een 
-kinderachtige wraakactie van Yealink. Natuurlijk is het helemaal aan Yealink om te bepalen wie zij toelaten op hun
+onprofessionele wraakactie van Yealink. Natuurlijk is het helemaal aan Yealink om te bepalen wie zij toelaten op hun
 cloudplatform, maar dan had ik wel een eerlijk antwoord verwacht. In plaats daarvan heb ik maanden lang niets gehoord omdat
 , zo blijkt nu, men mij in Xiamen niet vertrouwde.  
 
@@ -398,23 +403,3 @@ En...uiteraard worden de sommaties integraal in het artikel bijgevoegd zodat het
 verloopt.  
 
 Tot donderdag!
-
-
-
-
-
-
-
-hoog risico als partner of reseller
-Ook klant die niets met publicaties te maken heeft
-
-
-
-
-
-
-
-
-
-
-
