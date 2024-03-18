@@ -354,7 +354,7 @@ uiteraard niet meer. Ik bericht mijn klant dat dit het probleem is en dat hij ev
 om dit opgelost te krijgen.  
 Daarna ga ik in mijn eigen RPS proberen in te loggen en wat schetst mijn verbazing?
 
-{{< img alt="enterprise is frozen" src="img/yealink/20230302_rps_frozen.png" >}}
+{{< img alt="enterprise is frozen" src="img/yealink/20240302_rps_frozen.png" >}}
 
 Ook mijn RPS account doet het niet meer. Er zal wel een storing zijn bij Yealink, dus ik bel een concollega op of hij 
 even kan proberen in te loggen. En hij kan meteen inloggen onder zijn eigen account. Dat is vreemd. En ik besluit hier zelf op 20 december 2023 
