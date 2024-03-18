@@ -323,3 +323,5 @@ is het wel dat dit soms ver te zoeken is.
 
 In de volgende publicatie gaan we het hebben over duurzaamheid. Als zelfs Tony's Chocolonely voor Lydis en Yealink kiest
 dan moet dit toch wel een heel belangrijk onderwerp zijn. Of is toch niet alles zoals het lijkt?
+
+[Naar het volgende artikel]({{< ref "duurzaamheid" >}})
