@@ -333,11 +333,76 @@ Ik begon dit artikel dat duurzaamheid betekent hoe je met de maatschappijk omgaa
 grote steken laten vallen.
 
 # RPS
-Van RPS afgegooid
+Maar dat Lydis en Yealink ook een daadwerkelijk bedrijfsrisico kunnen vormen voor je onderneming bleek toen ik door een 
+klant van mij werd opgebeld.  
+Voor deze klant werk ik aan koppelingen met andere systemen voor zijn telefonie systeem. Een van deze koppelingen is met
+het RPS systeem van Yealink. Op deze manier kan hij in zijn telefooncentrales een telefoon aanmaken en wordt deze telefoon
+automatisch toegevoegd in het RPS systeem van Yealink. Hierdoor kan hij de telefoons dropshippen naar de eindklant.  
+Maar in het telefoontje vertelt hij mij dat een nieuwe klant zijn telefoons niet kan gebruiken. Ik ga met hem meekijken 
+met Anydesk en zie inderdaad dat de telefoons nog steeds factory defaults hebben. Ik vul handmatig de provisioning-url
+in in alle telefoons, waarna de telefoon werken. Ik sluit de Anydesk verbinding af en bespreek met mijn klant dat ik op
+zoek ga naar wat hier nou precies verkeerd is gegaan.  
+Al snel zie ik dat het registreren van een telefoon in het RPS systeem niet werkt. Als ik in de web interface probeer in
+te loggen krijg ik een mysterieuze melding: "Enterprise is frozen". Dat is vreemd. Ik dubbelcheck de combinatie 
+gebruikersnaam/wachtwoord, maar ik blijf deze foutmelding krijgen. En zonder RPS werkt het dropshippen van apparatuur 
+uiteraard niet meer. Ik bericht mijn klant dat dit het probleem is en dat hij even een ticket moet aanmaken bij Yealink
+om dit opgelost te krijgen.  
+Daarna ga ik in mijn eigen RPS proberen in te loggen en wat schetst mijn verbazing?
 
 {{< img alt="enterprise is frozen" src="img/yealink/20230302_rps_frozen.png" >}}
 
+Ook mijn RPS account doet het niet meer. Er zal wel een storing zijn bij Yealink, dus ik bel een concollega op of hij 
+even kan proberen in te loggen. En hij kan meteen inloggen. Dat is vreemd. En ik besluit hier zelf op 20 december 2023 
+ook een ticket over aan te maken bij Lydis.  
+En dan blijft het stil. Heel erg stil. En ik stuur op 2 januari 2024 een reminder naar het ticketing systeem van Lydis. En 
+wederom blijft het angstvallig stil. Ook mijn klant heeft nog geen antwoord ontvangen van Yealink. Op 8 januari 2024
+stuur ik daarom opnieuw een reminder aan Lydis dat ik nog steeds op een antwoord en oplossing zit te wachten. Een dag later
+ontvang ik een kort mailtje terug:
+
+{{< quote cloudquote >}}Ticket is in behandeling, we zijn met Yealink bezig hierover. 
+
+Zodra we meer info hebben zullen we die delen.{{< /quote >}}
+
+En dan blijft het weer stil. Naïef probeer ik het op 2 februari 2024 nog een keer, maar ook op dit email bericht komt 
+nooit meer antwoord door Lydis B.V.  
+
+Op 15 februari tijdens de Teams meeting met Lydis stel ik dan ook de vraag: "Wordt CloudAware op een andere manier 
+behandeld dan een willekeurige andere klant". De technisch directeur Lydis antwoordt: "Wat mij betreft niet". Ik ga 
+verder met het verduidelijken van mijn vraag
+
+{{< quote cloudquote >}}Stel als een Nederlandse klant van Yealink problemen heeft met de clouddiensten van Yealink en zij melden dat via jullie ticketing systeem. Op welke termijn worden zij dan geholpen?{{< /quote >}}
+
+De nonchalant achterover hangende technisch directeur begint het te dagen zo blijkt uit zijn antwoord:
+
+{{< quote cloudquote >}}Normaliter moet dat met een paar dagen gebeuren, maar ik weet wel waar je op doelt. Er staat een ticket open omdat de toegang tot de clouddiensten niet werkt. Ik ik hoop dat je begrijpt dat door de publicatie bij FTM CloudAware een vinkje achter de naam heeft gekregen van: "Wij vertrouwen het niet"
+<span>{{< censuur red >}}**********{{< /censuur >}} technisch directeur Lydis</span>{{< /quote >}}
+
+De reden waaarom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 hoog risico als partner of reseller
 Ook klant die niets met publicaties te maken heeft
+
+
+
+
+
+
+
+
+
 
 
