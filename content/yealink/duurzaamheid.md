@@ -377,15 +377,27 @@ De nonchalant achterover hangende technisch directeur begint het te dagen zo bli
 {{< quote cloudquote >}}Normaliter moet dat met een paar dagen gebeuren, maar ik weet wel waar je op doelt. Er staat een ticket open omdat de toegang tot de clouddiensten niet werkt. Ik ik hoop dat je begrijpt dat door de publicatie bij FTM CloudAware een vinkje achter de naam heeft gekregen van: "Wij vertrouwen het niet"
 <span>{{< censuur red >}}**********{{< /censuur >}} technisch directeur Lydis</span>{{< /quote >}}
 
-De reden waaarom
+De reden waaarom mijn klant zijn account ook geblokkeerd is wordt zo wel pijnlijk duidelijk. Voor onderhoud had ik ook een
+inlognaam voor zijn RPS account. En dat account was natuurlijk gekoppeld aan @cloudaware.eu. En tsja... daar hangt dus een
+vinkje aan.  
+Het moge duidelijk zijn dat het praten met journalisten over duidelijke misstanden je kan verzekeren van een 
+kinderachtige wraakactie van Yealink. Natuurlijk is het helemaal aan Yealink om te bepalen wie zij toelaten op hun
+cloudplatform, maar dan had ik wel een eerlijk antwoord verwacht. In plaats daarvan heb ik maanden lang niets gehoord omdat
+, zo blijkt nu, men mij in Xiamen niet vertrouwde.  
 
+Het afhankelijk zijn van de diensten van Yealink levert dus een aantoonbaar bedrijfsrisico op. Mijn klant heeft nooit meer
+een antwoord ontvangen van Yealink of Lydis over zijn RPS toegang. Ook al heeft hij helemaal niets te maken met het FTM
+artikel. Yealink laat hier hun totalitaire aard zien waarbij rancune de boventoon voert. En in plaats dat Yealink hier
+transparant over is, zoals ze keer op keer beloven, reageren ze maanden lang niet. Het maakt zaken doen met Yealink en
+Lydis een reëel bedrijfsrisico wat continuïteit in de weg kan staan.  
 
+We naderen langzamerhand de finale van deze publicatiereeks. Het is tijd om inzage te geven in de persoonlijke
+juridische aanval welke Lydis heeft gekozen. Het volgende artikel gaat in op alle juridische aspecten die zo 
+onverwachts kwamen kijken bij deze responsible disclosure.  
+En...uiteraard worden de sommaties integraal in het artikel bijgevoegd zodat het duidelijk is hoe ook dat proces 
+verloopt.  
 
-
-
-
-
-
+Tot donderdag!
 
 
 
