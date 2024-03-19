@@ -9,15 +9,26 @@ tags = [
 image = "img/yealink/pexels-sora-shimazaki-5668481.jpg"
 +++
 Zowel Lydis als Yealink kiezen er op een gegeven moment voor om juridische dreigementen te uiten. Ook deze wil ik hier 
-graag behandelen.
+graag behandelen. Het geeft een interessant inzicht in hoe de procedure is verlopen en ik hoop dat het toekomstige
+beveiligingsonderzoekers kan helpen in hun werk.
 <!--more-->
-Je hoort namelijk wel vaker dat ondernemingen er voor kiezen om beveiligingsonderzoekers juridisch zo te bedreigen dat
+I have added international translations of the articles using google translate:  
+
+[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/juridisch/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/juridisch/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/juridisch/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
+
+Je hoort wel vaker dat ondernemingen er voor kiezen om beveiligingsonderzoekers juridisch zo te bedreigen dat
 er niet naar buiten getreden wordt. Bedenk hierbij wel dat in de beveiligingswereld het belangrijk is dat er openheid is.
 Dit is niet alleen van belang zodat het voor iedereen duidelijk is of er beveiligingsproblemen zijn en hoe deze eventueel
 afgedekt kunnen worden. Maar voor de beveiligingsonderzoeker zelf is het ook van belang om zijn of haar kunnen te laten 
 zien aan de markt.  
+In het artikel over [duurzaamheid]({{< ref "duurzaamheid" >}}) hebben we gezien dat de Vulnerability Displosure Procedure
+van Yealink ook toegepast wordt door Lydis B.V. En we hebben ook kunnen lezen dat deze procedure vastlegt dat de 
+beveiligingsonderzoeker alle rechten incl. Intellectueel Eigendom overdraagt aan Yealink. Het blijft dus altijd heel erg 
+belangrijk om documenten goed door te lezen. Niet akkoord gaan is altijd een optie!
 
-op 21-2-2023 krijg ik een email van "Lier". Zij geeft aan dat zij onderdeel is van Yealink's data security compliance team. Ze schrijft:
+Op 21-2-2023 krijg ik een email van "Lier". Zij geeft aan dat zij onderdeel is van Yealink's data security compliance team. Ze schrijft:
 {{< quote cloudquote >}}
 After Yealink communicated with you during this period, as well as the meeting a few days ago, we believe that you have 
 a relatively deep attainment and level in technical security. As mentioned last time, we would like to hire you as our 
@@ -55,8 +66,7 @@ we reserve the right to pursue legal responsibility. <span>Lier, member of Yeali
 
 Dit is een opvallende email. Niet in het minste omdat Lier ineens van functie is gewisseld. Ik besluit daarom te reageren met:
 {{< quote cloudquote >}}
-under Dutch law there is no need to "reserve" the right to pursue legal responsibility. Law is always in effect not just 
-when you ask for it. I think that is the whole reason that I am communicating with your organisation for a few months.
+under Dutch law there is no need to "reserve" the right to pursue legal responsibility. Law is always in effect not just when you ask for it. I think that is the whole reason that I am communicating with your organisation for a few months.
 <span>Jeroen Hermans</span>
 {{< /quote >}}
 
@@ -77,7 +87,7 @@ en zich niet verlaagt tot beweringen die in de roddelpers thuis horen.
 <span>{{< censuur red >}}***{{< /censuur >}}, directie Lydis B.V.</span>
 {{< /quote >}}
 
-en (incl. daadwerkelijk gebruikt spaties):
+en:
 
 {{< quote cloudquote >}}
 Ik begrijp dat je&nbsp;&nbsp;&nbsp;weer mails rondstuurd (sic) maar nu naar klanten van Lydis&nbsp;&nbsp;,dit is je goed recht maar wat ik niet 
@@ -106,8 +116,9 @@ Zo...de toon is nu definitief gezet. Hij geeft aan dat Lydis en Yealink 2 weken 
 op de vragen. Follow The Money reageert diezelfde dag met de mededeling dat Lydis en Yealink al maanden met mij een FTM in
 contact staan en dat het reageren op de vragen dus probleemloos binnen de gezette deadline moet lukken.  
 Tijdens deze emailwisseling merkt FTM op 13-9-2023 op dat Yealink niet alleen op de hoogte is (en dus eenvoudig een
-antwoord kan formuleren), maar dat Yealink zelfs een PDF document op hun website heeft geplaatst <TODO: TOEVOEGEN LINK> over een van de 
-vragen aan Yealink.  
+antwoord kan formuleren), maar dat Yealink zelfs een 
+{{< a_blank "PDF document" "yealink/YEALINK_IP_PHONE_SECURITY_ISSUE_APR2023.pdf" >}}
+op hun website heeft geplaatst over een van de vragen aan Yealink.  
 
 Nu gebeurt er iets interessants. Fruytier Lawyers in Business (advocaat Yealink) reageert niet meer, maar een dag later 
 op 14-9-2023 nu komt er een aangetekende brief binnen bij de directie van Follow The Money. 
@@ -115,10 +126,10 @@ Deze brief is geschreven door advocaat Mr. {{< censuur red >}}******{{< /censuur
 schrijft aan de directie van FTM dat hij is ingehuurd door Lydis B.V. Deze man zit er bovenop want bij hem "bestaat 
 de indruk dat FTM voornemens is een publicatie te doen over Yealink".  
 
-In de brief word ikzelf en mijn bedrijf meerdere malen aangehaald. Het is duidelijk dat AKD hier probeert om de 
+In de brief word ik zelf en mijn bedrijf meerdere malen aangehaald. Het is duidelijk dat AKD N.V. hier probeert om de 
 geloofwaardigheid van mij aan te tasten. Helaas staat deze brief vol met (halve-) onwaarheden. Zo klopt de tijdlijn
-niet van het melden doro mij en zou het gaan om alleen maar End Of Life (EOL) devices. Ook zou ik mij hebben 
-voorgedaan als wederverkoper van telefoniediensten.  
+niet van het melden door mij en zou het gaan om alleen maar End Of Life (EOL) devices. Ook zou ik mij hebben 
+voorgedaan als wederverkoper van telefoniediensten. Op dat laatste zal ik later nog terug komen.  
 Op dat moment is duidelijk dat mijn website onder vuur ligt en ik neem de beslissing om deze even een aantal dagen 
 offline te halen om hier een melding op te plaatsen dat er een publicatie aankomt. Aan het niet hebben van een website
 wordt bijzonder zwaar getild door de advocaat van AKD N.V. Het is in zijn ogen het bewijs dat "Cloudaware een lege huls 
@@ -133,7 +144,7 @@ Hermans zich onder valse voorwendselen bij Lydis heeft gemeld en Cloudaware geen
 <span>Mr. {{< censuur red >}}******{{< /censuur >}} van AKD N.V.</span>
 {{< /quote >}}
 
-De vraag die zich bij mij opwerpt is of deze best man wel volledig door zijn client is ingelicht aangezien ik mijn
+De vraag die zich bij mij opwerpt is of deze beste man wel volledig door zijn client is ingelicht aangezien ik mijn
 allereerste email aan Lydis op 28 juli 2022 afsluit met:
 
 {{< quote cloudquote >}}
@@ -147,43 +158,119 @@ wel eens andere opdrachtgevers kan hebben voor mijn onderzoek. Of in de woorden 
 concurrent van Yealink?".  
 Nu is het natuurlijk lasterlijk om dit soort zaken aan de directie van een journalistiek platform te sturen.  
 
-<TODO: ARTIKEL HIER SPLITSEN???>
 En dag later op 15-9-2023 worden er twee sommaties per koerier bij mij bezorgd. Ik ben op dat moment niet thuis, dus de 
 sommaties worden in de brievenbus achtergelaten. Het is opvallend dat het er twee zijn aangezien er een gericht is aan
 de werk-B.V., maar de andere sommatie is aan mij als natuurlijk persoon gericht. So far for it's trictly business laten 
-we dan maar zeggen.
+we dan maar zeggen.  
+Om elke mogelijke discussie uit de weg te kunnen gaan over deze documenten heb ik besloten om de sommaties zowel in 
+origineel PDF formaat als in tekst formaat voor SEO online te zetten:  
+{{< a_blank "Sommatie AKD N.V." "yealink/sommatie_akd" >}}
+{{< a_blank "PDF" "yealink/Sommatie_redacted.pdf" >}}  
 
+Het zit Lydis toch niet lekker dat zij mijn publicatie aankondiging een jaar voor de daadwerkelijke publicatie hebben
+genegeerd. De advocaat van Lydis schrijft in bovenstaande sommatie:
 
+{{< quote cloudquote >}}Anders dan u zich had voorgedaan bent u geen (potentiële) klant van Lydis
+<span>Mr. {{< censuur red >}}******{{< /censuur >}} van AKD N.V.</span>
+{{< /quote >}}
 
-15-9 twee sommaties van AKD per koerier thuis bezorgd
+Het is een interessant argument. Want het is duidelijk dat ik in mijn email en verschillende interviews heel erg duidelijk
+ben dat mijn onderzoek gepubliceerd gaat worden.  
+Maar zelfs als we dat argument eens voor het gedachtenexperiment gaan negeren. Is bovenstaande bewering dan wel zo? Ben 
+ik geen potentiële klant van Lydis? Of ben ik misschien wel al een klant van Lydis...met klantnummer 14355? Een eenvoudige 
+zoekactie in mijn mailbox levert bewijs op dat ik al jaren 
+{{< a_blank "klant ben van Lydis" "yealink/inv187008243.PDF" >}}.  
 
-[Sommatie AKD]({{< ref "sommatie_akd" >}})
+Wederom lijkt de advocaat van Lydis niet helemaal volledig ingelicht te zijn door zijn client.  
+Maar men kan natuurlijk argumenteren dat Lydis dit even vergeten is in hun uitgebreide klantenbestand. Maar ook dat 
+argument wordt lastig houdbaar als ik zie dat de algemeen directeur van Lydis mij elke maand netjes de nieuwe
+inkoopprijslijst per email toestuurt.
+{{< img alt="screenshot email prijslijst Lydis" src="img/yealink/20240301_screenshot_prijslijst.png" >}}  
 
-Verduidelijking gevraagd aan AKD:
-- niet publiceren
-- FTM bewegen om niet te publiceren
-- prijs geven opdrachtgevers
-- prijs geven beweegredenen
-geen antwoord gekregen van AKD op verduidelijking
-verder sommatie goed lezen, want ook conspiracy staat hier in
-nep webpagina
+Maar de advocaat van Lydis deinst er ook niet terug om een daadwerkelijke complottheorie in de sommatie te verwerken.
+Zo speculeert hij er in de sommatie wild op los over mijn beweegredenen:
 
+{{< quote cloudquote >}}
+Uw acties komen dus niet voort uit oprechte interesse maar vanwege externe opdrachtgevers met hun eigen belangen (Lydis tast in het duister over wie dat zijn (concurrenten, of zoals u zelf aangeeft misschien zelfs inlichtingendiensten uit welk land dan ook?)
+<span>Mr. {{< censuur red >}}******{{< /censuur >}} van AKD N.V.</span>
+{{< /quote >}}
 
+Dit zijn natuurlijk ernstige verdraaiingen van mijn woorden. Uiteraard heb ik van al deze gesprekken audio opnames, dus 
+ik kan met grote zekerheid zeggen dat ik dit soort uitspraken nooit gedaan heb. Maar het geeft aan dat Lydis en haar 
+advocaat alles proberen aan te grijpen om mijn geloofwaardigheid aan te tasten.  
 
-30-9-2023 Martin Hemmer
-"Geachte confrère,
+Na het lezen van de sommatie die pagina na pagina eerder als een rant leest dan een juridisch document, is het doel van
+het document mij niet geheel duidelijk. Ik heb op dit moment nog geen eigen advocaat dus ik reageer op de sommatie per
+email met een aantal vragen. Zo wil ik graag duidelijk hebben wat er nou precies gesommeerd wordt? Om aan een sommatie 
+te kunnen voldoen moet je natuurlijk wel weten wat er gevraagd wordt. En met de bewering dat ik een geheim agent ben
+kan ik juridisch gezien gewoon heel weinig mee. En dus vraag ik of ik het correct zie als er vier zaken gesommeerd worden:
+1) Ik mag niet zelf publiceren
+2) Ik moet FTM bewegen om niet te publiceren
+3) Ik moet mijn opdrachtgevers prijs geven
+4) Ik moet mijn beweegredenen prijs geven 
+
+Over 1) kan ik kort zijn: ik heb (op dat moment) geen intentie om zelf te gaan publiceren. Wat 2) betreft: daar heb ik op
+dat moment weinig invloed meer op. En 3) en 4) zijn zaken die ik nogal privé vind.  
+
+Helaas antwoordt de advocaat van Lydis nooit op mijn email en ik weet tot op de dag van vandaag niet 100% of dit inderdaad
+de vier zaken zijn die Lydis van mij sommeerde.  
+
+Dit is ook het moment waarop ik zelf een advocaat in de hand heb genomen. Deze advocaat reageert naar de advocaat van Lydis
+dat wij geen reden zien om op de sommatie te reageren. Er komt een korte reactie terug in het weekend:
+
+{{< quote cloudquote >}}
+Geachte confrère,
 
 Dank voor uw e-mail.
 
 Het bericht maakt duidelijk dat aan de zijde van Hermans geen bereidheid bestaat om op enige wijze aan de sommatie gevolg te geven.
 
 Lydis zal dan ook nadere juridische stappen tegen Epsys BV en de heer Hermans in persoon (ook los van zijn rol als bestuurder overigens) voorbereiden.
+<span>Mr. {{< censuur red >}}******{{< /censuur >}} van AKD N.V.</span>
+{{< /quote >}}
 
-Met vriendelijke groet,
+Dit zal dan ook het laatste zijn wat ik van deze advocaat hoor. Hierna blijft het maandenlang stil... Zo dacht ik. Maar
+in werkelijkheid heeft Lydis besloten om op hun website, presentaties en in vakbladen uitgebreid in te gaan op mijn 
+onderzoek, mijn bedrijf en mijzelf. Ik krijg vragen uit de industrie over mijn "fouten" in het onderzoek. Mijn 
+reputatie is heel belangrijk en ik besluit dat ik niet anders kan dan naar buiten te gaan treden met het echte, 
+volledige, verhaal.  
+Het leidt tot deze publicatiereeks en een hernieuwd contact met Lydis. Naa aanleiding van de Teams meeting op 
+14 februari 2024 geeft de technisch directeur van Lydis aan dat:
 
-Martin Hemmer"
+{{< quote cloudquote >}}We zijn van mening dat we volledig transparant zijn in het delen van informatie
+<span>technisch directeur Lydis</span>{{< /quote >}}
 
-16-2-2023, Gijsbert Zijlstra
-"Zoals ook aangegeven tijdens het gesprek hebben wij niet de intentie om te procederen tegen een ethical hacker."
+Ik reageer dat dat mooi is, want ik ben eigenlijk wel heel erg benieuwd naar die 
+"{{< a_blank "Afhankelijke beveiligingstest door toonaangevende laboratoria" "https://www.lydis.nl/support/yealink-security-en-opvolging" >}}"
+{{< a_blank "mirror" "https://web.archive.org/web/20240313191626/https://www.lydis.nl/support/yealink-security-en-opvolging" >}}.
 
+Een van deze testen heeft het concreet over de T54W VoIP telefoon:
+{{< quote cloudquote >}}Bijvoorbeeld de T54W, waarvan het rapport liet zien: 'Dat er geen kwetsbaarheden werden ontdekt{{< /quote >}}
 
+Dat is een interessante uitspraak, want in een [eerder artikel]({{< ref "historisch" >}}) hebben we natuurlijk gezien dat 
+juist deze telefoon 
+{{< a_blank "ernstige beveiligingsproblemen" "yealink/letter_to_commerce_re_yealink_report.pdf" >}}
+heeft laten zien.  
+
+We zijn inmiddels een maand verder, maar blijkbaar heeft ook Lydis nog steeds geen inzage gekregen in deze rapporten. 
+De technisch directeur van Lydis geeft op 8 maart 2024 aan: "Zoals aangegeven hebben we de vraag voor meer informatie, over 
+pentestrapporten en AVG-certificaat bij Yealink neergelegd". Het trots oreren over de security zonder ook zelf inzage te 
+hebben in de rapporten kan ik alleen maar slordig noemen. Als we in de redenatie meenemen dat dit een firma is met "70% 
+marktaandeel" bij onder andere banken, politie, het OM en "de AIVD" dan zou ik eerder verwachten dat dit soort documenten
+in Almere op de plank zouden liggen.  
+Ook de vraag waarop de AVG/GDPR claims op hun website en in presentaties op gebaseerd zijn is na meer dan een maand nog 
+steeds niet beantwoord.  
+
+Maar gelukkig vind op 19 maart 2024 een Q&A webinar plaats. Dat is mooi, want ik ben eigenlijk wel benieuwd naar de A 
+en misschien ook nog wel een Q. Ik meld mij netjes aan en op dinsdagochtend zit ik met mijn kop koffie klaar voor het
+webinar. Maar... niet geheel onverwachts:
+
+{{< img alt="Niet werkende Demio" src="img/yealink/202403019_demio.jpeg" >}}  
+
+Ik word niet toegelaten in dit Q&A webinar. Tot zo ver de beloofde transparantie van Lydis. Het maakt maar weer eens 
+duidelijk dat het controleren en dubbel checken van alles wat er gezegd wordt van groot belang is.
+
+In het volgende artikel gaan we het over de aanpak van mijn onderzoek hebben. Wat zijn belangrijke methoden gebleken? 
+Zijn er tools gebruikt die handig waren? Hoe zijn de aanvallen op mijn website gemitigeerd?
+
+Tot dinsdag!
