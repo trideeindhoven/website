@@ -403,3 +403,5 @@ En...uiteraard worden de sommaties integraal in het artikel bijgevoegd zodat het
 verloopt.  
 
 Tot donderdag!
+
+[Naar het volgende artikel]({{< ref "juridisch" >}})
