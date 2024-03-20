@@ -23,7 +23,7 @@ er niet naar buiten getreden wordt. Bedenk hierbij wel dat in de beveiligingswer
 Dit is niet alleen van belang zodat het voor iedereen duidelijk is of er beveiligingsproblemen zijn en hoe deze eventueel
 afgedekt kunnen worden. Maar voor de beveiligingsonderzoeker zelf is het ook van belang om zijn of haar kunnen te laten 
 zien aan de markt.  
-In het artikel over [duurzaamheid]({{< ref "duurzaamheid" >}}) hebben we gezien dat de Vulnerability Displosure Procedure
+In het artikel over [duurzaamheid]({{< ref "duurzaamheid" >}}) hebben we gezien dat de Vulnerability Disclosure Procedure
 van Yealink ook toegepast wordt door Lydis B.V. En we hebben ook kunnen lezen dat deze procedure vastlegt dat de 
 beveiligingsonderzoeker alle rechten incl. Intellectueel Eigendom overdraagt aan Yealink. Het blijft dus altijd heel erg 
 belangrijk om documenten goed door te lezen. Niet akkoord gaan is altijd een optie!
@@ -53,7 +53,7 @@ Ik geef aan dat ik als kleine, Nederlandse, onderneming niet de mogelijkheid heb
 stellen en daar blijft dit aanlokkelijke aanbod dan ook bij.  
 
 Lydis en Yealink gaan er prat op dat zij volledig aan de AVG voldoen. Dat is in elk geval een mooi streven. Helaas krijg 
-ik op 22 april 2023 een emailconversatie van maanden doorgestuurd gekregen. Deze mails bevatten veel persoonsgegevens en 
+ik op 22 april 2023 een emailconversatie van maanden doorgestuurd. Deze mails bevatten veel persoonsgegevens en 
 prijs afspraken voor bedrijven als Intertrust Netherlands, Gemeente Groningen, Holding Maatschappij Damen B.V. en Etex 
 Group SA.  
 Ik neem meteen contact op met Yealink dat dit precies de informatie is die ik nodig had voor de aankomende publicatie en
@@ -77,7 +77,9 @@ kan ontzien wat ik al gelezen heb, maar dat ik de gegevens in de email niet lett
 een digitale hand en daar blijft het ook bij. Een melding van een datalek is mij niet bekend.  
 
 We gaan inmiddels richting een publicatie. Ik ben geen journalist dus ik heb inmiddels al een aantal maanden meetings 
-met [Siem Eikelenboom](https://www.ftm.nl/auteur/siem-eikelenboom) en [Sebastiaan Brommersma](https://www.ftm.nl/auteur/sebastiaan-brommersma) 
+met 
+{{< a_blank "Siem Eikelenboom" "https://www.ftm.nl/auteur/siem-eikelenboom" >}} en 
+{{< a_blank "Sebastiaan Brommersma" "https://www.ftm.nl/auteur/sebastiaan-brommersma" >}} 
 van Follow The Money. En zoals het een goede journalist betaamt wordt er om wederhoor gevraagd bij Lydis. 
 Een lid van de directie {{< censuur red >}}***{{< /censuur >}} reageert als door een wesp gestoken naar Follow The Money:
 
@@ -100,7 +102,7 @@ Deze is namelijk trots gepresenteerd op 29 augustus 2023. Tijdens deze presentat
 dat deze informatie vertrouwelijk was.  
 
 Na maaanden onderzoek, het horen van verschillende experts, waaronder mijzelf en het zelfs langsgaan op kantoor bij Lydis
-in Almere worden de laatste vragen aan Lydis EN Yealink op 12-9-2023 per email gesteld. Diezelfde dag keer komt er geen antwoord van
+in Almere worden de laatste vragen aan Lydis EN Yealink op 12-9-2023 per email gesteld. Diezelfde dag komt er geen antwoord van
 Lydis of Yealink. Wat er wel komt is een email van advocaat {{< censuur red >}}***{{< /censuur >}} van 
 Fruytier Lawyers in Business. Hij geeft aan dat:
 
@@ -113,7 +115,7 @@ important counter balance against government and corporate powers"
 maar, zo vervolgt hij zijn verhaal, het geven van 2 dagen voor wederhoor vindt hij een "disgrace" en waardig voor een 
 "second tier gossip paper".  
 Zo...de toon is nu definitief gezet. Hij geeft aan dat Lydis en Yealink 2 weken nodig hebben om met antwoorden te komen
-op de vragen. Follow The Money reageert diezelfde dag met de mededeling dat Lydis en Yealink al maanden met mij een FTM in
+op de vragen. Follow The Money reageert diezelfde dag met de mededeling dat Lydis en Yealink al maanden met mij en FTM in
 contact staan en dat het reageren op de vragen dus probleemloos binnen de gezette deadline moet lukken.  
 Tijdens deze emailwisseling merkt FTM op 13-9-2023 op dat Yealink niet alleen op de hoogte is (en dus eenvoudig een
 antwoord kan formuleren), maar dat Yealink zelfs een 
@@ -121,7 +123,7 @@ antwoord kan formuleren), maar dat Yealink zelfs een
 op hun website heeft geplaatst over een van de vragen aan Yealink.  
 
 Nu gebeurt er iets interessants. Fruytier Lawyers in Business (advocaat Yealink) reageert niet meer, maar een dag later 
-op 14-9-2023 nu komt er een aangetekende brief binnen bij de directie van Follow The Money. 
+op 14-9-2023 komt er een aangetekende brief binnen bij de directie van Follow The Money. 
 Deze brief is geschreven door advocaat Mr. {{< censuur red >}}******{{< /censuur >}} van AKD N.V. Deze persoon 
 schrijft aan de directie van FTM dat hij is ingehuurd door Lydis B.V. Deze man zit er bovenop want bij hem "bestaat 
 de indruk dat FTM voornemens is een publicatie te doen over Yealink".  
@@ -160,7 +162,7 @@ Nu is het natuurlijk lasterlijk om dit soort zaken aan de directie van een journ
 
 En dag later op 15-9-2023 worden er twee sommaties per koerier bij mij bezorgd. Ik ben op dat moment niet thuis, dus de 
 sommaties worden in de brievenbus achtergelaten. Het is opvallend dat het er twee zijn aangezien er een gericht is aan
-de werk-B.V., maar de andere sommatie is aan mij als natuurlijk persoon gericht. So far for it's trictly business laten 
+de werk-B.V., maar de andere sommatie is aan mij als natuurlijk persoon gericht. So far for it's strictly business laten 
 we dan maar zeggen.  
 Om elke mogelijke discussie uit de weg te kunnen gaan over deze documenten heb ik besloten om de sommaties zowel in 
 origineel PDF formaat als in tekst formaat voor SEO online te zetten:  
@@ -212,7 +214,7 @@ kan ik juridisch gezien gewoon heel weinig mee. En dus vraag ik of ik het correc
 Over 1) kan ik kort zijn: ik heb (op dat moment) geen intentie om zelf te gaan publiceren. Wat 2) betreft: daar heb ik op
 dat moment weinig invloed meer op. En 3) en 4) zijn zaken die ik nogal privé vind.  
 
-Helaas antwoordt de advocaat van Lydis nooit op mijn email en ik weet tot op de dag van vandaag niet 100% of dit inderdaad
+Helaas antwoordt de advocaat van Lydis nooit op mijn email en ik weet tot op de dag van vandaag niet 100% zeker of dit inderdaad
 de vier zaken zijn die Lydis van mij sommeerde.  
 
 Dit is ook het moment waarop ik zelf een advocaat in de hand heb genomen. Deze advocaat reageert naar de advocaat van Lydis
@@ -234,7 +236,7 @@ in werkelijkheid heeft Lydis besloten om op hun website, presentaties en in vakb
 onderzoek, mijn bedrijf en mijzelf. Ik krijg vragen uit de industrie over mijn "fouten" in het onderzoek. Mijn 
 reputatie is heel belangrijk en ik besluit dat ik niet anders kan dan naar buiten te gaan treden met het echte, 
 volledige, verhaal.  
-Het leidt tot deze publicatiereeks en een hernieuwd contact met Lydis. Naa aanleiding van de Teams meeting op 
+Het leidt tot deze publicatiereeks en een hernieuwd contact met Lydis. Naar aanleiding van de Teams meeting op 
 14 februari 2024 geeft de technisch directeur van Lydis aan dat:
 
 {{< quote cloudquote >}}We zijn van mening dat we volledig transparant zijn in het delen van informatie
