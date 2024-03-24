@@ -166,7 +166,7 @@ de werk-B.V., maar de andere sommatie is aan mij als natuurlijk persoon gericht.
 we dan maar zeggen.  
 Om elke mogelijke discussie uit de weg te kunnen gaan over deze documenten heb ik besloten om de sommaties zowel in 
 origineel PDF formaat als in tekst formaat voor SEO online te zetten:  
-{{< a_blank "Sommatie AKD N.V." "yealink/sommatie_akd" >}}
+{{< a_blank "Sommatie AKD N.V." "sommatie_akd" >}}
 {{< a_blank "PDF" "yealink/Sommatie_redacted.pdf" >}}  
 
 Het zit Lydis toch niet lekker dat zij mijn publicatie aankondiging een jaar voor de daadwerkelijke publicatie hebben
@@ -276,3 +276,4 @@ In het volgende artikel gaan we het over de aanpak van mijn onderzoek hebben. Wa
 Zijn er tools gebruikt die handig waren? Hoe zijn de aanvallen op mijn website gemitigeerd?
 
 Tot dinsdag!
+
