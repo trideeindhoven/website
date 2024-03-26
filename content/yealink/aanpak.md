@@ -8,7 +8,7 @@ tags = [
 ]
 image = "img/yealink/pexels-kindel-media-7054549.jpg"
 +++
-Ik denk dat ik inmiddels ruim heb laten zien wat de uitkomst van mijn onderzoek zijn. Maar wat ook interessant om te laten
+Ik denk dat ik inmiddels ruim heb laten zien wat de uitkomst van mijn onderzoek is. Maar wat ook interessant om te laten
 zien is hoe ik tot deze resultaten gekomen ben.  
 <!--more-->
 I have added international translations of the articles using google translate:  
@@ -34,17 +34,17 @@ Het document vermeldt:
 {{< quote cloudquote >}}Er is dan dus geen verdere verbinding met de RPS-server of andere server van Yealink.{{< /quote >}}
 
 Het hele punt van de onderzoeker van de universiteit is juist dat er *wel* verbinding met een server van Yealink gemaakt
-wordt. En bovendien dat dit ook gebeurt voor een Teams device.  
+wordt. En bovendien dat dit ook gebeurt voor Teams devices.  
 
 Ik heb deze resulaten zelf ook kunnen reproduceren. De manier waarop ik dit heb gedaan is om initieel met 
 {{< a_blank "Wireshark" "https://www.wireshark.org/" >}}
 te kijken op een mirror-poort van mijn router. Ik zag op die manier alle pakketten van en naar mijn device voorbij komen.  
-Het was toen al duidelijk dat er DNS queries werden gedaan naar rpscloud.yealink.com. Ik zag vervolgens ook verbindingen
+Het was toen al duidelijk dat er DNS queries werden gedaan voor o.a. rpscloud.yealink.com. Ik zag vervolgens ook verbindingen
 naar het ip-adres wat de DNS server opgaf voor die hostname.  
 Maar om nog beter te kunnen zien wat een https-client doet heb ik 
 {{< a_blank "MITMProxy" "https://mitmproxy.org/" >}}
 geïnstalleerd. Deze proxy server gaat tussen de daadwerkelijke webserver en het Yealink device zitten. Om dit mogelijk 
-te maken heb ik eerst het gegenereerde root certificaat wat ik heb gegenereerd met MITMproxy geïnstalleerd in 
+te maken heb ik eerst het door MITMproxy gegenereerde root certificaat geïnstalleerd als vertrouwd op 
 het Yealink device. MITMproxy gaat vervolgens al het TLS verkeer ontsleutelen, weergeven en opnieuw versleutelen met 
 het eigen root certificate.  
 Het is een eenvoudige test die iedereen op het werk kan doen.
@@ -75,7 +75,7 @@ Ik ben daarom
 {{< a_blank "Http ARchive of 'HAR' bestanden" "https://en.wikipedia.org/wiki/HAR_(file_format)" >}}
 gaan vastleggen. Voor de mensen met Edge, Chrome of Firefox: dit zijn bestanden waar niet 
 alleen de content van een web pagina is opgeslagen, maar ook alle andere data, zoals timing, cookies en headers.  
-Het aanmaken van een .har bestand in FireFox is mogelijk om de "Web Developer Tools" te openen.  
+Het aanmaken van een .har bestand in FireFox is mogelijk door de "Web Developer Tools" te openen.  
 Ga vervolgens naar het tabblad "Netwerk" en vraag nu de webpagina op die je wil vastleggen. Als je nu op het "tandwiel"-
 icoon klikt kun je kiezen om van de huidige pagina een .har bestand te maken:
 {{< img alt="HAR file maken in Firefox" src="img/yealink/20240324_screenshot_har.png" >}}  
@@ -133,7 +133,9 @@ informatie te vinden. Denk hierbij niet alleen aan uittreksels, maar ook aan jaa
 concernverklaringen en oprichtingsactes. Ik heb uitvoerig gebruik gemaakt van de KvK in het artikel 
 [bedrijfseconomisch]({{< ref "bedrijfseconomisch" >}}).  
 
-Een ander mooie openbare bron is het Kadaster. In dit register kun je opzoeken wie de eigenaar is van een adres. Ik heb 
+Een ander mooie openbare bron is het Kadaster. In dit register kun je opzoeken wie 
+{{< a_blank "de eigenaar" "https://www.kadaster.nl/producten/woning/eigendomsinformatie" >}}
+is van een adres. Ik heb 
 dit bijvoorbeeld geraadpleegd voor het artikel over [Yealink Europe]({{< ref "yealink_europe" >}}).  
 
 Uiteraard blijft google natuurlijk een hele handige bron van data. Maar de Google zoekmachine heeft ook heel handige 
@@ -147,9 +149,9 @@ IBS B.V. Hiervoor heb ik zogenaamde WhoIS data van dit domein gebruikt. Hoewel n
 in publieke data blijft dit een krachtige tool.  
 
 Toen ik voor het artikel over [Yealink Europe]({{< ref "yealink_europe" >}}) meer wilde weten over de relevante wetgeving
-bleek hier een 
-{{< a_blank "mooie website" "https://wetten.overheid.nl/" >}} voor te bestaan. Absoluut een aanrader die ik al tijdens 
-eerdere onderzoeken heb gebruikt.  
+heb ik hier een
+{{< a_blank "mooie website" "https://wetten.overheid.nl/" >}} voor gebruikt van de Rijksoverheid. Absoluut een aanrader 
+die ik al tijdens eerdere onderzoeken heb gebruikt.  
 
 In het artikel over de [AVG]({{< ref "avg_gdpr" >}}) had ik te maken met een certificaat van TÜV Rheinland. Deze 
 organisatie heeft een website
@@ -197,7 +199,7 @@ waardoor het b.v. eenvoudig is te gebruiken in een artikel.
 # Website
 Vrijwel direct nadat duidelijk was dat Follow The Money ging publiceren over Yealink en Lydis viel het op dat mijn 
 website bijzondere aandacht uit het buitenland kreeg. Ik heb daarom besloten om te gaan onderzoeken hoe ik een website
-kan maken die zowel goed te onderhouden is en ook geen PHP of python nodig heeft. Dit heeft alleen maar voordelen
+kan maken die zowel goed te onderhouden is en ook geen PHP of python nodig heeft. Dit heeft niet alleen maar voordelen
 voor de snelheid van de site, maar een statische website heeft ook een veel kleinere aanvalsvector.  
 
 Na wat omzwervingen kwam ik terecht bij {{< a_blank "Hugo" "https://gohugo.io/" >}}. Hugo is een open source tool
