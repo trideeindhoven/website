@@ -12,13 +12,17 @@ image = "img/yealink/pexels-jan-kroon-1038935.jpg"
 test123
 <!--more-->
 
-
+25-3-2024
 {{< quote cloudemail >}}Ik denk dat Lydis vorige week heel duidelijk heeft laten zien dat transparantie niet de bedoeling is toen ik uit het Q&A webinar ben gegooid. Uiteraard heb ik het webinar wel kunnen meevolgen omdat ik hier al op geanticipeerd had. Ik heb weer een aantal interessante zaken gehoord.
 
 Ik wil heel duidelijk zijn: mijn vragen zijn aan Lydis gericht en niet aan Yealink.
 
 Aangezien Lydis tot op de dag van vandaag GDPR teksten, logo's en (dode) links naar het ingetrokken GDPR certificaat blijft aanbieden, waar zijn deze GDPR claims op gebaseerd?{{< /quote >}}
 
+25-3-2024
+{{< quote cloudemail >}}Bedankt voor je mail {{< censuur red >}}*************{{< /censuur >}} is ziek thuis en zal later antwoorden.{{< /quote >}}
+
+Ook AKD weer op de CC
 
 | 20 maart 2024 | 27 maart 2024 |
 |---------------|---------------|
