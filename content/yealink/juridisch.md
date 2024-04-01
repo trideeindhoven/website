@@ -277,3 +277,4 @@ Zijn er tools gebruikt die handig waren? Hoe zijn de aanvallen op mijn website g
 
 Tot dinsdag!
 
+[Naar het volgende artikel]({{< ref "aanpak" >}})
