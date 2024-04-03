@@ -105,23 +105,43 @@ Het samenwerken met ervaren journalisten is een ervaring op zichzelf. Als je mee
 hebt over jaarrekeningen en technische bevindingen heb je nog geen artikel. Ervaren journalisten
 {{< a_blank "Siem Eikelenboom" "https://www.ftm.nl/auteur/siem-eikelenboom" >}} en
 {{< a_blank "Sebastiaan Brommersma" "https://www.ftm.nl/auteur/sebastiaan-brommersma" >}} hebben deze lastige rol op
-zich genomen. Iets wat in mijn hoofd heel logisch leek bleek op papier niet zo uit de verf te komen. En 100-en keren
+zich genomen. Iets wat in mijn hoofd heel logisch leek bleek op papier niet zo uit de verf te komen. En na 100-en keren
 te horen krijgen "waarom" en "hoe kunnen we dat zeker weten" is het resultaat het
 {{< a_blank "mooie artikel" "https://www.ftm.nl/artikelen/yealink-apparatuur-overheid-vitale-sectoren" >}} in FTM, De Tijd
 en het Franstalige l'Echo.
 
 # AVG / GDPR
-25-3-2024
+In vrijwel alle uitingen naar buiten toe schermen Lydis en Yealink met [AVG / GDPR]({{< ref "avg_gdpr" >}}) compliance. Tijdens een van de etentjes
+met mede-bronnen voor het FTM artikel merkt een van de experts terecht op dat een GDPR certificaat toch wel heel bijzonder
+is. Wat wordt er eigenlijk geaudit voor dit certificaat en wat is de scope van het certificaat.  
+Als ik deze basale vragen aan de uitgever van het certificaat, TÜV Rheinland, stel gebeurt er initieel niet veel.
+Het kantoor van TÜV Rheinland in China reageert eenvoudigweg niet op mijn vragen. Als ik de vragen een aantal weken later
+naar Duitsland stuur wordt het hele certificaat plotsklaps ingetrokken.  
+TÜV Rheinland stelt een "crisiscommunication manager" aan die mij opgetogen opbelt. Ik mag het gesprek onder geen beding 
+opnemen. In het gesprek probeert de man mij paniekerig duidelijk te maken dat er niets aan de hand is. In mijn artikel
+over de [AVG / GDPR]({{< ref "avg_gdpr" >}}) is het hele verhaal te lezen, maar het komt er op neer dat deze "crisis
+communicationmanager" onwaarheden aan mij verkondigt.  
+Het is duidelijk dat de echte reden waarom dit certificaat plotsklaps ingetrokken wordt niet naar buiten mag komen.  
+
+Als Lydis, ook na communicatie met TÜV Rheinland, blijft verkondigen op hun website dat alles aan de AVG / GDPR voldoet
+ga ik hen ook vragen stellen. Als ik mijn vragen wil stellen in een "Q&A webinar" word ik uit dit webinar geweigerd. Er
+zit dus niets anders op dan (opnieuw) per email vragen te gaan stellen en dus schrijf ik op 25 maart 2024 aan de directie 
+van Lydis:
 {{< quote cloudemail >}}Ik denk dat Lydis vorige week heel duidelijk heeft laten zien dat transparantie niet de bedoeling is toen ik uit het Q&A webinar ben gegooid. Uiteraard heb ik het webinar wel kunnen meevolgen omdat ik hier al op geanticipeerd had. Ik heb weer een aantal interessante zaken gehoord.
 
 Ik wil heel duidelijk zijn: mijn vragen zijn aan Lydis gericht en niet aan Yealink.
 
 Aangezien Lydis tot op de dag van vandaag GDPR teksten, logo's en (dode) links naar het ingetrokken GDPR certificaat blijft aanbieden, waar zijn deze GDPR claims op gebaseerd?{{< /quote >}}
 
-25-3-2024
+Diezelfde dag reageert de algemeen directeur van Lydis kort op mijn email:
 {{< quote cloudemail >}}Bedankt voor je mail {{< censuur red >}}*************{{< /censuur >}} is ziek thuis en zal later antwoorden.{{< /quote >}}
 
-Ook AKD weer op de CC
+Opvallend genoeg staat het advocatenbureau AKD N.V. ook weer op de CC van dit email bericht. Een echt antwoord blijft
+uit, maar er gebeurt wel iets anders: de website van Lydis wordt onder handen genomen. Ineens verdwijnen alle referenties
+naar de AVG / GDPR. Blijkbaar is Lydis het nu ook met mij eens dat zij deze claim niet meer kunnen hard maken.
+Dankzij de, voor dit onderzoek gemaakte, open source tool {{< a_blank "Ella" "https://github.com/gitaware/ella" >}} heb 
+ik versies van hun website opgeslagen van voor mijn emailvragen en van na mijn emailvragen. Een beeld zeft meer dan 
+1000 woorden, dus oordeel zelf:
 
 | 20 maart 2024 | 27 maart 2024 |
 |---------------|---------------|
@@ -135,16 +155,78 @@ Ook AKD weer op de CC
 | {{< a_blank "before" "https://web.archive.org/web/20240320111152/https://www.lydis.nl/support/yealink-privacy-en-security" >}} {{< img style="border: 4px solid #999;" alt="Webpagina 20 maart 2024" src="img/yealink/20240320_screenshot_privacysecurity.png" >}} | {{< a_blank "after" "https://web.archive.org/web/20240327141501/https://www.lydis.nl/support/yealink-privacy-en-security" >}} {{< img style="border: 4px solid #999;" alt="Webpagina 27 maart 2024" src="img/yealink/20240327_screenshot_privacysecurity.png" >}} |
 
 # Bedrijfseconomisch
+Tijdens het [bedrijfseconomisch onderzoek]({{< ref "bedrijfseconomisch" >}}) viel het op dat ik keer op keer tegen 
+vreemde zaken aanliep:
+- ontbrekende jaarstukken
+- voorlopige jaarstukken
+- (veel) te late deponeringen
+- balansen die niet in balans zijn
+- ontbrekende concernverklaringen
+
+Vrijwel elke hoek die ik ging bekijken bleken wel zaken niet in orde te zijn. In een interview met de directeur van 
+de beursgenoteerde moedermaatschappij van Lydis, Econocom, werd ronduit onjuiste informatie aan mij verstrekt rondom 
+hun jaarstukken.  
+Een belangrijke vraag van mij was: hoe is het mogelijk dat dit gebeurd? Ik kan niet geloven dat ondernemingen als Econocom
+met een jaarWINST van {{< a_blank "2.7 miljard euro" "https://www.econocom.com/ecmedia/news/econocom-2023-annual-results__en.pdf" >}}
+dit soort kinderlijke fouten maken. Maar wat blijkt? Wij hebben met zijn allen een heel web aan regels gemaakt. Deze 
+regels leggen heel duidelijk vast wat er vastgelegd moet worden, hoe deze jaarstukken gedeponeerd moeten worden en ook:
+binnen welke termijn dit moet gebeuren.  
+Maar op het moment dat ik rond ging vragen hoe het kwam dat b.v. een Kamer van Koophandel een niet-aansluitende balans 
+kon deponeren blijkt dat er niemand verantwoordelijk is voor het toezicht op deze regels. Bedrijven kunnen dus, soms meer
+dan 10 jaar, straffeloos er voor zorgen dat ze een ontransparante bedrijfsvoering hebben. In het bijzonder voor het niet
+kloppende UBO register hebben we het daadwerkelijk over wetgeving die financiering van terrorisme moet tegengaan. Ernstige
+overtredingen dus!
 
 # Juridisch
+En uiteraard heeft mijn onderzoek ook een stevig [juridisch aspect]({{< ref "juridisch" >}}) gekregen. Doordat ik sommaties
+voor mijn onderneming, maar ook voor mij als privé persoon heb ontvangen was ik genoodzaakt om een advocaat in de hand te 
+nemen. Het is een soort escalatie die je niet vaak ziet in de security wereld. Voor mij was het in elk geval een unicum.  
+Vooral de uitspraak van de advocaat die door Lydis is ingehuurd van AKD N.V. dat een juridische procedure ook tegen mij
+"los van zijn rol als bestuurder" zal plaatsvinden geeft toch wel even wat stress.  
+Maar laten we even een stap terug doen. Wat heb ik nou daadwerkelijk gedaan om deze sommaties te verdienen?  
+Ik heb meer dan een jaar in contact gestaan met Lydis en Yealink om (grote) beveiligingsproblemen op te lossen. Dit
+heeft ook daadwerkelijk geleid tot aanpassingen in hun producten. Ik heb dit altijd kostenloos gedaan om de schijn van 
+belangenverstrengeling te vermijden. Zoals ik al in mijn allereeste email aan Lydis aankondigde heb ik vervolgens met
+journalisten gesproken om hier een artikel van te maken. Dat is alles. Tijdens een gesprek met Lydis gaven zij aan
+"dat het nogal wat uit maakt of dat een post op LinkedIn is of een artikel in Follow The Money". Hier blijkt ook wel 
+uit dat de sommaties eigenlijk een soort schrikreactie was dat er daadwerkelijk een publicatie ging plaatsvinden in 
+de media. Maar gelukkig is het in *ons* land nog steeds zo dat het praten met journalisten niet verboden is.
 
 # Uitkomst
-Grote partijen zeggen van Yealink af te stappen
-Ella / Hugo
-encryption / decryption tool
+Vooral toen duidelijk werd dat Lydis regelmatig en stelselmatig naar buiten trad waarbij mijn naam en die van mijn 
+bedrijf, laten we zeggen, niet heel gunstig genoemd werd vond ik het tijd om dan toch maar zelf ook naar buiten te 
+gaan treden. Dit was nooit mijn bedoeling geweest, maar op het moment dat er in publicaties gesproken werd over het 
+"gebrek aan kennis bij Hermans over hoe SIP-telefonie werkt" zat er weinig anders op.  
+
+Deze stap leidde vanaf de allereerste publicatie meteen tot grote telecom operators die contact met mij zochten. Zij 
+gaven vrijwel zonder uitzondering aan dat zij de impact van mijn onderzoek verkeerd hadden ingeschat door de berichtgeving
+van Lydis en Yealink. Inmiddels geven verschillende grote partijen dan ook aan dat zij af aan het stappen zijn van 
+Yealink apparatuur.  
+
+De relevantie van supplychain aanvallen is in de afgelopen week maar weer gebleken met 
+{{< a_blank "CVE-2024-3094" "https://nvd.nist.gov/vuln/detail/CVE-2024-3094" >}}. Het geeft mij energie om te weten dat
+datgene waar ik aan werk een heel klein radertje is in een belangrijk geheel.  
+
+Maar een andere uitkomst was ook dat er nieuwe, open source, software ontwikkeld is om dit onderzoek mogelijk te maken.  
+Zo is de encryption tool van Yealink zelf gereverse-engineered en onder een open source licentie 
+{{< a_blank "gepubliceerd op github" "https://github.com/gitaware/yealink-encryption" >}}. Deze open source versie heeft 
+als extra feature dat het bestanden welke met bekende gelekte sleutels zijn versleuteld kunnen worden ontsleuteld.  
+
+Om websites forensisch vast te leggen is de open source tool {{< a_blank "Ella" "https://github.com/gitaware/ella" >}}
+gemaakt. Deze tool maakt een technische snapshot van een website op een tijdstip en plaatst deze dan op servers welke 
+niet in mijn beheer zijn. Op dit moment ondersteund Ella github en de Wayback Machine. Maar mochten jullie leuke ideeën
+hebben, dan ontvang ik jullie Pull Request graag!
 
 # Bedankt
+En dan is dit het, voorlopige, einde van mijn publicatiereeks. Er staan nog zeker lijntjes uit, maar deze resultaten
+zijn nog niet concreet genoeg. Als ik terug denk al de afgelopen, bijna, 2 jaar dan moet ik ook meteen denken aan iedereen
+die mij geholpen heeft. Mensen die mij hebben geholpen met het schrijven van deze artikelen, technische ondersteuning 
+hebben geboden, journalistiek onderzoek hebben gedaan en mij vragen stelden die ik nog niet had bedacht.  
+Maar ik mag ook zeker niet de mensen vergeten die mij op persoonlijk niveau hebben geholpen. Mijn vrienden en familie 
+die er waren toen het niet zo makkelijk was. Mij geruststelden toen de stress het hoogst was.  
+
+Ik ga geen namen noemen want dan vergeet ik belangrijke namen, maar jullie weten wie jullie zijn. Ik beloof dat ik in
+de komende tijd de tijd ga inhalen met jullie die jullie verdienen.  
 
 
-CVE-2024-3094
-
+Dank!
