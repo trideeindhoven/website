@@ -144,3 +144,7 @@ Ella / Hugo
 encryption / decryption tool
 
 # Bedankt
+
+
+CVE-2024-3094
+
