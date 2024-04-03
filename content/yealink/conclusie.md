@@ -36,13 +36,13 @@ Zoals ik in het artikel over [versleuteling]({{< ref "versleuteling" >}}) uitgeb
 het startpunt van mijn onderzoek. Het ontwerpen en implementeren van een provisioning systeem leverde vrijwel meteen heel
 serieuze vragen op over veiligheid. De keuze voor ECB-mode versleuteling heb ik tot op de dag van vandaag geen verklaring 
 voor kunnen vinden.  
-Ook is het onbegrijpelijk dat een firmware van de afmeting van Yealink a) een AES sleutel verliest in 2012 en hier b) 
-pas in 2020 een oplossing voor verzint. In het meest gunstige geval getuigt dit van en onbeschrijfelijke nalatigheid.  
+Ook is het onbegrijpelijk dat een onderneming met de omvang van Yealink a) een AES sleutel verliest in 2012 en hier b) 
+pas in 2020 een oplossing voor verzint. In het meest gunstige geval getuigt dit van een onbeschrijfelijke nalatigheid.  
 Wat deze zaak nog pijnlijker maakt is dat het Yealink lukt om de RSA private key van de "gerepareerde" encryptie tool
 vrijwel meteen opnieuw te verliezen doordat deze netjes als .pem bestand meegeleverd werd. Wat hierdoor ook duidelijk 
 is geworden, is dat de kennis van Lydis op dit vlak onvoldoende is gebleken. Naar aanleiding van mijn melding dat ook
 de nieuwe RSA sleutel uitgelekt was heeft Lydis meerdere {{< a_blank "malen" "yealink/y000000000065_1.cfg" >}} 
-{{< a_blank "voorbeeld" "yealink/y000000000065_2.cfg" >}} bestanden opgestuurd heeft waarin deze sleutel gebruikt werd.  
+{{< a_blank "voorbeeld" "yealink/y000000000065_2.cfg" >}} bestanden opgestuurd waarin deze sleutel gebruikt werd.  
 De latere uitleg van Lydis en Yealink dat het om een "demo" sleutel gaat die *uiteraard* niet gebruikt mag worden
 moet dus met een korreltje zout genomen worden. Dat de encryption tool met grote spoed van de website gehaald werd
 en vervangen door een nieuwe versie waar deze sleutel niet meer in zat spreekt dan ook boekdelen.  
@@ -63,12 +63,12 @@ haast op dat het om een soort helpdesk-script gaat.
 ## Firmware
 Maar het gebrek aan technische kennis houdt daar niet op. Yealink gebruikt een eenvoudig algoritme om hun firmware onleesbaar
 te maken. Hierdoor is het voor mij mogelijk om de firmware uit te lezen en hier belangrijke data uit te kunnen halen.  
-Hierdoor is het voor mij mogelijk om te verifiëren dat er Open Source Software (OSS) gebruikt wordt waar de licentie
-niet nagekomen wordt.  
+Zo is het voor mij mogelijk om te verifiëren dat er Open Source Software (OSS) gebruikt wordt waar de licentie
+niet nageleefd wordt.  
 Ook is duidelijk dat de BeNeLux de enige regio ter wereld is met haar eigen firmware die exclusief door Lydis verspreid
 wordt: de "188" firmware. En het is al snel duidelijk dat deze firmware behoorlijk ouder is dan de firmware die de rest
 van de wereld aangeboden krijgt. Niet alleen levert dit problemen op met beveiligingsgaten in de firmware die door Lydis
-verspreidt wordt. Het levert soms ook vervelende problemen op zoals het niet kunnen doorverbinden. Een probleem wat al
+verspreid wordt. Het levert soms ook vervelende problemen op zoals het niet kunnen doorverbinden. Een probleem wat al
 gerepareerd was in de internationale firmware, maar waar de BeNeLux nog maanden op moest wachten.  
 
 Maar daar blijft het niet bij. In de firmware staan ook heel erg gevoelige zaken, zoals de "provider codes". Dit zijn 
@@ -83,7 +83,7 @@ ook de uploaddatums naar 2015 wijzigen, zodat niet meer te zien is wanneer een f
 Tijdens het (beperkte) onderzoek wat ik zelf heb kunnen uitvoeren zijn er dusdanig veel problemen naar voren gekomen dat
 de vraag rijst of ik nu de eerste en enige ben die tot deze conclusie is gekomen... En dat blijkt niet zo te zijn.  
 Gedurende het onderzoek [blijkt]({{< ref "historisch" >}}) dat er regelmatig beveiligingsonderzoekers met heel 
-concrete conclusies naar buiten treden. Het lukt niet om met deze onderzoekers in contact te treden. De enige onderzoekers
+concrete conclusies naar buiten treden. Het lukt niet om met deze onderzoekers in contact te komen. De enige onderzoekers
 die ik te spreken krijg willen nadat zij contact hebben gehad met Yealink niet meer met mij praten.  
 In de verschillende documenten die ik tijdens het onderzoek boven water krijg komen nogal wat zaken aan bod. Zo schrijven 
 onderzoekers dat zij persoonsdata via de RPS servers van Yealink hebben kunnen verkrijgen. Lydis verdraait in 
@@ -146,8 +146,8 @@ Opvallend genoeg staat het advocatenbureau AKD N.V. ook weer op de CC van dit em
 uit, maar er gebeurt wel iets anders: de website van Lydis wordt onder handen genomen. Ineens verdwijnen alle referenties
 naar de AVG / GDPR. Blijkbaar is Lydis het nu ook met mij eens dat zij deze claim niet meer kunnen hard maken.
 Dankzij de, voor dit onderzoek gemaakte, open source tool {{< a_blank "Ella" "https://github.com/gitaware/ella" >}} heb 
-ik versies van hun website opgeslagen van voor mijn emailvragen en van na mijn emailvragen. Een beeld zeft meer dan 
-1000 woorden, dus oordeel zelf:
+ik versies van hun website opgeslagen van vóór en ná mijn emailvragen. Een beeld zegt meer dan 
+1000 woorden, dus oordeel zelf aan de hand van een aantal voorbeelden:
 
 | 20 maart 2024 | 27 maart 2024 |
 |---------------|---------------|
@@ -169,7 +169,7 @@ vreemde zaken aanliep:
 - balansen die niet in balans zijn
 - ontbrekende concernverklaringen
 
-Vrijwel elke hoek die ik ging bekijken bleken wel zaken niet in orde te zijn. In een interview met de directeur van 
+In vrijwel elke hoek die ik ging bekijken bleken wel zaken niet in orde te zijn. In een interview met de financieel manager van 
 de beursgenoteerde moedermaatschappij van Lydis, Econocom, werd ronduit onjuiste informatie aan mij verstrekt rondom 
 hun jaarstukken.  
 Een belangrijke vraag van mij was: hoe is het mogelijk dat dit gebeurd? Ik kan niet geloven dat ondernemingen als Econocom
@@ -177,11 +177,11 @@ met een jaarWINST van {{< a_blank "2.7 miljard euro" "https://www.econocom.com/e
 dit soort kinderlijke fouten maken. Maar wat blijkt? Wij hebben met zijn allen een heel web aan regels gemaakt. Deze 
 regels leggen heel duidelijk vast wat er vastgelegd moet worden, hoe deze jaarstukken gedeponeerd moeten worden en ook:
 binnen welke termijn dit moet gebeuren.  
-Maar op het moment dat ik rond ging vragen hoe het kwam dat b.v. een Kamer van Koophandel een niet-aansluitende balans 
-kon deponeren blijkt dat er niemand verantwoordelijk is voor het toezicht op deze regels. Bedrijven kunnen dus, soms meer
+Maar op het moment dat ik rond ging vragen hoe het kwam dat b.v. bij de Kamer van Koophandel een niet-aansluitende balans 
+gedeponeerd kon wordne blijkt dat er niemand verantwoordelijk is voor het toezicht op deze regels. Bedrijven kunnen dus, soms meer
 dan 10 jaar, straffeloos er voor zorgen dat ze een ontransparante bedrijfsvoering hebben. In het bijzonder voor het niet
 kloppende UBO register hebben we het daadwerkelijk over wetgeving die financiering van terrorisme moet tegengaan. Ernstige
-overtredingen dus!
+overtredingen van een beursgenoteerde onderneming dus!
 
 # Juridisch
 En uiteraard heeft mijn onderzoek ook een stevig [juridisch aspect]({{< ref "juridisch" >}}) gekregen. Doordat ik sommaties
@@ -192,7 +192,7 @@ Vooral de uitspraak van de advocaat die door Lydis is ingehuurd van AKD N.V. dat
 Maar laten we even een stap terug doen. Wat heb ik nou daadwerkelijk gedaan om deze sommaties te verdienen?  
 Ik heb meer dan een jaar in contact gestaan met Lydis en Yealink om (grote) beveiligingsproblemen op te lossen. Dit
 heeft ook daadwerkelijk geleid tot aanpassingen in hun producten. Ik heb dit altijd kostenloos gedaan om de schijn van 
-belangenverstrengeling te vermijden. Zoals ik al in mijn allereeste email aan Lydis aankondigde heb ik vervolgens met
+belangenverstrengeling te vermijden. Zoals ik al in mijn allereerste email aan Lydis aankondigde heb ik vervolgens met
 journalisten gesproken om hier een artikel van te maken. Dat is alles. Tijdens een gesprek met Lydis gaven zij aan
 "dat het nogal wat uit maakt of dat een post op LinkedIn is of een artikel in Follow The Money". Hier blijkt ook wel 
 uit dat de sommaties eigenlijk een soort schrikreactie was dat er daadwerkelijk een publicatie ging plaatsvinden in 
@@ -220,7 +220,7 @@ als extra feature dat het bestanden welke met bekende gelekte sleutels zijn vers
 
 Om websites forensisch vast te leggen is de open source tool {{< a_blank "Ella" "https://github.com/gitaware/ella" >}}
 gemaakt. Deze tool maakt een technische snapshot van een website op een tijdstip en plaatst deze dan op servers welke 
-niet in mijn beheer zijn. Op dit moment ondersteund Ella github en de Wayback Machine. Maar mochten jullie leuke ideeën
+niet in mijn beheer zijn. Op dit moment ondersteunt Ella Github en de Wayback Machine. Maar mochten jullie leuke ideeën
 hebben, dan ontvang ik jullie Pull Request graag!
 
 # Bedankt
@@ -232,7 +232,7 @@ Maar ik mag ook zeker niet de mensen vergeten die mij op persoonlijk niveau hebb
 die er waren toen het niet zo makkelijk was. Mij geruststelden toen de stress het hoogst was.  
 
 Ik ga geen namen noemen want dan vergeet ik belangrijke namen, maar jullie weten wie jullie zijn. Ik beloof dat ik in
-de komende tijd de tijd ga inhalen met jullie die jullie verdienen.  
+de komende periode de tijd die jullie verdienen met jullie ga inhalen.  
 
 
-Dank!
+Bedankt!
