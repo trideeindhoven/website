@@ -11,6 +11,12 @@ image = "img/yealink/pexels-jan-kroon-1038935.jpg"
 De afgelopen twee jaar waren een bizarre aaneenschakeling van gebeurtenissen. In het bijzonder de laatste maanden waren 
 een rollercoaster waar heel erg veel gebeurd is.
 <!--more-->
+I have added international translations of the articles using google translate:  
+
+[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/conclusie/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/conclusie/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
+[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/conclusie/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
+
 Het heeft geleid tot een serie van artikelen waarin ik uitgebreid ben ingegaan op alle feiten. Wellicht heeft u als lezer 
 niet de tijd om alle artikelen te lezen. Of wellicht vindt u het fijn om alles nog een keer op een rijtje te zien.  
 
