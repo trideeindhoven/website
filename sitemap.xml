@@ -2,34 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://trideeindhoven.github.io/website/spreker/</loc>
+    <lastmod>2024-05-25T12:33:45+10:00</lastmod>
+  </url><url>
     <loc>https://trideeindhoven.github.io/website/support/</loc>
     <lastmod>2023-01-01T12:33:45+10:00</lastmod>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/tags/avg/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trideeindhoven.github.io/website/tags/gdpr/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trideeindhoven.github.io/website/yealink/gesloten_openheid/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trideeindhoven.github.io/website/tags/lydis/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trideeindhoven.github.io/website/tags/openheid/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trideeindhoven.github.io/website/tags/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trideeindhoven.github.io/website/tags/yealink/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trideeindhoven.github.io/website/yealink/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/tags/conclusie/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/yealink/conclusie/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://trideeindhoven.github.io/website/tags/gdpr/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://trideeindhoven.github.io/website/tags/lydis/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://trideeindhoven.github.io/website/tags/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://trideeindhoven.github.io/website/tags/yealink/</loc>
-    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://trideeindhoven.github.io/website/yealink/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/yealink/aanpak/</loc>
@@ -152,10 +161,10 @@
     <loc>https://trideeindhoven.github.io/website/yealink/video_boodschap/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/about/</loc>
+    <loc>https://trideeindhoven.github.io/website/cookieverklaring/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/cookieverklaring/</loc>
+    <loc>https://trideeindhoven.github.io/website/about/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/privacybeleid/</loc>
