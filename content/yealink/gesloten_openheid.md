@@ -32,7 +32,7 @@ De eerste van deze serie vindt plaats op 5 maart 2024 en heeft de interessante t
 <span>Lid directie Lydis B.V.</span>{{< /quote >}}
 Evidence code: 2403141641
 
-Een bijzonder slordige fout, want dit is toch wel iets waar we het inmiddels al meer dan een half jaar over hebben en waar ook Follow The Money al over geschreven heeft. Het is in elk geval geen slordigheidje die je verwacht van een firma die videoconferencing apparatuur levert aan de juridische sector.
+Een bijzonder slordige fout, want dit is toch wel iets waar we het inmiddels al meer dan een [half jaar]({{< ref "avg_gdpr" >}}) over hebben en waar ook Follow The Money al over geschreven heeft. Het is in elk geval geen slordigheidje die je verwacht van een firma die videoconferencing apparatuur levert aan de juridische sector.
 
 Ik besluit het nog maar eens te proberen op 19 maart 2024. Lydis organiseert opnieuw een webinar met een online “Q&A” sessie over Yealink. Ik heb mij een week eerder ingeschreven en een uur voor het webinar krijg ik een link opgestuurd:
 {{< quote cloudemail>}}Je ontvangt deze herinneringsmail omdat u zich heeft geregistreerd voor het evenement: Live Q&A: Yealink videoconferentie.”.{{< /quote >}}
@@ -49,7 +49,7 @@ Ik vraag Lydis om commentaar en zij geven aan dat
 {{< quote cloudquote >}}Wij denken niet dat het productief voor samenwerking is om onder valse naam deel te nemen aan een webinar dat georganiseerd is voor klanten.<span>Lid directie Lydis B.V.</span>{{< /quote >}}
 Evidence code: 2405292343
 
-Nu doet zich de bijzonder situatie voor dat Lydis en ik het helemaal met elkaar eens zijn. Zo hoort het niet te gaan. Maar de reden dat ik onder een andere naam in die webinars deelneem is niet omdat ik daar genoegen uit schep. De reden is omdat Lydis er alles aan doet om mij niet op de hoogte te houden. Dit ondanks dat we expliciet iets anders hebben afgesproken. En dus zit ik in de vervelende situatie dat ik zelf ook informatie achter moet houden. Ik kan immers niet vertellen welke klanten en medewerkers van Lydis mij informatie toespelen.
+Nu doet zich de bijzondere situatie voor dat Lydis en ik het helemaal met elkaar eens zijn. Zo hoort het niet te gaan. Maar de reden dat ik onder een andere naam in die webinars deelneem is niet omdat ik daar genoegen uit schep. De reden is omdat Lydis er alles aan doet om mij niet op de hoogte te houden. Dit ondanks dat we expliciet iets anders hebben afgesproken. En dus zit ik in de vervelende situatie dat ik zelf ook informatie achter moet houden. Ik kan immers niet vertellen welke klanten en medewerkers van Lydis mij informatie toespelen.
 
 En dit verhaal herhaalt zich opnieuw op 21 mei wanneer ik opnieuw niet toegelaten word in een webinar van Lydis. Uiteraard zit mijn alter ego wel in deze meeting en hier vallen een aantal zaken op:
 
@@ -86,10 +86,6 @@ We zouden het kunnen samenvatten als:
 We lijken hier te maken te hebben met een organisatie die zegt te willen leren van hun eerdere gedrag, maar in de praktijk hier bijzonder slecht in scoort. Ik heb moeite om hardware en software te gebruiken van een organisatie die security denkt te bereiken door kritische onderzoekers buiten een webinar te houden. Daar hebben wij in de industrie een term voor: “Security through obscurity” en die term is dusdanig krachtig dat ik die niet eens hoef uit te leggen.
 
 Tot slot ben ik natuurlijk heel erg benieuwd naar de “grote impact” die mijn publicaties heeft gehad op Lydis. In de [sommaties]({{< ref "sommatie_akd" >}}) die Lydis aan mijzelf en mijn B.V. heeft gestuurd wordt namelijk gesproken over een "serieus omzetverlies van minimaal 7 miljoen euro". Volgende week moet Lydis de jaarrekening 2023 opgemaakt hebben, waarna deze ({{< a_blank "uiterlijk" "https://www.kvk.nl/deponeren/uiterste-termijn-deponeren-jaarrekening/" >}}) over 2 maanden en 8 dagen gedeponeerd moet worden bij de Kamer van Koophandel.  
-Er is uiteraard een uitstel mogelijk “in geval van bijzondere omstandigheden”. Mocht hier gebruik van gemaakt worden, dan ben ik uiteraard hoogst geïnteresseerd waarom de Nederlandse marktleider "bijzondere omstandigheiden" moet claimen.  
+Er is uiteraard een uitstel mogelijk “in geval van bijzondere omstandigheden”. Mocht hier gebruik van gemaakt worden, dan ben ik uiteraard hoogst geïnteresseerd waarom de Nederlandse marktleider "bijzondere omstandigheden" moet claimen.  
 
 Wordt vervolgd...
-
-
-
-
