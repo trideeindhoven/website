@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Over"
 description = "CloudAware"
 date = "2023-12-21"
 aliases = ["about-us", "about-cloudaware"]
