@@ -77,6 +77,13 @@ Maar zo schrijft het directielid:
 
 Dat is interessant dat hij hier over begint. Want over exact dit proces heb ik eerder geschreven in het artikel over de [historische staat van beveiliging]({{< ref "historisch" >}}). Deze "responsible disclosure" procedure is niets meer dan een wurgcontract voor beveiligingsonderzoekers. Niet alleen levert deze procedure geen enkele juridische veiligheid voor een onderzoeker ("Safe Harbor") ook betekent het tekenen van deze procedure dat je alle intellectueel eigendom over je eigen bevindingen kwijt raakt. Publiceren zit er dan in elk geval niet meer in!
 
+Tot zo ver de berichtgeving van de directie van Lydis B.V. op 29 mei 2024. Een dag later op 30 mei 2024 vindt opnieuw een webinar plaats. Ook in dit webinar word ik niet toegelaten, maar uiteraard is het niet heel lastig om met wat hulp toegang te verschaffen. En wat zie ik tot mijn verbazing:
+{{< img alt="Android 13 update" src="img/yealink/20240530_android13_update.png" >}}  
+Volgens de presentator "Peter" is "dit toch wel een belangrijke". Hij vertelt dat Android 10 nog tot september 2025 door Microsoft wordt ondersteund. Dat is heel erg fijn voor Yealink, maar het zegt natuurlijk helemaal niets over de beveiliging van het platform. Ik heb hier al over geschreven in het artikel over de 
+[versleuteling]({{< ref "versleuteling" >}}) waarbij Microsoft ontkent gecertificeerde apparaten te testen op beveiliging. De certificering behelst alleen zaken zoals het "leveren van audio- en video-ervaringen".
+
+Hoewel dit webinar niet over roompanels ging, betekent dit nu dat de directie van een dochtermaatschappij van een beursgenoteerde firma onjuiste informatie verstrekt? Of betekent het dat de directie zelf niet op de hoogte is van de ontwikkelingen in hun eigen portfolio?
+
 We zouden het kunnen samenvatten als:
 - Er worden besturingssystemen gebruikt die al jaren geen updates meer ontvangen.
 - Er zijn tientallen "critical" CVE's bekend.
