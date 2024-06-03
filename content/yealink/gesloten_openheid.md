@@ -95,4 +95,8 @@ We lijken hier te maken te hebben met een organisatie die zegt te willen leren v
 Tot slot ben ik natuurlijk heel erg benieuwd naar de “grote impact” die mijn publicaties heeft gehad op Lydis. In de [sommaties]({{< ref "sommatie_akd" >}}) die Lydis aan mijzelf en mijn B.V. heeft gestuurd wordt namelijk gesproken over een "serieus omzetverlies van minimaal 7 miljoen euro". Volgende week moet Lydis de jaarrekening 2023 opgemaakt hebben, waarna deze ({{< a_blank "uiterlijk" "https://www.kvk.nl/deponeren/uiterste-termijn-deponeren-jaarrekening/" >}}) over 2 maanden en 8 dagen gedeponeerd moet worden bij de Kamer van Koophandel.  
 Er is uiteraard een uitstel mogelijk “in geval van bijzondere omstandigheden”. Mocht hier gebruik van gemaakt worden, dan ben ik uiteraard hoogst geïnteresseerd waarom de Nederlandse marktleider "bijzondere omstandigheden" moet claimen.  
 
-Wordt vervolgd...
+Wordt vervolgd...  
+
+*Instant update:*  
+Het duurt ongeveer een week voordat een artikel klaar is en er wederhoor gepleegd is. Vandaag bleek dan ook tijdens een routine check op de jaarstukken van Lydis B.V. dat zij vorige week binnen drie werkdagen na mijn email hun jaarstukken hebben gedeponeerd.  
+Het balanstotaal van Lydis B.V. was in 2022 bijna 15 miljoen. Men zou daarom verwachten dat een plotseling verlies van 7 mln in korte tijd in Q4 duidelijk zichtbaar zou zijn in 2023. De reden waarom dit niet het geval is, ben ik uiteraard erg benieuwd naar en dit zal dan ook onderdeel uit maken van het vervolg onderzoek!
