@@ -98,5 +98,5 @@ Er is uiteraard een uitstel mogelijk â€œin geval van bijzondere omstandighedenâ€
 Wordt vervolgd...  
 
 *Instant update:*  
-Het duurt ongeveer een week voordat een artikel klaar is en er wederhoor gepleegd is. Vandaag bleek dan ook tijdens een routine check op de jaarstukken van Lydis B.V. dat zij vorige week binnen drie werkdagen na mijn email hun jaarstukken hebben gedeponeerd.  
+Het duurt ongeveer een week voordat een artikel klaar is en er wederhoor gepleegd is. Vandaag bleek dan ook tijdens een routine check op de jaarstukken van Lydis B.V. dat zij vorige week binnen drie werkdagen na mijn email hun {{< a_blank "jaarstukken" "yealink/20240603_lydis.pdf" >}} hebben gedeponeerd.  
 Het balanstotaal van Lydis B.V. was in 2022 bijna 15 miljoen. Men zou daarom verwachten dat een plotseling verlies van 7 mln in korte tijd in Q4 duidelijk zichtbaar zou zijn in 2023. De reden waarom dit niet het geval is, ben ik uiteraard erg benieuwd naar en dit zal dan ook onderdeel uit maken van het vervolg onderzoek!
