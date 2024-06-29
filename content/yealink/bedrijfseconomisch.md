@@ -12,12 +12,6 @@ Tijdens het onderzoek naar Lydis en Yealink kwamen heel veel bedrijven en holdin
 relevant om ook te kijken naar de bedrijfseconomische handel en wandel van deze bedrijven. In het bijzonder wanneer het
 om terrorisme bestrijding (UBO) of beursgenoteerde bedrijven gaat.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/bedrijfseconomisch/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/bedrijfseconomisch/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/bedrijfseconomisch/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Wacht eens even. Waarom wordt er nu ineens ook onderzoek gedaan naar bedrijfseconomische aspecten van de bedrijven rondom 
 Yealink? Het is een vraag die mij ook gesteld werd tijdens een meeting die ik samen met mijn advocaat op 15 februari 2024 
 had met Lydis.  
@@ -227,4 +221,3 @@ informatie heb ik dit artikel opgesplitst. In het volgende artikel komt een dele
 met mij te praten en kom ik er achter dat Yealink een BV op fietsafstand van mijn voordeur heeft opgericht.  
 Tijd om langs te gaan dus. En dat verhaal beschrijf ik donderdag in het volgende artikel. Tot dan!  
 
-[Naar het volgende artikel]({{< ref "yealink_europe" >}})

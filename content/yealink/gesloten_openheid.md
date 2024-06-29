@@ -10,12 +10,6 @@ image = "img/yealink/pexels-pixabay-139392.jpg"
 +++
 Aangezien ik bezig ben met een aantal heel erg mooie zakelijke en privé projecten had ik niet verwacht om voor de zomervakantie weer opnieuw te gaan publiceren. Maar ik denk dat het goed is om toch nog even een korte tussen publicatie te maken.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/gesloten_openheid/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/gesloten_openheid/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/gesloten_openheid/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Gedurende de serie publicaties over Yealink en Lydis gaf een lid van de directie van Lydis B.V. aan dat zij ook vonden dat de samenwerking op sommige punten wellicht nog beter had gekund en dat Lydis eigenlijk ook geen eerdere ervaring had met een responsible disclosure procedure.  
 Evidence code: 2402161646  
   

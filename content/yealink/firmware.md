@@ -12,12 +12,6 @@ In april 2023 brengt zowel Lydis als Yealink een redelijk cryptische memo naar b
 wat de strekking van deze memo is, maar wat op dat moment nog niemand weet is dat de oorzaak van deze memo ikzelf ben 
 en een direct gevolg van mijn samenwerking met Yealink en Lydis.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/firmware/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/firmware/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/firmware/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 # Unpack
 Laten we voorop stellen dat ik een redelijk matige reverse engineer ben, maar het was ook voor mij kinderlijk eenvoudig
 om de "versleutelde" firmware van Yealink en Lydis uit te lezen. De reden hierachter was dat iemand al het lastige werk
@@ -287,4 +281,3 @@ Het blijft mij dan ook verbazen dat het juist op alle vlakken aan deze transpara
 bedrijven die bij Yealink betrokken zijn. Het is voor mij niet vast te stellen wat de beweegredenen hier achter zijn  
 Tot zo ver dit artikel over Yealink en Lydis. Het volgende artikel komt uit op vrijdag 8 maart. Tot dan!
 
-[Naar het volgende artikel]({{< ref "publicatie" >}})

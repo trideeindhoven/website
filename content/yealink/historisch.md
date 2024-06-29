@@ -12,12 +12,6 @@ Het is niet voor te stellen dat ik de eerste en enige beveiligingsonderzoeker be
 aangelopen. En dus heb ik besloten om onderzoekers te gaan onderzoeken. Een speurtocht die soms meer dan 10 jaar terug in
 de tijd gaat.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/historisch/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/historisch/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/historisch/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Volgens de 
 {{< a_blank "Security FAQ" "https://www.lydis.nl/over-ons/yealink-security-faq" >}}
 {{< a_blank "mirror" "https://web.archive.org/web/20240306181308/https://www.lydis.nl/over-ons/yealink-security-faq" >}}
@@ -324,4 +318,3 @@ is het wel dat dit soms ver te zoeken is.
 In de volgende publicatie gaan we het hebben over duurzaamheid. Als zelfs Tony's Chocolonely voor Lydis en Yealink kiest
 dan moet dit toch wel een heel belangrijk onderwerp zijn. Of is toch niet alles zoals het lijkt?
 
-[Naar het volgende artikel]({{< ref "duurzaamheid" >}})

@@ -18,12 +18,6 @@ En als ook maatschappelijk betrokken ondernemingen als
 nadrukkelijk voor Lydis kiezen als leverancier, wordt dit extra belangrijk voor het product en onderneming.
 Maar wat is duurzaamheid eigenlijk en kunnen Lydis en Yealink zich wel oprecht duurzaam noemen?
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/duurzaamheid/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/duurzaamheid/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/duurzaamheid/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Je als onderneming duurzaam noemen gaat natuurlijk verder dan alleen een paar zonnepanelen op het dak leggen. Het gaat 
 over hoe je met de maatschappij omgaat. Het gaat er over hoe je deze aarde beter achterlaat voor de volgende generaties
 dan hoe je deze gekregen hebt. En ik denk dat na een aantal weken publiceren het wel duidelijk moge zijn dat Lydis en Yealink
@@ -404,4 +398,3 @@ verloopt.
 
 Tot donderdag!
 
-[Naar het volgende artikel]({{< ref "juridisch" >}})

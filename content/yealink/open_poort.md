@@ -11,12 +11,6 @@ image = "img/yealink/pexels-harrison-haines-2869565.jpg"
 Tijdens het onderzoek viel het op dat er een netwerkpoort open stond op Yealink devices. Het open staan van deze poort
 kon ik niet verklaren en dus werden ook hier vragen over gesteld aan Yealink.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/open_poort/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/open_poort/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/open_poort/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Laat ik eerst even beginnen met het uitleggen wat een "netwerkpoort" is.  
 
 Toen computernetwerken bedacht werden vond men dat het handig zou zijn om meerdere netwerkdiensten ("servers") op een 
@@ -199,4 +193,3 @@ en regelgeving die bij dit onderzoek hoort.
 
 Tot snel!
 
-[Naar het volgende artikel]({{< ref "avg_gdpr" >}})

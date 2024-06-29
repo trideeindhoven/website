@@ -13,12 +13,6 @@ Zowel Yealink als Lydis gaan er prat op dat ze 100% voldoen aan de
 Sterker nog: ze claimen hier zelfs een "General Data Protection Regulation (GDPR) certificate" (Engelse benaming voor AVG) 
 voor te bezitten van TÜV Rheinland.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/avg_gdpr/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Het is tijdens een van de dinertjes aan de keukentafel met de experts die hebben meegewerkt aan het 
 {{< a_blank "FTM artikel" "https://www.ftm.nl/artikelen/yealink-apparatuur-overheid-vitale-sectoren" >}} wanneer ik het AVG/GDPR
 certificaat ter sprake breng. Dit certificaat {{< a_blank "wordt" "https://www.lydis.nl/yealink-beveiliging-maatregelen" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240217145316/https://www.lydis.nl/yealink-beveiliging-maatregelen" >}} {{< a_blank "door" "https://www.lydis.nl/oplossingen/yealink-security" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240221215348/https://www.lydis.nl/oplossingen/yealink-security" >}} {{< a_blank "Lydis" "https://www.lydis.nl/support/yealink-security-en-opvolging-copy-2" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240117145700/https://www.lydis.nl/support/yealink-security-en-opvolging-copy-2" >}} {{< a_blank "en" "https://www.yealink.com/en/trust-center/privacy" >}}{{< a_blank "mirror" "https://web.archive.org/web/20240221215242/https://www.yealink.com/en/trust-center/privacy" >}}
@@ -292,4 +286,3 @@ want er is nog zo veel te onderzoeken. En daar schrijf ik dinsdag 27 februari ov
 
 Tot dan!
 
-[Naar het volgende artikel]({{< ref "bedrijfseconomisch" >}})

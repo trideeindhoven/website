@@ -12,12 +12,6 @@ Zowel Lydis als Yealink kiezen er op een gegeven moment voor om juridische dreig
 graag behandelen. Het geeft een interessant inzicht in hoe de procedure is verlopen en ik hoop dat het toekomstige
 beveiligingsonderzoekers kan helpen in hun werk.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/juridisch/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/juridisch/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/juridisch/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Je hoort wel vaker dat ondernemingen er voor kiezen om beveiligingsonderzoekers juridisch zo te bedreigen dat
 er niet naar buiten getreden wordt. Bedenk hierbij wel dat in de beveiligingswereld het belangrijk is dat er openheid is.
 Dit is niet alleen van belang zodat het voor iedereen duidelijk is of er beveiligingsproblemen zijn en hoe deze eventueel
@@ -277,4 +271,3 @@ Zijn er tools gebruikt die handig waren? Hoe zijn de aanvallen op mijn website g
 
 Tot dinsdag!
 
-[Naar het volgende artikel]({{< ref "aanpak" >}})

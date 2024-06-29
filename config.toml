@@ -19,7 +19,7 @@ enableRobotsTXT = true
 [params]
 
   showBlog = false
-  mainSections = ['yealink']
+  mainSections = ['yealink', 'blog']
 
   googleFonts = false
 
@@ -52,9 +52,9 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "yealink"
-    name = "Yealink"
-    url = "/yealink/"
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
     weight = 1
 
   [[menu.main]]

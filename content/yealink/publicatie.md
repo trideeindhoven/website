@@ -12,12 +12,6 @@ Het onderzoek wat begon met een eenvoudige vraag per email blijft groeien en gro
 ook een logische stap om de resultaten te gaan publiceren. Het is een proces wat ik zelf nog nooit met externe 
 journalisten heb gedaan en het was een leuke en leerzame ervaring.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/publicatie/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/publicatie/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/publicatie/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Tijdens een lunch bij een klant vertel ik aan een security expert dat het onderzoek het punt bereikt dat er eigenlijk wel
 gepubliceerd kan gaan worden. Ik ben op zoek naar een publicatie medium hiervoor. De security expert suggereert dat
 Follow The Money (FTM) een geschikte partij kan zijn om deze publicatie te doen.  
@@ -235,4 +229,3 @@ rapporten die Yealink trots presenteert? En lekt de YMCS nu persoonsdata van de 
 
 Tot dinsdag!
 
-[Naar het volgende artikel]({{< ref "historisch" >}})

@@ -11,12 +11,6 @@ image = "img/yealink/pexels-kindel-media-7054549.jpg"
 Ik denk dat ik inmiddels ruim heb laten zien wat de uitkomst van mijn onderzoek is. Maar wat ook interessant om te laten
 zien is hoe ik tot deze resultaten gekomen ben.  
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/aanpak/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/aanpak/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="display:inline; margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/aanpak/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)  
-
 Zoals jullie hebben kunnen zien in deze serie van publicaties heb ik zo veel mogelijk bewijs bijgevoegd. B.v. in de vorm 
 van publiekelijk bereikbare websites, PDF bestanden en screenshots.  
 Het maakt het onderbouwen van mijn verhaal veel sterker en daarom ga ik vandaag laten zien welke tools ik gebruikt heb 
@@ -225,4 +219,3 @@ een einde aan de artikelen over Lydis en Yealink. Het betekent niet dat het onde
 regelmatige publicaties meer, tenzij er bijvoorbeeld iets nieuws te melden is.
 
 Voor de laatste keer tot volgende keer!
-

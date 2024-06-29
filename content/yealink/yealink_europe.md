@@ -12,12 +12,6 @@ Als ik het tot nu toe had over Yealink, dan had ik het over Yealink (Xiamen) Net
 Maar wat schetst mijn verbazing als ik een eenvoudige zoekopdracht bij de Kamer van Koophandel doe? Er bestaat een Nederlandse 
 B.V. van Yealink. Interessant genoeg om ook in te duiken.
 <!--more-->
-I have added international translations of the articles using google translate:  
-
-[{{< img alt="EN" src="img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/yealink_europe/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="DE" src="img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/yealink_europe/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp)
-[{{< img alt="FR" src="img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;">}}](https://cloudaware-eu.translate.goog/yealink/yealink_europe/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp)
-
 Ik wil even waarschuwen dat verderop in dit artikel een (gecensureerde) afbeelding is geplaatst welke NSFW is. Met deze
 waarschuwing op zak, laten we aan het artikel beginnen.
 
@@ -253,4 +247,3 @@ over een "unpack" probleem met de firmware?
 De reden achter deze memo was ikzelf en ik zal volgende week daarom ook 
 uitleggen wat er nou precies aan de hand was. Tot dinsdag!
 
-[Naar het volgende artikel]({{< ref "firmware" >}})
