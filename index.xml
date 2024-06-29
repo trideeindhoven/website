@@ -6,7 +6,7 @@
     <description>Recent content on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spreker</title>
@@ -21,6 +21,13 @@
       <pubDate>Sun, 01 Jan 2023 12:33:45 +1000</pubDate>
       <guid>https://trideeindhoven.github.io/website/support/</guid>
       <description>CloudAware uses Anydesk for remote support. Please click on the link below for the correct version:&#xA;Windows&#xA;Apple&#xA;Android</description>
+    </item>
+    <item>
+      <title>Let&#39;s encrypt intermediate certificates</title>
+      <link>https://trideeindhoven.github.io/website/blog/letsencrypt/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/letsencrypt/</guid>
+      <description>&lt;p&gt;Ik werd vorige week door een klant bij een probleem met hun certificate chain geroepen. Zij gebruiken Let&amp;rsquo;s encrypt certificaten&#xA;en het bleek dat de certificate chain niet meer in orde was. Hoewel dit probleem in een uurtje geanalyseerd en opgelost was&#xA;is het wellicht toch interessant om hier even over te berichten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gesloten openheid</title>
@@ -133,6 +140,13 @@
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/yealink/video_boodschap/</guid>
       <description>&lt;p&gt;Beste lezer. Welkom bij deze serie publicaties over mijn onderzoek naar Yealink en Lydis waar ik een jaar aan gewerkt heb.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yealink publicaties</title>
+      <link>https://trideeindhoven.github.io/website/blog/yealink/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/yealink/</guid>
+      <description>&lt;p&gt;In 2022 en 2023 heb ik onderzoek gedaan naar telecom firma Yealink en de Nederlandse distributeur en importeur Lydis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cookie verklaring</title>

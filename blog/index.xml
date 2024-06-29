@@ -1,47 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on CloudAware Technical Consultancy</title>
+    <title>Blogs on CloudAware Technical Consultancy</title>
     <link>https://trideeindhoven.github.io/website/blog/</link>
-    <description>Recent content in Posts on CloudAware Technical Consultancy</description>
+    <description>Recent content in Blogs on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://trideeindhoven.github.io/website/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <title>Let&#39;s encrypt intermediate certificates</title>
+      <link>https://trideeindhoven.github.io/website/blog/letsencrypt/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/letsencrypt/</guid>
+      <description>&lt;p&gt;Ik werd vorige week door een klant bij een probleem met hun certificate chain geroepen. Zij gebruiken Let&amp;rsquo;s encrypt certificaten&#xA;en het bleek dat de certificate chain niet meer in orde was. Hoewel dit probleem in een uurtje geanalyseerd en opgelost was&#xA;is het wellicht toch interessant om hier even over te berichten.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Rich Content</title>
-      <link>https://trideeindhoven.github.io/website/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://trideeindhoven.github.io/website/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://trideeindhoven.github.io/website/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>https://trideeindhoven.github.io/website/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <title>Yealink publicaties</title>
+      <link>https://trideeindhoven.github.io/website/blog/yealink/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/yealink/</guid>
+      <description>&lt;p&gt;In 2022 en 2023 heb ik onderzoek gedaan naar telecom firma Yealink en de Nederlandse distributeur en importeur Lydis.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

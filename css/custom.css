@@ -114,3 +114,8 @@ blockquote p::before {
 li i.fa {
   margin-bottom:0.2em;
 }
+
+.mastodon {
+  background-color: #00a4de;
+}
+
