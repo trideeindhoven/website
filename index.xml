@@ -27,7 +27,7 @@
       <link>https://trideeindhoven.github.io/website/blog/letsencrypt/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/blog/letsencrypt/</guid>
-      <description>&lt;p&gt;Ik werd vorige week door een klant bij een probleem met hun certificate chain geroepen. Zij gebruiken Let&amp;rsquo;s encrypt certificaten&#xA;en het bleek dat de certificate chain niet meer in orde was. Hoewel dit probleem in een uurtje geanalyseerd en opgelost was&#xA;is het wellicht toch interessant om hier even over te berichten.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ik werd vorige week door een klant bij een probleem met hun certificate chain geroepen. Zij gebruiken Let&amp;rsquo;s encrypt certificaten&#xA;en het bleek dat de certificate chain niet meer in orde was. Hoewel dit probleem in een uurtje geanalyseerd en opgelost was,&#xA;is het wellicht toch interessant om hier even over te berichten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gesloten openheid</title>
