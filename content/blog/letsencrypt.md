@@ -7,15 +7,15 @@ author = "Jeroen Hermans"
 image = "img/blog/pexels-markus-winkler-1430818-19856610.jpg"
 +++
 Ik werd vorige week door een klant bij een probleem met hun certificate chain geroepen. Zij gebruiken Let's encrypt certificaten
-en het bleek dat de certificate chain niet meer in orde was. Hoewel dit probleem in een uurtje geanalyseerd en opgelost was
+en het bleek dat de certificate chain niet meer in orde was. Hoewel dit probleem in een uurtje geanalyseerd en opgelost was,
 is het wellicht toch interessant om hier even over te berichten.
 <!--more-->
-Laten we eerst even kijken naar wat Let's Encrypt is en hoe het werkt.
+Laten we eerst even kijken naar wat Let's Encrypt is en hoe het werkt.  
 Let's Encrypt is een dienst waarmee het mogelijk is om kostenloos Transport Layer Security (TLS) certificaten aan te 
 vragen voor webservers en emailservers. Deze 
 dienst is opgezet door de {{< a_blank "Internet Security Research Group (ISRG)" "https://www.abetterinternet.org/" >}}. De ISRG 
 zet zich in voor een "secure and privacy-respecting world" in het digitale domein. Zij doen heel veel mooie zaken en overweeg 
-zeker ook om een kleine donatie te doen aan deze organisatie.  
+dan ook om een kleine donatie te doen aan deze organisatie.  
 De organisatie heeft boardmembers van grote organisaties zoals Mozilla, Cisco, EFF en Amazon. Vervolgens hebben zij alle grote partijen
 met een eigen certificate trust store zo ver gekregen om hun eigen self-signed certificate toe te voegen in hun trust store.
 Nu zijn dit niet heel veel partijen die zo'n trust store beheren, maar het zijn wel heel grote partijen zoals Microsoft, Apple, 
@@ -48,11 +48,12 @@ Er zijn nog andere voorwaarden waar een certificaat aan moet voldoen, maar dit z
 Zelf de certificate chain van een website testen (en nog veel meer) kan kostenloos op de website van 
 {{< a_blank "Qualys" "https://www.ssllabs.com/ssltest/" >}}.  
 
-Nu hoor ik jullie sommigen van jullie al denken: E5? Het is toch R3? En dit is correct. Tot voor kort was het intermediate 
+Nu hoor ik jullie sommigen van jullie al denken: E5? Het is toch R3? En dit is correct. Tot voor kort was het meest gebruikte intermediate 
 certicate van Let's Encrypt R3. Dit R3 certificaat was in gebruik sinds september 2020, maar verloopt in september 2025 en het
 is daarom nodig om voor die tijd alle nieuwe Let's Encrypt certificaten te gaan ondertekenen met een nieuw intermediate certificate.
-En dat is het E5 certificaat geworden. En dat was ook exact wat was misgegaan bij de klant. De certificate chain bevatte nog 
-steeds het R3 certificaat, terwijl het domein.nl certificaat was ondertekend door E5. Het nieuwe E5 certificaat is geldig tot maart 
+En dat is het E5 (of R10, R11, E6) certificaat geworden. En dat was ook exact wat was misgegaan bij de klant. De certificate chain bevatte nog 
+steeds het R3 certificaat, terwijl het domein.nl certificaat was ondertekend door E5. Het nieuwe E5 certificaat (en de 
+andere intermediate certificaten) is geldig tot maart 
 2027, dus over niet al te lange tijd moeten we weer goed gaan opletten dat de certificaat keten klopt.  
 Uiteraard is het mogelijk om Let's Encrypt automatisch een correcte certificaat keten te laten genereren, maar in dit specifieke 
 geval was er voor gekozen om het intermediate certificate vast te configureren.  
