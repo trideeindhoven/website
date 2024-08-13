@@ -1,0 +1,86 @@
+<html>
+  <head>
+    <title>Barcode generator</title>
+    <script src="https://cdn.jsdelivr.net/jsbarcode/3.5.8/JsBarcode.all.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      function checkdigit(input) {
+          let array = input.split('').reverse();
+
+          let total = 0;
+          let i = 1;
+          array.forEach(number => {
+              number = parseInt(number);
+              if (i % 2 === 0) {
+                  total = total + number;
+              }
+              else
+              {
+                  total = total + (number * 3);
+              }
+              i++;
+          });
+
+          return (Math.ceil(total / 10) * 10) - total;
+      }
+
+      function updateEan(ean) {
+        ean = ean.trim();
+
+        if (ean.length == 0) {
+          return;
+        }
+
+        var format = ean.length == 7 || ean.length == 8 ? "EAN8" :
+          ean.length == 12 || ean.length == 13 ? "EAN13" : "CODE128";
+
+        num_barcodes = 10;
+        num = 1
+        for (let i = parseInt(ean.slice(0, -1) ); i > parseInt(ean.slice(0, -1) ) - num_barcodes; i--) {
+          try {
+            JsBarcode("#barcode"+num.toString(), i.toString()+checkdigit( i.toString()), {format: format});
+            num+=1;
+          } catch (e) {
+            console.log(e);
+            return;
+          }
+        }
+      }
+
+      $(document).ready(function() {
+        $("#go").click(function() {
+          updateEan($('#ean').val());
+        });
+      });
+    </script>
+    <style type="text/css">
+      #ean {
+        width: 15em;
+        margin: 1em auto;
+        display: block;
+        text-align: center;
+        font-size: 2em;
+      }
+      #barcode {
+        margin: 1em auto;
+        padding: 0.5em;
+        border: 1px solid black;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <input autofocus="" id="ean" placeholder="EAN">
+    <button id="go">Go</button><br><br>
+    <svg id="barcode1"></svg><br><br>
+    <svg id="barcode2"></svg><br><br>
+    <svg id="barcode3"></svg><br><br>
+    <svg id="barcode4"></svg><br><br>
+    <svg id="barcode5"></svg><br><br>
+    <svg id="barcode6"></svg><br><br>
+    <svg id="barcode7"></svg><br><br>
+    <svg id="barcode8"></svg><br><br>
+    <svg id="barcode9"></svg><br><br>
+    <svg id="barcode10"></svg><br><br>
+  </body>
+</html>
