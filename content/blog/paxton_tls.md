@@ -18,7 +18,7 @@ van een nieuw toegangssysteem, compleet met pasjes. Tijdens het installeren van 
 er beheerssoftware voor het systeem geïnstalleerd wordt op de computer van diegene die verantwoordelijk is voor
 de beveiliging. Het lijkt een logische stap te zijn, maar...ook een gevoelige plek om software te installeren.  
 We hebben in de afgelopen jaren verschillende gevallen gezien waar supplychain attacks gevoelige plekken blootstelden 
-aan onnodige gevaren. In dit geval gaat het om een gebouwtoegangssysteem van .  
+aan onnodige gevaren. In dit geval gaat het om een gebouwtoegangssysteem van 
 {{< a_blank "Paxton" "https://www.paxton-access.com" >}}.
 
 Paxton is een firma die zichzelf omschrijft als een "toonaangevende fabrikant van elektronische toegangscontrole, video 
@@ -26,19 +26,19 @@ management en deurintercom systemen", waarbij zij "een optimale beveiliging van 
 leveren. Dat klinkt als een mooie ambitie. En die ambitie maken zij waar bij klanten die ik toch wel onder gevoelige
 objecten reken. Denk hierbij aan 
 
-- Gelredome
-- Old Trafford stadium Manchester
-- Internet Provider Trined
-- KNVB Campus
-- Brandsweer Midden- en West-Brabant
-- SBS Broadcasting
-- Studio's Aalsmeer
-- Endemol Producties Londen
-- Sky Deutschland
-- Loodswezen
-- Cherbourg Airport
-- DHL
-- Mariaziekenhuis Overpelt
+- {{< a_blank "Gelredome" "https://www.paxton-access.com/nl/casestudy-gelredome" >}}
+- {{< a_blank "Old Trafford stadium Manchester" "https://www.paxton-access.com/nl/manchester-united-old-trafford/" >}}
+- {{< a_blank "Internet Provider Trined" "https://www.paxton-access.com/nl/casestudy-TriNed" >}}
+- {{< a_blank "KNVB Campus" "https://www.paxton-access.com/nl/knvb-campus/" >}}
+- {{< a_blank "Brandweer Midden- en West-Brabant" "https://www.paxton-access.com/nl/study-brandweer/" >}}
+- {{< a_blank "SBS Broadcasting" "https://www.paxton-access.com/nl/SBS-Broadcasting/" >}}
+- {{< a_blank "Studio's Aalsmeer" "https://www.paxton-access.com/nl/studios-aalsmeer/" >}}
+- {{< a_blank "Endemol Producties Londen" "https://www.paxton-access.com/nl/endemol-productions-londen/" >}}
+- {{< a_blank "Sky Deutschland" "https://www.paxton-access.com/case-studies/sky-deutschland/" >}}
+- {{< a_blank "Loodswezen" "https://www.paxton-access.com/nl/loodswezen/" >}}
+- {{< a_blank "Cherbourg Airport" "https://www.paxton-access.com/case-studies/cherbourg-airport/" >}}
+- {{< a_blank "DHL" "https://www.paxton-access.com/nl/dhl-te-maastricht/" >}}
+- {{< a_blank "Mariaziekenhuis Overpelt" "https://www.paxton-access.com/nl/mariaziekenhuis-overpelt-belgie/" >}}
 
 Het zou natuurlijk bijzonder ongewenst zijn als een beveiligingsprobleem zou optreden in een van deze lokaties. Het zijn 
 juist deze mooie referenties die mij doen besluiten om eens goed naar het 
@@ -54,14 +54,16 @@ mogelijk te maken. We zitten nu in de situatie waar een third-party een root cer
 het de beheerder van deze (vertrouwelijke?) pc te vertellen.  
 {{< img alt="Paxton Net2 software" src="img/blog/20240830_paxton_net2_rootcert.png" >}}  
 
-Niet ideaal...ook niet netjes...ook niet industrie standaard. 
+En dit certificaat is nog een kleine 20 jaar geldig. Niet ideaal...ook niet netjes...ook niet industrie standaard. 
 
 Ik heb eerder gepubliceerd over certificaten in het artikel over 
 [Let's Encrypt]({{< ref "letsencrypt" >}})
 
 Het zou veel erger zijn als dit certificaat nu gebruikt 
-zou kunnen worden om zelf Man In The Middle (MITM) aanvallen uit te voeren. Maar: hier is een private key voor nodig. 
-En die hoort ten alle tijden geheim te blijven. Een korte inspectie van 
+zou kunnen worden om zelf Man In The Middle (MITM) aanvallen uit te voeren. Op deze manier zou het eenvoudig zijn om
+(gevoelige) gegevens in te zien die verstuurd worden vanaf de pc van de persoon die verantwoordelijk is voor de
+fysieke beveiliging van de eerder genoemde objecten.  
+Maar: hier is een private key voor nodig. En die hoort ten alle tijden geheim te blijven. Een korte inspectie van 
 C:\Program Files (x86)\Paxton Access\Access Control\openssl laat de volgende twee bestanden zien:  
 - Paxton-CA.crt
 - Paxton-CA.key
@@ -86,8 +88,7 @@ voorkomen dat het certificaat niet gebruikt wordt voor een ip-adres buiten het i
 Het antwoord laat heel even op zich wachten, waarna het kwartje in de UK ook gevallen lijkt te zijn:
 
 {{< quote cloudemail >}}Paxton were not aware of the extent of this vulnerability, thank you for bringing this to our attention. 
-We would very much like to discuss our plan of actions with you directly and would welcome your input/feedback on how 
-to resolve this issue.{{< /quote >}}
+We would very much like to discuss our plan of actions with you directly and would welcome your input/feedback on how to resolve this issue.{{< /quote >}}
 
 Kijk... dit had natuurlijk nooit mogen gebeuren, maar deze firma graaft zich zelf niet vast in dit gebeuren. En inderdaad:
 na wat telefoontjes en overleggen wordt een concreet mitigatieplan opgesteld en krijg ik inderdaad elke paar weken een 
@@ -110,7 +111,7 @@ Paxton root certificaat.
 
 Nu het een Rijksoverheid probleem is 
 gebeurt er ineens van alles. Er wordt communicatie met Paxton UK gevoerd en een CVE nummer wordt gereserveerd. Ik 
-beloof plechtig om het wildcard certificaat voor rijksoverheid.nl niet te misbruiken of door te sturen.
+beloof plechtig aan het NCSC om het wildcard certificaat voor rijksoverheid.nl niet te misbruiken of door te sturen.
 
 Een tijdje later wordt het CVE gepubliceerd en zie ik dat het Amerikaanse NIST er een cvss van 9.8 (critical) aan
 vast gehangen heeft:
@@ -120,4 +121,4 @@ Dit probleem leek zo eenvoudig: er is een geheime sleutel meegeleverd met een kr
 in de praktijk dan toch nog heel lastig te zijn om de betrokken partijen hiervan te overtuigen. Dit bleek in dit geval 
 een proces van maanden. Maar wel een proces met een hele fijne uitkomst, waar de fabrikant uiteindelijk een beter
 en veiliger product heeft gemaakt. Uiteraard heb ik een aantal maanden later hun software weer onder de loupe genomen.
-Ook dit keer kwam hier een interessante bevinding uit, maar daar ga ik volgende keer over schrijven! Tot dan.
+Ook dit keer kwam hier een interessante bevinding uit, maar daar ga ik volgende keer over schrijven. Tot dan!
