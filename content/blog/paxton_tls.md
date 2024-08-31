@@ -111,11 +111,14 @@ Paxton root certificaat.
 
 Nu het een Rijksoverheid probleem is 
 gebeurt er ineens van alles. Er wordt communicatie met Paxton UK gevoerd en een CVE nummer wordt gereserveerd. Ik 
-beloof plechtig aan het NCSC om het wildcard certificaat voor rijksoverheid.nl niet te misbruiken of door te sturen.
+beloof plechtig aan het NCSC om het wildcard certificaat voor rijksoverheid.nl niet te misbruiken of door te sturen.  
 
-Een tijdje later wordt het CVE gepubliceerd en zie ik dat het toonaangevende 
-{{< a_blank "Amerikaanse NIST" "https://nvd.nist.gov/vuln/detail/CVE-2023-43870" >}} er een cvss van 9.8 (critical) aan
-toegekend heeft.  
+In de communicatie met het NCSC heeft Paxton aan dat zij het geen heel belangrijke vulnerability vinden.
+{{< quote cloudemail >}}In my opinion I think it is a medium vulnerability. My rationale or view point is that it is widely documented how to add a root certificate to your local trusted store and how to spoof certificates. There are documented case studies of this happening at country level, one of which was in the Netherlands and the other was in China.{{< /quote >}}
+
+Maar als de CVE een tijdje later gepubliceerd wordt is duidelijk dat het toonaangevende 
+{{< a_blank "Amerikaanse NIST" "https://nvd.nist.gov/vuln/detail/CVE-2023-43870" >}} het hier niet mee eens is. 
+Zij kennen dan ook een CVSS van 9.8 (critical) aan de vulnerability toe.  
 
 Dit probleem leek zo eenvoudig: er is een geheime sleutel meegeleverd met een kritisch stuk software. Maar het blijkt 
 in de praktijk dan toch nog heel lastig te zijn om de betrokken partijen hiervan te overtuigen. Dit bleek in dit geval 
