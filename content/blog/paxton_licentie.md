@@ -48,14 +48,5 @@ door
 te halen.
 
 
-
-
-
-
-
-
-
-
-
-
+{{< a_blank "POC exploit" "https://github.com/gitaware/poc_exploit_paxton_license" >}}
 

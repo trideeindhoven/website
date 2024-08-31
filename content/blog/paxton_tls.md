@@ -113,9 +113,9 @@ Nu het een Rijksoverheid probleem is
 gebeurt er ineens van alles. Er wordt communicatie met Paxton UK gevoerd en een CVE nummer wordt gereserveerd. Ik 
 beloof plechtig aan het NCSC om het wildcard certificaat voor rijksoverheid.nl niet te misbruiken of door te sturen.
 
-Een tijdje later wordt het CVE gepubliceerd en zie ik dat het Amerikaanse NIST er een cvss van 9.8 (critical) aan
-vast gehangen heeft:
-https://nvd.nist.gov/vuln/detail/CVE-2023-43870
+Een tijdje later wordt het CVE gepubliceerd en zie ik dat het toonaangevende 
+{{< a_blank "Amerikaanse NIST" "https://nvd.nist.gov/vuln/detail/CVE-2023-43870" >}} er een cvss van 9.8 (critical) aan
+toegekend heeft.  
 
 Dit probleem leek zo eenvoudig: er is een geheime sleutel meegeleverd met een kritisch stuk software. Maar het blijkt 
 in de praktijk dan toch nog heel lastig te zijn om de betrokken partijen hiervan te overtuigen. Dit bleek in dit geval 
