@@ -23,18 +23,18 @@
       <description>CloudAware uses Anydesk for remote support. Please click on the link below for the correct version:&#xA;Windows&#xA;Apple&#xA;Android</description>
     </item>
     <item>
+      <title>De root van het probleem/certificaat</title>
+      <link>https://trideeindhoven.github.io/website/blog/paxton_tls/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/paxton_tls/</guid>
+      <description>&lt;p&gt;Certificaten&amp;hellip; Een mooie technologie om identiteit vast te stellen en om betrouwbare encryptie tussen twee&#xA;partijen op te zetten. Maar het blijkt in de praktijk keer op keer een moeilijk onderwerp te zijn.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Paxton en de luchtige licentie</title>
       <link>https://trideeindhoven.github.io/website/blog/paxton_licentie/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/blog/paxton_licentie/</guid>
       <description>&lt;p&gt;Als een firma licenties voor hun producten verkoopt is het natuurlijk wel de bedoeling dat deze licenties niet omzeild&#xA;kunnen worden.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paxton en het rebelse rootcertificaat</title>
-      <link>https://trideeindhoven.github.io/website/blog/paxton_tls/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/blog/paxton_tls/</guid>
-      <description>&lt;p&gt;Certificaten&amp;hellip; Een mooie technologie om identiteit vast te stellen en om betrouwbare encryptie tussen twee&#xA;partijen op te zetten. Maar het blijkt in de praktijk keer op keer een moeilijk onderwerp te zijn.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aras Phera</title>
