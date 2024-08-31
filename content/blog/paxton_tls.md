@@ -26,6 +26,7 @@ management en deurintercom systemen", waarbij zij "een optimale beveiliging van 
 leveren. Dat klinkt als een mooie ambitie. En die ambitie maken zij waar bij klanten die ik toch wel onder gevoelige
 objecten reken. Denk hierbij aan 
 
+- {{< a_blank "Lake County Jail, Ohio, USA" "http://web.archive.org/web/20221208234900/https://www.paxton-access.com/lake-county-jail/" >}} (offline gehaald voor onbekende reden)
 - {{< a_blank "Gelredome" "https://www.paxton-access.com/nl/casestudy-gelredome" >}}
 - {{< a_blank "Old Trafford stadium Manchester" "https://www.paxton-access.com/nl/manchester-united-old-trafford/" >}}
 - {{< a_blank "Internet Provider Trined" "https://www.paxton-access.com/nl/casestudy-TriNed" >}}
