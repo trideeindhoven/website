@@ -194,7 +194,7 @@ van een nieuw toegangssysteem, compleet met pasjes. Tijdens het installeren van 
 er beheerssoftware voor het systeem geïnstalleerd wordt op de computer van diegene die verantwoordelijk is voor
 de beveiliging. Het lijkt een logische stap te zijn, maar&hellip;ook een gevoelige plek om software te installeren.<br>
 We hebben in de afgelopen jaren verschillende gevallen gezien waar supplychain attacks gevoelige plekken blootstelden
-aan onnodige gevaren. In dit geval gaat het om een gebouwtoegangssysteem van .<br>
+aan onnodige gevaren. In dit geval gaat het om een gebouwtoegangssysteem van
 
 <a target="_blank" href="https://www.paxton-access.com">Paxton</a> <i class="fa fa-external-link"></i>
 .</p>
@@ -203,19 +203,45 @@ management en deurintercom systemen&rdquo;, waarbij zij &ldquo;een optimale beve
 leveren. Dat klinkt als een mooie ambitie. En die ambitie maken zij waar bij klanten die ik toch wel onder gevoelige
 objecten reken. Denk hierbij aan</p>
 <ul>
-<li>Gelredome</li>
-<li>Old Trafford stadium Manchester</li>
-<li>Internet Provider Trined</li>
-<li>KNVB Campus</li>
-<li>Brandsweer Midden- en West-Brabant</li>
-<li>SBS Broadcasting</li>
-<li>Studio&rsquo;s Aalsmeer</li>
-<li>Endemol Producties Londen</li>
-<li>Sky Deutschland</li>
-<li>Loodswezen</li>
-<li>Cherbourg Airport</li>
-<li>DHL</li>
-<li>Mariaziekenhuis Overpelt</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/casestudy-gelredome">Gelredome</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/manchester-united-old-trafford/">Old Trafford stadium Manchester</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/casestudy-TriNed">Internet Provider Trined</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/knvb-campus/">KNVB Campus</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/study-brandweer/">Brandweer Midden- en West-Brabant</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/SBS-Broadcasting/">SBS Broadcasting</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/studios-aalsmeer/">Studio&rsquo;s Aalsmeer</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/endemol-productions-londen/">Endemol Producties Londen</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/case-studies/sky-deutschland/">Sky Deutschland</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/loodswezen/">Loodswezen</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/case-studies/cherbourg-airport/">Cherbourg Airport</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/dhl-te-maastricht/">DHL</a> <i class="fa fa-external-link"></i>
+</li>
+<li>
+<a target="_blank" href="https://www.paxton-access.com/nl/mariaziekenhuis-overpelt-belgie/">Mariaziekenhuis Overpelt</a> <i class="fa fa-external-link"></i>
+</li>
 </ul>
 <p>Het zou natuurlijk bijzonder ongewenst zijn als een beveiligingsprobleem zou optreden in een van deze lokaties. Het zijn
 juist deze mooie referenties die mij doen besluiten om eens goed naar het
@@ -232,12 +258,14 @@ mogelijk te maken. We zitten nu in de situatie waar een third-party een root cer
 het de beheerder van deze (vertrouwelijke?) pc te vertellen.<br>
 <img src="https://trideeindhoven.github.io/website/img/blog/20240830_paxton_net2_rootcert.png" alt="Paxton Net2 software"  >
 </p>
-<p>Niet ideaal&hellip;ook niet netjes&hellip;ook niet industrie standaard.</p>
+<p>En dit certificaat is nog een kleine 20 jaar geldig. Niet ideaal&hellip;ook niet netjes&hellip;ook niet industrie standaard.</p>
 <p>Ik heb eerder gepubliceerd over certificaten in het artikel over
 <a href="https://trideeindhoven.github.io/website/blog/letsencrypt/">Let&rsquo;s Encrypt</a></p>
 <p>Het zou veel erger zijn als dit certificaat nu gebruikt
-zou kunnen worden om zelf Man In The Middle (MITM) aanvallen uit te voeren. Maar: hier is een private key voor nodig.
-En die hoort ten alle tijden geheim te blijven. Een korte inspectie van
+zou kunnen worden om zelf Man In The Middle (MITM) aanvallen uit te voeren. Op deze manier zou het eenvoudig zijn om
+(gevoelige) gegevens in te zien die verstuurd worden vanaf de pc van de persoon die verantwoordelijk is voor de
+fysieke beveiliging van de eerder genoemde objecten.<br>
+Maar: hier is een private key voor nodig. En die hoort ten alle tijden geheim te blijven. Een korte inspectie van
 C:\Program Files (x86)\Paxton Access\Access Control\openssl laat de volgende twee bestanden zien:</p>
 <ul>
 <li>Paxton-CA.crt</li>
@@ -261,7 +289,7 @@ voorkomen dat het certificaat niet gebruikt wordt voor een ip-adres buiten het i
 <p>Het antwoord laat heel even op zich wachten, waarna het kwartje in de UK ook gevallen lijkt te zijn:</p>
 
 <blockquote class="cloudemail">
-Paxton were not aware of the extent of this vulnerability, thank you for bringing this to our attention. <br/>We would very much like to discuss our plan of actions with you directly and would welcome your input/feedback on how <br/>to resolve this issue.
+Paxton were not aware of the extent of this vulnerability, thank you for bringing this to our attention. <br/>We would very much like to discuss our plan of actions with you directly and would welcome your input/feedback on how to resolve this issue.
 </blockquote>
 
 <p>Kijk&hellip; dit had natuurlijk nooit mogen gebeuren, maar deze firma graaft zich zelf niet vast in dit gebeuren. En inderdaad:
@@ -284,7 +312,7 @@ Paxton root certificaat.</p>
 
 <p>Nu het een Rijksoverheid probleem is
 gebeurt er ineens van alles. Er wordt communicatie met Paxton UK gevoerd en een CVE nummer wordt gereserveerd. Ik
-beloof plechtig om het wildcard certificaat voor rijksoverheid.nl niet te misbruiken of door te sturen.</p>
+beloof plechtig aan het NCSC om het wildcard certificaat voor rijksoverheid.nl niet te misbruiken of door te sturen.</p>
 <p>Een tijdje later wordt het CVE gepubliceerd en zie ik dat het Amerikaanse NIST er een cvss van 9.8 (critical) aan
 vast gehangen heeft:
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-43870">https://nvd.nist.gov/vuln/detail/CVE-2023-43870</a></p>
@@ -292,7 +320,7 @@ vast gehangen heeft:
 in de praktijk dan toch nog heel lastig te zijn om de betrokken partijen hiervan te overtuigen. Dit bleek in dit geval
 een proces van maanden. Maar wel een proces met een hele fijne uitkomst, waar de fabrikant uiteindelijk een beter
 en veiliger product heeft gemaakt. Uiteraard heb ik een aantal maanden later hun software weer onder de loupe genomen.
-Ook dit keer kwam hier een interessante bevinding uit, maar daar ga ik volgende keer over schrijven! Tot dan.</p></div>
+Ook dit keer kwam hier een interessante bevinding uit, maar daar ga ik volgende keer over schrijven. Tot dan!</p></div>
         <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
             <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpaxton_tls%2f&text=Paxton%20en%20het%20rebelse%20rootcertificaat" target="_blank"
                 title="Tweet" class="share-button twitter">
