@@ -1,5 +1,5 @@
 +++
-title = "Paxton en het rebelse rootcertificaat"
+title = "De root van het probleem/certificaat"
 description = "CloudAware"
 date = "2024-08-30"
 aliases = []
