@@ -194,10 +194,10 @@ van een nieuw toegangssysteem, compleet met pasjes. Tijdens het installeren van 
 er beheerssoftware voor het systeem geïnstalleerd wordt op de computer van diegene die verantwoordelijk is voor
 de beveiliging. Het lijkt een logische stap te zijn, maar&hellip;ook een gevoelige plek om software te installeren.<br>
 We hebben in de afgelopen jaren verschillende gevallen gezien waar supplychain attacks gevoelige plekken blootstelden
-aan onnodige gevaren. In dit geval gaat het om een gebouwtoegangssysteem van Paxton <!-- raw HTML omitted -->.<br>
+aan onnodige gevaren. In dit geval gaat het om een gebouwtoegangssysteem van .<br>
 
-<a target="_blank" href="https://www.econocom.com/ecmedia/news/econocom-2023-annual-results__en.pdf">2.7 miljard euro</a> <i class="fa fa-external-link"></i>
-</p>
+<a target="_blank" href="https://www.paxton-access.com">Paxton</a> <i class="fa fa-external-link"></i>
+.</p>
 <p>Paxton is een firma die zichzelf omschrijft als een &ldquo;toonaangevende fabrikant van elektronische toegangscontrole, video
 management en deurintercom systemen&rdquo;, waarbij zij &ldquo;een optimale beveiliging van uw gebouwen, medewerkers en bezittingen&rdquo;
 leveren. Dat klinkt als een mooie ambitie. En die ambitie maken zij waar bij klanten die ik toch wel onder gevoelige
@@ -218,31 +218,37 @@ objecten reken. Denk hierbij aan</p>
 <li>Mariaziekenhuis Overpelt</li>
 </ul>
 <p>Het zou natuurlijk bijzonder ongewenst zijn als een beveiligingsprobleem zou optreden in een van deze lokaties. Het zijn
-juist deze mooie referenties die mij doen besluiten om eens goed naar het NET2 <!-- raw HTML omitted --> systeem van Paxton te gaan kijken.<br>
+juist deze mooie referenties die mij doen besluiten om eens goed naar het
+
+<a target="_blank" href="https://www.paxton-access.com/systems/net2/">NET2</a> <i class="fa fa-external-link"></i>
+ systeem van Paxton te gaan kijken.<br>
 De software die de beveiligingsbeheerder moet installeren vraagt om een certificaat te installeren.</p>
 <img src="https://trideeindhoven.github.io/website/img/blog/20240830_paxton_net2_cert.png" alt="Paxton Net2 software"  >
 
 <p>Nadere inpectie van dit scherm laat zien dat het gaat om een root-certificaat van Paxton wat in de trust-store van de
 pc geïnstalleerd wordt.<br>
-Echter wat blijkt: Paxton heeft dit certificaat allang in de truststore geïnstalleerd, om de installatie zo &ldquo;eenvoudig&rdquo;
+Echter wat blijkt: Paxton heeft dit certificaat al in de truststore geïnstalleerd, om de installatie zo &ldquo;eenvoudig&rdquo;
 mogelijk te maken. We zitten nu in de situatie waar een third-party een root certificaat heeft geïnstalleerd zonder
 het de beheerder van deze (vertrouwelijke?) pc te vertellen.<br>
 <img src="https://trideeindhoven.github.io/website/img/blog/20240830_paxton_net2_rootcert.png" alt="Paxton Net2 software"  >
 </p>
 <p>Niet ideaal&hellip;ook niet netjes&hellip;ook niet industrie standaard.</p>
-<p>Eerder gepubliceerd over Let&rsquo;s Encrypt
-<a href="https://trideeindhoven.github.io/website/yealink/bedrijfseconomisch/">bedrijfseconomisch onderzoek</a></p>
+<p>Ik heb eerder gepubliceerd over certificaten in het artikel over
+<a href="https://trideeindhoven.github.io/website/blog/letsencrypt/">Let&rsquo;s Encrypt</a></p>
 <p>Het zou veel erger zijn als dit certificaat nu gebruikt
-zou kunnen worden om zelf Man In The Middle (MITM) aanvallen uit te voeren. Maarja&hellip; hier is een private key voor nodig.
+zou kunnen worden om zelf Man In The Middle (MITM) aanvallen uit te voeren. Maar: hier is een private key voor nodig.
 En die hoort ten alle tijden geheim te blijven. Een korte inspectie van
-C:\Program Files (x86)\Paxton Access\Access Control\openssl laat de volgende twee bestanden zien:<br>
-Paxton-CA.crt<br>
-Paxton-CA.key</p>
+C:\Program Files (x86)\Paxton Access\Access Control\openssl laat de volgende twee bestanden zien:</p>
+<ul>
+<li>Paxton-CA.crt</li>
+<li>Paxton-CA.key</li>
+</ul>
 <p>Het probleem begint zich nu wel een beetje af te tekenen. Het zal toch niet&hellip;?<br>
 Maar: de private key in Paxton-CA.key is versleuteld en kan dus niet direct gebruikt worden om zelf certificaten
 uit te geven. Maar wacht een even. Waarom kan createdevicecert.bat dat eigenlijk wel dan? Ik besluit de volgende regel
 toe te voegen aan dit batch bestand:</p>
-<p>echo %2 &gt; private.pass</p>
+<pre><code>echo %2 &gt; private.pass  
+</code></pre>
 <p>Het klinkt te eenvoudig voor woorden, maar: na het opnieuw aanmaken van een certificaat voor de Net2 software heb ik
 een bestand private.pass met als inhoud: &ldquo;COpKEyfArEs*****&rdquo; (gecensureerd). Het is nu inmiddels wel duidelijk dat we hier een
 serieus probleem hebben en ik neem contact op met Paxton in de UK. Nog voordat ik mijn verhaal heb kunnen doen, ben ik
@@ -253,14 +259,19 @@ afdeling echter het teleurstellende antwoord dat het geen security probleem is, 
 netwerken gebruikt kan worden. Ik besluit te antwoorden met een eenvoudige vraag: Kunnen jullie uitleggen hoe jullie
 voorkomen dat het certificaat niet gebruikt wordt voor een ip-adres buiten het interne netwerk?</p>
 <p>Het antwoord laat heel even op zich wachten, waarna het kwartje in de UK ook gevallen lijkt te zijn:</p>
-<p>Paxton were not aware of the extent of this vulnerability, thank you for bringing this to our attention.
-We would very much like to discuss our plan of actions with you directly and would welcome your input/feedback on how
-to resolve this issue.</p>
+
+<blockquote class="cloudemail">
+Paxton were not aware of the extent of this vulnerability, thank you for bringing this to our attention. <br/>We would very much like to discuss our plan of actions with you directly and would welcome your input/feedback on how <br/>to resolve this issue.
+</blockquote>
+
 <p>Kijk&hellip; dit had natuurlijk nooit mogen gebeuren, maar deze firma graaft zich zelf niet vast in dit gebeuren. En inderdaad:
 na wat telefoontjes en overleggen wordt een concreet mitigatieplan opgesteld en krijg ik inderdaad elke paar weken een
 update van de vorderingen hiervan. Door de grote userbase duurt dit proces vrij lang, maar het wordt wel heel serieus
 opgepikt.</p>
-<p>Als goed burger besluit ik ook het National Cyber Security Centre (NCSC) te contacteren. Ik krijg een net mailtje terug dat het
+<p>Als goed burger besluit ik ook het 
+<a target="_blank" href="https://www.ncsc.nl/">National Cyber Security Centre (NCSC)</a> <i class="fa fa-external-link"></i>
+
+te contacteren. Ik krijg een net mailtje terug dat het
 wellicht goed is om met PGP te gaan communiceren en of ik een PGP sleutel heb. Uiteraard heb ik die en ik stuur mijn
 publieke sleutel naar het NCSC op.<br>
 Ik krijg een email terug dat het NCSC geen elliptic curve sleutels kan importeren en of ik een nieuwe RSA sleutel wil
