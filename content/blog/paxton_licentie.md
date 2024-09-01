@@ -3,6 +3,9 @@ title = "Paxton en de luchtige licentie"
 description = "CloudAware"
 date = "2024-08-30"
 aliases = []
+tags = [
+    "paxton", "licentie"
+]
 author = "Jeroen Hermans"
 image = "img/blog/pexels-kindelmedia-7714892.jpg"
 +++

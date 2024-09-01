@@ -1,8 +1,11 @@
 +++
 title = "De root van het probleem/certificaat"
 description = "CloudAware"
-date = "2024-08-30"
+date = "2024-09-01"
 aliases = []
+tags = [
+    "paxton", "tls", "certificaat", "net2"
+]
 author = "Jeroen Hermans"
 image = "img/blog/pexels-negativespace-97077.jpg"
 +++
@@ -27,6 +30,7 @@ leveren. Dat klinkt als een mooie ambitie. En die ambitie maken zij waar bij kla
 objecten reken. Denk hierbij aan 
 
 - {{< a_blank "Lake County Jail, Ohio, USA" "http://web.archive.org/web/20221208234900/https://www.paxton-access.com/lake-county-jail/" >}} (offline gehaald voor onbekende reden)
+- {{< a_blank "Cannabis facility, Michigan, USA" "https://www.paxton-access.com/highlands-grow/" >}}
 - {{< a_blank "Gelredome" "https://www.paxton-access.com/nl/casestudy-gelredome" >}}
 - {{< a_blank "Old Trafford stadium Manchester" "https://www.paxton-access.com/nl/manchester-united-old-trafford/" >}}
 - {{< a_blank "Internet Provider Trined" "https://www.paxton-access.com/nl/casestudy-TriNed" >}}
@@ -71,7 +75,7 @@ C:\Program Files (x86)\Paxton Access\Access Control\openssl laat de volgende twe
 
 Het probleem begint zich nu wel een beetje af te tekenen. Het zal toch niet...?  
 Maar: de private key in Paxton-CA.key is versleuteld en kan dus niet direct gebruikt worden om zelf certificaten 
-uit te geven. Maar wacht een even. Waarom kan createdevicecert.bat dat eigenlijk wel dan? Ik besluit de volgende regel 
+uit te geven. Maar wacht eens even. Waarom kan createdevicecert.bat dat eigenlijk wel dan? Ik besluit de volgende regel 
 toe te voegen aan dit batch bestand:  
 
     echo %2 > private.pass  
@@ -121,8 +125,9 @@ Maar als de CVE een tijdje later gepubliceerd wordt is duidelijk dat het toonaan
 {{< a_blank "Amerikaanse NIST" "https://nvd.nist.gov/vuln/detail/CVE-2023-43870" >}} het hier niet mee eens is. 
 Zij kennen dan ook een CVSS van 9.8 (critical) aan de vulnerability toe.  
 
-Dit probleem leek zo eenvoudig: er is een geheime sleutel meegeleverd met een kritisch stuk software. Maar het blijkt 
+Dit probleem leek zo eenvoudig: er is een geheime sleutel meegeleverd met een kritisch stuk software wat zelfs in 
+gevangenissen gebruikt wordt. Maar het blijkt 
 in de praktijk dan toch nog heel lastig te zijn om de betrokken partijen hiervan te overtuigen. Dit bleek in dit geval 
 een proces van maanden. Maar wel een proces met een hele fijne uitkomst, waar de fabrikant uiteindelijk een beter
 en veiliger product heeft gemaakt. Uiteraard heb ik een aantal maanden later hun software weer onder de loupe genomen.
-Ook dit keer kwam hier een interessante bevinding uit, maar daar ga ik volgende keer over schrijven. Tot dan!
+Ook dit keer kwam hier een interessante bevinding uit, maar daar ga ik een volgende keer over schrijven. Tot dan!
