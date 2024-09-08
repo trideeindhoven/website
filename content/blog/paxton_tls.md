@@ -30,20 +30,20 @@ leveren. Dat klinkt als een mooie ambitie. En die ambitie maken zij waar bij kla
 objecten reken. Denk hierbij aan 
 
 - {{< a_blank "Lake County Jail, Ohio, USA" "http://web.archive.org/web/20221208234900/https://www.paxton-access.com/lake-county-jail/" >}} (offline gehaald voor onbekende reden)
-- {{< a_blank "Cannabis facility, Michigan, USA" "https://www.paxton-access.com/highlands-grow/" >}}
-- {{< a_blank "Gelredome" "https://www.paxton-access.com/nl/casestudy-gelredome" >}}
-- {{< a_blank "Old Trafford stadium Manchester" "https://www.paxton-access.com/nl/manchester-united-old-trafford/" >}}
-- {{< a_blank "Internet Provider Trined" "https://www.paxton-access.com/nl/casestudy-TriNed" >}}
-- {{< a_blank "KNVB Campus" "https://www.paxton-access.com/nl/knvb-campus/" >}}
-- {{< a_blank "Brandweer Midden- en West-Brabant" "https://www.paxton-access.com/nl/study-brandweer/" >}}
-- {{< a_blank "SBS Broadcasting" "https://www.paxton-access.com/nl/SBS-Broadcasting/" >}}
-- {{< a_blank "Studio's Aalsmeer" "https://www.paxton-access.com/nl/studios-aalsmeer/" >}}
-- {{< a_blank "Endemol Producties Londen" "https://www.paxton-access.com/nl/endemol-productions-londen/" >}}
-- {{< a_blank "Sky Deutschland" "https://www.paxton-access.com/case-studies/sky-deutschland/" >}}
-- {{< a_blank "Loodswezen" "https://www.paxton-access.com/nl/loodswezen/" >}}
-- {{< a_blank "Cherbourg Airport" "https://www.paxton-access.com/case-studies/cherbourg-airport/" >}}
-- {{< a_blank "DHL" "https://www.paxton-access.com/nl/dhl-te-maastricht/" >}}
-- {{< a_blank "Mariaziekenhuis Overpelt" "https://www.paxton-access.com/nl/mariaziekenhuis-overpelt-belgie/" >}}
+- {{< a_blank "Cannabis facility, Michigan, USA" "https://www.paxton-access.com/highlands-grow/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240414012239/https://www.paxton-access.com/highlands-grow/" >}}
+- {{< a_blank "Gelredome" "https://www.paxton-access.com/nl/casestudy-gelredome" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240415220623/https://www.paxton-access.com/nl/casestudy-gelredome/" >}}
+- {{< a_blank "Old Trafford stadium Manchester" "https://www.paxton-access.com/nl/manchester-united-old-trafford/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20230930134334/https://www.paxton-access.com/nl/manchester-united-old-trafford/" >}}
+- {{< a_blank "Internet Provider Trined" "https://www.paxton-access.com/nl/casestudy-TriNed" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240415212428/https://www.paxton-access.com/nl/casestudy-TriNed/" >}}
+- {{< a_blank "KNVB Campus" "https://www.paxton-access.com/nl/knvb-campus/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240302040020/https://www.paxton-access.com/nl/knvb-campus/" >}}
+- {{< a_blank "Brandweer Midden- en West-Brabant" "https://www.paxton-access.com/nl/study-brandweer/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240302023915/https://www.paxton-access.com/nl/study-brandweer/" >}}
+- {{< a_blank "SBS Broadcasting" "https://www.paxton-access.com/nl/SBS-Broadcasting/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20230930134254/https://www.paxton-access.com/nl/SBS-Broadcasting/" >}}
+- {{< a_blank "Studio's Aalsmeer" "https://www.paxton-access.com/nl/studios-aalsmeer/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240302020907/https://www.paxton-access.com/nl/studios-aalsmeer/" >}}
+- {{< a_blank "Endemol Producties Londen" "https://www.paxton-access.com/nl/endemol-productions-londen/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240526204643/https://www.paxton-access.com/nl/endemol-productions-londen/" >}}
+- {{< a_blank "Sky Deutschland" "https://www.paxton-access.com/case-studies/sky-deutschland/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240526221908/https://www.paxton-access.com/case-studies/sky-deutschland/" >}}
+- {{< a_blank "Loodswezen" "https://www.paxton-access.com/nl/loodswezen/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240415211956/https://www.paxton-access.com/nl/loodswezen/" >}}
+- {{< a_blank "Cherbourg Airport" "https://www.paxton-access.com/case-studies/cherbourg-airport/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20210729145608/https://www.paxton-access.com/case-studies/cherbourg-airport/" >}}
+- {{< a_blank "DHL" "https://www.paxton-access.com/nl/dhl-te-maastricht/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240302033256/https://www.paxton-access.com/nl/dhl-te-maastricht/" >}}
+- {{< a_blank "Mariaziekenhuis Overpelt" "https://www.paxton-access.com/nl/mariaziekenhuis-overpelt-belgie/" >}} {{< a_blank "mirror" "http://web.archive.org/web/20240415215456/https://www.paxton-access.com/nl/mariaziekenhuis-overpelt-belgie/" >}}
 
 Het zou natuurlijk bijzonder ongewenst zijn als een beveiligingsprobleem zou optreden in een van deze lokaties. Het zijn 
 juist deze mooie referenties die mij doen besluiten om eens goed naar het 
