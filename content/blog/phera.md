@@ -1,7 +1,7 @@
 +++
 title = "Aras Phera"
 description = "CloudAware"
-date = "2024-07-30"
+date = "2024-09-18"
 aliases = []
 author = "Jeroen Hermans"
 image = "img/blog/pexels-life-of-pix-4291.jpg"
@@ -110,70 +110,3 @@ Mifare Classic en DES encryptie levert problemen op met een ISO27001-2022 o.a. c
 ik dit niet onderzocht heb, is het ook van belang om te kijken naar de AVG. De logbestanden houden immers de fysieke 
 lokatie van medewerkers in de gaten. Dat is een persoonsgegeven en ik ben b.v. geen maatregel tegengekomen voor het recht op
 inzage of bewaartermijnen in het Phera systeem.
-
-
-"Alles bij elkaar is het iets veiliger van Mifare Classic, maar zeker niet zo veilig als Desfire"
-
-Ik: "DES encryptie is dat niet al in de jaren ´90 gekraakt?"
-"Die DES die komt ergens terug in het paneel zelf"
-
-Ik: "Wordt dit gezien als een security product?"
-"Het is wel een security product. Het is toegangscontrole, dus dan is het automatisch een security product, maar het is niet high-security. Wij zouden dit niet adviseren bij een kerncentrale of een bank of iets dergelijks."
-Ik: "Wat is dan wel de doelgroep waar het voor bedoeld is?"
-"MKB. Een ondernemer met een aantal deuren. Voor vervanging van onhandig pasbeheer en dan extra logging krijgt ed."
-
-Ik: "Maar als je passen kunt kopieren, dan weet je niet wie er is binnengekomen. Dan is de logging nou juist een zwak punt"
-"Nee daar heb je gelijk in, maar weet je... er is een markt voor vanalles"
-
-Geven aan dat DESfire veiliger is, maar dat is "ook zeker niet in ieders belang"
-
-PDF met kaarttypes per email opgestuurd
-https://phera.nl/images/Infographic_pasveilig_Phera.pdf
-https://web.archive.org/web/20240715174609/https://phera.nl/images/Infographic_pasveilig_Phera.pdf
-
-2crypt staat heel veilig aangeschreven omdat het kopieren lastiger gaat.
-"en dat is ook nog met de informatie die jij nu hebt. Dat staat bewust niet met zo veel detail op de website. Dat zou eerst dan iemand zelf moeten uitvogelen."
-
-"Mifare classic gebruikt een sleutel voor sector codering. Betekent dat dat alle Phera systemen dezelfde sleutel gebruiken voor sector codering?"
-- "Ja dat klopt. Er is geen key diversification. Dat kan wel, maar daar is niet voor gekozen."
-"waarom is daar niet voor gekozen?"
-- "Onze cardreaders die ondersteunen dat niet."
-
-"Dat betekent dat de sector sleutel die al jullie klanten gebruiken is dus een trade secret? Als die zou uitlekken dat zou geen goede zaak zijn?"
-- "In zekere zin doet dat niet zo heel veel schade. Hoewel de publiciteit zou niet fijn zijn. Maar dat je die key kan achterhalen, dat is geen nieuws. Dat heb ik zelf ook wel eens een keer gedaan en als ik het kan, dan zijn er meer mensen die dat kunnen."
-
-"Zijn jullie klanten er van op de hoogte dat dat mogelijk is?"
-- "Je moet dit in de context zien van de huidige systemen die in de markt draaien. <knip> Wij bieden een oplossing die veiliger is dan 80% van de concurrentie"
-Bovendien informeren ze met een pasveiligheid infographic.
-
-Ik merk op dat het in de markt wordt gezet als iets wat erg veilig is.
-"Erg veilig is relatief."
-Als ik opmerk dat op phera.nl/en/veilig de eerste zin is: "In alle opzichten veilig" is het antwoord:
-"Ja, veilig aan de voorzijde, je beveiligt je pand er mee, pasveiligheid is over nagedacht, dataveiligheid aan de achterkant is over nagedacht. Dus met toegangscontrole voeg je een hoop veiligheid toe aan je pand."
-
-"Stel als een misdrijf plaatsvindt, zouden jullie dan adviseren om de logbestanden, die te manipuleren zijn door het kopieren van kaarten, te gebruiken als forensisch bewijs?"
-- "Ik zou het meenemen in het complete verhaal ja. Maar dan gecombineerd met camerabeelden. Je zult meer bewijs moeten hebben dan alleen dat lijkt mij. Het zou wel raar zijn om het niet mee te nemen toch?"
-"Maar forensisch bewijs moet natuurlijk boven gerede twijfel staan"
-- "Als dat het criterium is, dan valt dat daar natuurlijk niet onder nee."
-
-Vraag uitgezet bij Mischa
-
-Blijft herhalen dat het veel veiliger is dan "het gros".
-
-Staat of valt bij de kennis van de installateurs. Durft hij zijn hand niet voor in het vuur te steken.
-Verantwoordelijkheid wordt daar bij afgeschoven?
-
-Mifare classic
-
-Single DES:
-
-
-
-ARAS *Security*
-Contact met Technisch Directeur ARAS Security
-
-Aliexpress sector 0 schrijfbare kaarten
-goedkope RFID schrijver
-
-
-
