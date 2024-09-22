@@ -9,7 +9,7 @@ image = "img/blog/pexels-life-of-pix-4291.jpg"
 Tijdens een bezoek aan een van mijn klanten kwam ik het "Phera" gebouw toegangssysteem van Aras tegen. Omdat ik dit 
 systeem niet eerder was tegengekomen: tijd om in de security te duiken!
 <!--more-->
-"Toegangscontrole betekent dat je zekerheid hebt over wie jouw pand betreed".  
+"Toegangscontrole betekent dat je zekerheid hebt over wie jouw pand betreed (sic)".  
 Zo begint de website 
 {{< a_blank "phera.nl" "https://www.phera.nl/nl/" >}} 
 {{< a_blank "mirror" "https://web.archive.org/web/20240715122628/https://www.phera.nl/nl/" >}}. 
