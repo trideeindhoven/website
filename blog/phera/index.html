@@ -60,8 +60,8 @@
 <link rel="canonical" href="https://trideeindhoven.github.io/website/blog/phera/">
 
 <meta name="twitter:description" content="CloudAware">
-<meta property="article:published_time" content="2024-09-18T00:00:00&#43;00:00">
-<meta property="article:updated_time" content="2024-09-18T00:00:00&#43;00:00">
+<meta property="article:published_time" content="2024-09-22T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2024-09-22T00:00:00&#43;00:00">
 
 
 
@@ -168,7 +168,7 @@
         <h1 class="title text-5xl font-bold mb-3">Aras Phera</h1>
         <section class="mb-4 text-lg">
             <h4 id="date" class="flex flex-row items-center"><span class="icon-access_time text-2xl mr-2"></span>
-                2024/09/18 </h4>
+                2024/09/22 </h4>
             
             <h4 class="flex flex-row items-center"><span class="icon-person text-2xl mr-2"></span>Jeroen Hermans
             </h4>
@@ -184,7 +184,7 @@
         
         <img class="my-4" src="https://trideeindhoven.github.io/website/img/blog/pexels-life-of-pix-4291.jpg">
         
-        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Tijdens een bezoek aan een van mijn klanten kwam ik het &ldquo;Aras Phera&rdquo; gebouw toegangssysteem tegen. Omdat ik dit
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Tijdens een bezoek aan een van mijn klanten kwam ik het &ldquo;Phera&rdquo; gebouw toegangssysteem van Aras tegen. Omdat ik dit
 systeem niet eerder was tegengekomen: tijd om in de security te duiken!</p>
 <p>&ldquo;Toegangscontrole betekent dat je zekerheid hebt over wie jouw pand betreed&rdquo;.<br>
 Zo begint de website
@@ -195,8 +195,7 @@ Zo begint de website
 <a target="_blank" href="https://web.archive.org/web/20240715122628/https://www.phera.nl/nl/">mirror</a> <i class="fa fa-external-link"></i>
 .
 Het is de website van het product Phera van beveiligingsfirma Aras. En dit artikel gaat eigenlijk om deze allereerste
-zin. De grammaticafout in de eerste zin geeft eigenlijk al aan dat dit product wellicht met net iets te hoge spoed op
-de markt gebracht is. Laten we eerst kijken naar wat Phera eigenlijk is.<br>
+zin. Laten we eerst kijken naar wat Phera eigenlijk is.<br>
 Phera is een systeem om mensen digitaal toegang te verlenen tot een object. Aras zelf geeft hierbij als voorbeelden
 kantoren, winkels en kinderdagverblijven. En dat zijn uiteraard plekken waar toegangscontrole van belang is om
 uiteenlopende redenen. Een systeem dus wat in een maatschappelijk gevoelige plek ingezet wordt.
@@ -229,7 +228,7 @@ Phera maakt gebruik van de welbekende &ldquo;druppels&rdquo; die te koop zijn op
 <a target="_blank" href="https://www.aras.nl/ph-2c-key-10-phera-2crypt-tag-set-van-10-oranje">website van Aras</a> <i class="fa fa-external-link"></i>
 .
 Een korte test laat zien dat het om een eenvoudige Mifare kaart gaat. Voor de tweede keer die avond kijk ik even op
-van mijn pc. Mifare? Dat klink niet heel erg gunstig. In 2015 heeft journalist en oud-collega Brenno de Winter al
+van mijn pc. Mifare? Dat klinkt niet heel erg gunstig. In 2015 heeft journalist en oud-collega Brenno de Winter al
 uitvoerig aangetoond dat de cryptosleutel van deze kaarten
 
 <a target="_blank" href="https://www.nu.nl/internet/4023707/chip-ov-chipkaart-en-toegangspassen-blijkt-eenvoudig-kraken.html">uitgelekt is</a> <i class="fa fa-external-link"></i>
@@ -240,8 +239,10 @@ In het PDF bestand van ARAS kunnen we lezen
 In eerste instantie is de standaard beveiliging aanwezig van een Mifare kaart, <br/>met de beveiligingssleutel die daarbij hoort.
 </blockquote>
 
-Ik denk dat we deze &ldquo;standaard&rdquo; beveiliging in 2024 gevoegelijk &ldquo;plaintext&rdquo; mogen noemen.
-Maar zo lezen we in het PDF bestand wat ik eerder aanhaalde:
+Ik denk dat we deze &ldquo;standaard&rdquo; beveiliging in 2024 gevoegelijk &ldquo;plaintext&rdquo; mogen noemen en hierbij het woord &ldquo;beveiliging&rdquo;
+gebruiken is ronduit misleidend voor (potentiële) klanten. Dat dit zelfs heel eenvoudig is geeft Aras in een interview later ook
+toe. Maar hierover later meer.
+Verder lezen we in het PDF bestand wat ik eerder aanhaalde:
 
 <blockquote class="cloudemail">
 Vervolgens wordt het kaartnummer nogmaals versleuteld in de kaart opgeslagen, gelinkt aan het serienummer van de kaart. Ook al wordt de volledige inhoud van de kaart gekopieerd naar een andere kaart. Dan zal deze niet meer matchen met het serienummer en zal de kaart geweigerd worden door de kaartlezer.
@@ -273,7 +274,7 @@ Het serienummer kun je natuurlijk ook kopiëren. Dus dan kun je eventueel een Ch
 
 <a target="_blank" href="https://phera.nl/en/over-phera">website</a> <i class="fa fa-external-link"></i>
  van Phera.<br>
-Als ik een jaar geleden hem vraag of het dan geen probleem is als ik ga publiceren geeft hij aan dat:</p>
+Als ik hem een jaar geleden vraag of het dan geen probleem is als ik ga publiceren geeft hij aan dat:</p>
 
 <blockquote class="cloudemail">
 In zekere zin doet dat niet zo heel veel schade. Hoewel de publiciteit zou niet fijn zijn. Maar dat je die key kan achterhalen, dat is geen nieuws. Dat heb ik zelf ook wel eens een keer gedaan en als ik het kan, dan zijn er meer mensen die dat kunnen.
@@ -283,7 +284,7 @@ In zekere zin doet dat niet zo heel veel schade. Hoewel de publiciteit zou niet 
 telefoon. De technisch directeur is uiteraard op de hoogte van de kwetsbaarheden in de DES encryptie. Na even nadenken
 geeft hij aan dat het waarschijnlijk om iets gaat wat &ldquo;ergens in het paneel zelf&rdquo; terugkomt.</p>
 <p>Ik krijg niet meteen een gevoel dat het systeem hele veilig is en ik wil graag weten voor wie dit systeem dan wel
-gebruikt mag worden. Ik vraag of Phera gezien mag worden als een security product. Nadat de extreme voorbeelden zoals
+gebruikt mag worden. Ik vraag of Phera gezien mag worden als een security product. Nadat de gebruikelijke extreme voorbeelden zoals
 kerncentrales voorbij komen geeft hij aan: &ldquo;MKB. Een ondernemer met een aantal deuren. Voor vervanging van onhandig
 pasbeheer en dan extra logging krijgt ed.&rdquo;</p>
 <p>En dat is een interessante uitspraak, want juist die logging is een heikel punt. Ik vraag hem of deze logging in het geval
@@ -313,7 +314,10 @@ Maar het is essentieel dat eindklanten op de hoogte zijn van het beveiligingsniv
 Mifare Classic en DES encryptie levert problemen op met een ISO27001-2022 o.a. control 7.2, 7.3, 7.4 en 8.24. Hoewel
 ik dit niet onderzocht heb, is het ook van belang om te kijken naar de AVG. De logbestanden houden immers de fysieke
 lokatie van medewerkers in de gaten. Dat is een persoonsgegeven en ik ben b.v. geen maatregel tegengekomen voor het recht op
-inzage of bewaartermijnen in het Phera systeem.</p></div>
+inzage of bewaartermijnen in het Phera systeem.</p>
+<p>Het opstellen van eisen voor leveranciers en het beoordelen van offertes van leveranciers is typisch iets waar CloudAware
+bij betrokken wordt. Zoals hierboven blijkt is dit van groot belang, in het bijzonder voor ISO gecertificeerde ondernemingen
+en ondernemingen die onder de NIS2 vallen.</p></div>
         <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
             <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fphera%2f&text=Aras%20Phera" target="_blank"
                 title="Tweet" class="share-button twitter">
