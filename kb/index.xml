@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kbs on CloudAware Technical Consultancy</title>
+    <link>https://trideeindhoven.github.io/website/kb/</link>
+    <description>Recent content in Kbs on CloudAware Technical Consultancy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://trideeindhoven.github.io/website/kb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DKIM</title>
+      <link>https://trideeindhoven.github.io/website/kb/dkim/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/kb/dkim/</guid>
+      <description>Wat is DKIM voor e-mail? DKIM staat voor DomainKeys Identified Mail en is een e-mailauthenticatieprotocol dat helpt om de integriteit en authenticiteit van e-mails te waarborgen. Met DKIM kunnen e-mailontvangers controleren of een e-mail daadwerkelijk door de eigenaar van een domein is verzonden en of het bericht tijdens het transport niet is gewijzigd.&#xA;DKIM werkt door een digitale handtekening toe te voegen aan de headers van uitgaande e-mails. Deze handtekening is uniek en wordt gegenereerd met behulp van een privécryptografische sleutel die alleen bekend is bij de verzendende server.</description>
+    </item>
+    <item>
+      <title>DMARC</title>
+      <link>https://trideeindhoven.github.io/website/kb/dmarc/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/kb/dmarc/</guid>
+      <description>Wat is DMARC voor e-mail? DMARC staat voor Domain-based Message Authentication, Reporting &amp;amp; Conformance en is een e-mailauthenticatieprotocol dat organisaties helpt om hun e-maildomeinen te beschermen tegen misbruik zoals phishing en e-mailspoofing. DMARC bouwt voort op bestaande protocollen zoals SPF (Sender Policy Framework) en DKIM (DomainKeys Identified Mail), en voegt daar een extra laag aan toe door richtlijnen op te stellen voor hoe ontvangers moeten omgaan met berichten die deze verificaties niet doorstaan.</description>
+    </item>
+    <item>
+      <title>DNSSEC</title>
+      <link>https://trideeindhoven.github.io/website/kb/dnssec/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/kb/dnssec/</guid>
+      <description>Wat is DNSSEC? DNSSEC staat voor Domain Name System Security Extensions en is een beveiligingsprotocol dat is ontworpen om de integriteit en authenticiteit van DNS-gegevens te waarborgen. Het Domain Name System (DNS) vertaalt domeinnamen (zoals www.voorbeeld.nl) naar IP-adressen (zoals 192.0.2.1) zodat computers elkaar op het internet kunnen vinden. DNS zelf is echter van origine niet beveiligd, waardoor kwaadwillenden de kans hebben om DNS-informatie te manipuleren via aanvallen zoals DNS-spoofing of cache poisoning.</description>
+    </item>
+    <item>
+      <title>IPv6</title>
+      <link>https://trideeindhoven.github.io/website/kb/ipv6/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/kb/ipv6/</guid>
+      <description>Wat is IPv6? IPv6 staat voor Internet Protocol versie 6 en is de nieuwste versie van het internetprotocol dat gebruikt wordt om apparaten op het internet te identificeren en met elkaar te laten communiceren. Een internetprotocol (IP) fungeert als een adresseringssysteem dat elk apparaat dat met het internet is verbonden, zoals computers, smartphones en servers, een uniek adres geeft. Met dit unieke adres kunnen gegevens correct van de ene locatie naar de andere worden verzonden.</description>
+    </item>
+    <item>
+      <title>SPF</title>
+      <link>https://trideeindhoven.github.io/website/kb/spf/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/kb/spf/</guid>
+      <description>Wat is SPF voor e-mail? SPF staat voor Sender Policy Framework en is een e-mailauthenticatieprotocol dat wordt gebruikt om te verifiëren of een e-mail die namens een domein wordt verzonden, daadwerkelijk van een geautoriseerde server komt. SPF helpt bij het voorkomen van e-mailspoofing, waarbij kwaadwillenden de identiteit van een afzender vervalsen om spam, phishing of andere schadelijke e-mails te versturen.&#xA;SPF werkt door een DNS-record (een SPF-record) toe te voegen aan het domein van de afzender.</description>
+    </item>
+  </channel>
+</rss>

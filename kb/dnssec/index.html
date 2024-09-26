@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+
+
+<meta charset="utf-8">
+<title>CloudAware Technical Consultancy | DNSSEC</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/website/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/website/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/website/favicon-16x16.png'>
+<link rel="manifest" href='/website/site.webmanifest'>
+
+<link href='/website/css/fa6.min.css' rel="stylesheet" type="text/css">
+
+
+
+
+<link rel="stylesheet" href="/website/css/style.min.77906017340b15ad69f27f2cd27f0833d0e78a75185c356924d7a17bf623e6fd.css" />
+
+
+<link href='/website/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/website/css/custom.css'>
+<script defer type="text/javascript" src="/website/js/privacy-manager/config.js"></script>
+<script defer type="text/javascript" src="/website/js/privacy-manager/klaro.js"></script>
+
+<script>
+  var _paq = window._paq = window._paq || [];
+   
+  _paq.push(['requireCookieConsent']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://app.cloudaware.eu/cloudtr/";
+    _paq.push(['setTrackerUrl', u+'cloudtr']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'cloudtr.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
+
+
+<meta property="og:site_name" content="CloudAware Technical Consultancy" />
+<meta property="og:title" content="DNSSEC | CloudAware Technical Consultancy" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://trideeindhoven.github.io/website/kb/dnssec/" />
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="DNSSEC">
+
+
+<meta property="og:image" content="https://trideeindhoven.github.io/website/">
+
+<meta name="description" content="Domain Name System Security Extensions (DNSSEC)" />
+<meta property="og:description" content="Domain Name System Security Extensions (DNSSEC)" />
+<meta property="twitter:description" content="Domain Name System Security Extensions (DNSSEC)" />
+
+
+</head>
+
+<body class="flex flex-col min-h-screen">
+  <main class="flex-grow"><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="/website/blog/">
+                    <span>Blog</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/support">
+                    <span>Support</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/about/">
+                    <span>Over</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/spreker/">
+                    <span>Spreker</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/contact/">
+                    <span>Contact</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+            <a href="https://trideeindhoven.github.io/website/"><img alt="CloudAware Logo"
+                    class="h-20 mr-3" src="/website/img/logo/cloudaware.png"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg">
+                
+                <a href="/website/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Blog
+                </a>
+                
+                <a href="/website/support"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Support
+                </a>
+                
+                <a href="/website/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Over
+                </a>
+                
+                <a href="/website/spreker/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Spreker
+                </a>
+                
+                <a href="/website/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Contact
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header><div class="scroll-top rounded-full">
+      <span class="icon-keyboard_arrow_up text-2xl"></span>
+    </div>
+<div class="mx-auto my-10 max-w-6xl">
+  <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+    <h1 class="title text-5xl mb-4">DNSSEC</h1>
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><h3 id="wat-is-dnssec">Wat is DNSSEC?</h3>
+<p><strong>DNSSEC</strong> staat voor <strong>Domain Name System Security Extensions</strong> en is een beveiligingsprotocol dat is ontworpen om de integriteit en authenticiteit van DNS-gegevens te waarborgen. Het Domain Name System (DNS) vertaalt domeinnamen (zoals <a href="https://www.voorbeeld.nl">www.voorbeeld.nl</a>) naar IP-adressen (zoals 192.0.2.1) zodat computers elkaar op het internet kunnen vinden. DNS zelf is echter van origine niet beveiligd, waardoor kwaadwillenden de kans hebben om DNS-informatie te manipuleren via aanvallen zoals <strong>DNS-spoofing</strong> of <strong>cache poisoning</strong>.</p>
+<p>Met DNSSEC worden cryptografische handtekeningen toegevoegd aan de DNS-gegevens. Deze handtekeningen zorgen ervoor dat de ontvangende partij kan controleren of de DNS-informatie afkomstig is van de juiste bron en onderweg niet is gewijzigd. Als de gegevens niet overeenkomen met de cryptografische controle, wordt de DNS-respons geweigerd.</p>
+<h3 id="hoe-werkt-dnssec">Hoe werkt DNSSEC?</h3>
+<p>DNSSEC voegt een laag beveiliging toe aan DNS door middel van een <strong>digitale handtekening</strong> die wordt gekoppeld aan elke DNS-respons. De handtekening wordt gecreëerd met een privécryptografische sleutel die bekend is bij de eigenaar van het domein. De publieke sleutel, waarmee de handtekening kan worden geverifieerd, wordt opgeslagen in het DNS zelf, waardoor ontvangende partijen de integriteit van de gegevens kunnen verifiëren.</p>
+<p>Dit proces omvat verschillende stappen:</p>
+<ol>
+<li><strong>DNS-query</strong>: Een gebruiker vraagt naar de IP-adresinformatie van een domein via een DNS-query.</li>
+<li><strong>DNSSEC-handtekening</strong>: De DNS-server stuurt de gevraagde DNS-gegevens samen met een digitale handtekening terug naar de aanvrager.</li>
+<li><strong>Verificatie</strong>: De ontvangende partij gebruikt de publieke sleutel om te controleren of de DNS-respons overeenkomt met de geauthenticeerde informatie. Als de handtekening klopt, weet de ontvanger dat de DNS-gegevens betrouwbaar zijn.</li>
+</ol>
+<h3 id="waarom-is-dnssec-belangrijk">Waarom is DNSSEC belangrijk?</h3>
+<ol>
+<li>
+<p><strong>Bescherming tegen DNS-spoofing en cache poisoning</strong><br>
+DNSSEC biedt bescherming tegen aanvallen waarbij aanvallers vervalste DNS-informatie doorgeven aan gebruikers of DNS-servers. Een veelvoorkomende aanval is DNS-spoofing (of cache poisoning), waarbij een aanvaller valse IP-adressen in de cache van een DNS-server injecteert. Dit kan gebruikers naar kwaadwillende websites leiden zonder dat ze het doorhebben. DNSSEC voorkomt dit door te garanderen dat alleen geverifieerde DNS-gegevens worden geaccepteerd.</p>
+</li>
+<li>
+<p><strong>Versterking van internetbeveiliging</strong><br>
+Hoewel DNSSEC specifiek is ontworpen om de DNS zelf te beveiligen, is het een cruciaal onderdeel van de bredere internetbeveiliging. Doordat DNSSEC de betrouwbaarheid van DNS-verzoeken waarborgt, kunnen gebruikers met meer zekerheid op het internet navigeren en interacties hebben zonder risico op misleiding of aanvallen.</p>
+</li>
+<li>
+<p><strong>Vertrouwen in de authenticiteit van gegevens</strong><br>
+Met DNSSEC kunnen gebruikers en bedrijven erop vertrouwen dat de DNS-gegevens die ze ontvangen, zoals het IP-adres van een website of de locatie van een e-mailserver, correct en authentiek zijn. Dit is vooral belangrijk voor kritieke diensten zoals online bankieren, e-commerce en het verzenden van gevoelige gegevens via e-mail. DNSSEC maakt het veel moeilijker voor aanvallers om deze gegevens te vervalsen.</p>
+</li>
+<li>
+<p><strong>Bescherming van merken en klanten</strong><br>
+Voor bedrijven is DNSSEC belangrijk om hun merk en klanten te beschermen tegen aanvallen waarbij hun domeinnaam wordt gebruikt voor frauduleuze doeleinden. Door DNSSEC te implementeren, wordt het risico op aanvallen zoals phishing of het omleiden van verkeer naar kwaadaardige websites aanzienlijk verminderd.</p>
+</li>
+<li>
+<p><strong>Ondersteuning van andere beveiligingsprotocollen</strong><br>
+DNSSEC vormt de basis voor andere geavanceerde beveiligingsprotocollen die afhankelijk zijn van betrouwbare DNS-gegevens. Een voorbeeld hiervan is <strong>DANE</strong> (DNS-based Authentication of Named Entities), een protocol dat het gebruik van TLS-certificaten voor beveiligde verbindingen verifieert via DNSSEC. Dit helpt bij het voorkomen van man-in-the-middle-aanvallen tijdens het opzetten van beveiligde verbindingen.</p>
+</li>
+</ol>
+<h3 id="conclusie">Conclusie</h3>
+<p>DNSSEC is een essentieel beveiligingsprotocol voor het internet. Het waarborgt de integriteit en authenticiteit van DNS-gegevens en biedt bescherming tegen aanvallen zoals DNS-spoofing en cache poisoning. Door DNSSEC te implementeren, versterken bedrijven en organisaties de betrouwbaarheid van hun online diensten, beschermen ze hun merk en klanten tegen cyberaanvallen, en dragen ze bij aan een veiliger internet voor alle gebruikers.</p>
+</div>
+  </div>
+</div>
+
+  </main><footer class="bg-tlgray-100">
+  
+  <script src='/website/js/clipboard.min.js'></script>
+  <script src='/website/js/highlight.min.js'></script>
+  <script src='/website/js/highlightjs-line-numbers.min.js'></script>
+  <script src='/website/js/sweetalert2.min.js'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
+
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
+  
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <link href='/website/css/webfonts.min.css' rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      CloudAware Technical Consultancy
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:flex-grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="/website/privacybeleid" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Privacy statement
+          
+        </a>
+        
+        <a href="/website/cookieverklaring" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Cookieverklaring
+          
+        </a>
+        
+        <a href="/website/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Home
+          
+        </a>
+        
+        <a href="https://github.com/gitaware" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          <i class='icon-github text-2xl'></i>
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; CloudAware Technical Consultancy 2024 All Rights Reserved.
+  </div>
+</footer>
+</body>
+
+</html>
