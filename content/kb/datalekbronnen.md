@@ -5,7 +5,6 @@ date = "2024-10-06"
 aliases = ["datalek", "bron"]
 author = "Jeroen Hermans"
 +++
-{{< a_blank "PDF bestand" "https://phera.nl/images/Documentatie/phera_brc_04_web.pdf" >}} 
 ## Adobe
 In oktober 2013 werden 153 miljoen Adobe-accounts gehackt. Elk account bevatte een interne ID, gebruikersnaam, e-mailadres, versleuteld wachtwoord en een wachtwoordhint in platte tekst. De wachtwoordversleuteling was slecht uitgevoerd, waardoor veel wachtwoorden snel terug naar platte tekst konden worden herleid. De onversleutelde hints gaven bovendien {{< a_blank "veel informatie" "https://www.troyhunt.com/2013/11/adobe-credentials-and-serious.html" >}} over de wachtwoorden, wat het risico voor honderden miljoenen Adobe-klanten verder vergrootte.
 
