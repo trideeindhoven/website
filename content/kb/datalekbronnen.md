@@ -49,7 +49,7 @@ In het midden van 2018 heeft de woningontwerpwebsite {{< a_blank "Houzz een data
 ### 2016
 In mei 2016 had LinkedIn 164 miljoen e-mailadressen en wachtwoorden openbaar gemaakt. Oorspronkelijk gehackt in 2012, bleef de data uit het zicht totdat deze 4 jaar later te koop werd aangeboden op het darkweb. De wachtwoorden in de inbreuk waren opgeslagen als SHA1-hashes zonder salt, waarvan de overgrote meerderheid snel werd gekraakt in de dagen na de vrijgave van de data.
 
-### 2017
+### 2021
 In de eerste helft van 2021 werd LinkedIn het {{< a_blank "doelwit van aanvallers" "https://www.businessinsider.com.au/linkedin-data-scraped-500-million-users-for-sale-online-2021-4" >}} die gegevens van honderden miljoenen openbare profielen verzamelden en later online verkochten. Hoewel het verzamelen van deze gegevens geen datalek betrof en er geen persoonlijke informatie werd verkregen die niet openbaar toegankelijk was, werd de verzamelde data toch te gelde gemaakt en breed verspreid in hackingkringen. De verzamelde gegevens bevatten ongeveer 400 miljoen records met 125 miljoen unieke e-mailadressen, evenals namen, geografische locaties, geslachten en functietitels. LinkedIn gaat specifiek in op het incident in {{< a_blank "hun bericht" "https://news.linkedin.com/2021/june/an-update-from-linkedin" >}} over "Een update over gerapporteerde verzamelde data".
 
 ## 2023
