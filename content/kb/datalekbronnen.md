@@ -1,12 +1,10 @@
 +++
-title = "Bronnen Datalekken"
+title = "Welke bronnen gebruikt CloudAware om te weten of u in een datalek voorkomt?"
 description = "Bronnen Datalekken"
 date = "2024-10-06"
 aliases = ["datalek", "bron"]
 author = "Jeroen Hermans"
 +++
-# Welke bronnen gebruikt CloudAware of u in een datalek voorkomt?
-
 ## Adobe
 In oktober 2013 werden 153 miljoen Adobe-accounts gehackt. Elk account bevatte een interne ID, gebruikersnaam, e-mailadres, versleuteld wachtwoord en een wachtwoordhint in platte tekst. De wachtwoordversleuteling was slecht uitgevoerd, waardoor veel wachtwoorden snel terug naar platte tekst konden worden herleid. De onversleutelde hints gaven bovendien <a target="_blank" href="https://www.troyhunt.com/2013/11/adobe-credentials-and-serious.html">veel informatie</a> over de wachtwoorden, wat het risico voor honderden miljoenen Adobe-klanten verder vergrootte.
 
