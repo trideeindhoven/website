@@ -27,7 +27,7 @@
       <link>https://trideeindhoven.github.io/website/kb/datalekbronnen/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/kb/datalekbronnen/</guid>
-      <description>Welke bronnen gebruikt CloudAware of u in een datalek voorkomt? ##Adobe In oktober 2013 werden 153 miljoen Adobe-accounts gehackt. Elk account bevatte een interne ID, gebruikersnaam, e-mailadres, versleuteld wachtwoord en een wachtwoordhint in platte tekst. De wachtwoordversleuteling was slecht uitgevoerd, waardoor veel wachtwoorden snel terug naar platte tekst konden worden herleid. De onversleutelde hints gaven bovendien veel informatie over de wachtwoorden, wat het risico voor honderden miljoenen Adobe-klanten verder vergrootte.</description>
+      <description>Welke bronnen gebruikt CloudAware of u in een datalek voorkomt? Adobe In oktober 2013 werden 153 miljoen Adobe-accounts gehackt. Elk account bevatte een interne ID, gebruikersnaam, e-mailadres, versleuteld wachtwoord en een wachtwoordhint in platte tekst. De wachtwoordversleuteling was slecht uitgevoerd, waardoor veel wachtwoorden snel terug naar platte tekst konden worden herleid. De onversleutelde hints gaven bovendien veel informatie over de wachtwoorden, wat het risico voor honderden miljoenen Adobe-klanten verder vergrootte.</description>
     </item>
     <item>
       <title>DKIM</title>
