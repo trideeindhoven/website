@@ -100,6 +100,13 @@
       <description>&lt;p&gt;Tijdens het onderzoek viel het op dat er een netwerkpoort open stond op Yealink devices. Het open staan van deze poort&#xA;kon ik niet verklaren en dus werden ook hier vragen over gesteld aan Yealink.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Encryption</title>
+      <link>https://trideeindhoven.github.io/website/en/yealink/encryption/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/en/yealink/encryption/</guid>
+      <description>&lt;p&gt;The reason for this research stemmed from certain aspects of the encryption in the provisioning process that&#xA;i didn’t fully understand. At the time, I could not have anticipated that I would still be working&#xA;on this two years later.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Versleuteling</title>
       <link>https://trideeindhoven.github.io/website/yealink/versleuteling/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
