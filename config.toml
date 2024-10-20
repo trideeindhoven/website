@@ -82,6 +82,12 @@ enableRobotsTXT = true
     url = "/contact/"
     weight = 5
 
+  [[menu.main]]
+    identifier = "cve"
+    name = "CVE"
+    url = "/cve/"
+    weight = 6
+
   # Footer Menu
   [[menu.footer]]
     name = "Privacy statement"
