@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gepubliceerde vulnerabilities</title>
+      <link>https://trideeindhoven.github.io/website/cve/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/cve/</guid>
+      <description>CVE CVE (Common Vulnerabilities and Exposures) is een internationaal erkende standaard voor het identificeren en benoemen van beveiligingslekken in software en hardware. Een CVE-nummer dient als een unieke identificator voor een specifieke kwetsbaarheid, waardoor organisaties en ontwikkelaars eenvoudig kunnen verwijzen naar en communiceren over deze beveiligingsproblemen. Dit systeem helpt in het wereldwijd standaardiseren van informatie over kwetsbaarheden, zodat deze snel en accuraat kunnen worden gedeeld, geanalyseerd en opgelost.&#xA;Wanneer een beveiligingsonderzoeker of een organisatie een nieuwe kwetsbaarheid ontdekt, wordt deze kwetsbaarheid aangemeld bij een CVE-nummeringsautoriteit (CNA).</description>
+    </item>
+    <item>
       <title>Spreker</title>
       <link>https://trideeindhoven.github.io/website/spreker/</link>
       <pubDate>Sat, 25 May 2024 12:33:45 +1000</pubDate>
