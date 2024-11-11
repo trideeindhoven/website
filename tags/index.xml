@@ -6,8 +6,29 @@
     <description>Recent content in Tags on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API</title>
+      <link>https://trideeindhoven.github.io/website/tags/api/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>licentie</title>
+      <link>https://trideeindhoven.github.io/website/tags/licentie/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/tags/licentie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>paxton</title>
+      <link>https://trideeindhoven.github.io/website/tags/paxton/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/tags/paxton/</guid>
+      <description></description>
+    </item>
     <item>
       <title>certificaat</title>
       <link>https://trideeindhoven.github.io/website/tags/certificaat/</link>
@@ -23,24 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>paxton</title>
-      <link>https://trideeindhoven.github.io/website/tags/paxton/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/tags/paxton/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>tls</title>
       <link>https://trideeindhoven.github.io/website/tags/tls/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/tags/tls/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>licentie</title>
-      <link>https://trideeindhoven.github.io/website/tags/licentie/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/tags/licentie/</guid>
       <description></description>
     </item>
     <item>
