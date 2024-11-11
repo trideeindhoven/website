@@ -45,5 +45,5 @@ CloudAware heeft de volgende CVE's gepubliceerd:
 | [CVE-2022-48625](https://www.cve.org/CVERecord?id=CVE-2022-48625) | Yealink leaked AES key | https://cloudaware.eu/yealink/versleuteling/ |
 | [CVE-2023-43870](https://www.cve.org/CVERecord?id=CVE-2023-43870) | Paxton leaked private key root cert | https://cloudaware.eu/blog/paxton_tls/ |
 | [CVE-2024-24681](https://www.cve.org/CVERecord?id=CVE-2024-24681) | Yealink leaked RSA key | https://github.com/gitaware/CVE/tree/main/CVE-2024-24681 https://seclists.org/fulldisclosure/2024/Feb/22 |
-| [CVE-2024-48939](https://www.cve.org/CVERecord?id=CVE-2024-48939) | Paxton license key bypass |  |
+| [CVE-2024-48939](https://www.cve.org/CVERecord?id=CVE-2024-48939) | Paxton license key bypass | https://cloudaware.eu/blog/paxton_licentie/ |
 
