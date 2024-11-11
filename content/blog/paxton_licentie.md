@@ -1,15 +1,15 @@
 +++
-title = "Paxton en de luchtige licentie"
+title = "Paxton's API licentie"
 description = "CloudAware"
-date = "2024-08-30"
+date = "2024-11-11"
 aliases = []
 tags = [
-    "paxton", "licentie"
+    "paxton", "licentie", "API"
 ]
 author = "Jeroen Hermans"
 image = "img/blog/pexels-kindelmedia-7714892.jpg"
 +++
-Als een firma licenties voor hun producten verkoopt is het natuurlijk wel de bedoeling dat deze licenties niet omzeild
+Als een firma licenties voor hun producten uitgeeft is het natuurlijk wel de bedoeling dat deze licenties niet omzeild
 kunnen worden.
 <!--more-->
 Het is een aantal maanden na het onderzoek naar de beveiliging van gebouwtoegangssystemen van de 
@@ -70,9 +70,11 @@ niet het id van het leven, universum en alles is, maar vrij random door mij geko
 accepteert de Net2 software de licentie.  
 Ik heb niet veel tijd gestoken in het "Type" en ik heb dit op "Standaard" laten staan.  
 De "Customer" gegevens heb ik een "random" naam en emailadres voor gekozen. Als we er van uitgaan (aanname!) dat deze persoon niet 
-heeft gereageerd op een (eventuele) bevestigingsmail, dan kunnen we voorlopig aannemen dat hier geen validatie plaatsvindt.  
+heeft gereageerd op een (eventuele) bevestigingsmail, dan kunnen we voorlopig aannemen dat hier geen validatie plaatsvindt. 
+Als de persoon in het licentiebestand wèl op een bevestigingsmail heeft gereagered, dan zou dit ook wel een interessante 
+bevinding zijn.  
 Om te voorkomen dat ik opeens de licentie niet meer kan gebruiken heb ik een (geldige) datum in de toekomst gekozen. 
-Vreemd genoeg vond hier wel een validatie op plaats.  
+Vreemd genoeg vond hier wel een validatie op plaats. Een kleine 1000 jaar in de toekomst leek mij wel voldoende.  
 Ook de bedrijfsnaam in de licentie mag ik zelf kiezen zonder dat hier een validatie op plaatsvindt.  
 Het clientID is ook een UUIDv4. Zo lang dit een geldig UUIDv4 is, zal dit worden geaccepteerd als geldige licentie!  
 
