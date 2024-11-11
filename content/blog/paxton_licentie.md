@@ -97,4 +97,12 @@ in de volgende versie van de Net2 software opgelost zal zijn.
 De laatste quote maakt de reactie van de Nederlandse tak van Paxton natuurlijk extra bijzonder. Als deze API geen extra
 toegang verleent (tot een zelf gekocht systeem), waarom weigeren zij dan API toegang aan een bijzonder ervaren IT 
 onderneming? Ik besluit er verder ook niet meer achteraan te gaan. Het kan alleen maar tot speculaties leiden en 
-de problemen die er waren zijn inmiddels opgelost.
+de problemen die er waren zijn inmiddels opgelost.  
+
+De laatste stap in een responsible disclosure is natuurlijk....de disclosure. Dat betekent dat er een publieke
+{{< a_blank "melding" "https://seclists.org/fulldisclosure/2024/Oct/3" >}} gemaakt wordt op de "Full Disclosure"
+mailing lijst, waarna Paxton een CVE nummer laat reserveren bij Mitre.
+Tot slot is Paxton verzocht om een CVE aan te vragen bij Mitre. En dat hebben zij uiteindelijk ook netjes gedaan
+zodat ook deze kwetsbaarheid, 
+{{< a_blank "traceerbaar, opgelost is." "https://www.cve.org/CVERecord?id=CVE-2024-48939" >}}
+
