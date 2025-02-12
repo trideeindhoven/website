@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+
+
+<meta charset="utf-8">
+<title>CloudAware Technical Consultancy | </title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/website/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/website/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/website/favicon-16x16.png'>
+<link rel="manifest" href='/website/site.webmanifest'>
+
+<link href='/website/css/fa6.min.css' rel="stylesheet" type="text/css">
+
+
+
+
+<link rel="stylesheet" href="/website/css/style.min.77906017340b15ad69f27f2cd27f0833d0e78a75185c356924d7a17bf623e6fd.css" />
+
+
+<link href='/website/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/website/css/custom.css'>
+<script defer type="text/javascript" src="/website/js/privacy-manager/config.js"></script>
+<script defer type="text/javascript" src="/website/js/privacy-manager/klaro.js"></script>
+
+<script>
+  var _paq = window._paq = window._paq || [];
+   
+  _paq.push(['requireCookieConsent']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://app.cloudaware.eu/cloudtr/";
+    _paq.push(['setTrackerUrl', u+'cloudtr']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'cloudtr.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
+
+<meta property="og:title" content="CloudAware Technical Consultancy | " />
+
+
+
+
+<meta name="description" content="In de laatste paar jaren heb ik regelmatig onderzoek gedaan ">
+<meta property="og:title" content=" | " />
+<meta property="og:site_name" content="CloudAware Technical Consultancy">
+<meta property="og:description" content="In de laatste paar jaren heb ik regelmatig onderzoek gedaan ">
+<meta property="og:url" content="https://trideeindhoven.github.io/website/blog/paxton_mssql/">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tech_chiba">
+
+<link rel="canonical" href="https://trideeindhoven.github.io/website/blog/paxton_mssql/">
+
+<meta name="twitter:description" content="In de laatste paar jaren heb ik regelmatig onderzoek gedaan ">
+<meta property="article:published_time" content="">
+
+
+
+
+
+<meta property="og:image" content="https://trideeindhoven.github.io/website/">
+
+
+<meta name="twitter:title" content="">
+<link rel="preload" href='/css/sweetalert2.min.css' as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+
+</head>
+
+<body class="flex flex-col min-h-screen">
+  <main class="flex-grow"><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="/website/blog/">
+                    <span>Blog</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/support">
+                    <span>Support</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/about/">
+                    <span>Over</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/spreker/">
+                    <span>Spreker</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/contact/">
+                    <span>Contact</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/cve/">
+                    <span>CVE</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+            <a href="https://trideeindhoven.github.io/website/"><img alt="CloudAware Logo"
+                    class="h-20 mr-3" src="/website/img/logo/cloudaware.png"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg">
+                
+                <a href="/website/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Blog
+                </a>
+                
+                <a href="/website/support"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Support
+                </a>
+                
+                <a href="/website/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Over
+                </a>
+                
+                <a href="/website/spreker/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Spreker
+                </a>
+                
+                <a href="/website/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Contact
+                </a>
+                
+                <a href="/website/cve/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    CVE
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header><div class="scroll-top rounded-full">
+      <span class="icon-keyboard_arrow_up text-2xl"></span>
+    </div>
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="title text-5xl font-bold mb-3"></h1>
+        <section class="mb-4 text-lg">
+            <h4 id="date" class="flex flex-row items-center"><span class="icon-access_time text-2xl mr-2"></span>
+                0001/01/01 </h4>
+            
+            
+        </section>
+        Translations of this article:<br />
+
+        <a href="https://cloudaware-eu.translate.goog/website/blog/paxton_mssql/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+        <a href="https://cloudaware-eu.translate.goog/website/blog/paxton_mssql/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+        <a href="https://cloudaware-eu.translate.goog/website/blog/paxton_mssql/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+
+        
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>In de laatste paar jaren heb ik regelmatig onderzoek gedaan naar gebouwtoegangssystemen. Vrijwel elke keer als ik in mijn onderzoek naar een gebouwtoegangssysteem ging kijken bleken er, vaak basale, zaken mis te zijn.   In 2022 deed ik onderzoek naar de firma Comelit wat gepresenteerd werd op hackers conferentie 
+<a target="_blank" href="https://cloudaware.eu/blog/mch2022_knock/">MCH2022</a> <i class="fa fa-external-link"></i>
+.<br>
+Het belangrijkste verweer van Comelit was dat het systeem geen beveiligingssysteem was, maar een toegangssysteem voor gebieden die een lage mate van beveiliging nodig hebben.</p>
+<p>Ik had dan ook heel andere verwachtingen toen ik ging kijken naar het volgende systeem. Dit gebouwtoegangssysteem &ldquo;
+<a target="_blank" href="https://cloudaware.eu/blog/phera/">Phera</a> <i class="fa fa-external-link"></i>
+&rdquo; wordt op de markt gebracht door beveiligingsfirma ARAS.
+In de 
+<a target="_blank" href="https://www.aras.nl/files/21/AC/8728E33BEADA.pdf">brochure</a> <i class="fa fa-external-link"></i>
+ staat op 20 pagina&rsquo;s 27 keer het woord &ldquo;veilig&rdquo;. Er staan krachttermen als &ldquo;Hoogste beveiligingsgraad door toepassing encryptie&rdquo; in de brochure, dus mijn interesse is gewekt. En die interesse wordt niet minder als ik even verderop in de brochure zie dat er &ldquo;DES&rdquo; encryptie wordt gebruikt. Een vorm van versleuteling die al meer dan een kwart eeuw als niet veilig wordt beschouwd.<br>
+Als ik de technisch directeur een kinderlijk eenvoudige manier presenteer om de beveiliging te omzeilen geeft hij aan:
+
+<blockquote class="cloudemail">
+Dat heb ik zelf ook wel eens een keer gedaan en als ik het kan, dan zijn er meer mensen die dat kunnen.
+</blockquote>
+
+Maar ook hier blijkt een belangrijk argument te zijn dat het systeem van beveiligingsbedrijf ARAS ineens niet meer geschikt te zijn voor beveiliging, maar meer als vervanging van een sleutelplan.</p>
+<p>Vervolgens kom ik in aanraking met het gebouwtoegangssysteem van Paxton. Dit systeem wordt naar eigen zeggen gebruikt voor gevoelige objecten zoals ziekenhuizen, vliegvelden, tv studio&rsquo;s en zelfs gevangenissen. Ook hier blijkt het een en ander niet helemaal in orde te zijn en het leidt tot twee artikelen<br>
+<a href="https://trideeindhoven.github.io/website/blog/paxton_tls/">De root van het probleem/certificaat</a><br>
+<a href="https://trideeindhoven.github.io/website/blog/paxton_licentie/">Paxton&rsquo;s API licentie</a><br>
+en de publicatie van twee Common Vulnerabilities and Exposures (
+<a target="_blank" href="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures">CVE&rsquo;s</a> <i class="fa fa-external-link"></i>
+):<br>
+
+<a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2023-43870">CVE-2023-43870</a> <i class="fa fa-external-link"></i>
+<br>
+
+<a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2024-48939">CVE-2024-48939</a> <i class="fa fa-external-link"></i>
+</p>
+<p>En met deze veel te lange introductie zijn we aanbeland bij mijn laatste onderzoek naar het gebouwtoegangssysteem van Paxton.</p>
+<p>Het is een zwaar bewolkte en koude dag dinsdag 12 november 2024 als ik mijn emailbericht aan Paxton schrijf.
+Ik leg uit dat ik erg blij ben met de manier waarop zij hebben gereageerd op mijn onderzoeken, waardoor we samen een veiliger product en uiteindelijk maatschappij hebben bewerkstelligd.
+Ik geef aan dat ik ook graag de nieuwe versie van hun systeem wil testen. De vraag is: willen jullie mij de laatste versie opsturen?<br>
+Maar in plaats van de directe en prettige samenwerking waarvan eerder sprake was hoor ik nu helemaal niets meer. Het blijft wekenlang stil. OP een gegeven moment is mijn geduld op en neem ik contact op met een bevriende installateur. Hij zorgt er voor dat ik diezelfde dag nog het installatiebestand in mijn mailbox heb. Ik installeer de laatste versie van de Paxton Net2 software en ga aan de slag.<br>
+Mijn doel is dit keer iets anders: de database waar de Paxton software mee communiceert. Het duurt niet lang voordat ik mijzelf administrator toegang tot deze database heb verschaft. De manier waarop ik dat doe is kinderlijk eenvoudig:<br>
+Ik stop eenvoudigweg de MSSQL server en voeg mijn eigen administrator account toe als ik de MSSQL server tijdelijk &ldquo;single user&rdquo; opstart. Daarna herstart ik de MSSQL server weer op de normale manier.<br>
+Nu ik mijn eigen administrator account heb ga ik rondneuzen in deze database. En deze database staat vol met niet-versleutelde persoonsgegevens, toegangskaarten serienummers en audit log gegevens.<br>
+Diezelfde dag nog stuur ik een email bericht naar Paxton om hen te informeren dat ik weer een probleem heb gevonden met hun software. Ik vraag heb om als manufacturer om een
+
+<a target="_blank" href="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures">CVE</a> <i class="fa fa-external-link"></i>
+  te reserveren bij de betreffende 
+<a target="_blank" href="https://www.cve.org/ResourcesSupport/Glossary?activeTerm=glossaryCNA">CNA</a> <i class="fa fa-external-link"></i>
+. Een CNA heeft niets te maken met het warenhuis wat tot voor kort in elke grote Nederlandse stad te vinden was. Het is een &ldquo;CVE Numbering Authority&rdquo;. Maw: zij reserveren CVE nummers voor gevonden beveiligingsproblemen.<br>
+Een dag later maak ik Proof Of Concept (POC) exploit code om de problemen inzichtelijk te maken. De POC is een python script wat het starten en stoppen van de MSSQL server in luttele ogenblikken automatisch uitvoert, zodat het niet opvalt dat iemand ineens administrator rechten heeft gekregen op de database.<br>
+Gezien de gevoeligheid van de zaak besluit ik om de POC alleen met Paxton te delen en niet publiek op het internet vrij te geven.<br>
+Die volgende maandag krijg ik antwoord van Paxton. Maar van hun meewerkende toon bij eerdere onderzoeken is nu helemaal geen sprake meer. De Chief IT Architect van Paxton schrijft:
+
+<blockquote class="cloudemail">
+After careful consideration, we have determined that this method does not qualify for a CVE against the Net2 product.
+</blockquote>
+<br>
+Oei, maar dat is natuurlijk niet aan Paxton om dat te bepalen. Het gaat wat ver om helemaal uit te leggen, maar het CVE systeem is een peer-reviewed systeem. Als een CVE geen vulnerability blijkt te zijn, dan zal deze niet gepubliceerd worden en blijft het bij een reservering. De manufacturer mag natuurlijk niet zelf gatekeeper spelen bij het toewijzen van CVE nummers.</p>
+<p>Maar ook dit is niet ongebruikelijk in de wereld van cybersecurity en dus bestaat hier ook een procedure voor. De Mitre organisation is de primaire CNA in dit soort gevallen. Ik besluit om een CVE nummer te laten reserveren door Mitre. En omdat de vulnerability niet erkend wordt door Paxton besluit ik ook om de vulnerability op een verantwoorde wijze te publiceren. Organisaties die het systeem gebruiken moeten immers op de hoogte zijn van het risico wat ze lopen en maatregelen kunnen treffen voordat er iets ernstigs gebeurd.<br>
+Diezelfde dag nog 
+<a target="_blank" href="https://seclists.org/fulldisclosure/2024/Dec/0">publiceer</a> <i class="fa fa-external-link"></i>
+  ik op de full disclosure mailinglijst de vulnerability. Het is inmiddels december en hierdoor is het even een aantal weken wat stiller. Ik reis zelf naar Zwitserland en Frankrijk om aan het volgende artikel over Yealink te werken (~herfst 2025).<br>
+Als ik in januari weer goed en wel ben opgestart met alles krijg ik een email bericht in mijn mailbox.
+
+<blockquote class="cloudemail">
+Hello Jeroen,<br/>My name is <font style="background-color: #ff0000; color: #ff0000;" title="Naam gecensureerd i.v.m. juridische redenen">************</font>, I am with the "drie letters"
+</blockquote>
+<br>
+Een glimlach tekent zich af op mijn gezicht. Sure&hellip;sure&hellip; Maar voordat ik het bericht verwijder, bekijk ik toch een tweede keer. Het bericht is inmiddels door mijn spamfilter heen gekomen.<br>
+De CC-lijst van het email-bericht staat vol met .org en .gov mailadressen, variërend van Amerikaanse 
+<a target="_blank" href="https://en.wikipedia.org/wiki/Computer_emergency_response_team">CERTS</a> <i class="fa fa-external-link"></i>
+ tot mailadressen van 3-letter agencies. De handtekening onderaan het mailbericht ziet er met een overheidslogo ook serieus uit.<br>
+Zonder al te veel in te gaan op wat er nou precies gecommuniceerd werd: zij hadden mijn full disclosure ook gelezen en maakten zich wat zorgen. Met de vraag of ik hen wilde inlichten over wat er precies aan de hand was en hoe het opgelost kon worden.<br>
+Voor een aantal weken communiceren we op en neer. Het tijdsverschil is duidelijk merkbaar in de vertraging die dit oplevert. Het is aan de overkant van de oceaan ook duidelijk dat het een ongewenste situatie is. Wellicht dat er wat druk is uitgeoefend in de VS, maar niet veel later komt ook Mitre weer op de lijn met een reservering van een CVE nummer. Ik publiceer het CVE nummer met bijgewerkte advisory weer op de full disclosure mailinglijst.<br>
+Het is mooi om te zien hoe anno 2025 procedures op het internet zijn geregeld. Vaak wordt het internet als het Wilde Westen beschouwd. Dat is zeer zeker niet het geval. Vrijwel alles ligt vast in procedures en soms zelfs wetten. Het is echter wel zo dat in de, heel erg niet digitale, wereld de <em>handhaving</em> echter totaal ontbreekt. Met maakt de zelf regulering op het internet extra bijzonder.</p>
+<p>Helaas heeft het dit keer niet geleidt tot een beter beveiligd product, maar de gebruikers zijn wel ingelicht over de risico&rsquo;s en hebben andere maatregelen kunnen treffen om hacks te voorkomen.</p>
+</div>
+        <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
+            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpaxton_mssql%2f&text=" target="_blank"
+                title="Tweet" class="share-button twitter">
+                <div class="text-white text-center">
+                    <span class="icon-twitter text-lg mr-2"></span>Twitter
+                </div>
+            </a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpaxton_mssql%2f&t=" target="_blank"
+                title="Facebook" class="share-button facebook">
+                <div class="text-white text-center">
+                    <span class="icon-facebook text-lg mr-2"></span>Facebook
+                </div>
+            </a>
+            <a href="javascript:OnClickURL();" class="share-button url" title="Copy to Clipboard"
+                data-clipboard-text="https://trideeindhoven.github.io/website/blog/paxton_mssql/" id="url">
+                <div class="text-white text-center">
+                    <span class="icon-link text-lg mr-2"></span>Copy
+                </div>
+            </a>
+        </div>
+        <hr class="py-4">
+        <aside id="meta">
+            <div class="grid grid-cols-2">
+                <div class="col-span-1">
+                    
+                </div>
+                
+                <a class="next lg:text-2xl" href="https://trideeindhoven.github.io/website/blog/yealink/">
+                    <div
+                        class="transition-colors duration-300 col-span-1 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                        Yealink publicaties <span class="icon-keyboard_arrow_right"></span>
+                    </div>
+                </a>
+                
+            </div>
+        </aside>
+    </div>
+</div>
+
+  </main><footer class="bg-tlgray-100">
+  
+  <script src='/website/js/clipboard.min.js'></script>
+  <script src='/website/js/highlight.min.js'></script>
+  <script src='/website/js/highlightjs-line-numbers.min.js'></script>
+  <script src='/website/js/sweetalert2.min.js'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
+
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
+  
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <link href='/website/css/webfonts.min.css' rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      CloudAware Technical Consultancy
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:flex-grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="/website/privacybeleid" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Privacy statement
+          
+        </a>
+        
+        <a href="/website/cookieverklaring" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Cookieverklaring
+          
+        </a>
+        
+        <a href="/website/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Home
+          
+        </a>
+        
+        <a href="https://github.com/gitaware" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          <i class='icon-github text-2xl'></i>
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; CloudAware Technical Consultancy 2025 All Rights Reserved.
+  </div>
+</footer>
+</body>
+
+</html>

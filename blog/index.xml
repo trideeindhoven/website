@@ -64,5 +64,12 @@
       <guid>https://trideeindhoven.github.io/website/blog/yealink/</guid>
       <description>&lt;p&gt;In 2022 en 2023 heb ik onderzoek gedaan naar telecom firma Yealink en de Nederlandse distributeur en importeur Lydis.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://trideeindhoven.github.io/website/blog/paxton_mssql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/paxton_mssql/</guid>
+      <description>In de laatste paar jaren heb ik regelmatig onderzoek gedaan naar gebouwtoegangssystemen. Vrijwel elke keer als ik in mijn onderzoek naar een gebouwtoegangssysteem ging kijken bleken er, vaak basale, zaken mis te zijn. In 2022 deed ik onderzoek naar de firma Comelit wat gepresenteerd werd op hackers conferentie MCH2022 .&#xA;Het belangrijkste verweer van Comelit was dat het systeem geen beveiligingssysteem was, maar een toegangssysteem voor gebieden die een lage mate van beveiliging nodig hebben.</description>
+    </item>
   </channel>
 </rss>
