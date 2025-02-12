@@ -5,7 +5,7 @@
 
 
 <meta charset="utf-8">
-<title>CloudAware Technical Consultancy | </title>
+<title>CloudAware Technical Consultancy | Paxton&#39;s database</title>
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <link rel="apple-touch-icon" sizes="180x180" href='/website/apple-touch-icon.png'>
 <link rel="icon" type="image/png" sizes="32x32" href='/website/favicon-32x32.png'>
@@ -42,15 +42,15 @@
 
 
 
-<meta property="og:title" content="CloudAware Technical Consultancy | " />
+<meta property="og:title" content="CloudAware Technical Consultancy | Paxton&#39;s database" />
 
 
 
 
-<meta name="description" content="In de laatste paar jaren heb ik regelmatig onderzoek gedaan ">
+<meta name="description" content="CloudAware">
 <meta property="og:title" content=" | " />
 <meta property="og:site_name" content="CloudAware Technical Consultancy">
-<meta property="og:description" content="In de laatste paar jaren heb ik regelmatig onderzoek gedaan ">
+<meta property="og:description" content="CloudAware">
 <meta property="og:url" content="https://trideeindhoven.github.io/website/blog/paxton_mssql/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="">
@@ -59,17 +59,20 @@
 
 <link rel="canonical" href="https://trideeindhoven.github.io/website/blog/paxton_mssql/">
 
-<meta name="twitter:description" content="In de laatste paar jaren heb ik regelmatig onderzoek gedaan ">
-<meta property="article:published_time" content="">
+<meta name="twitter:description" content="CloudAware">
+<meta property="article:published_time" content="2025-02-10T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2025-02-10T00:00:00&#43;00:00">
 
 
 
 
 
-<meta property="og:image" content="https://trideeindhoven.github.io/website/">
+    
+<meta property="og:image" content="https://trideeindhoven.github.io/website/img/blog/pexels-markus-winkler-1430818-3828944.jpg">
+    
 
 
-<meta name="twitter:title" content="">
+<meta name="twitter:title" content="Paxton&#39;s database">
 <link rel="preload" href='/css/sweetalert2.min.css' as="style"
     onload="this.onload=null;this.rel='stylesheet'">
 
@@ -173,10 +176,13 @@
     </div>
 <div class="mx-auto my-10 max-w-6xl">
     <div class="mx-3 col-span-3 lg:col-span-2 px-2">
-        <h1 class="title text-5xl font-bold mb-3"></h1>
+        <h1 class="title text-5xl font-bold mb-3">Paxton&#39;s database</h1>
         <section class="mb-4 text-lg">
             <h4 id="date" class="flex flex-row items-center"><span class="icon-access_time text-2xl mr-2"></span>
-                0001/01/01 </h4>
+                2025/02/10 </h4>
+            
+            <h4 class="flex flex-row items-center"><span class="icon-person text-2xl mr-2"></span>Jeroen Hermans
+            </h4>
             
             
         </section>
@@ -187,7 +193,11 @@
         <a href="https://cloudaware-eu.translate.goog/website/blog/paxton_mssql/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
 
         
-        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>In de laatste paar jaren heb ik regelmatig onderzoek gedaan naar gebouwtoegangssystemen. Vrijwel elke keer als ik in mijn onderzoek naar een gebouwtoegangssysteem ging kijken bleken er, vaak basale, zaken mis te zijn.   In 2022 deed ik onderzoek naar de firma Comelit wat gepresenteerd werd op hackers conferentie 
+        <img class="my-4" src="https://trideeindhoven.github.io/website/img/blog/pexels-markus-winkler-1430818-3828944.jpg">
+        
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Paxton zijn we op dit blog al eens eerder tegengekomen. In november leek het een tijd om ook de laatste versie van
+Paxton Net2 te testen op beveiliging. En wat er toen gebeurde zal je verbazen&hellip;(oprecht)&hellip;</p>
+<p>In de laatste paar jaren heb ik regelmatig onderzoek gedaan naar gebouwtoegangssystemen. Vrijwel elke keer als ik in mijn onderzoek naar een gebouwtoegangssysteem ging kijken bleken er, vaak basale, zaken mis te zijn.   In 2022 deed ik onderzoek naar de firma Comelit wat gepresenteerd werd op hackers conferentie 
 <a target="_blank" href="https://cloudaware.eu/blog/mch2022_knock/">MCH2022</a> <i class="fa fa-external-link"></i>
 .<br>
 Het belangrijkste verweer van Comelit was dat het systeem geen beveiligingssysteem was, maar een toegangssysteem voor gebieden die een lage mate van beveiliging nodig hebben.</p>
@@ -256,16 +266,15 @@ De CC-lijst van het email-bericht staat vol met .org en .gov mailadressen, vari√
 Zonder al te veel in te gaan op wat er nou precies gecommuniceerd werd: zij hadden mijn full disclosure ook gelezen en maakten zich wat zorgen. Met de vraag of ik hen wilde inlichten over wat er precies aan de hand was en hoe het opgelost kon worden.<br>
 Voor een aantal weken communiceren we op en neer. Het tijdsverschil is duidelijk merkbaar in de vertraging die dit oplevert. Het is aan de overkant van de oceaan ook duidelijk dat het een ongewenste situatie is. Wellicht dat er wat druk is uitgeoefend in de VS, maar niet veel later komt ook Mitre weer op de lijn met een reservering van een CVE nummer. Ik publiceer het CVE nummer met bijgewerkte advisory weer op de full disclosure mailinglijst.<br>
 Het is mooi om te zien hoe anno 2025 procedures op het internet zijn geregeld. Vaak wordt het internet als het Wilde Westen beschouwd. Dat is zeer zeker niet het geval. Vrijwel alles ligt vast in procedures en soms zelfs wetten. Het is echter wel zo dat in de, heel erg niet digitale, wereld de <em>handhaving</em> echter totaal ontbreekt. Met maakt de zelf regulering op het internet extra bijzonder.</p>
-<p>Helaas heeft het dit keer niet geleidt tot een beter beveiligd product, maar de gebruikers zijn wel ingelicht over de risico&rsquo;s en hebben andere maatregelen kunnen treffen om hacks te voorkomen.</p>
-</div>
+<p>Helaas heeft het dit keer niet geleidt tot een beter beveiligd product, maar de gebruikers zijn wel ingelicht over de risico&rsquo;s en hebben andere maatregelen kunnen treffen om hacks te voorkomen.</p></div>
         <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
-            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpaxton_mssql%2f&text=" target="_blank"
+            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpaxton_mssql%2f&text=Paxton%27s%20database" target="_blank"
                 title="Tweet" class="share-button twitter">
                 <div class="text-white text-center">
                     <span class="icon-twitter text-lg mr-2"></span>Twitter
                 </div>
             </a>
-            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpaxton_mssql%2f&t=" target="_blank"
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpaxton_mssql%2f&t=Paxton%27s%20database" target="_blank"
                 title="Facebook" class="share-button facebook">
                 <div class="text-white text-center">
                     <span class="icon-facebook text-lg mr-2"></span>Facebook
@@ -283,14 +292,14 @@ Het is mooi om te zien hoe anno 2025 procedures op het internet zijn geregeld. V
             <div class="grid grid-cols-2">
                 <div class="col-span-1">
                     
+                    <a class="previous lg:text-2xl" href="https://trideeindhoven.github.io/website/blog/paxton_licentie/">
+                        <div
+                            class="transition-colors duration-300 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                            <span class="icon-keyboard_arrow_left"></span> Paxton&#39;s API licentie
+                        </div>
+                    </a>
+                    
                 </div>
-                
-                <a class="next lg:text-2xl" href="https://trideeindhoven.github.io/website/blog/yealink/">
-                    <div
-                        class="transition-colors duration-300 col-span-1 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
-                        Yealink publicaties <span class="icon-keyboard_arrow_right"></span>
-                    </div>
-                </a>
                 
             </div>
         </aside>

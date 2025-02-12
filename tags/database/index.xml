@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>database on CloudAware Technical Consultancy</title>
+    <link>https://trideeindhoven.github.io/website/tags/database/</link>
+    <description>Recent content in database on CloudAware Technical Consultancy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://trideeindhoven.github.io/website/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paxton&#39;s database</title>
+      <link>https://trideeindhoven.github.io/website/blog/paxton_mssql/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/paxton_mssql/</guid>
+      <description>&lt;p&gt;Paxton zijn we op dit blog al eens eerder tegengekomen. In november leek het een tijd om ook de laatste versie van&#xA;Paxton Net2 te testen op beveiliging. En wat er toen gebeurde zal je verbazen&amp;hellip;(oprecht)&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

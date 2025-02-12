@@ -6,7 +6,7 @@
     <description>Recent content on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gepubliceerde vulnerabilities</title>
@@ -28,6 +28,13 @@
       <pubDate>Sun, 01 Jan 2023 12:33:45 +1000</pubDate>
       <guid>https://trideeindhoven.github.io/website/support/</guid>
       <description>CloudAware uses Anydesk for remote support. Please click on the link below for the correct version:&#xA;Windows&#xA;Apple&#xA;Android</description>
+    </item>
+    <item>
+      <title>Paxton&#39;s database</title>
+      <link>https://trideeindhoven.github.io/website/blog/paxton_mssql/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/paxton_mssql/</guid>
+      <description>&lt;p&gt;Paxton zijn we op dit blog al eens eerder tegengekomen. In november leek het een tijd om ook de laatste versie van&#xA;Paxton Net2 te testen op beveiliging. En wat er toen gebeurde zal je verbazen&amp;hellip;(oprecht)&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paxton&#39;s API licentie</title>
@@ -287,13 +294,6 @@
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/reactie_sommatie_akd/</guid>
       <description>Aan:&#xA;AKD N.V.&#xA;t.a.v. Martin Hemmer&#xA;Postbus 4302&#xA;3006 AH Rotterdam&#xA;Kopie per email aan: **********@akd.nl&#xA;‘s-Gravenhage, 18 september 2023&#xA;Uw kenmerk: 1012320/mhe&#xA;Betreft: Brief d.d. 15 september 2023&#xA;Geachte heer Hemmer,&#xA;Ik heb heden uw brief met bovenstaand kenmerk van u/AKD gelezen. Na intern overleg is besloten dat CloudAware 2 weken nodig heeft om met een passende reactie te komen. Uw brief is niet eenvoudig te volgen, maar ik begrijp dat u graag antwoord wil hebben op de volgende vragen:</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://trideeindhoven.github.io/website/blog/paxton_mssql/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/blog/paxton_mssql/</guid>
-      <description>In de laatste paar jaren heb ik regelmatig onderzoek gedaan naar gebouwtoegangssystemen. Vrijwel elke keer als ik in mijn onderzoek naar een gebouwtoegangssysteem ging kijken bleken er, vaak basale, zaken mis te zijn. In 2022 deed ik onderzoek naar de firma Comelit wat gepresenteerd werd op hackers conferentie MCH2022 .&#xA;Het belangrijkste verweer van Comelit was dat het systeem geen beveiligingssysteem was, maar een toegangssysteem voor gebieden die een lage mate van beveiliging nodig hebben.</description>
     </item>
     <item>
       <title></title>
