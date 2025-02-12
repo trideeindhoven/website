@@ -1,3 +1,17 @@
++++
+title = "Paxton's database"
+description = "CloudAware"
+date = "2025-02-10"
+aliases = []
+tags = [
+    "paxton", "mssql", "database", "CVE-2024-55447"
+]
+author = "Jeroen Hermans"
+image = "img/blog/pexels-markus-winkler-1430818-3828944.jpg"
++++
+Paxton zijn we op dit blog al eens eerder tegengekomen. In november leek het een tijd om ook de laatste versie van
+Paxton Net2 te testen op beveiliging. En wat er toen gebeurde zal je verbazen...(oprecht)...
+<!--more-->
 In de laatste paar jaren heb ik regelmatig onderzoek gedaan naar gebouwtoegangssystemen. Vrijwel elke keer als ik in mijn onderzoek naar een gebouwtoegangssysteem ging kijken bleken er, vaak basale, zaken mis te zijn.   In 2022 deed ik onderzoek naar de firma Comelit wat gepresenteerd werd op hackers conferentie {{< a_blank "MCH2022" "https://cloudaware.eu/blog/mch2022_knock/" >}}.  
 Het belangrijkste verweer van Comelit was dat het systeem geen beveiligingssysteem was, maar een toegangssysteem voor gebieden die een lage mate van beveiliging nodig hebben.  
 
