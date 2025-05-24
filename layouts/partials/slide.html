@@ -7,7 +7,7 @@
         {{ end }}
             <img src="{{ .image }}" alt="">
             <div class="s-fade-txt">
-                <h1 class="text-4xl {{ or .color "text-white" }}">{{ .title }}</h1>
+                <h1 class="text-4xl {{ or .color "text-white" }} text-bg">{{ .title }}</h1>
             </div>
         {{ if .link }}
         </a>
