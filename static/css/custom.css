@@ -119,3 +119,8 @@ li i.fa {
   background-color: #00a4de;
 }
 
+.text-bg {
+  background-color: rgba(0, 0, 0, 0.5); /* semi-transparant zwart */
+  border-radius: 0.5rem; /* afgeronde hoeken */
+  padding: 0.5rem 1rem; /* boven/onder en links/rechts padding */
+}
