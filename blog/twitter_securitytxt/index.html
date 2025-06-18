@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+
+
+<meta charset="utf-8">
+<title>CloudAware Technical Consultancy | Twitter / X.com vulnerability disclosure</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/website/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/website/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/website/favicon-16x16.png'>
+<link rel="manifest" href='/website/site.webmanifest'>
+
+<link href='/website/css/fa6.min.css' rel="stylesheet" type="text/css">
+
+
+
+
+<link rel="stylesheet" href="/website/css/style.min.77906017340b15ad69f27f2cd27f0833d0e78a75185c356924d7a17bf623e6fd.css" />
+
+
+<link href='/website/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/website/css/custom.css'>
+<script defer type="text/javascript" src="/website/js/privacy-manager/config.js"></script>
+<script defer type="text/javascript" src="/website/js/privacy-manager/klaro.js"></script>
+
+<script>
+  var _paq = window._paq = window._paq || [];
+   
+  _paq.push(['requireCookieConsent']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://app.cloudaware.eu/cloudtr/";
+    _paq.push(['setTrackerUrl', u+'cloudtr']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'cloudtr.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
+
+<meta property="og:title" content="CloudAware Technical Consultancy | Twitter / X.com vulnerability disclosure" />
+
+
+
+
+<meta name="description" content="How X.com / Twitter failed in a vulnerability disclosure">
+<meta property="og:title" content=" | " />
+<meta property="og:site_name" content="CloudAware Technical Consultancy">
+<meta property="og:description" content="How X.com / Twitter failed in a vulnerability disclosure">
+<meta property="og:url" content="https://trideeindhoven.github.io/website/blog/twitter_securitytxt/">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tech_chiba">
+
+<link rel="canonical" href="https://trideeindhoven.github.io/website/blog/twitter_securitytxt/">
+
+<meta name="twitter:description" content="How X.com / Twitter failed in a vulnerability disclosure">
+<meta property="article:published_time" content="2025-06-18T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2025-06-18T00:00:00&#43;00:00">
+
+
+
+
+
+    
+<meta property="og:image" content="https://trideeindhoven.github.io/website/img/blog/pexels-markus-winkler-1430818-30945293.jpg">
+    
+
+
+<meta name="twitter:title" content="Twitter / X.com vulnerability disclosure">
+<link rel="preload" href='/css/sweetalert2.min.css' as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+
+</head>
+
+<body class="flex flex-col min-h-screen">
+  <main class="flex-grow"><header>
+    <div id="overlay">
+        <ul class="text-center list-none text-white text-3xl">
+            
+            <li class="p-2">
+                <a href="/website/blog/">
+                    <span>Blog</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/support">
+                    <span>Support</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/about/">
+                    <span>Over</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/spreker/">
+                    <span>Spreker</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/contact/">
+                    <span>Contact</span>
+                </a>
+            </li>
+            
+            <li class="p-2">
+                <a href="/website/cve/">
+                    <span>CVE</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+            <a href="https://trideeindhoven.github.io/website/"><img alt="CloudAware Logo"
+                    class="h-20 mr-3" src="/website/img/logo/cloudaware.png"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:flex-grow">
+            </div>
+            <div class="text-lg">
+                
+                <a href="/website/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Blog
+                </a>
+                
+                <a href="/website/support"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Support
+                </a>
+                
+                <a href="/website/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Over
+                </a>
+                
+                <a href="/website/spreker/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Spreker
+                </a>
+                
+                <a href="/website/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Contact
+                </a>
+                
+                <a href="/website/cve/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    CVE
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header><div class="scroll-top rounded-full">
+      <span class="icon-keyboard_arrow_up text-2xl"></span>
+    </div>
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="title text-5xl font-bold mb-3">Twitter / X.com vulnerability disclosure</h1>
+        <section class="mb-4 text-lg">
+            <h4 id="date" class="flex flex-row items-center"><span class="icon-access_time text-2xl mr-2"></span>
+                2025/06/18 </h4>
+            
+            <h4 class="flex flex-row items-center"><span class="icon-person text-2xl mr-2"></span>Jeroen Hermans
+            </h4>
+            
+            
+        </section>
+        Translations of this article:<br />
+
+        <a href="https://cloudaware-eu.translate.goog/website/blog/twitter_securitytxt/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+        <a href="https://cloudaware-eu.translate.goog/website/blog/twitter_securitytxt/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+        <a href="https://cloudaware-eu.translate.goog/website/blog/twitter_securitytxt/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+
+        
+        <img class="my-4" src="https://trideeindhoven.github.io/website/img/blog/pexels-markus-winkler-1430818-30945293.jpg">
+        
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>While the audience of my blob is increasingly becoming more and more international i have decided that from now on all articles will be written in English.<br>
+Vulnerability disclosures are complicated&hellip;or well&hellip; they&rsquo;re not. But somehow many companies, incl. multi-billion dollar ones,
+seem to think they are. This is a story of the what, why, how, but also with a hint of a solution.</p>
+<p>I don&rsquo;t think it is a secret that i am a big supporter of vulnerability disclosures. Unfortunately many disclosure procedures are extremely one-sided, sometimes even hostile towards security researchers.
+This can sometimes create tension. But as the saying goes &ldquo;Steel is forged in fire&rdquo;, we sometimes have to create that fire to create something better and stronger.
+It is always nice to see when companies see the benefit of a proper vulnerability disclosure procedure. Maybe the best example i have seen in the past year is Paxton Access Systems. Although the first contact was rather complicated in the end the communication with the security department was very direct and led to a safer product. And Paxton acknowledged this on their disclosure page
+<a href="https://www.paxton-access.com/about/compliance-policies/vulnerability-disclosure-policy/disclosures/">https://www.paxton-access.com/about/compliance-policies/vulnerability-disclosure-policy/disclosures/</a>
+Sometimes companies see such a page as something negative. But it is really a sign of a mature security minded organisation with proper disclosure procedures in place.</p>
+<p>Another example is Yealink. Although a bit more fire was needed to forge this steel a very real-life improvement in the vulnerability disclosure was realised. April 2nd 2025 the vulnerability disclosure procedure looked like this
+<a href="https://web.archive.org/web/20250402205520/https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20240322/202403220936144054321241843349ad77d9ab4e3fbbb.pdf">https://web.archive.org/web/20250402205520/https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20240322/202403220936144054321241843349ad77d9ab4e3fbbb.pdf</a>
+And as always the details are important. The very last chapter of this procedure is &ldquo;Intellectual Property&rdquo;. Now&hellip; this is interesting, because as far as i can see we are not transferring any IP&hellip; or are we?
+&ldquo;Regardless of whether the report submission is confirmed to be valid, you hereby agree to transfer all rights and interests (including all intellectual property) of all submitted vulnerability reports to Yealink.&rdquo;</p>
+<p>Ok. So we ARE transferring Intellectual Property. Even though this does not read as such, this is 100% an NDA. It is very hard to prosecute a researcher based on a legal process. It is not that hard though to prosecute a researcher who is publishing his own findings if he has actually transferred the IP of these findings to the manufacturer!</p>
+<p>While forging the steel together with Yealink the vulnerability disclosure procedure was changed to
+<a href="https://web.archive.org/web/20250618203650/https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20250513/202505130751244290e6a.pdf">https://web.archive.org/web/20250618203650/https://www.yealink.com/website-service/attachment/trust_center_resource/documents/20250513/202505130751244290e6a.pdf</a></p>
+<p>And now the IP section reads: &ldquo;By submitting your report, you hereby consent that Yealink may use your findings to remedy any security in Yealink products.&rdquo;
+And this is of course exactly what we want. We are still forging, but i am extremely happy that this has been changed.</p>
+<p>The legal complexity of being a security researcher starts to dawn on us. So how do we here at CloudAware do this? Why am i not in jail after hacking into tv studio entrance systems? The answer is not that simple, but i can give a few pointers we always apply to disclosures.</p>
+<ul>
+<li>READ vulnerability disclosure procedures. If they look like an NDA and walk like one, it probably is one. Do not agree to these contracts. In your first communication be very clear about who you are, what you do and that you are unfortunately not able to comply with their procedure (but&hellip;there to help).</li>
+<li>The Dutch Public Prosecution Service (OM) has written a Policy Paper on what is considered &ldquo;Ethical hacking&rdquo;.
+<a href="https://www.om.nl/onderwerpen/cybercrime/documenten/richtlijnen/2020/december/14/om-beleidsbrief-ethisch-hacken">https://www.om.nl/onderwerpen/cybercrime/documenten/richtlijnen/2020/december/14/om-beleidsbrief-ethisch-hacken</a>
+This Policy Paper in short states three important factors when deciding not to prosecute a security researcher:</li>
+</ul>
+<ul>
+<li>Was the action taken in the context of a substantial societal interest?</li>
+<li>Was the action proportionate (in other words: did the hacker not go further than necessary to achieve their objective)?</li>
+<li>Was the requirement of subsidiarity met (in other words: were there no less intrusive means to achieve the hacker&rsquo;s intended goal)?</li>
+</ul>
+<ul>
+<li>Article 10 of the &ldquo;Convention for the Protection of Human Rights and Fundamental Freedoms&rdquo; (Rome, 1950) guarantees the right to freedom of expression, which includes the freedom to receive and impart information without interference by public authorities. This right can be relevant to ethical hacking when security researchers disclose vulnerabilities in the public interest.</li>
+</ul>
+<p>Ok ok. Now everybody has a headacke from all the laws and legal terms. How can you make sure the first contact with a security researcher is as smooth as possible? Luckily there is an RFC for that: &ldquo;RFC 9116: A File Format to Aid in Security Vulnerability Disclosure&rdquo;
+<a href="https://www.rfc-editor.org/rfc/rfc9116">https://www.rfc-editor.org/rfc/rfc9116</a>
+An RFC is an implementation text for the internet. Because of RFCs e.g. all browsers can visit cloudaware.eu even though they have very different code bases.
+RFC 9116 describes how to publish a small textfile on your website. In this textfile you publish whom to contact for security related issues. The Dutch National Cyber Security Centre as published a document about the security.txt
+<a href="https://www.ncsc.nl/documenten/publicaties/2023/maart/2/handreiking-security.txt">https://www.ncsc.nl/documenten/publicaties/2023/maart/2/handreiking-security.txt</a>
+and the security.txt is also in the mandatory list of standards for Dutch governments:
+<a href="https://www.forumstandaardisatie.nl/open-standaarden/securitytxt">https://www.forumstandaardisatie.nl/open-standaarden/securitytxt</a></p>
+<p>So&hellip; now we have a standardised way for security researchers to contact a company. The steel is forged, the fire is no longer needed. Unfortunately it is not that easy. As you have seen the RFC is a lengthy document and it may not be that easy to interpret. But surely the companies of the richest man in the world, Elon Musk, must have interpreted this RFC correctly. Let&rsquo;s look at Tesla first. This company makes daily decisions about human lives using software so they should have a working security.txt in place.
+<a href="https://web.archive.org/web/20250618210336/https://www.tesla.com/.well-known/security.txt">https://web.archive.org/web/20250618210336/https://www.tesla.com/.well-known/security.txt</a></p>
+<p>Now that is too bad. Not only is the &ldquo;Encryption&rdquo; field not a PGP key as required by the RFC, the security.txt also completely lacks an Expires field. Because of this it is not clear whether this is an up-to-date security.txt.</p>
+<p>Let&rsquo;s have a look at another company of Elon Musk: x.com (or Twitter as i still call it).
+<a href="https://twitter.com/.well-known/security.txt">https://twitter.com/.well-known/security.txt</a>
+<a href="https://web.archive.org/web/20241216193258/https://twitter.com/.well-known/security.txt">https://web.archive.org/web/20241216193258/https://twitter.com/.well-known/security.txt</a></p>
+<p>Oh dear&hellip; Things are not getting any better here. The &ldquo;Expires&rdquo; field is in the past. Let&rsquo;s try to contact X to get that fixed!
+The contact field contains a (valid) url: <a href="https://hackerone.com/twitter">https://hackerone.com/twitter</a></p>
+<p>This means Twitter is using the HackerOne system to triage incoming security reports. Now let&rsquo;s assume i don&rsquo;t have an account, so i have to create an account at hackerone. Then i try to make a report for X saying there is an expired Expires field in the security.txt. Now this is a problem because you need a reputation on HackerOne in order to report to X, called a &ldquo;Signal Requirement&rdquo;. BUT the good people at X have waived this requirement for new users so i am ALLOWED to help them with this report.
+So i send the report and i expect a message back: confirmed, will fix, etc. And indeed about a day later i get a message from &ldquo;Analyst Trevor&rdquo;:
+&ldquo;Thank you for your submission. I hope you are well. Your report is currently being reviewed and the HackerOne triage team will get back to you once there is additional information to share.&rdquo;</p>
+<p>Great! Things are rolling. Steel is being forged and not even fire is needed. But you understand this article would not have existed without some fire. About a minute later &ldquo;Analyst Trevor&rdquo; sends me another message:
+&ldquo;Unfortunately, this was submitted previously by another researcher, but we appreciate your work and look forward to additional reports from you.
+At this time, we cannot add you to the original report as the report may contain additional information that we cannot share with you. This may include personal information or additional vulnerability information that shouldn&rsquo;t be exposed to other users. Thank you for your understanding.
+Have a great day ahead! &quot;</p>
+<p>Ok this is problematic. I don&rsquo;t need the bounty money for this find (because&hellip;let&rsquo;s be honoust&hellip;), but now my &ldquo;Signal&rdquo; is still zero and i have spend my trial report opportunity.<br>
+Ah well&hellip; At least X knows about this problem and it will be fixed with the quickest of quick. Well&hellip; My report was in february. It is now june. So&hellip; i see two possible scenarios here:
+a) Security reports are not getting through to the correct people at X, or
+b) X did not get another security report and they just fail to pay out bounties (up to 20.000 dollar for high severity finds)</p>
+<p>Again: this is such a small report that i was not expecting any money for it, but this is troubling. If you are unable to fix such a tiny problem in half a year, what does that say about your incident procedures (ISO27001 anyone?).</p>
+<p>As you can see the job of a security researcher is immensely complex. The risks you run are immense (your job is committing jailable offenses), the technical knowledge you need is complex and changes constantly and you need to be informed about (international) law in order to mitigate the risks mentioned earlier.</p>
+<p>I think security.txt is a great way to publish to the world your vulnerability disclosure procedure is in place. It shows maturity in your organisation. But it is a bit technical to make one. Time and time again my customers told me: we do not have the knowledge and/or time to make a security.txt, so we don&rsquo;t do it.<br>
+But: talk is cheap and i started forging and created the CloudAware Security.txt Generator:
+<a href="https://cloudaware.eu/securitytxt_generator/">https://cloudaware.eu/securitytxt_generator/</a></p>
+<p>Now you can generate a valid security.txt from within your browser, get help on every single step and even cryptographically sign the security.txt document so that you get that nice green tick on internet.nl! And if you don&rsquo;t trust me (and you shouldn&rsquo;t!) it is fully open source on github: <a href="https://github.com/gitaware/securitytxtgenerator">https://github.com/gitaware/securitytxtgenerator</a> where you can download the sourcecode and run it locally. Enjoy! I will be in contact&hellip;</p></div>
+        <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
+            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2ftwitter_securitytxt%2f&text=Twitter%20%2f%20X.com%20vulnerability%20disclosure" target="_blank"
+                title="Tweet" class="share-button twitter">
+                <div class="text-white text-center">
+                    <span class="icon-twitter text-lg mr-2"></span>Twitter
+                </div>
+            </a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2ftwitter_securitytxt%2f&t=Twitter%20%2f%20X.com%20vulnerability%20disclosure" target="_blank"
+                title="Facebook" class="share-button facebook">
+                <div class="text-white text-center">
+                    <span class="icon-facebook text-lg mr-2"></span>Facebook
+                </div>
+            </a>
+            <a href="javascript:OnClickURL();" class="share-button url" title="Copy to Clipboard"
+                data-clipboard-text="https://trideeindhoven.github.io/website/blog/twitter_securitytxt/" id="url">
+                <div class="text-white text-center">
+                    <span class="icon-link text-lg mr-2"></span>Copy
+                </div>
+            </a>
+        </div>
+        <hr class="py-4">
+        <aside id="meta">
+            <div class="grid grid-cols-2">
+                <div class="col-span-1">
+                    
+                    <a class="previous lg:text-2xl" href="https://trideeindhoven.github.io/website/blog/paxton_mssql/">
+                        <div
+                            class="transition-colors duration-300 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                            <span class="icon-keyboard_arrow_left"></span> Paxton&#39;s database
+                        </div>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </aside>
+    </div>
+</div>
+
+  </main><footer class="bg-tlgray-100">
+  
+  <script src='/website/js/clipboard.min.js'></script>
+  <script src='/website/js/highlight.min.js'></script>
+  <script src='/website/js/highlightjs-line-numbers.min.js'></script>
+  <script src='/website/js/sweetalert2.min.js'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
+
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
+  
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <link href='/website/css/webfonts.min.css' rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      CloudAware Technical Consultancy
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:flex-grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="/website/privacybeleid" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Privacy statement
+          
+        </a>
+        
+        <a href="/website/cookieverklaring" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Cookieverklaring
+          
+        </a>
+        
+        <a href="/website/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Home
+          
+        </a>
+        
+        <a href="https://github.com/gitaware" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          <i class='icon-github text-2xl'></i>
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; CloudAware Technical Consultancy 2025 All Rights Reserved.
+  </div>
+</footer>
+</body>
+
+</html>

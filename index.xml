@@ -6,7 +6,7 @@
     <description>Recent content on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gepubliceerde vulnerabilities</title>
@@ -28,6 +28,13 @@
       <pubDate>Sun, 01 Jan 2023 12:33:45 +1000</pubDate>
       <guid>https://trideeindhoven.github.io/website/support/</guid>
       <description>CloudAware uses Anydesk for remote support. Please click on the link below for the correct version:&#xA;Windows&#xA;Apple&#xA;Android</description>
+    </item>
+    <item>
+      <title>Twitter / X.com vulnerability disclosure</title>
+      <link>https://trideeindhoven.github.io/website/blog/twitter_securitytxt/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/twitter_securitytxt/</guid>
+      <description>&lt;p&gt;While the audience of my blob is increasingly becoming more and more international i have decided that from now on all articles will be written in English.&lt;br&gt;&#xA;Vulnerability disclosures are complicated&amp;hellip;or well&amp;hellip; they&amp;rsquo;re not. But somehow many companies, incl. multi-billion dollar ones,&#xA;seem to think they are. This is a story of the what, why, how, but also with a hint of a solution.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paxton&#39;s database</title>
