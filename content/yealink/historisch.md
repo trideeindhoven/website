@@ -77,26 +77,13 @@ hebben kunnen "swipen", waaronder
 Het klinkt bijzonder ernstig en het bevestigt het sterke vermoeden wat ik zelf al had. Hier wil ik natuurlijk meer van weten
 en ik neem contact op met Vtrust. In een online meeting spreek ik met de twee oprichters van het bedrijf uit een dorpje
 vlakbij Frankfurt. Zij zijn niet verbaasd dat ik ook tegen problemen in de beveiliging van Yealink ben gelopen. Ik vraag
-hen hoe ze eigenlijk weten dat ze aan die gevoelige gegevens kunnen komen. Trots vertellen ze mij dat ze een python script
+hen hoe ze eigenlijk weten dat ze aan die gevoelige gegevens kunnen komen. Ze vertellen mij dat ze een python script
 hebben gemaakt waarmee het mogelijk is om voor een telefoon de provisioning gegevens op te halen. Het maakt hierbij niet 
 uit waar ter wereld deze telefoon staat of dat deze telefoon ingeschakeld is. Ik ben uiteraard erg benieuwd en het tweetal
 besluit hun terminal te delen met mij. Op het scherm zie ik een Linux prompt waar een commando ingetikt wordt. Het 
 opgestarte programma vraagt om het MAC adres van een Yealink telefoon. Ik geef hen het MAC adres van mijn test-telefoon
 en na ongeveer 10 seconden staat de configuratie van mijn eigen telefoon op hun scherm. Het is duidelijk dat het "client
-certificaat" om verbinding te maken met de RPS dienst van Yealink on-the-fly aangemaakt wordt. Ik vraag hen hoe ze dat 
-doen, want hier zullen ze toch een root certificaat voor nodig hebben wat door de RPS server van Yealink vertrouwd wordt.  
-Even is het stil en dan geven ze toe dat ze dit certificaat hebben gevonden in de Android firmware van Yealink. Opnieuw 
-een gelekt certificaat dus.  
-
-We besluiten de meeting op een hartelijke manier en spreken af om in contact te blijven. De volgende week neem ik weer 
-contact met hen op met aanvullende vragen. Meteen aan het begin van het gesprek is de toon bijzonder defensief. Ze hebben 
-contact gehad met Yealink geven ze aan en ze hebben geen vertrouwen dat ik ter goede trouw handel. Ik geef aan dat ik
-daar best aan wil werken zodat dat vertrouwen er wel komt. Ik stel voor om hen in contact te brengen met FTM. Het lijkt 
-mij een goede stap om te laten zien dat ik geen kwaadaardige hacker ben die hun bevindingen wil misbruiken. Maar de 
-boodschap is duidelijk: er is geen vertrouwen en ze willen niet meer met mij praten.  
-Verbijsterd leg ik de telefoon neer en vraag me af wat hier nou eigenlijk besproken is met Yealink. Ik zal er nooit 
-achter komen en de communicatie met Vtrust wordt nooit meer hersteld. Dit is al de tweede keer dat een beveiligingsonderzoeker
-niet meer met mij wil praten.  
+certificaat" om verbinding te maken met de RPS dienst van Yealink on-the-fly aangemaakt wordt.  
 
 En dan krijg ik een 
 {{< a_blank "brief" "yealink/letter_to_commerce_re_yealink_report.pdf" >}}
