@@ -30,15 +30,17 @@ And now the IP section reads:
 {{< quote cloudemail >}}By submitting your report, you hereby consent that Yealink may use your findings to remedy any security in Yealink products.{{< /quote >}}
 And this is of course exactly what we want. We are still forging, but I am extremely happy that this has been changed.
 
+
 The legal complexity of being a security researcher starts to dawn on us. So how do we here at CloudAware do this? Why am I not in jail after hacking into tv studio entrance systems? The answer is not that simple, but I can give a few pointers we always apply to disclosures.
 - READ vulnerability disclosure procedures. If they look like an NDA and walk like one, it probably is one. Do not agree to these contracts. In your first communication be very clear about who you are, what you do and that you are unfortunately not able to comply with their procedure (but...there to help).
 - The Dutch Public Prosecution Service (OM) has written a {{< a_blank "Policy Paper" "https://www.om.nl/onderwerpen/cybercrime/documenten/richtlijnen/2020/december/14/om-beleidsbrief-ethisch-hacken">}} on what is considered "Ethical hacking".  
-
 This Policy Paper in short states three important factors when deciding not to prosecute a security researcher:
- * Was the action taken in the context of a substantial societal interest?
- * Was the action proportionate (in other words: did the hacker not go further than necessary to achieve their objective)?
- * Was the requirement of subsidiarity met (in other words: were there no less intrusive means to achieve the hacker's intended goal)?
-- Article 10 of the "Convention for the Protection of Human Rights and Fundamental Freedoms" (Rome, 1950) guarantees the right to freedom of expression, which includes the freedom to receive and impart information without interference by public authorities. This right can be relevant to ethical hacking when security researchers disclose vulnerabilities in the public interest.
+	 * Was the action taken in the context of a substantial societal interest?
+	 * Was the action proportionate (in other words: did the hacker not go further than necessary to achieve their objective)?
+	 * Was the requirement of subsidiarity met (in other words: were there no less intrusive means to achieve the hacker's intended goal)?
+- And last but not least article 8 of the European Convention on Human Rights
+
+{{< quote cloudemail >}}There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.{{< /quote >}}
 
 Ok ok. Now everybody has a headacke from all the laws and legal terms. How can you make sure the first contact with a security researcher is as smooth as possible? Luckily there is an {{< a_blank "RFC" "https://www.rfc-editor.org/rfc/rfc9116">}} for that: "RFC 9116: A File Format to Aid in Security Vulnerability Disclosure"  
 
