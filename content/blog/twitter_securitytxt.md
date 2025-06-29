@@ -58,8 +58,16 @@ Let's have a look at another company of Elon Musk: {{< a_blank "x.com" "https://
 Oh dear... Things are not getting any better here. The "Expires" field is in the past. Let's try to contact X to get that fixed!
 The contact field contains {{< a_blank "a (valid) url" "https://hackerone.com/twitter">}}.
 
-This means Twitter is using the HackerOne system to triage incoming security reports. Now let's assume I don't have an account, so I have to create an account at hackerone. Then I try to make a report for X saying there is an expired Expires field in the security.txt. Now this is a problem because you need a reputation on HackerOne in order to report to X, called a "Signal Requirement". BUT the good people at X have waived this requirement for new users so I am ALLOWED to help them with this report.
-So I send the report and I expect a message back: confirmed, will fix, etc. And indeed about a day later I get a message from "Analyst Trevor":
+This means Twitter is using the HackerOne system to triage incoming security reports. Now let's assume I don't have an account, so I have to create an account at hackerone. Then I try to make a report for X saying there is an expired Expires field in the security.txt. Now this is a problem because you need a reputation on HackerOne in order to report to X, called a "Signal Requirement".
+
+{{< quote cloudemail >}}Caution!
+
+X (Formerly Twitter) enforces a Signal Requirement that prevents you from submitting reports.
+
+However, you have been granted a few trial reports to improve your Signal. Please use this opportunity to submit only accurate, high quality reports. Failure to do so will result in your inability to submit additional reports.{{< /quote >}}
+
+So the good people at X ALLOW me to help them with this report.  
+So I send in the report and I expect a message back: confirmed, will fix, etc. And indeed about a day later I get a message from "Analyst Trevor":
 {{< quote cloudemail >}}Thank you for your submission. I hope you are well. Your report is currently being reviewed and the HackerOne triage team will get back to you once there is additional information to share.{{< /quote >}}  
 
 Great! Things are rolling. Steel is being forged even without the need of fire. But you understand this article would not have existed without some fire. About a minute later "Analyst Trevor" sends me another message:
@@ -69,8 +77,8 @@ Have a great day ahead!{{< /quote >}}
 
 Ok this is problematic. I don't need the bounty money for this find (because...let's be honoust it is not the biggest find), but 
 now my "Signal" is still zero on Hackerone and I have spend my trial report opportunity.  
-Ah well... At least X knows about this problem and it will be fixed with the quickest of quick. Well... My report was in february. 
-It is now june. So... I see two possible scenarios here:  
+Ah well... At least X knows about this problem and it will be fixed with the quickest of quick. Or is it?  
+My report was in february. It is now june. So... I see two possible scenarios here:  
 a) Security reports are not getting through to the correct people at X, or  
 b) X did not get another security report and they just fail to pay out bounties (up to 20.000 dollar for high severity finds)  
 
