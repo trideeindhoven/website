@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Die Hardcoded on CloudAware Technical Consultancy</title>
+    <link>https://trideeindhoven.github.io/website/tags/die-hardcoded/</link>
+    <description>Recent content in Die Hardcoded on CloudAware Technical Consultancy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://trideeindhoven.github.io/website/tags/die-hardcoded/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHY 2025 - Die Hardcoded: Unlocking Yealink&#39;s (weakest) secrets</title>
+      <link>https://trideeindhoven.github.io/website/yealink/yealink_why2025/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/yealink_why2025/</guid>
+      <description>&lt;p&gt;Beste lezer. Welkom bij deze serie publicaties over mijn onderzoek naar Yealink en Lydis waar ik een jaar aan gewerkt heb.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

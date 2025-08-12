@@ -6,8 +6,15 @@
     <description>Recent content in Yealink on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/tags/yealink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHY 2025 - Die Hardcoded: Unlocking Yealink&#39;s (weakest) secrets</title>
+      <link>https://trideeindhoven.github.io/website/yealink/yealink_why2025/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/yealink_why2025/</guid>
+      <description>&lt;p&gt;Beste lezer. Welkom bij deze serie publicaties over mijn onderzoek naar Yealink en Lydis waar ik een jaar aan gewerkt heb.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gesloten openheid</title>
       <link>https://trideeindhoven.github.io/website/yealink/gesloten_openheid/</link>
@@ -137,7 +144,7 @@
     <item>
       <title>Yealink</title>
       <link>https://trideeindhoven.github.io/website/yealink/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/yealink/</guid>
       <description></description>
     </item>

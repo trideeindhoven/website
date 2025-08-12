@@ -6,7 +6,7 @@
     <description>Recent content on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gepubliceerde vulnerabilities</title>
@@ -28,6 +28,13 @@
       <pubDate>Sun, 01 Jan 2023 12:33:45 +1000</pubDate>
       <guid>https://trideeindhoven.github.io/website/support/</guid>
       <description>CloudAware uses Anydesk for remote support. Please click on the link below for the correct version:&#xA;Windows&#xA;Apple&#xA;Android</description>
+    </item>
+    <item>
+      <title>WHY 2025 - Die Hardcoded: Unlocking Yealink&#39;s (weakest) secrets</title>
+      <link>https://trideeindhoven.github.io/website/yealink/yealink_why2025/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/yealink/yealink_why2025/</guid>
+      <description>&lt;p&gt;Beste lezer. Welkom bij deze serie publicaties over mijn onderzoek naar Yealink en Lydis waar ik een jaar aan gewerkt heb.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Twitter / X.com vulnerability disclosure</title>
