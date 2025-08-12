@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ARAS</title>
+      <link>https://trideeindhoven.github.io/website/tags/aras/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/tags/aras/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Die Hardcoded</title>
       <link>https://trideeindhoven.github.io/website/tags/die-hardcoded/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
@@ -16,10 +23,38 @@
       <description></description>
     </item>
     <item>
+      <title>Knock knock</title>
+      <link>https://trideeindhoven.github.io/website/tags/knock-knock/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/tags/knock-knock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paxton</title>
+      <link>https://trideeindhoven.github.io/website/tags/paxton/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/tags/paxton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phera</title>
+      <link>https://trideeindhoven.github.io/website/tags/phera/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/tags/phera/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>secrets</title>
       <link>https://trideeindhoven.github.io/website/tags/secrets/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/tags/secrets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>why2025</title>
+      <link>https://trideeindhoven.github.io/website/tags/why2025/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/tags/why2025/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +83,6 @@
       <link>https://trideeindhoven.github.io/website/tags/mssql/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://trideeindhoven.github.io/website/tags/mssql/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>paxton</title>
-      <link>https://trideeindhoven.github.io/website/tags/paxton/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/tags/paxton/</guid>
       <description></description>
     </item>
     <item>
