@@ -8,7 +8,7 @@ tags = [
 ]
 image = "img/blog/pexels-tima-miroshnichenko-6755134.jpg"
 +++
-At {{< a_blank "WHY2025" "https://why2025.org/" >}} i gave a talk about security of Yealink security together with {{< a_blank "Stefan Gloor" "https://stefan-gloor.ch/" >}
+At {{< a_blank "WHY2025" "https://why2025.org/" >}} i gave a talk about security of Yealink security together with {{< a_blank "Stefan Gloor" "https://stefan-gloor.ch/" >}}
 <!--more-->
 In a follow-up research after the last publication i teamed up with Stefan Gloor from Switzerland that resulted in the presentation below that received very positive reviews.
 
