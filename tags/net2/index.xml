@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>net2 on CloudAware Technical Consultancy</title>
+    <title>Net2 on CloudAware Technical Consultancy</title>
     <link>https://trideeindhoven.github.io/website/tags/net2/</link>
-    <description>Recent content in net2 on CloudAware Technical Consultancy</description>
+    <description>Recent content in Net2 on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/tags/net2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> WHY 2025 - Knock knock who&#39;s there 2.0, the subtle art of (physical) port knocking </title>
+      <link>https://trideeindhoven.github.io/website/blog/knock_why2025/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/knock_why2025/</guid>
+      <description>&lt;p&gt;At &#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://why2025.org/&#34;&gt;WHY2025&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;&#xA; i gave a talk about security of building entrance systems&lt;/p&gt;</description>
+    </item>
     <item>
       <title>De root van het probleem/certificaat</title>
       <link>https://trideeindhoven.github.io/website/blog/paxton_tls/</link>
