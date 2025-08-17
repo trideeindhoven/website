@@ -13,9 +13,9 @@ At {{< a_blank "WHY2025" "https://why2025.org/" >}} i gave a talk about security
 Building entrance systems are important and often the first layer of security for your facility. At {{< a_blank "MCH2022" "https://mch2022.org/" >}} i gave a talk "Knock Knock Who's There" and that received really positive reviews.  
 During the next few years i researched a few more of these systems and that led to the Knock Knock 2.0 presentation during WHY2025. You can see the video below and the full text below that.
 
-## De video
+## The video
 {{< youtube XTRzWv6Ty3o >}}
-## De tekst
+## The text
 
 So welcome to the talk Knock Knock Who's There version 2.0, the subtle art of physical port knocking. So it's not your ssh port you're protecting.  
 I will introduce you to Jeroen who is now in a company which is now 23 years old and he will have the stage now.
