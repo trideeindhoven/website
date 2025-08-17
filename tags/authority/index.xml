@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>why2025 on CloudAware Technical Consultancy</title>
-    <link>https://trideeindhoven.github.io/website/tags/why2025/</link>
-    <description>Recent content in why2025 on CloudAware Technical Consultancy</description>
+    <title>authority on CloudAware Technical Consultancy</title>
+    <link>https://trideeindhoven.github.io/website/tags/authority/</link>
+    <description>Recent content in authority on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://trideeindhoven.github.io/website/tags/why2025/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title> WHY 2025 - Knock knock who&#39;s there 2.0, the subtle art of (physical) port knocking </title>
-      <link>https://trideeindhoven.github.io/website/blog/knock_why2025/</link>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://trideeindhoven.github.io/website/blog/knock_why2025/</guid>
-      <description>&lt;p&gt;At &#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://why2025.org/&#34;&gt;WHY2025&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;&#xA; i gave a talk about security of building entrance systems&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://trideeindhoven.github.io/website/tags/authority/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WHY 2025 - Die Hardcoded: Unlocking Yealink&#39;s (weakest) secrets</title>
       <link>https://trideeindhoven.github.io/website/blog/yealink_why2025/</link>
