@@ -39,4 +39,15 @@ Oh Sophie what have you unleashed. As I am rather happy with the city I live in 
 As it stands now we, defence lawyers and judges can only have a blind trust in digital forensic data. I have written about this challenge in digital forensic evidence before in [articles]({{< ref "paxton_tls" >}}) [about]({{< ref "phera" >}}) [building]({{< ref "mch2022_knock" >}}) [entrance]({{< ref "paxton_licentie" >}}) [systems]({{< ref "knock_why2025" >}}).  
 
 But the current developments seem to suggest that digital forensic data is going to be used in many more situations. It is extremely complicated for someone not in law enforcement to check and/or audit this data. This enforced blind trust can potentially lead to a miscarriage of justice with dramatic consequences.  
-If we could actually audit forensics that would lead to evidence “beyond reasonable doubt”. And that can only be good for society as a whole.
+If we could actually audit forensics that would lead to evidence “beyond reasonable doubt”. And that can only be good for society as a whole.  
+
+So how theoretical is this scenario? Not theoretical at all. So i made a Proof Of Concept with two phone numbers. One phonenumber in "Driebergen": the location where the Dutch {{< a_blank "phone interception systems" "https://www.volkskrant.nl/nieuws-achtergrond/achterdeur-in-het-nationale-aftapsysteem-van-de-politie-israeli-s-konden-meeluisteren~b6829c83/" >}} are located. The other phone number is location in Burum. Burum is the location of "Big Ear". Big ear is the satelite interception system by the {{< a_blank "Joint Sigint Cyber Unit" "https://en.wikipedia.org/wiki/Joint_Sigint_Cyber_Unit" }}.  
+* +31 (0)594 726 008 (Burum)
+* +31 (0)30 200 3634 (Driebergen)  
+
+Feel free to call the numbers and please note the following:  
+* The message is coded, so you have no way to know what is being said
+* Your phone will show that no connection is made (no call timer in seconds starts)
+* After the call your carrier will tell you the call failed because the number...does not exist  
+
+Till next time!
