@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RFC3959 on CloudAware Technical Consultancy</title>
+    <link>https://trideeindhoven.github.io/website/tags/rfc3959/</link>
+    <description>Recent content in RFC3959 on CloudAware Technical Consultancy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://trideeindhoven.github.io/website/tags/rfc3959/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> WHY 2025 - Knock knock who&#39;s there 2.0, the subtle art of (physical) port knocking </title>
+      <link>https://trideeindhoven.github.io/website/blog/sip_early_media/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/sip_early_media/</guid>
+      <description>&lt;p&gt;“You have to dial an access code to pick up your messages.” Sophie Neveu says to professor Langdon. After a confused look he dials the three digit access code written on the paper Mrs. Neveu gave him. The secret message he hears changes everything&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
