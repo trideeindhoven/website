@@ -1,6 +1,6 @@
 +++
 author = "Jeroen Hermans"
-title = " WHY 2025 - Knock knock who's there 2.0, the subtle art of (physical) port knocking "
+title = "The detective, the professor and early media RTP"
 date = "2025-08-30"
 description = "SIP early media"
 tags = [
