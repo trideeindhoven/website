@@ -18,7 +18,7 @@
 
 
 
-<link rel="stylesheet" href="/website/css/style.min.77906017340b15ad69f27f2cd27f0833d0e78a75185c356924d7a17bf623e6fd.css" />
+<link rel="stylesheet" href="/website/css/style.min.3dd20ce7989037bc6a51ce6520a01f6a15094af51d748006ebb69b2fcf8521f7.css" />
 
 
 <link rel="stylesheet" href='/website/css/swiper-bundle.min.css'>
@@ -44,7 +44,8 @@
 </script>
 
 
-<meta name="description" content="" />
+
+    <meta name="description" content="" />
     <meta property="og:title" content="CloudAware Technical Consultancy" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://cloudaware.eu" />
@@ -53,44 +54,46 @@
     <meta name="twitter:card" content="" />
     <meta name="twitter:site" content="" />
     <meta name="twitter:creator" content="" />
+
 </head>
 
-<body><header>
-    <div id="overlay">
-        <ul class="text-center list-none text-white text-3xl">
+<body class="flex flex-col min-h-screen">
+  <main class="grow"><header>
+    <div id="overlay" class="fixed inset-0 bg-black/90 backdrop-blur-md flex justify-center items-center z-50 transition-opacity duration-300 opacity-0 pointer-events-none" aria-hidden="true">
+        <ul class="text-center list-none text-white space-y-6">
             
-            <li class="p-2">
-                <a href="/website/blog/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/blog/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Blog</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/support">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/support" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Support</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/about/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/about/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Over</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/spreker/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/spreker/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Spreker</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/contact/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/contact/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Contact</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/cve/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/cve/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>CVE</span>
                 </a>
             </li>
@@ -98,7 +101,7 @@
         </ul>
     </div>
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
-        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+        <div class="flex items-center shrink-0 text-xl text-grey-900 mr-6">
             <a href="https://trideeindhoven.github.io/website/"><img alt="CloudAware Logo"
                     class="h-20 mr-3" src="/website/img/logo/cloudaware.png"></a>
         </div>
@@ -109,8 +112,8 @@
                 <span class="bottom"></span>
             </div>
         </div>
-        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
-            <div class="text-lg lg:flex-grow">
+        <div class="hidden w-full grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:grow">
             </div>
             <div class="text-lg">
                 
@@ -147,9 +150,13 @@
             </div>
         </div>
     </nav>
-</header><div class="scroll-top rounded-full">
-        <span class="icon-keyboard_arrow_up text-2xl"></span>
-    </div><div class="swiper-container">
+</header>
+<div class="scroll-top rounded-full flex items-center justify-center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-up" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708z"/>
+      </svg>
+    </div>
+<div class="swiper-container">
     <div class="swiper-wrapper">
         
         <div class="swiper-slide">
@@ -189,13 +196,13 @@
             
             <a href="about">
                 <div
-                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
+                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 h-full hover:-translate-y-1 hover:shadow-lg">
                     <div class="p-1">
                         
-                        <span class="icon-desktop_windows text-5xl"></span>
+                        <span class="icon-desktop_windows text-5xl mb-2 block"></span>
                         
-                        <h2 class="text-2xl">Over</h2>
-                        <p class="sans">CloudAware staat u bij voor al uw technische vraagstukken.</p>
+                        <h2 class="text-2xl font-semibold mb-2">Over</h2>
+                        <p class="font-sans">CloudAware staat u bij voor al uw technische vraagstukken.</p>
                     </div>
                 </div>
                 
@@ -203,13 +210,13 @@
             
             <a href="support">
                 <div
-                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
+                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 h-full hover:-translate-y-1 hover:shadow-lg">
                     <div class="p-1">
                         
-                        <span class="icon-lightbulb_outline text-5xl"></span>
+                        <span class="icon-lightbulb_outline text-5xl mb-2 block"></span>
                         
-                        <h2 class="text-2xl">Support</h2>
-                        <p class="sans">Voor ondersteuning kijken wij graag even met u mee.</p>
+                        <h2 class="text-2xl font-semibold mb-2">Support</h2>
+                        <p class="font-sans">Voor ondersteuning kijken wij graag even met u mee.</p>
                     </div>
                 </div>
                 
@@ -217,13 +224,13 @@
             
             <a href="https://github.com/gitaware">
                 <div
-                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
+                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 h-full hover:-translate-y-1 hover:shadow-lg">
                     <div class="p-1">
                         
-                        <span class="icon-github text-5xl"></span>
+                        <span class="icon-github text-5xl mb-2 block"></span>
                         
-                        <h2 class="text-2xl">Github</h2>
-                        <p class="sans">Uiteraard zijn wij ook op GitHub te vinden!</p>
+                        <h2 class="text-2xl font-semibold mb-2">Github</h2>
+                        <p class="font-sans">Uiteraard zijn wij ook op GitHub te vinden!</p>
                     </div>
                 </div>
                 
@@ -232,13 +239,16 @@
         </div>
     </div>
 </div>
-<footer class="bg-tlgray-100">
+
+
+
+  </main><footer class="bg-tlgray-100">
   
   <script>
     function toggleNav() {
-      var hamburger = document.getElementById("hamburgerbtn");
-      var overlay = document.getElementById("overlay");
-      var body = document.body;
+      const hamburger = document.getElementById("hamburgerbtn");
+      const overlay = document.getElementById("overlay");
+      const body = document.body;
 
       hamburger.addEventListener("click", function () {
         overlay.classList.toggle("open");
@@ -259,8 +269,8 @@
     <div class="items-center text-xl text-grey-900 mr-6">
       CloudAware Technical Consultancy
     </div>
-    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
-      <div class="text-lg lg:flex-grow">
+    <div class="w-full block grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:grow">
       </div>
       <div class="flex flex-row items-center text-lg">
         
@@ -291,28 +301,23 @@
       </div>
     </div>
   </div>
-  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
-    &copy; CloudAware Technical Consultancy 2025 All Rights Reserved.
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-base">
+    &copy; CloudAware Technical Consultancy 2026 All Rights Reserved.
   </div>
 </footer>
-<script src="/website/js/swiper-bundle.min.js"></script>
+
+    <script src="/js/splide.min.js"></script>
     <script>
-        var mySwiper = new Swiper(".swiper-container", {
-            direction: "horizontal",
-            loop: true,
-            speed: 550,
-            autoplay: {
-                delay: 6000,
-            },
-            pagination: {
-                el: ".swiper-pagination",
-            },
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
-        });
+        document.addEventListener( 'DOMContentLoaded', function() {
+            new Splide( '.splide', {
+                type   : 'loop',
+                autoplay: true,
+                interval: 6000,
+                speed: 550,
+            } ).mount();
+        } );
     </script>
+
 </body>
 
 </html>

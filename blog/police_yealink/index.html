@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+
+
+<meta charset="utf-8">
+<title>CloudAware Technical Consultancy | Dutch National Police using Yealink</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href='/website/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='/website/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='/website/favicon-16x16.png'>
+<link rel="manifest" href='/website/site.webmanifest'>
+
+<link href='/website/css/fa6.min.css' rel="stylesheet" type="text/css">
+
+
+
+
+<link rel="stylesheet" href="/website/css/style.min.3dd20ce7989037bc6a51ce6520a01f6a15094af51d748006ebb69b2fcf8521f7.css" />
+
+
+<link href='/website/css/style.min.css' rel="stylesheet" type="text/css">
+<link rel="stylesheet" href='/website/css/custom.css'>
+<script defer type="text/javascript" src="/website/js/privacy-manager/config.js"></script>
+<script defer type="text/javascript" src="/website/js/privacy-manager/klaro.js"></script>
+
+<script>
+  var _paq = window._paq = window._paq || [];
+   
+  _paq.push(['requireCookieConsent']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://app.cloudaware.eu/cloudtr/";
+    _paq.push(['setTrackerUrl', u+'cloudtr']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'cloudtr.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
+
+<meta property="og:title" content="CloudAware Technical Consultancy | Dutch National Police using Yealink" />
+
+
+
+
+<meta name="description" content="CloudAware">
+<meta property="og:title" content=" | " />
+<meta property="og:site_name" content="CloudAware Technical Consultancy">
+<meta property="og:description" content="CloudAware">
+<meta property="og:url" content="https://trideeindhoven.github.io/website/blog/police_yealink/">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tech_chiba">
+
+<link rel="canonical" href="https://trideeindhoven.github.io/website/blog/police_yealink/">
+
+<meta name="twitter:description" content="CloudAware">
+<meta property="article:published_time" content="2026-02-16T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2026-02-16T00:00:00&#43;00:00">
+
+
+
+
+
+    
+<meta property="og:image" content="https://trideeindhoven.github.io/website/img/blog/Flag_of_the_Dutch_National_Police.png">
+    
+
+
+<meta name="twitter:title" content="Dutch National Police using Yealink">
+<link rel="preload" href='/css/sweetalert2.min.css' as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+
+</head>
+
+<body class="flex flex-col min-h-screen">
+  <main class="grow"><header>
+    <div id="overlay" class="fixed inset-0 bg-black/90 backdrop-blur-md flex justify-center items-center z-50 transition-opacity duration-300 opacity-0 pointer-events-none" aria-hidden="true">
+        <ul class="text-center list-none text-white space-y-6">
+            
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/blog/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
+                    <span>Blog</span>
+                </a>
+            </li>
+            
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/support" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
+                    <span>Support</span>
+                </a>
+            </li>
+            
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/about/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
+                    <span>Over</span>
+                </a>
+            </li>
+            
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/spreker/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
+                    <span>Spreker</span>
+                </a>
+            </li>
+            
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/contact/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
+                    <span>Contact</span>
+                </a>
+            </li>
+            
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/cve/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
+                    <span>CVE</span>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+        <div class="flex items-center shrink-0 text-xl text-grey-900 mr-6">
+            <a href="https://trideeindhoven.github.io/website/"><img alt="CloudAware Logo"
+                    class="h-20 mr-3" src="/website/img/logo/cloudaware.png"></a>
+        </div>
+        <div class="block lg:hidden">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+        <div class="hidden w-full grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:grow">
+            </div>
+            <div class="text-lg">
+                
+                <a href="/website/blog/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Blog
+                </a>
+                
+                <a href="/website/support"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Support
+                </a>
+                
+                <a href="/website/about/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Over
+                </a>
+                
+                <a href="/website/spreker/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Spreker
+                </a>
+                
+                <a href="/website/contact/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    Contact
+                </a>
+                
+                <a href="/website/cve/"
+                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    CVE
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="scroll-top rounded-full flex items-center justify-center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-up" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708z"/>
+      </svg>
+    </div>
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="title text-5xl font-bold mb-3">Dutch National Police using Yealink</h1>
+        <section class="mb-4 text-lg">
+            <h4 id="date" class="flex flex-row items-center"><span class="icon-access_time text-2xl mr-2"></span>
+                2026/02/16 </h4>
+            
+            <h4 class="flex flex-row items-center"><span class="icon-person text-2xl mr-2"></span>Jeroen Hermans
+            </h4>
+            
+            
+        </section>
+        Translations of this article:<br />
+
+        <a href="https://cloudaware-eu.translate.goog/website/blog/police_yealink/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/united-kingdom-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+        <a href="https://cloudaware-eu.translate.goog/website/blog/police_yealink/?_x_tr_sl=nl&_x_tr_tl=de&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/germany-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+        <a href="https://cloudaware-eu.translate.goog/website/blog/police_yealink/?_x_tr_sl=nl&_x_tr_tl=fr&_x_tr_hl=nl&_x_tr_pto=wapp"><img alt="EN" src="/website/img/uxwing/france-flag-icon.svg" style="margin-top:5px;margin-bottom:5px;width:50px;display: inline;"></a>
+
+        
+        <img class="my-4" src="https://trideeindhoven.github.io/website/img/blog/Flag_of_the_Dutch_National_Police.png">
+        
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p><em>The Marconi man onboard the unsinkable ship Titanic looks up when the paper ribbon chatters to life. It is another iceberg report with coordinates right on the ship’s intended line. He pencils the position on a chart blotter, tears the strip, and quickly heads to the bridge.</em></p>
+<p><em>When he delivers the message on the bridge, the captain gives the report a glance and nods. &ldquo;Noted&rdquo; comes the answer. &ldquo;Maintain speed. Maintain course.&rdquo; Aware of the risk that just has been taken the operator returns to the Marconi room.</em></p>
+<p><em>The sea is glassy-black and deceptively empty when the sound of the bell in the crow&rsquo;s nest sounds. The captain orders a sharp turn of the vast vessel, but his eyes betray that he already knows. His gaze lock onto the visible part of the iceberg, knowing the invisible part will be the most dangerous. Impact is imminent now and all potential mitigation is too late now.</em></p>
+<p>The Titanic was considered to be unsinkable. The vessel did not sink because of a lack of knowledge. It was the lack of response. This is more than often also the case in cybersecurity. Warnings are, for a variety of reasons, ignored and when the invisible part hits the proverbial hull all possible mitigations are too late.</p>
+<p>In the past few years i have written many articles in The Netherlands and abroad about Yealink. I have proven vulnerabilities, made Proof of Concept attacks and warned about severe liability issues when using these devices. But what if you are aware Yealink devices are vulnerable? What if you know you are using EOL devices that cause even bigger risks? What if you configure them in such a way that sensitive data travels through these devices every single day? Will you be the captain to adjust speed and course in time, or will you be the leader that looks into the headlights like a deer without taking appropriate action.</p>
+<p>Cue this week when the &ldquo;RTC Security Newsletter&rdquo; <a href="https://www.enablesecurity.com/newsletter/2026-01-rtcsec-news/">https://www.enablesecurity.com/newsletter/2026-01-rtcsec-news/</a> by Sandro Gauci of Enable Security was published. In this newsletter the research of Stefan Gloor (gloor.ch) and myself are mentioned. The vulnerabilities we have found were downplayed in Yealink&rsquo; s own advisories. Now months later Yealink has assigned a CVE (<a href="https://www.yealink.com/en/trust-center/security-bulletins/yealink-unauthorized-access-to-rps-vulnerability">https://www.yealink.com/en/trust-center/security-bulletins/yealink-unauthorized-access-to-rps-vulnerability</a>) for independant review and it has received a cvss severity &ldquo;high&rdquo; (CVE-2025-68644).<br>
+The advisory Yealink made also includes a &ldquo;Web Application Penetration Test&rdquo; by NetSPI. The findings includes a list of OWASP Top 10 vulnerabilites. In 2024 i contacted OWASP director of projects Starr Brown. I asked him if OWASP Top 10 even is a pentest methodology. His response was as clear as damning: &ldquo;Hi Jeroen - You are correct. OWASP Top 10 is not a pentest methodology.&rdquo;. Please keep in mind: this is the director of the organisation that made this Top 10.<br>
+Using Yealink devices in large organisations has become a huge liability for boardrooms under the NIS2 directive, or in the words of Sandro Gauci: &ldquo;It took over six months from initial disclosure to a formal CVE acknowledgement. The timeline is worth noting for anyone dealing with Yealink vulnerability disclosures in the future.&rdquo;</p>
+<p>During the very first stages of my research in 2023 i was contacted about the fact that the Dutch police was using Yealink devices. In the next few years i received multiple reports from several sources that the Dutch Police was still using Yealink devices in their network. In some cases even EOL devices. In 2024 i even received information from a source from within the Dutch Police. I was informed by this source that the AVIM department, dealing with and identifying aliens was using T27 +
+
+<a target="_blank" href="https://www.yealink.com/en/product-detail/accessories-exp20">EXP20</a> <i class="fa fa-external-link"></i>
+
+
+<a target="_blank" href="https://web.archive.org/web/20251216181321/https://www.yealink.com/en/product-detail/accessories-exp20">mirror</a> <i class="fa fa-external-link"></i>
+
+expansion modules. Both were already EOL for years. The EOL Yealink devices were also used during interrogations of aliens using interpreters.</p>
+<img src="https://trideeindhoven.github.io/website/img/blog/AVIM_Yealink.png" alt="Yealink phone at Dutch Police"  >
+
+<p>As part of the vulnerability disclosure procedure Stefan and myself contacted the NCSC-NL as per instructions in the security.txt of the Dutch Police. Unfortunately recently i was made aware that it seems that the Dutch Police have taken the same approach the captain of the Titanic has taken: hope the iceberg will not be on it&rsquo;s course and hope the invisible part of the iceberg will not be as impactful.<br>
+Let me be clear: i do not believe Yealink is going to spy on the Dutch Police. But their security is so poorly implemented that the risk of being compromised by a third party is not improbable and should be mitigated as soon as possible.</p>
+<img src="https://trideeindhoven.github.io/website/img/blog/AVIM_verhoor.png" alt="Interrogation at AVIM using Yealink phone"  >
+
+<p>In the Netherlands, the NIS2 directive is being transposed through the Cyber Resilience Act’s sister legislation (the Dutch Cybersecurity Act/Cyberbeveiligingswet) and will apply to “essential” and “important” entities across designated sectors (e.g., energy, digital infrastructure, health) as well as to the public administration sector (central government ministries and their agencies, provinces, municipalities, and water authorities). There is, however, a clear and convenient exception: public administration entities whose activities are predominantly in national or public security, defence, or law enforcement are out of scope (NIS2 Article 2(7) ). This includes the Police. In short, the Police are not legally required to comply with NIS2/CBW, although the Dutch government expects excluded bodies to achieve a comparable level of cyber resilience under other frameworks (such as the BIO) and sectoral rules.</p>
+<p>The BIO is the baseline security framework that all Dutch government layers must apply to and is built on ISO/IEC 27001/27002 with a risk‑based ISMS at its core. That means known vulnerabilities are treated as identified risks that require timely risk treatment and proportional controls. Ignoring credible vulnerability intelligence (for example on EOL devices conflicts with the BIO’s requirement to select and implement measures based on actual risk, and to demonstrate control effectiveness during annual accountability. Even if a residual‑risk acceptance is considered, under the BIO it must be explicit, justified, time‑bound, and revisited. Something hard to defend when viable mitigations (segmentation, replacement, compensating controls) exist.<br>
+In short: “we knew but didn’t act” is a process failure against the BIO’s risk‑driven approach. An approach we already have seen the captain of the Titanic  fail at.</p>
+<p>BIO2 (the updated baseline now used as “verplichtende zelfregulering” pending the Cyberbeveiligingswet) strengthens this position by aligning more tightly to modern ISO controls and NIS2‑driven expectations. That makes prompt handling of vulnerability intelligence (control 5.7), not just incident response, part of baseline hygiene, with leadership expected to oversee and evidence these choices. For entities like the police that follow BIO rather than NIS2 directly, failure to act on known vulnerabilities (control 8.8) still creates findings in BIO assurance (e.g., ENSIA/ISMS audits) and exposes the organization to avoidable operational and reputational risk.</p>
+<p>In 2025 another source contacts me. The source tells me that an interrogation was performed where the report was typed on a computer that was directly connected to a Yealink phone. Even if VLAN tagging is used this is a complete failure of network segmentation. Something i was told the IT department of the Police was correctly implementing. This seems like an enormous risk to accept given the fact that previous research my Stefan Gloor has shown that random, unsigned software could be installed on these phones.</p>
+<img src="https://trideeindhoven.github.io/website/img/blog/i1675119860907-image.png" alt="Network daisy chain on Yealink phones"  >
+
+<p>And early this year i received another report of Yealink devices being used. In this case the Yealink devices were also being used in sensitive areas. PCs had been daisy chained to the phone so that all sensitive data was directly travelling through these devices.</p>
+<p>If assets are end‑of‑life, you also fail lifecycle, supplier, and configuration controls because you cannot maintain a supported security state; any risk acceptance must be explicit, temporary, and backed by strong compensating controls, otherwise auditors will record a BIO finding… in the best possible scenario. In the case of accepting risks vectors it seems logical to take industry-standard measures to reduce a possible attack vector. Not using network segmentation seems like a risky move and complicated to be compliant with ISO27001 and/or BIO(2).</p>
+<p>We really need to do better. Multiple security researchers have now shown severe vulnerabilities. Vulnerabilities have been downplayed by the manufacturer which creates another level of vulnerability. If you insist on using devices that are grossly cheaper than the competition, please…take a little bit of that saved money to make public data safer.</p>
+<p><em>The captains eyes are locked onto the white object nearing the bow of the ship. His hands clench the steering wheel in a last effort to find comfort. His mind wanders off to the message of the Marconi man. If only… he could have… he should have…</em></p>
+
+<blockquote class="cloudemail">
+<2026-02-16>The Dutch Police have been asked to comment on questions regarding this article. Although the questions should have been rather straight forward, so far no response from the Dutch Police has been received. If that happens, this postscript will be updated.
+</blockquote></div>
+        <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
+            <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpolice_yealink%2f&text=Dutch%20National%20Police%20using%20Yealink" target="_blank"
+                title="Tweet" class="share-button twitter">
+                <div class="text-white text-center">
+                    <span class="icon-twitter text-lg mr-2"></span>Twitter
+                </div>
+            </a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2ftrideeindhoven.github.io%2fwebsite%2fblog%2fpolice_yealink%2f&t=Dutch%20National%20Police%20using%20Yealink" target="_blank"
+                title="Facebook" class="share-button facebook">
+                <div class="text-white text-center">
+                    <span class="icon-facebook text-lg mr-2"></span>Facebook
+                </div>
+            </a>
+            <a href="javascript:OnClickURL();" class="share-button url" title="Copy to Clipboard"
+                data-clipboard-text="https://trideeindhoven.github.io/website/blog/police_yealink/" id="url">
+                <div class="text-white text-center">
+                    <span class="icon-link text-lg mr-2"></span>Copy
+                </div>
+            </a>
+        </div>
+        <hr class="py-4">
+        <aside id="meta">
+            <div class="grid grid-cols-2">
+                <div class="col-span-1">
+                    
+                    <a class="previous lg:text-2xl" href="https://trideeindhoven.github.io/website/blog/sip_early_media/">
+                        <div
+                            class="transition-colors duration-300 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                            <span class="icon-keyboard_arrow_left"></span> The detective, the professor and early media RTP
+                        </div>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </aside>
+    </div>
+</div>
+
+  </main><footer class="bg-tlgray-100">
+  
+  <script>
+    function OnClickURL() {
+      const url = document.getElementById("url").dataset.clipboardText;
+      navigator.clipboard.writeText(url).then(function() {
+        alert('Copied the URL and title.');
+      }).catch(function(error) {
+        console.error('Copy failed', error);
+      });
+    }
+  </script>
+  
+  <script>
+    function toggleNav() {
+      const hamburger = document.getElementById("hamburgerbtn");
+      const overlay = document.getElementById("overlay");
+      const body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  
+  <link href='/website/css/webfonts.min.css' rel="stylesheet" />
+  
+  <div class="flex items-center justify-between flex-wrap bg-gray-800 p-8 text-white">
+    <div class="items-center text-xl text-grey-900 mr-6">
+      CloudAware Technical Consultancy
+    </div>
+    <div class="w-full block grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:grow">
+      </div>
+      <div class="flex flex-row items-center text-lg">
+        
+        <a href="/website/privacybeleid" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Privacy statement
+          
+        </a>
+        
+        <a href="/website/cookieverklaring" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Cookieverklaring
+          
+        </a>
+        
+        <a href="/website/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          Home
+          
+        </a>
+        
+        <a href="https://github.com/gitaware" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+          
+          <i class='icon-github text-2xl'></i>
+          
+        </a>
+        
+      </div>
+    </div>
+  </div>
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-base">
+    &copy; CloudAware Technical Consultancy 2026 All Rights Reserved.
+  </div>
+</footer>
+
+</body>
+
+</html>

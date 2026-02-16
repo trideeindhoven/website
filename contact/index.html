@@ -17,7 +17,7 @@
 
 
 
-<link rel="stylesheet" href="/website/css/style.min.77906017340b15ad69f27f2cd27f0833d0e78a75185c356924d7a17bf623e6fd.css" />
+<link rel="stylesheet" href="/website/css/style.min.3dd20ce7989037bc6a51ce6520a01f6a15094af51d748006ebb69b2fcf8521f7.css" />
 
 
 <link href='/website/css/style.min.css' rel="stylesheet" type="text/css">
@@ -76,42 +76,42 @@ If you are a member of the press, please contact us at press@cloudaware.eu" />
 </head>
 
 <body class="flex flex-col min-h-screen">
-  <main class="flex-grow"><header>
-    <div id="overlay">
-        <ul class="text-center list-none text-white text-3xl">
+  <main class="grow"><header>
+    <div id="overlay" class="fixed inset-0 bg-black/90 backdrop-blur-md flex justify-center items-center z-50 transition-opacity duration-300 opacity-0 pointer-events-none" aria-hidden="true">
+        <ul class="text-center list-none text-white space-y-6">
             
-            <li class="p-2">
-                <a href="/website/blog/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/blog/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Blog</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/support">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/support" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Support</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/about/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/about/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Over</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/spreker/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/spreker/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Spreker</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/contact/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/contact/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Contact</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/cve/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/cve/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>CVE</span>
                 </a>
             </li>
@@ -119,7 +119,7 @@ If you are a member of the press, please contact us at press@cloudaware.eu" />
         </ul>
     </div>
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
-        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+        <div class="flex items-center shrink-0 text-xl text-grey-900 mr-6">
             <a href="https://trideeindhoven.github.io/website/"><img alt="CloudAware Logo"
                     class="h-20 mr-3" src="/website/img/logo/cloudaware.png"></a>
         </div>
@@ -130,8 +130,8 @@ If you are a member of the press, please contact us at press@cloudaware.eu" />
                 <span class="bottom"></span>
             </div>
         </div>
-        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
-            <div class="text-lg lg:flex-grow">
+        <div class="hidden w-full grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:grow">
             </div>
             <div class="text-lg">
                 
@@ -168,13 +168,24 @@ If you are a member of the press, please contact us at press@cloudaware.eu" />
             </div>
         </div>
     </nav>
-</header><div class="scroll-top rounded-full">
-      <span class="icon-keyboard_arrow_up text-2xl"></span>
+</header>
+<div class="scroll-top rounded-full flex items-center justify-center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-up" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708z"/>
+      </svg>
     </div>
-<div class="mx-auto my-10 max-w-6xl">
-  <div class="mx-3 col-span-3 lg:col-span-2 px-2">
-    <h1 class="title text-5xl mb-4">Contact</h1>
-    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>CloudAware<br>
+<div class="mx-auto my-10 max-w-4xl px-4 sm:px-6 lg:px-8">
+  <article class="bg-white p-6 md:p-10 border border-tlgray-200">
+    <header class="mb-8 text-center md:text-left">
+        
+        <h1 class="text-3xl md:text-5xl font-extrabold text-tlgray-800 mb-6 leading-tight">Contact</h1>
+        <div class="flex flex-wrap items-center justify-center md:justify-start text-sm text-tlgray-500 space-x-4 mb-6 border-b border-tlgray-200 pb-6">
+            
+            
+        </div>
+    </header>
+    <div class="content prose prose-lg max-w-none text-tlgray-700 leading-relaxed mx-auto">
+        <p>CloudAware<br>
 Bezuidenhoutseweg 98<br>
 NL-2594AZ The Hague<br>
 
@@ -203,35 +214,29 @@ NL-2594AZ The Hague<br>
 </i>
  <a href="mailto:info@cloudaware.eu">info@cloudaware.eu</a></p>
 <p>If you are a member of the press, please contact us at <a href="mailto:press@cloudaware.eu">press@cloudaware.eu</a></p>
-</div>
-  </div>
+
+    </div>
+  </article>
 </div>
 
   </main><footer class="bg-tlgray-100">
   
-  <script src='/website/js/clipboard.min.js'></script>
-  <script src='/website/js/highlight.min.js'></script>
-  <script src='/website/js/highlightjs-line-numbers.min.js'></script>
-  <script src='/website/js/sweetalert2.min.js'></script>
   <script>
-    hljs.initHighlightingOnLoad();
-    hljs.initLineNumbersOnLoad();
-    new ClipboardJS('.url');
-
     function OnClickURL() {
-      Swal.fire({
-        icon: 'success',
-        title: 'Copied!',
-        text: 'Copied the URL and title.'
-      })
+      const url = document.getElementById("url").dataset.clipboardText;
+      navigator.clipboard.writeText(url).then(function() {
+        alert('Copied the URL and title.');
+      }).catch(function(error) {
+        console.error('Copy failed', error);
+      });
     }
   </script>
   
   <script>
     function toggleNav() {
-      var hamburger = document.getElementById("hamburgerbtn");
-      var overlay = document.getElementById("overlay");
-      var body = document.body;
+      const hamburger = document.getElementById("hamburgerbtn");
+      const overlay = document.getElementById("overlay");
+      const body = document.body;
 
       hamburger.addEventListener("click", function () {
         overlay.classList.toggle("open");
@@ -252,8 +257,8 @@ NL-2594AZ The Hague<br>
     <div class="items-center text-xl text-grey-900 mr-6">
       CloudAware Technical Consultancy
     </div>
-    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
-      <div class="text-lg lg:flex-grow">
+    <div class="w-full block grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:grow">
       </div>
       <div class="flex flex-row items-center text-lg">
         
@@ -284,10 +289,11 @@ NL-2594AZ The Hague<br>
       </div>
     </div>
   </div>
-  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
-    &copy; CloudAware Technical Consultancy 2025 All Rights Reserved.
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-base">
+    &copy; CloudAware Technical Consultancy 2026 All Rights Reserved.
   </div>
 </footer>
+
 </body>
 
 </html>

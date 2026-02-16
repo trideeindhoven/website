@@ -17,7 +17,7 @@
 
 
 
-<link rel="stylesheet" href="/website/css/style.min.77906017340b15ad69f27f2cd27f0833d0e78a75185c356924d7a17bf623e6fd.css" />
+<link rel="stylesheet" href="/website/css/style.min.3dd20ce7989037bc6a51ce6520a01f6a15094af51d748006ebb69b2fcf8521f7.css" />
 
 
 <link href='/website/css/style.min.css' rel="stylesheet" type="text/css">
@@ -59,42 +59,42 @@
 </head>
 
 <body class="flex flex-col min-h-screen">
-  <main class="flex-grow"><header>
-    <div id="overlay">
-        <ul class="text-center list-none text-white text-3xl">
+  <main class="grow"><header>
+    <div id="overlay" class="fixed inset-0 bg-black/90 backdrop-blur-md flex justify-center items-center z-50 transition-opacity duration-300 opacity-0 pointer-events-none" aria-hidden="true">
+        <ul class="text-center list-none text-white space-y-6">
             
-            <li class="p-2">
-                <a href="/website/blog/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/blog/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Blog</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/support">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/support" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Support</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/about/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/about/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Over</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/spreker/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/spreker/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Spreker</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/contact/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/contact/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>Contact</span>
                 </a>
             </li>
             
-            <li class="p-2">
-                <a href="/website/cve/">
+            <li class="p-2 transform transition-transform hover:scale-110">
+                <a href="/website/cve/" class="text-4xl font-semibold hover:text-gray-300 transition-colors">
                     <span>CVE</span>
                 </a>
             </li>
@@ -102,7 +102,7 @@
         </ul>
     </div>
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
-        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+        <div class="flex items-center shrink-0 text-xl text-grey-900 mr-6">
             <a href="https://trideeindhoven.github.io/website/"><img alt="CloudAware Logo"
                     class="h-20 mr-3" src="/website/img/logo/cloudaware.png"></a>
         </div>
@@ -113,8 +113,8 @@
                 <span class="bottom"></span>
             </div>
         </div>
-        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
-            <div class="text-lg lg:flex-grow">
+        <div class="hidden w-full grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+            <div class="text-lg lg:grow">
             </div>
             <div class="text-lg">
                 
@@ -151,8 +151,11 @@
             </div>
         </div>
     </nav>
-</header><div class="scroll-top rounded-full">
-      <span class="icon-keyboard_arrow_up text-2xl"></span>
+</header>
+<div class="scroll-top rounded-full flex items-center justify-center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-up" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708z"/>
+      </svg>
     </div>
 <div class="mx-auto my-10 max-w-6xl">
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
@@ -161,21 +164,45 @@
     
     
     <a href="https://trideeindhoven.github.io/website/blog/sip_early_media/">
-      <div><div
-  class="sans w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 duration-500 transform hover:-translate-y-1 hover:shadow-md">
+      <div><div class="w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 duration-500 hover:-translate-y-1 hover:shadow-md">
   
   <img id="thumb" alt="The detective, the professor and early media RTP" class="aspect-video object-cover w-auto lg:h-44"
     src="/website/img/blog/da_vinci_final_supper.jpg" />
   
   <div
-    class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 relative pl-4 p-6 justify-between leading-normal max-w-full w-full">
-    <div class="text-gray-900 font-bold text-xl mb-2">The detective, the professor and early media RTP</div>
+    class="border-r border-b border-l border-neutral-300 lg:border-l-0 lg:border-t relative pl-4 p-6 justify-between leading-normal max-w-full w-full">
+    <div class="text-gray-900 font-semibold text-xl mb-2">The detective, the professor and early media RTP</div>
     <p class="text-gray-700 text-base pb-5">“You have to dial an access code to pick up your messages.” Sophie Neveu says to professor Langdon. After a confused look he di...</p>
-    <p class="text-sm text-gray-600 items-center">
-      <time>2025/08/30</time>
+    <p class="text-sm text-gray-600 flex flex-row items-center gap-2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+        <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z"/>
+        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0"/>
+      </svg><time>2025/08/30</time>
     </p>
   </div>
-</div></div>
+</div>
+</div>
+    </a>
+    
+    <a href="https://trideeindhoven.github.io/website/blog/police_yealink/">
+      <div><div class="w-full px-2 lg:max-w-full lg:flex mt-3 lg:px-0 duration-500 hover:-translate-y-1 hover:shadow-md">
+  
+  <img id="thumb" alt="Dutch National Police using Yealink" class="aspect-video object-cover w-auto lg:h-44"
+    src="/website/img/blog/Flag_of_the_Dutch_National_Police.png" />
+  
+  <div
+    class="border-r border-b border-l border-neutral-300 lg:border-l-0 lg:border-t relative pl-4 p-6 justify-between leading-normal max-w-full w-full">
+    <div class="text-gray-900 font-semibold text-xl mb-2">Dutch National Police using Yealink</div>
+    <p class="text-gray-700 text-base pb-5">The Marconi man onboard the unsinkable ship Titanic looks up when the paper ribbon chatters to life. It is another iceberg ...</p>
+    <p class="text-sm text-gray-600 flex flex-row items-center gap-2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+        <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z"/>
+        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0"/>
+      </svg><time>2026/02/16</time>
+    </p>
+  </div>
+</div>
+</div>
     </a>
     
   </div>
@@ -214,7 +241,7 @@
     
     
     <li><a href="/website/blog/page/3/"
-        class="shadow-md mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-blue-600 border-blue-600 text-white hover:border-blue-700 dark:border-gray-600">3</a></li>
+        class="shadow-md mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-blue-600 text-white hover:border-blue-700 dark:border-gray-600">3</a></li>
     
     
 
@@ -225,33 +252,27 @@
   </ul>
 </nav>
 
+
 </div>
 
   </main><footer class="bg-tlgray-100">
   
-  <script src='/website/js/clipboard.min.js'></script>
-  <script src='/website/js/highlight.min.js'></script>
-  <script src='/website/js/highlightjs-line-numbers.min.js'></script>
-  <script src='/website/js/sweetalert2.min.js'></script>
   <script>
-    hljs.initHighlightingOnLoad();
-    hljs.initLineNumbersOnLoad();
-    new ClipboardJS('.url');
-
     function OnClickURL() {
-      Swal.fire({
-        icon: 'success',
-        title: 'Copied!',
-        text: 'Copied the URL and title.'
-      })
+      const url = document.getElementById("url").dataset.clipboardText;
+      navigator.clipboard.writeText(url).then(function() {
+        alert('Copied the URL and title.');
+      }).catch(function(error) {
+        console.error('Copy failed', error);
+      });
     }
   </script>
   
   <script>
     function toggleNav() {
-      var hamburger = document.getElementById("hamburgerbtn");
-      var overlay = document.getElementById("overlay");
-      var body = document.body;
+      const hamburger = document.getElementById("hamburgerbtn");
+      const overlay = document.getElementById("overlay");
+      const body = document.body;
 
       hamburger.addEventListener("click", function () {
         overlay.classList.toggle("open");
@@ -272,8 +293,8 @@
     <div class="items-center text-xl text-grey-900 mr-6">
       CloudAware Technical Consultancy
     </div>
-    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
-      <div class="text-lg lg:flex-grow">
+    <div class="w-full block grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+      <div class="text-lg lg:grow">
       </div>
       <div class="flex flex-row items-center text-lg">
         
@@ -304,10 +325,11 @@
       </div>
     </div>
   </div>
-  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
-    &copy; CloudAware Technical Consultancy 2025 All Rights Reserved.
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-base">
+    &copy; CloudAware Technical Consultancy 2026 All Rights Reserved.
   </div>
 </footer>
+
 </body>
 
 </html>

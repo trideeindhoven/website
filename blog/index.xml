@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on CloudAware Technical Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
-    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://trideeindhoven.github.io/website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dutch National Police using Yealink</title>
+      <link>https://trideeindhoven.github.io/website/blog/police_yealink/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://trideeindhoven.github.io/website/blog/police_yealink/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The Marconi man onboard the unsinkable ship Titanic looks up when the paper ribbon chatters to life. It is another iceberg report with coordinates right on the ship’s intended line. He pencils the position on a chart blotter, tears the strip, and quickly heads to the bridge.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;When he delivers the message on the bridge, the captain gives the report a glance and nods. &amp;ldquo;Noted&amp;rdquo; comes the answer. &amp;ldquo;Maintain speed. Maintain course.&amp;rdquo; Aware of the risk that just has been taken the operator returns to the Marconi room.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The sea is glassy-black and deceptively empty when the sound of the bell in the crow&amp;rsquo;s nest sounds. The captain orders a sharp turn of the vast vessel, but his eyes betray that he already knows. His gaze lock onto the visible part of the iceberg, knowing the invisible part will be the most dangerous. Impact is imminent now and all potential mitigation is too late now.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The detective, the professor and early media RTP</title>
       <link>https://trideeindhoven.github.io/website/blog/sip_early_media/</link>
