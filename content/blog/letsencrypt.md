@@ -81,4 +81,4 @@ door het statische E5 certificaat. De Apache server heeft in de documentatie sta
 {{< quote cloudemail >}}Alternatively the SSLCertificateChainFile can be the same as SSLCertificateFile when the CA certificates are directly appended to the server certificate for convinience.{{< /quote >}}
 
 Door nu ook deze eenvoudige aanpassing te maken is de SSLCertificateChainFile ook dynamisch geworden en gaat dit in de toekomst automatisch goed bij het vervangen van het intermediate certificate.
-remove
+
