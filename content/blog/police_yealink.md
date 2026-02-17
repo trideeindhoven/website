@@ -41,7 +41,7 @@ BIO2 (the updated baseline now used as “verplichtende zelfregulering” pendin
 
 In 2025 another source contacts me. The source tells me that an interrogation was performed where the report was typed on a computer that was directly connected to a Yealink phone. Even if VLAN tagging is used this is a complete failure of network segmentation. Something i was told the IT department of the Police was correctly implementing. This seems like an enormous risk to accept given the fact that previous research my Stefan Gloor has shown that random, unsigned software could be installed on these phones.  
 
-{{< img alt="Network daisy chain on Yealink phones" src="img/blog/i1675119860907-image.png" >}}  
+{{< img alt="Network daisy chain on Yealink phones" src="img/blog/1675119860907-image.png" >}}  
 
 And early this year i received another report of Yealink devices being used. In this case the Yealink devices were also being used in sensitive areas. PCs had been daisy chained to the phone so that all sensitive data was directly travelling through these devices.  
 
