@@ -52,4 +52,4 @@ We really need to do better. Multiple security researchers have now shown severe
 *The captains eyes are locked onto the white object nearing the bow of the ship. His hands clench the steering wheel in a last effort to find comfort. His mind wanders off to the message of the Marconi man. If only… he could have… he should have…*  
 
 {{< quote cloudemail >}}<2026-02-16>The Dutch Police have been asked to comment on questions regarding this article. Although the questions should have been rather straight forward, so far no response from the Dutch Police has been received. If that happens, this postscript will be updated.{{< /quote >}}  
-remove
+
