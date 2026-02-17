@@ -77,6 +77,9 @@
     <loc>https://trideeindhoven.github.io/website/tags/secrets/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://trideeindhoven.github.io/website/tags/security/</loc>
+    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://trideeindhoven.github.io/website/blog/yealink_why2025/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -281,10 +284,10 @@
     <loc>https://trideeindhoven.github.io/website/tags/encryptie/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/tags/encryption/</loc>
+    <loc>https://trideeindhoven.github.io/website/en/yealink/encryption/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/en/yealink/encryption/</loc>
+    <loc>https://trideeindhoven.github.io/website/tags/encryption/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/en/</loc>
@@ -305,10 +308,10 @@
     <loc>https://trideeindhoven.github.io/website/yealink/inleiding/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/tags/introduction/</loc>
+    <loc>https://trideeindhoven.github.io/website/en/yealink/introduction/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trideeindhoven.github.io/website/en/yealink/introduction/</loc>
+    <loc>https://trideeindhoven.github.io/website/tags/introduction/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/tags/videoboodschap/</loc>
@@ -342,7 +345,5 @@
     <loc>https://trideeindhoven.github.io/website/contact/</loc>
   </url><url>
     <loc>https://trideeindhoven.github.io/website/netneutrality/</loc>
-  </url><url>
-    <loc>https://trideeindhoven.github.io/website/tags/security/</loc>
   </url>
 </urlset>
