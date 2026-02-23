@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>security.txt Generator + PGP Signing</title>
+  <script src="openpgp.min.js"></script>
+  <script src="security.txt.js"></script>
+  <style>
+    body { font-family: Arial; padding: 2em; background: #f4f4f4; max-width: 800px; margin: auto; }
+    label { font-weight: bold; margin-top: 1em; display: block; }
+    input, select, textarea, button { width: 100%; margin-top: 0.3em; padding: 0.5em; box-sizing: border-box; }
+    textarea { height: 200px; font-family: monospace; }
+    .row { display: flex; gap: 1em; }
+    .row > div { flex: 1; }
+    .buttons { display: flex; gap: 1em; margin-top: 0.5em; }
+
+    .password-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
+    .password-wrapper input {
+      width: 100%;
+      padding-right: 2.5em;
+      padding-left: 0.5em;
+      height: 2.5em;
+      font-size: 1em;
+      box-sizing: border-box;
+    }
+
+    .toggle-visibility {
+      position: absolute;
+      right: 0.5em;
+      cursor: pointer;
+      user-select: none;
+      font-size: 1.2em;
+      color: #444;
+    }
+
+    #toast {
+      visibility: hidden;
+      min-width: 200px;
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      border-radius: 8px;
+      padding: 0.75em 1em;
+      position: fixed;
+      z-index: 9999;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 0.9em;
+      opacity: 0;
+      transition: opacity 0.3s ease, visibility 0.3s;
+    }
+
+    #toast.show {
+      visibility: visible;
+      opacity: 1;
+    }
+
+  .required-label {
+    color: red;
+    font-size: 0.8em;
+    margin-left: 0.5em;
+    font-weight: normal;
+  }
+
+  .error-message {
+    color: red;
+    font-size: 0.85em;
+    margin-top: 0.2em;
+    display: none;
+  }
+  input.invalid {
+    border-color: red;
+  }
+
+  .canonical-row {
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+    margin-bottom: 0.5em;
+  }
+
+  .canonical-row input {
+    flex: 1;
+    padding: 0.5em;
+    font-size: 1em;
+    box-sizing: border-box;
+  }
+
+  .canonical-row button {
+    flex: 0 0 auto;
+    background: none;
+    border: none;
+    color: #c00;
+    font-size: 1.2em;
+    cursor: pointer;
+    padding: 0.3em;
+  }
+
+  .btn-remove-canonical {
+    width: auto; /* natural width */
+    flex: 0 0 auto;
+    padding: 0.3em 0.6em;
+    font-size: 1.2em;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: #c00;
+    line-height: 1;
+  }
+
+  #canonicalContainer {
+    width: 100%;
+  }
+  .help-icon {
+    display: inline-block;
+    background-color: #007BFF;
+    color: white;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 1.2em;
+    height: 1.2em;
+    line-height: 1.2em;
+    text-align: center;
+    font-size: 0.85em;
+    cursor: pointer;
+    margin-left: 0.4em;
+  }
+
+  #splashModal {
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.75);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+    z-index: 10000;
+    text-align: center;
+    padding: 2em;
+    cursor: pointer;
+  }
+
+  #splashModal a {
+    color: #93c5fd;
+    text-decoration: underline;
+  }
+
+  #splashModal a:hover {
+    color: #bfdbfe;
+  }
+  .splash-logo-wrapper {
+    display: inline-block;
+    background-color: #555; /* Slightly lighter than modal background */
+    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  #splashModal .splash-logo {
+    max-width: 400px;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  </style>
+
+</head>
+<body>
+<div id="splashModal">
+  <div class="splash-logo-wrapper">
+    <img alt="CloudAware Logo" class="splash-logo" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB3aWR0aD0iMTE1bW0iCiAgIGhlaWdodD0iNDVtbSIKICAgdmlld0JveD0iMCAwIDExNC45OTk5OSA0NSIKICAgdmVyc2lvbj0iMS4xIgogICBpZD0ic3ZnNSIKICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcwogICAgIGlkPSJkZWZzMiIgLz48ZwogICAgIGlkPSJsYXllcjYiCiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTMuNzA0MTY4NywtMy45OTI4NzAzKSI+PHRleHQKICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgICBzdHlsZT0iZm9udC1zaXplOjE1Ljg3NXB4O2ZvbnQtZmFtaWx5OidOb3RvIFNlcmlmIEdyYW50aGEnOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J05vdG8gU2VyaWYgR3JhbnRoYSc7ZGlzcGxheTppbmxpbmU7ZmlsbDojNzE5N2I0O2ZpbGwtb3BhY2l0eToxO3N0cm9rZS13aWR0aDoxLjUiCiAgICAgICB4PSIyMC45MDYxMyIKICAgICAgIHk9IjI0LjA0ODM5NyIKICAgICAgIGlkPSJ0ZXh0NDI5OSI+PHRzcGFuCiAgICAgICAgIGlkPSJ0c3BhbjQyOTciCiAgICAgICAgIHN0eWxlPSJmaWxsOiM3MTk3YjQ7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlLXdpZHRoOjEuNSIKICAgICAgICAgeD0iMjAuOTA2MTMiCiAgICAgICAgIHk9IjI0LjA0ODM5NyI+Q2xvdWRBd2FyZTwvdHNwYW4+PC90ZXh0PjwvZz48ZwogICAgIGlkPSJsYXllcjEiCiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTUxLjIzODUyLC0xMzkuMTYzNjYpIgogICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZSI+PHRleHQKICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgICBzdHlsZT0iZm9udC1zaXplOjExLjI4ODlweDtmb250LWZhbWlseTonTm90byBTZXJpZiBHcmFudGhhJzstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOidOb3RvIFNlcmlmIEdyYW50aGEnO2ZpbGw6IzcxOTdiNDtmaWxsLW9wYWNpdHk6MTtzdHJva2Utd2lkdGg6MS41IgogICAgICAgeD0iNjYuNzU0MTgxIgogICAgICAgeT0iMTgxLjE5NjIzIgogICAgICAgaWQ9InRleHQ3OTAiPjx0c3BhbgogICAgICAgICBpZD0idHNwYW43ODgiCiAgICAgICAgIHN0eWxlPSJmb250LXNpemU6MTEuMjg4OXB4O2ZpbGw6IzcxOTdiNDtmaWxsLW9wYWNpdHk6MTtzdHJva2Utd2lkdGg6MS41IgogICAgICAgICB4PSI2Ni43NTQxODEiCiAgICAgICAgIHk9IjE4MS4xOTYyMyI+Q3liZXIgU2VjdXJpdHk8L3RzcGFuPjwvdGV4dD48ZwogICAgICAgaWQ9Imc3NTE0IgogICAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMC41ODI5MjM2OSwwLDAsMC41MjYzMjQ1Miw0NC45NzY4MTYsMTM5LjkxMTgxKSIKICAgICAgIHN0eWxlPSJmaWxsOiNmODRlNDU7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6MC4yNTMyNjkiPjxwYXRoCiAgICAgICAgIGQ9Im0gMzQsMjMgaCAtMiB2IC00IGMgMCwtMy45IC0zLjEsLTcgLTcsLTcgLTMuOSwwIC03LDMuMSAtNyw3IHYgNCBoIC0yIHYgLTQgYyAwLC01IDQsLTkgOSwtOSA1LDAgOSw0IDksOSB6IgogICAgICAgICBpZD0icGF0aDc0OTYiCiAgICAgICAgIHN0eWxlPSJmaWxsOiNmODRlNDU7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6MC4yNTMyNjkiIC8+PHBhdGgKICAgICAgICAgZD0iTSAzMyw0MCBIIDE3IGMgLTEuNywwIC0zLC0xLjMgLTMsLTMgViAyNSBjIDAsLTEuNyAxLjMsLTMgMywtMyBoIDE2IGMgMS43LDAgMywxLjMgMywzIHYgMTIgYyAwLDEuNyAtMS4zLDMgLTMsMyB6IE0gMTcsMjQgYyAtMC42LDAgLTEsMC40IC0xLDEgdiAxMiBjIDAsMC42IDAuNCwxIDEsMSBoIDE2IGMgMC42LDAgMSwtMC40IDEsLTEgViAyNSBjIDAsLTAuNiAtMC40LC0xIC0xLC0xIHoiCiAgICAgICAgIGlkPSJwYXRoNzQ5OCIKICAgICAgICAgc3R5bGU9ImZpbGw6I2Y4NGU0NTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eTowLjI1MzI2OSIgLz48Y2lyY2xlCiAgICAgICAgIGN4PSIyNSIKICAgICAgICAgY3k9IjI4IgogICAgICAgICByPSIyIgogICAgICAgICBpZD0iY2lyY2xlNzUwMCIKICAgICAgICAgc3R5bGU9ImZpbGw6I2Y4NGU0NTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eTowLjI1MzI2OSIgLz48cGF0aAogICAgICAgICBkPSJtIDI1LjUsMjggaCAtMSBsIC0xLDYgaCAzIHoiCiAgICAgICAgIGlkPSJwYXRoNzUwMiIKICAgICAgICAgc3R5bGU9ImZpbGw6I2Y4NGU0NTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eTowLjI1MzI2OSIgLz48L2c+PC9nPjxnCiAgICAgaWQ9ImczNDA0IgogICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZSIKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMy43MDQxNjg3LC0zLjk5Mjg3MDMpIj48cGF0aAogICAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lO2ZpbGw6bm9uZTtzdHJva2U6IzcxOTdiNDtzdHJva2Utd2lkdGg6MC42Mzk7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBkPSJtIDY4LjEzODkzOCwxMC40MzU5NzggLTAuMDA4LC01LjUwNDMxMDQgNDguMzQxOTUyLDAuMDA2IDAuMDEyNCwyNi4wMjQ0OTA0IC00OC4zNDQ4OTIsLTAuMDA3IC0wLjAwOCwtMy4xODc2IgogICAgICAgaWQ9InBhdGgxMDc4IiAvPjwvZz48L3N2Zz4K" />
+  </div>
+  <p>security.txt generator</p>
+  <p>For sourcecode see <a href="https://github.com/gitaware/securitytxtgenerator">github</a></p>
+  <p><span id="version">{VERSION}</span> (c)2025 <a href="https://cloudaware.eu">CloudAware.eu</a></p>
+</div>
+
+<h2>security.txt Generator + PGP Signing</h2>
+
+<form id="secForm">
+  <label>Contact(s)
+  <span
+    class="help-icon"
+    title="Help"
+    data-help-title="Contact Field Help"
+    data-help-content="
+      &lt;p&gt;You must specify at least one way to contact your security team.&lt;/p&gt;
+      &lt;p&gt;If providing an email address, it must start with &lt;code&gt;mailto:&lt;/code&gt; (e.g. &lt;code&gt;mailto:security@example.com&lt;/code&gt;).&lt;/p&gt;
+      &lt;p&gt;For phone numbers, use the format &lt;code&gt;tel:&lt;/code&gt; (e.g. &lt;code&gt;tel:+123456789&lt;/code&gt;).&lt;/p&gt;
+      &lt;p&gt;You may list multiple Contact fields if needed.&lt;/p&gt;
+    "
+  >?</span>
+  <span class="required-label">at least one</span></label>
+  <div id="contactContainer"></div>
+  <button type="button" id="addContactField">➕ Add Contact</button>
+  <div id="contactError" class="error-message">At least one contact is required.</div>
+
+
+  <label for="expires">
+    Expires
+    <span 
+      class="help-icon"
+      title="Help"
+      data-help-title="Expires Field Help"
+      data-help-content="
+        &lt;p&gt;The &lt;code&gt;Expires&lt;/code&gt; field specifies when this &lt;code&gt;security.txt&lt;/code&gt; file should be considered no longer valid.&lt;/p&gt;
+        &lt;p&gt;It must be a valid date and &lt;strong&gt;must not be more than one year&lt;/strong&gt; in the future.&lt;/p&gt;
+        &lt;p&gt;Ensure you update your file before it expires to maintain trust.&lt;/p&gt;
+      "
+    >?</span><span class="required-label">required</span>
+  </label>
+  <input type="datetime-local" required id="expires" />
+  <div id="expiresError" class="error-message">Expires date is required.</div>
+  <div class="buttons">
+    <button type="button" id="setFutureDate_1">+1 Year</button>
+  </div>
+
+  <label>Preferred-Languages</label>
+  <select id="languages" multiple>
+    <option value="en">en</option>
+    <option value="nl">nl</option>
+    <option value="fr">fr</option>
+    <option value="de">de</option>
+    <option value="pt">pt</option>
+  </select>
+
+  <label>
+    Canonical 
+    <span 
+      class="help-icon" 
+      title="Help"
+      data-help-title="Canonical Field Help"
+      data-help-content="
+        &lt;p&gt;The &lt;code&gt;Canonical&lt;/code&gt; directive specifies the official location of your &lt;code&gt;security.txt&lt;/code&gt; file.&lt;/p&gt;
+        &lt;p&gt;It should be a full URL (starting with &lt;code&gt;https://&lt;/code&gt;) and must end with &lt;code&gt;/.well-known/security.txt&lt;/code&gt;.&lt;/p&gt;
+        &lt;p&gt;This is useful when you want to serve a central security.txt file across multiple domains or subdomains.&lt;/p&gt;
+      ">?</span>
+    <small style="color: red;">(recommended, must end in <code>security.txt</code>)</small>
+  </label>
+
+  <div id="canonicalContainer"></div>
+  <button type="button" id="addCanonicalField">➕ Add Canonical</button>
+
+  <label for="encryption">Encryption
+    <span 
+      class="help-icon" 
+      title="Help"
+      data-help-title="Encryption Field Help"
+      data-help-content="
+        A link to an encryption key (such as a PGP public key) that security researchers can use to securely report vulnerabilities. Remember to include &quot;https://&quot;.
+      ">?</span>
+    <small style="color: red;">(optional)</small>
+  </label>
+  <input type="url" id="encryption" name="encryption" placeholder="https://example.com/pgp-key.asc" />
+
+  <label for="policy">Policy
+      <span 
+      class="help-icon" 
+      title="Help"
+      data-help-title="Policy Field Help"
+      data-help-content="
+        A link to a policy detailing what security researchers should do when searching for or reporting security issues. Remember to include &quot;https://&quot;.
+      ">?</span>
+    <small style="color: red;">(optional)</label>
+  <input type="url" id="policy" name="policy" placeholder="https://example.com/policy" />
+
+  <button type="button" id="generateSecurityTxt">📝 Generate security.txt</button>
+  <label>security.txt Output</label>
+  <textarea id="securityOutput"></textarea>
+
+  <label>PGP Options</label>
+  <div class="row">
+    <button type="button" id="generatePGPKey">🔐 Generate New 4096-bit Key</button>
+    <input type="file" accept=".asc" id="keyFile" />
+  </div>
+
+  <label>PGP Private Key (ASCII)</label>
+  <textarea id="privateKey" placeholder="-----BEGIN PGP PRIVATE KEY-----"></textarea>
+
+  <label>Passphrase (do not loose!)</label>
+  <div class="password-wrapper">
+    <input type="password" id="passphrase" />
+    <span class="toggle-visibility" id="togglePassphrase" title="Show/Hide">
+      👁️
+    </span>
+  </div>
+  <button type="button" id="copyPassphrase">📋 Copy Passphrase to Clipboard</button>
+  <!--<button type="button" onclick="generatePassphrase()">🔑 Generate Passphrase</button> //-->
+
+  <button type="button" id="signSecurityTxt">✍️ Sign with PGP</button>
+
+  <label>PGP-Signed security.txt</label>
+  <textarea id="signedOutput" readonly></textarea>
+  <button type="button" id="downloadSignedFile">📄 Download Signed File</button>
+  <button type="button" id="downloadPrivateKey">💾 Download Key Files</button>
+</form>
+
+
+<div id="toast">Passphrase copied to clipboard!</div>
+<footer id="appFooter" style="text-align: center; margin-top: 3em; font-size: 0.9em; color: #666;"></footer>
+<div id="helpModal" style="
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  z-index: 10001;
+  text-align: left;
+  font-size: 1em;
+  padding: 2em;
+  overflow-y: auto;
+  box-sizing: border-box;
+">
+  <div id="helpModalContent" style="
+    background: #222;
+    padding: 1.5em;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 5% auto;
+    color: #fff;
+  ">
+    <h3 id="helpModalTitle"></h3>
+    <div id="helpModalBody"></div>
+  </div>
+</div>
+</body>
+</html>
+
